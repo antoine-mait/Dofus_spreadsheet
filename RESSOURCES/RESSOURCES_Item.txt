@@ -1,0 +1,2819 @@
+NAME : Emballage surprise
+ID : 12914
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154015.png
+DESCRIPTION : Cet emballage permet de créer un joli cadeau que vous pourrez ensuite offrir à quelqu'un de méritant.
+
+NAME : Emballage de Nowel Écarlate
+ID : 12898
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154000.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Blé
+ID : 289
+TYPE : Céréale
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/34009.png
+DESCRIPTION : Le Blé est depuis la nuit des temps un ingrédient indispensable dans l'alimentation des habitants d'Amakna et des Tofus.
+
+NAME : Bois de Frêne
+ID : 303
+TYPE : Bois
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/38017.png
+DESCRIPTION : Le Bois de Frêne n'est pas un bois de qualité, mais il est abondant et pousse relativement vite. Attention tout de même à ne pas le stocker près d'une forte source de chaleur, il est inflammable.
+
+NAME : Eau Potable
+ID : 311
+TYPE : Liquide
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15026.png
+DESCRIPTION : L'eau est utile pour de nombreuses choses, et plus elle est trouble, plus elle donnera de goût à la bière (méfiez-vous tout de même, l'eau bue explose).
+
+NAME : Levure de Boulanger
+ID : 286
+TYPE : Poudre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48137.png
+DESCRIPTION : C'est un ingrédient indispensable pour la fermentation du pain.
+
+NAME : Huile de Sésame
+ID : 399
+TYPE : Huile
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/60071.png
+DESCRIPTION : Cette huile extraite des grains de sésame se distingue par son goût riche et délicat de noisettes grillées. Dommage que son odeur se rapproche plus de celle du Bouftou grillé que de la feuille de menthe sauvage.
+
+NAME : Ficelle en Lin
+ID : 420
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15118.png
+DESCRIPTION : La ficelle de lin est très solide, elle permet de faire de jolies coutures bien solides ou alors de ligoter ses amis pour leur montrer qui est réellement le chef de la guilde.
+
+NAME : Ortie
+ID : 421
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/36642.png
+DESCRIPTION : À chacun de ses anniversaires, il est de coutume de pousser mémé dans un champ de cette plante.
+
+NAME : Graine de Lin
+ID : 422
+TYPE : Graine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/58119.png
+DESCRIPTION : Cette toute petite graine contient énormément de bonnes choses. Les chasseurs de Kwaks savent que ces derniers en sont friands et n'hésitent pas à les attirer dans leurs pièges avec ces graines luisantes.
+
+NAME : Poudre de Perlinpainpain
+ID : 519
+TYPE : Poudre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48002.png
+DESCRIPTION : Quelques boulangers ont tenté de fabriquer cette poudre en mélangeant des graines de lin et du pain, mais le résultat obtenu était loin d'être satisfaisant. La véritable poudre de perlinpainpain est produite par les fleurs sauvages, et sa nature magique reste un mystère.
+
+NAME : Pomme de Terre
+ID : 537
+TYPE : Légume
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/68135.png
+DESCRIPTION : De manière générale, lorsque vous tombez sur cet objet, c'est que vous êtes soit au milieu d'un champ, soit au fond d'un cachot.
+
+NAME : Pommes de Terre épluchées
+ID : 538
+TYPE : Légume
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/68136.png
+DESCRIPTION : Ces Pommes de terre sont dépourvues de leurs pelures, ce qui les rend encore plus savoureuses.
+
+NAME : Purée pique-fêle
+ID : 666
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15116.png
+DESCRIPTION : À l'origine synonyme de l'échec culinaire, ce plat est donné dès qu'une erreur se fait sentir, quelle que soit son origine.
+
+NAME : Poils de souris
+ID : 761
+TYPE : Poil
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/54549.png
+DESCRIPTION : Ces poils de souris sont très fins et doux, et sont de ce fait très recherchés pour la confection de manteaux. Le manteau en peau et poils de souris fait fureur dans la haute société d'Amakna, il paraît que ça fait classe d'en porter.
+
+NAME : Casque cassé
+ID : 1020
+TYPE : Vêtement
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15173.png
+DESCRIPTION : Ce casque vous a sauvé la vie, mais n'a pas réussi à sauver la sienne.
+
+NAME : Ailes cassées
+ID : 1022
+TYPE : Aile
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/104174.png
+DESCRIPTION : Ces ailes cassées vous rappellent sans cesse que vous auriez vraiment dû vous recoucher.
+
+NAME : Bouteille de rhum
+ID : 1023
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15177.png
+DESCRIPTION : L'étiquette annonce un "rhum 10 ans d'age", mais impossible à vérifier. Une annotation précise aussi de ne pas en abuser sur les routes sous peine de mal de mer.
+
+NAME : Peinture noire
+ID : 1086
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15175.png
+DESCRIPTION : Ce pot de peinture vous sera utile pour repeindre n'importe quoi. Votre maison, votre tofu domestique, vos amis, même vous si vous le voulez.
+
+NAME : Ticket pour l'île de Moon
+ID : 1089
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15172.png
+DESCRIPTION : Destination : Île paradisiaque
+Prix : 1 000 Kamas
+Validité : 1 aller sans retour
+
+NAME : Herbe à chacha
+ID : 1324
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/36046.png
+DESCRIPTION : Cette plante fait saliver n'importe quel Ecaflip.
+
+NAME : Silex Sanglant
+ID : 1326
+TYPE : Pierre brute
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/51047.png
+DESCRIPTION : Cette pierre aussi résistante que coupante semble avoir été utilisée contre quelque chose ou quelqu'un. Cet aspect brut et dangereux semble illustrer parfaitement la définition d'un Iop.
+
+NAME : Os taillé
+ID : 1327
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47048.png
+DESCRIPTION : Cet objet de mort devient redoutable une fois travaillé, exactement comme un Sram.
+
+NAME : Kama énigmatique
+ID : 1328
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15182.png
+DESCRIPTION : Ce Kama est orné d'une tête de tofu coiffé d'un chapeau étrange.
+
+NAME : Bois élastique
+ID : 1329
+TYPE : Bois
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/38049.png
+DESCRIPTION : Cette grande branche de bois, par son retour élastique et sa forme curviligne, fait immédiatement penser aux Crâ.
+
+NAME : Vieux Trèfle à 4 feuilles
+ID : 1332
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/36050.png
+DESCRIPTION : Les trèfles à quatre feuilles sont bien plus rares que ceux à cinq feuilles. Lorsque vous en trouvez un, il est conseillé de le faire sécher entre deux parchemins de sort.
+
+NAME : Blague de Soufre
+ID : 1334
+TYPE : Poudre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48051.png
+DESCRIPTION : Cette petite poche pleine de soufre dégage une odeur insupportable... La même que celle des Osamodas.
+
+NAME : Urtica
+ID : 1336
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/36053.png
+DESCRIPTION : En frottant vivement cette plante contre votre peau, vous souffrirez le martyr. Pourtant, la stimulation provoquée est bénéfique, exactement la philosophie des Sacrieurs
+
+NAME : Clochettes
+ID : 1339
+TYPE : Fleur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/35046.png
+DESCRIPTION : Ces fleurs de muguet sont vraiment toutes petites, fragiles et mignonnes. On dit de plus qu'elles ont le pouvoir de calmer l'esprit et de guérir certains maux. Elles ont sûrement été conçues par une divinité qui souhaitait voir une plante à l'image des Eniripsas.
+
+NAME : Verveine
+ID : 1344
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/36654.png
+DESCRIPTION : Cette plante spéciale permet de faire dormir n'importe qui bien plus facilement. Cela doit probablement être l'emblême des Sadida.
+
+NAME : Immortelle
+ID : 1428
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/36054.png
+DESCRIPTION : Cette étrange petite plante pousse dans les milieux arides, et répand une odeur de curry aux alentours. Coriace, elle ne semble pas subir les assauts du temps... Si seulement l'on pouvait en dire autant de toutes les femmes...
+
+NAME : Tube longiforme
+ID : 1459
+TYPE : Matériel d'alchimie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/71055.png
+DESCRIPTION : Ce tube est spécialement étudié pour pouvoir être débouché d'une seule main.
+
+NAME : Grande fiole
+ID : 1460
+TYPE : Matériel d'alchimie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/71056.png
+DESCRIPTION : Cette fiole est spécialement étudiée pour pouvoir être débouchée simplement même sans les mains.
+
+NAME : Bocal
+ID : 1468
+TYPE : Matériel d'alchimie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/71058.png
+DESCRIPTION : Ce bocal peut servir à tout, de la fabrication de potion, à la noyade de poisson.
+
+NAME : Symbole de l'étrange
+ID : 1506
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15224.png
+DESCRIPTION : Cette carte à jouer représente...quelque chose. En fait, on ne sait pas trop quoi, mais on est persuadé que c'est important.
+
+NAME : Bon 1000 Kek
+ID : 1507
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15225.png
+DESCRIPTION : Un petit slogan est écrit sur ce morceau de papier :
+"Bravo, tu as en ta possession un coupon KeK, preuve que tu es un être admirable, viens chez nous pour l'utiliser, nous t'attendons !"
+Suivis des coordonnées cartographiques -1,-2
+
+NAME : Bon 2000 Kek
+ID : 1508
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15225.png
+DESCRIPTION : Un petit slogan est écrit sur ce morceau de papier :
+"Bravo, tu as en ta possession un coupon KeK, preuve que tu es un être admirable, viens chez nous pour l'utiliser, nous t'attendons !"
+Suivis des coordonnées cartographiques -1,-2
+
+NAME : Bon 5000 Kek
+ID : 1509
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15225.png
+DESCRIPTION : Un petit slogan est écrit sur ce morceau de papier :
+"Bravo, tu as en ta possession un coupon KeK, preuve que tu es un être admirable, viens chez nous pour l'utiliser, nous t'attendons !"
+Suivis des coordonnées cartographiques -1,-2
+
+NAME : Bon 10000 Kek
+ID : 1510
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15225.png
+DESCRIPTION : Un petit slogan est écrit sur ce morceau de papier :
+"Bravo, tu as en ta possession un coupon KeK, preuve que tu es un être admirable, viens chez nous pour l'utiliser, nous t'attendons !"
+Suivis des coordonnées cartographiques -1,-2
+
+NAME : Rune Fo
+ID : 1519
+TYPE : Rune de forgemagie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78043.png
+DESCRIPTION : Cette petite rune possède le pouvoir de rendre plus tranchante la plus tranchante des lames.
+
+NAME : Rune Ine
+ID : 1522
+TYPE : Rune de forgemagie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78037.png
+DESCRIPTION : Cette petite rune possède le pouvoir de rendre plus brillante la plus brillante des armes.
+
+NAME : Rune Vi
+ID : 1523
+TYPE : Rune de forgemagie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78052.png
+DESCRIPTION : Cette petite rune a le pouvoir de rendre plus résistante la plus résistante des armes.
+
+NAME : Rune Age
+ID : 1524
+TYPE : Rune de forgemagie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78046.png
+DESCRIPTION : Cette petite rune possède le pouvoir de rendre plus légère la plus légère des armes.
+
+NAME : Rune Cha
+ID : 1525
+TYPE : Rune de forgemagie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78040.png
+DESCRIPTION : Cette petite rune possède la propriété de rendre plus attirante la plus attirante des armes.
+
+NAME : Métaria rouge
+ID : 1526
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66241.png
+DESCRIPTION : Cette étrange sphère semble contenir une flamme miniature en son cœur.
+
+NAME : Métaria bleue
+ID : 1527
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66244.png
+DESCRIPTION : Cette étrange sphère semble contenir une flaque miniature en son cœur.
+
+NAME : Métaria jaune
+ID : 1528
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66247.png
+DESCRIPTION : Cette étrange sphère semble contenir des petits tas de terre miniatures en son cœur.
+
+NAME : Métaria verte
+ID : 1529
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66250.png
+DESCRIPTION : Cette étrange sphère semble contenir une brise miniature en son cœur.
+
+NAME : Métaria Triame bleue
+ID : 1531
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66245.png
+DESCRIPTION : Cette étrange sphère semble contenir un lac miniature en son cœur.
+
+NAME : Métaria Triame verte
+ID : 1532
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66248.png
+DESCRIPTION : Cette étrange sphère semble contenir une bourrasque miniature en son cœur.
+
+NAME : Métaria Triame rouge
+ID : 1533
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66242.png
+DESCRIPTION : Cette étrange sphère semble contenir un brasier miniature en son cœur.
+
+NAME : Métaria Triame jaune
+ID : 1534
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66251.png
+DESCRIPTION : Cette étrange sphère semble contenir une petite colline de terre en son cœur.
+
+NAME : Métaria Mage rouge
+ID : 1535
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66243.png
+DESCRIPTION : Cette étrange sphère semble contenir une explosion miniature en son cœur.
+
+NAME : Métaria Mage bleue
+ID : 1536
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66246.png
+DESCRIPTION : Cette étrange sphère semble contenir un océan miniature en son cœur.
+
+NAME : Métaria Mage verte
+ID : 1537
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66252.png
+DESCRIPTION : Cette étrange sphère semble contenir un cyclone miniature en son cœur.
+
+NAME : Métaria Mage jaune
+ID : 1538
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66249.png
+DESCRIPTION : Cette étrange sphère semble contenir une montagne miniature en son cœur.
+
+NAME : Sphère à Métarias
+ID : 1634
+TYPE : Métaria
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/66240.png
+DESCRIPTION : Cette sphère est une imitation parfaite de la membrane isolante d'une Métaria.
+
+NAME : Nonos
+ID : 1709
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47015.png
+DESCRIPTION : « Il est pour qui le nonos à sa mémère ? » Tels furent les derniers mots d'une Enutrof qui confondit le Meulou avec son animal de compagnie.
+
+NAME : Mesure de sel
+ID : 1730
+TYPE : Poudre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48261.png
+DESCRIPTION : Cette mesure de sel est la dose idéale pour assaisonner moult plats savoureux. Elle est indispensable pour un repas réussi.
+
+NAME : Dose de jus goûtu
+ID : 1731
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15262.png
+DESCRIPTION : Ce jus vous apportera les saveurs élémentaires pour avoir un plat parfumé.
+
+NAME : Bol
+ID : 1732
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15263.png
+DESCRIPTION : Rien de plus pratique qu'un bol pour boire plus proprement de la soupe, bien que boire proprement n'altère pas le goût. À moins que vos doigts soient très sales.
+
+NAME : Terrine
+ID : 1733
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15264.png
+DESCRIPTION : « La terrine, c'est de la viandasse, ça fait du bien par où qu'ça passe. Vive la terrine, vive la terrine ! » (Extrait de l'hymne du boucher couplet 4).
+
+NAME : Cerise
+ID : 1734
+TYPE : Fruit
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/46265.png
+DESCRIPTION : Ce fruit ressemble à s'y méprendre à une grosse paire de boules rebondissantes.
+
+NAME : Citron
+ID : 1736
+TYPE : Fruit
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/46266.png
+DESCRIPTION : Le jus de ce fruit est parfait pour cacher les odeurs de chair en putréfaction. Idéal pour servir des restes de poissons avariés et variés à vos invités.
+
+NAME : Jeton de la Foire du Trool
+ID : 1749
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15737.png
+DESCRIPTION : Vous avez acheté ce jeton à Leonzi Trool qui rêve un jour d'ouvrir un lieu d'amusement ouvert à tous.
+
+NAME : Goujon
+ID : 1782
+TYPE : Poisson
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/41294.png
+DESCRIPTION : Petit poisson rapide d'eau douce, le goujon est le plus souvent pêché par les enfants et par les pêcheurs débutants. Mais il ne nourrira pas votre famille.
+
+NAME : Goujon Kiye
+ID : 1790
+TYPE : Poisson
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/41302.png
+DESCRIPTION : Ce goujon rare vient tout droit de l'île de Kiye, située au large de l'île de Moon. Habitué au courant très chaud, il effectue cependant une migration une fois par an.
+
+NAME : Huile à frire
+ID : 1973
+TYPE : Huile
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/60073.png
+DESCRIPTION : Impossible de savoir ce qui compose cette huile. Très bon marché, elle sert uniquement pour la cuisson et la friture des aliments.
+
+NAME : Oignon
+ID : 1975
+TYPE : Légume
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/68377.png
+DESCRIPTION : Indispensable excuse pour pleurer, cette petite chose donne aussi un bon goût au plat.
+
+NAME : Épices
+ID : 1977
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15378.png
+DESCRIPTION : Ces petites herbes séchées permettent de donner un petit goût aux plats.
+
+NAME : Mesure de Poivre
+ID : 1978
+TYPE : Poudre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48734.png
+DESCRIPTION : Cette poussière rajoute le piquant indispensable à certains plats.
+
+NAME : Cendres Éternelles
+ID : 1984
+TYPE : Poudre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48671.png
+DESCRIPTION : Voilà tout ce qui reste d'une âme infortunée qui a croisé votre route. La créature a commis l'erreur de penser qu'en étant dénuée de corps, elle pourrait vous échapper. Tant de naïveté vous fait sourire.
+
+NAME : Poudre Temporelle
+ID : 1986
+TYPE : Poudre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48002.png
+DESCRIPTION : Cette poudre temporelle est en réalité un résidu de farine découvert par d'anciens meuniers Xélors. Elle permet de ralentir un peu la décomposition cellulaire d'un objet ou d'un être vivant. Elle est avant tout utilisée comme agent de conservation alimentaire et comme antirides pour les Enutrofettes.
+
+NAME : Blé d'Or
+ID : 2018
+TYPE : Céréale
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/34474.png
+DESCRIPTION : Ce blé recèle des pouvoirs magiques puissants.
+
+NAME : Pichon Eud'Compet
+ID : 2187
+TYPE : Poisson
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/41405.png
+DESCRIPTION : Ce poisson, pêchable uniquement dans la pichine de Sufokia, est un croisement entre tout plein d'autres poissons.
+
+NAME : Pastèque
+ID : 2324
+TYPE : Fruit
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/46466.png
+DESCRIPTION : ...
+
+NAME : Banane
+ID : 2325
+TYPE : Fruit
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/46467.png
+DESCRIPTION : Le célèbre ménestrel Geror Lendorman composa jadis une ode en l'honneur de ce fruit : "La banane des gens heureux".
+
+NAME : Orange
+ID : 2326
+TYPE : Fruit
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/46468.png
+DESCRIPTION : ...
+
+NAME : Poire
+ID : 2329
+TYPE : Fruit
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/46470.png
+DESCRIPTION : ...
+
+NAME : Aubergine
+ID : 2331
+TYPE : Fruit
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/46472.png
+DESCRIPTION : Pas réellement nutritive, certains accompagnent l'aubergine de toutes sortes de condiments. Ce légume fruit a mauvaise réputation mais il est pourtant bénéfique pour la santé. Sauf pour celle des Bworks mais personne ne sait pourquoi.
+
+NAME : Feuille de ronce d'Hestia
+ID : 2365
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/36415.png
+DESCRIPTION : Cette feuille de ronce, d'apparence anodine, est une plante indispensable pour certaines recettes étranges.
+
+NAME : Carte de Kwelsh
+ID : 2401
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15224.png
+DESCRIPTION : Cette carte est liée au maître Kwelsh. C'est tout ce que vous savez et que vous devez savoir.
+
+NAME : Potion de métal liquide
+ID : 2529
+TYPE : Potion de forgemagie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/26013.png
+DESCRIPTION : Cette potion permet de redonner un peu de réalité à une lame éthérée.
+
+NAME : Potion de métal lourd liquide
+ID : 2538
+TYPE : Potion de forgemagie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/26014.png
+DESCRIPTION : Cette potion permet de redonner de la réalité à une lame éthérée.
+
+NAME : Potion de métal précieux liquide
+ID : 2541
+TYPE : Potion de forgemagie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/26015.png
+DESCRIPTION : Cette potion permet de redonner une grande part de réalité à une lame éthérée.
+
+NAME : Poudre d'Artifice
+ID : 6601
+TYPE : Poudre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48670.png
+DESCRIPTION : Lorsque vos invités commencent à s'ennuyer, la meilleure solution reste l'utilisation de la célèbre Fée d'Artifice, à construire vous-même à partir de cette poudre et de divers ingrédients. Cette Fée saura rendre votre soirée franchement explosive.
+
+NAME : Peluche du Bouftou
+ID : 6603
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61671.png
+DESCRIPTION : Cette peluche est la réplique exacte d'un Bouftou, ses créateurs ont même poussé le vice jusqu'à mettre la propre odeur du Bouftou sur la laine de cette peluche. Ne vous étonnez donc pas, si vous sentez mauvais en vous réveillant le matin.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Bouftou Royal
+ID : 6605
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61672.png
+DESCRIPTION : Cette peluche est en tout point royale, des coutures, jusqu'au rembourrage, rien n'a été laissé au hasard. Un excellent cadeau pour les enfants gâtés ou les gosses de riches.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Sadida
+ID : 6606
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61673.png
+DESCRIPTION : Cette peluche contient dans son rembourrage un gros réveil, très utile pour les Sadidas qui ont le réveil difficile. En revanche, il leur est déconseillé de la prendre avec eux lorsqu'il vont sous un charme, le temps ne compte plus dans ces moments-là !
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Ecaflip
+ID : 6607
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61674.png
+DESCRIPTION : Cette petite peluche amuse les Ecaflips de tout âge.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Iop
+ID : 6608
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61675.png
+DESCRIPTION : Cette peluche ressemble dans un certain sens à un vrai Iop : stupide et bête comme ses pieds, son crâne ne contient même pas de rembourrage.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Sram
+ID : 6610
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61677.png
+DESCRIPTION : Cette peluche a été volée à un jeune Sram, qui lui-même l'avait dérobée à un de ses camarades.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Eniripsa
+ID : 6611
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61678.png
+DESCRIPTION : Cette peluche pourrait presque voler toute seule si ses ailes n'étaient pas usées. En effet, ce jouet est loin d'être de première main. Mais qu'importe, ça reste un joli cadeau.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Enutrof
+ID : 6612
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61679.png
+DESCRIPTION : Cette peluche serait rembourrée avec de la pierre de bauxite et des pépites d'or : c'est du moins ce qui se raconte sur le marché noir... En réalité, il ne s'agit que de vulgaire gravier.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Féca
+ID : 6613
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61680.png
+DESCRIPTION : Cette peluche est presque indestructible, elle conviendra parfaitement aux jeunes Fécas turbulents et peu soigneux.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Osamodas
+ID : 6614
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61681.png
+DESCRIPTION : On raconte que ce jouet peut invoquer d'autres petites peluches s'il est correctement entretenu... mais ce n'est qu'une vieille légende pour empêcher les jeunes Osamodas de le manger.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Crâ
+ID : 6615
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61682.png
+DESCRIPTION : Cette peluche à l'allure toute fière, est faîte pour être envoyée de très loin sur vos camarades de jeu, une sorte de boomerang, mais qui ne revient pas à l'envoyeur.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Xélor
+ID : 6616
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61683.png
+DESCRIPTION : Cette peluche fait un bruit étrange. Elle semble contenir une horloge dans le rembourrage de sa tête... de quoi bercer le sommeil des jeunes Xélors.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Sanglier
+ID : 6617
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61684.png
+DESCRIPTION : De véritables poils de sanglier ont été utilisés dans la fabrication de ce jouet. Un gage de qualité, assurément.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Tofu
+ID : 6618
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61685.png
+DESCRIPTION : Qui n'a jamais rêvé de serrer dans ses bras une réplique de Tofu ? Peut-être vous. Dans ce cas, vous achetez n'importe quoi ou vos amis ne savent pas vous offrir des cadeaux.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Champ
+ID : 6619
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61686.png
+DESCRIPTION : Ce champ-là n'a pas d'épines douloureuses ou de poison paralysant. Il est tout de même redoutable pour faire peur aux Iops les plus naïfs.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Prespic
+ID : 6620
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61687.png
+DESCRIPTION : Ce prespic en peluche n'enverra pas d'aiguilles et ne se rendra pas invisible, mais il remplira son rôle de peluche à merveille et rendra vos amis terriblement jaloux.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Wabbit
+ID : 6621
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61688.png
+DESCRIPTION : Le wabbit en peluche reste un incontournable, peut-être parce qu'il est indémodable. Vous n'avez pas cette chance.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Hochet du Dark Vlad
+ID : 6622
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15696.png
+DESCRIPTION : Ce hochet a appartenu au Dark Vlad en personne, ce qui suffit à le rendre inestimable, même s'il s'agit d'un hochet classique.
+
+NAME : Peluche du Dragon Cochon
+ID : 6624
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61689.png
+DESCRIPTION : Cette peluche est vraiment unique en son genre. Mais attention, elle est destinée à un public averti.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Bilboquet Du Maître Corbac
+ID : 6625
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15710.png
+DESCRIPTION : Ce magnifique jouet, a appartenu au Maître Corbac en personne. Trop stupide pour comprendre comment il fonctionnait, il s'en servait pour taper sur la tête de ses chers petits Corbacs. Chacun ses distractions.
+
+NAME : Corde à Sauter du Captain Chafer
+ID : 6626
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15695.png
+DESCRIPTION : Pour entretenir ses articulations, le Captain Chafer utilisait cette fameuse corde à sauter. Depuis qu'il a disparu d'Amakna, elle passe de main en main.
+
+NAME : Ballon rouge
+ID : 6648
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15690.png
+DESCRIPTION : Ce ballon est un souvenir de la foire du trooll
+
+NAME : Ballon bleu
+ID : 6649
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15691.png
+DESCRIPTION : Ce ballon est un souvenir de la foire du trooll
+
+NAME : Ballon vert
+ID : 6650
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15692.png
+DESCRIPTION : Ce ballon est un souvenir de la foire du trooll
+
+NAME : Ballon jaune
+ID : 6651
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15693.png
+DESCRIPTION : Ce ballon est un souvenir de la foire du trooll
+
+NAME : Boule à neige foire du trooll
+ID : 6652
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15694.png
+DESCRIPTION : Cette jolie boule à neige brillera de toute sa splendeur sur un rebord de cheminée.
+
+NAME : Peluche du Mulou
+ID : 6658
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61699.png
+DESCRIPTION : Cette magnifique peluche en véritables poils de mulou vous tiendra chaud la nuit, tout en diffusant dans votre chambre une agréable odeur de transpiration de mulou mort.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Faux Koinkoin
+ID : 6659
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15700.png
+DESCRIPTION : Ne vous y fiez pas, ce koinkoin est un faux, donnez le à Krip Soue à côté du stand de canards pour recevoir une récompense.
+
+NAME : Haricot
+ID : 6671
+TYPE : Graine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/58471.png
+DESCRIPTION : Planter ce haricot ne vous permettra pas d'accéder au pays des géants. Par contre, le manger dos au feu provoquera peut-être une détonation suffisante pour vous y envoyer.
+
+NAME : Artefact Pandawushu Eau
+ID : 7222
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164659.png
+DESCRIPTION : Cet artefact magique est utilisé par les disciples Pandawushu pour enchanter leur équipement.
+
+NAME : Artefact Pandawushu Vent
+ID : 7223
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164661.png
+DESCRIPTION : Cet artefact magique est utilisé par les disciples Pandawushu pour enchanter leur équipement.
+
+NAME : Artefact Pandawushu Roc
+ID : 7224
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164662.png
+DESCRIPTION : Cet artefact magique est utilisé par les disciples Pandawushu pour enchanter leur équipement.
+
+NAME : Artefact Pandawushu Feu
+ID : 7225
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164663.png
+DESCRIPTION : Cet artefact magique est utilisé par les disciples Pandawushu pour enchanter leur équipement.
+
+NAME : Rune Pod
+ID : 7443
+TYPE : Rune de forgemagie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78020.png
+DESCRIPTION : Cette rune permet de rendre plus léger n'importe quel équipement.
+
+NAME : Rune Ini
+ID : 7448
+TYPE : Rune de forgemagie
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78025.png
+DESCRIPTION : Cette rune permet de prendre de l'avance sur vos adversaires et d'anticiper leurs réactions.
+
+NAME : Feuille de Kaliptus
+ID : 7903
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/36001.png
+DESCRIPTION : Délicatement insérées au fond des narines, ces feuilles déboucheront n'importe quel nez. Certaines légendes tribales racontent que cette technique fonctionnerait avec d'autres orifices.
+
+NAME : Fleur de Kaliptus
+ID : 7904
+TYPE : Fleur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/35001.png
+DESCRIPTION : Une fois brûlée, cette fleur dégage une fumée épaisse aux vertus hallucinogènes. Mâchée, elle a tendance à rendre impuissant. Consommée en infusion, elle peut engendrer d'importants effets laxatifs. La meilleure solution reste de ne jamais y toucher.
+
+NAME : Jeton du Maître de Jeu
+ID : 7919
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15737.png
+DESCRIPTION : Ce splendide jeton doit sûrement pouvoir être échangé à la Foire du Trool contre de précieux cadeaux.
+
+NAME : Peluche du Dopeul Sacrieur
+ID : 7922
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61001.png
+DESCRIPTION : Cette peluche est faite pour les jeunes Sacrieurs, elle est parfaite pour éponger leur sang et se nettoie facilement à n'importe quelle température.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Peluche du Dopeul Pandawa
+ID : 7923
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/61002.png
+DESCRIPTION : Cette peluche sent l'alcool et le poil de Pandawa mouillé, comme maman.
+(Cette peluche a pour seule utilité d'être collectionnée)
+
+NAME : Gelée de Dégelée
+ID : 8310
+TYPE : Gelée
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/110736.png
+DESCRIPTION : Ce pot de gelée contient une substance à l'odeur repoussante et au goût épouvantable, et pourtant, vous rêvez tous les jours secrètement de vous enduire de cette substance. Un autre trouble de votre comportement, qui doit en cacher d'autres...
+
+NAME : Gratrooll Industriel
+ID : 8520
+TYPE : Huile
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/60001.png
+DESCRIPTION : Cette graisse épaisse et nutritive permet de cuire la plupart des aliments dans de vieilles marmites sans accrocher le plat. Certains adeptes Osamodas s'en servent aussi pour glisser des Tofus dans des endroits que la morale Iop réprouve.
+
+NAME : Clef de la Crypte de Kardorim
+ID : 8545
+TYPE : Clef
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/84745.png
+DESCRIPTION : Cette clef permet d'entrer dans la Crypte de Kardorim, le plus redoutable des chafers d'Incarnam.
+
+NAME : Peau de Milimilou
+ID : 8546
+TYPE : Peau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/59003.png
+DESCRIPTION : De légères bouclettes font de cette peau une belle descente de lit. Il est certain que quelqu'un sur Incarnam est prêt à troquer contre cette peau. Reste à trouver qui...
+
+NAME : Bout de Goldemort
+ID : 8712
+TYPE : Gelée
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/110490.png
+DESCRIPTION : Bravo ! Vous avez réussi à dépouiller le cadavre de Goldemort d'une cuillerée de sa substance. Les vautours sont fiers de vous.
+
+NAME : Crâne de Féca
+ID : 9077
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47034.png
+DESCRIPTION : Le crâne de Féca fait un excellent presse-livres.
+
+NAME : Crâne d'Osamodas
+ID : 9078
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47033.png
+DESCRIPTION : Un Tofu par-ci, un Bwork mage par-là : ce disciple d'Osamodas en a perdu la tête.
+
+NAME : Crâne d'Enutrof
+ID : 9079
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47032.png
+DESCRIPTION : Ce trophée était déjà vieux avant de devenir un trophée.
+
+NAME : Crâne de Sram
+ID : 9080
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47031.png
+DESCRIPTION : Ce trophée était déjà morbide avant de devenir un trophée.
+
+NAME : Crâne de Xélor
+ID : 9081
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47030.png
+DESCRIPTION : Ce crâne est souvent confondu avec celui de la célèbre momie de Tut Enkarthon. Ne vous y trompez pas : ces bandelettes-ci ne sont pas en carton, mais en papier mâché.
+
+NAME : Crâne d'Ecaflip
+ID : 9082
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47029.png
+DESCRIPTION : À défaut de jouer à pile ou face, on pourra jouer aux osselets.
+
+NAME : Crâne d'Eniripsa
+ID : 9083
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47028.png
+DESCRIPTION : Ne soyez pas mauvaise langue : Non, Il ne s'agit pas d'un crâne de Piaf !
+
+NAME : Crâne de Iop
+ID : 9084
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47027.png
+DESCRIPTION : Ce trophée sonne aussi creux que lorsqu'il était plein.
+
+NAME : Crâne de Crâ
+ID : 9085
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47026.png
+DESCRIPTION : On pourrait le croire sorti d'une fouille archéologique, ce crâne de Crâ mignon !
+
+NAME : Crâne de Sadida
+ID : 9086
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47025.png
+DESCRIPTION : Qui eût cru qu'il y eut un crâne sous la touffe de cheveux ?
+
+NAME : Crâne de Sacrieur
+ID : 9087
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47024.png
+DESCRIPTION : Ce sacrieur fait moins le fier sans ses milliers de points de vie.
+
+NAME : Crâne de Pandawa
+ID : 9088
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47023.png
+DESCRIPTION : On aurait pu croire qu'après la mise en bière le Pandawa aurait une gueule de bois.
+
+NAME : Pousse de Tanfouguite
+ID : 9622
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/36638.png
+DESCRIPTION : L'existence de cette plante est aussi mystérieuse et improbable que son nom. À la fois ici et ici, mais pas maintenant, heureusement qu'elle n'est pas ailleurs, on n'y comprendrait plus rien. Échangez-la contre des Compensatons auprès de Dédomaj, à côté du zaap du Château d'Amakna, en [3,-5].
+
+NAME : Corde d'escalade
+ID : 9935
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15170.png
+DESCRIPTION : Cette corde très solide en vogue chez les alpinistes en herbe peut aussi bien servir à monter qu'à descendre. Cependant, une vieille tradition amaknéenne consiste à y faire un nœud coulant au bout et à passer ce nœud autour du cou du chef du village, pour lui faire comprendre que ses décisions ne font pas l'unanimité.
+
+NAME : Pâte à Tra Khben
+ID : 9949
+TYPE : Gelée
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/110042.png
+DESCRIPTION : Cette pâte fut inventée par le célèbre Tra Khben, géologue spécialiste de l'écosystème et des moissons, précocement atteint d'arthrose dans le dos. Cette pâte avait comme particularité de raidir et durcir toute substance organique avec laquelle elle entrait en contact, ce qui permettait à Tra Khben de se tenir droit. Ce ne fut qu'après la mort de ce dernier qu'on trouva à la pâte un tout autre usage, très en vogue surtout chez les Enutrofs. Son seul inconvénient est l'odeur, ce qui explique l'haleine de certaines Enutrofettes.
+
+NAME : Pierre de souillure bleue impure
+ID : 9950
+TYPE : Pierre brute
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/51151.png
+DESCRIPTION : Correctement polie, cette pierre dévoilera son plein potentiel.
+
+NAME : Pierre de souillure jaune impure
+ID : 9951
+TYPE : Pierre brute
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/51495.png
+DESCRIPTION : Correctement polie, cette pierre dévoilera son plein potentiel.
+
+NAME : Pierre de souillure verte impure
+ID : 9952
+TYPE : Pierre brute
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/51076.png
+DESCRIPTION : Correctement polie, cette pierre dévoilera son plein potentiel.
+
+NAME : Manche du Grattoir
+ID : 9975
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15052.png
+DESCRIPTION : Seul, ce manche ne vous est d'aucune utilité. Il est possible d'y ajouter un grattoir à son extrémité, ce qui ne vous sera pas plus utile. Vous pouvez raisonnablement en conclure que seul un esprit tordu saurait quoi en faire.
+
+NAME : Grattoir à dos inachevé
+ID : 9976
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15052.png
+DESCRIPTION : Ce grattoir à dos est presque parfait. Presque, mais pas totalement. Seul un forgeron de grand talent pourra l'achever, malheureusement vous n'en connaissez aucun.
+
+NAME : Copie de la clef du repaire des bandits
+ID : 9999
+TYPE : Clef
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/84061.png
+DESCRIPTION : Cette copie de la clef du repaire des bandits Ecaflips semble sur le point de se briser. Il y a fort à parier que ça se produira lorsque vous voudrez l'utiliser. La mention 'A manier avec précaution' ne figurant pas sur l'emballage, vous en déduisez qu'il s'agit d'une contrefaçon, et vous avez raison !
+
+NAME : Gelée Sbihaine
+ID : 10003
+TYPE : Gelée
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/110047.png
+DESCRIPTION : Seule Liroye Merline connaît la recette de cette gelée artificielle. Lorsqu'elle est combinée à du gazon humide, la gelée se durcit et épouse la forme de tout objet ayant été préalablement glissé à l'intérieur, ce qui rend l'usage de la Gelée Sbihaine très populaire pour la confection de moules.
+
+NAME : Schéma de la Pince à Linge
+ID : 10018
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15767.png
+DESCRIPTION : Ce schéma est si clair qu'un enfant Iop pourrait peut-être le comprendre. Peut-être, car un Iop reste un Iop. Entre les mains d'un Bricoleur, ce schéma pourra même servir à fabriquer des objets. Si en plus le Bricoleur est un Iop, il se pourrait que vous assistiez à un miracle.
+Il vous faut le présent schéma, 5 Planches de Gravure et 3 Kobalites.
+
+NAME : Tissu de Rapiéçage
+ID : 10030
+TYPE : Étoffe
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/55434.png
+DESCRIPTION : Ce tissu de synthèse inventé par le tailleur Sosh permet de rapiécer les vêtements magiques sans altérer leurs pouvoirs. On comprend pourquoi les tailleurs expérimentés le prisent autant.
+
+NAME : Petit caillou
+ID : 10121
+TYPE : Pierre brute
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/51267.png
+DESCRIPTION : Ce petit caillou sert à activer la magie des dalles pour atteindre l'esprit de l'eau. Son utilisation est des plus simples : il suffit de le poser sur une dalle et la magie opère d'elle-même. Simple et efficace. Même un Iop peut y arriver, s'il ne trouve aucun ennemi sur qui jeter le petit caillou avant.
+
+NAME : Passe pour l'îlot Estitch
+ID : 10276
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15770.png
+DESCRIPTION : Ce passe vous donne droit à un aller-retour sur l'îlot Estitch. Il n'est valable qu'auprès de Nikos Monote, dans la baie de Cania.
+
+NAME : Cachet du bizut
+ID : 10835
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/50707.png
+DESCRIPTION : Piétiné, mâchouillé, écrasé, lavé, repassé, séché, on vous a tout fait. Mais vous n'êtes plus un bleu ; vous êtes recouvert de bleus.
+
+NAME : Phéromone de Tofu
+ID : 10909
+TYPE : Poudre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48241.png
+DESCRIPTION : Cette poudre de phéromone séchée pourrait attirer un Tofu à des kilokamètres si vos propres phéromones ne les asphyxiaient pas.
+
+NAME : Sueur de dragodinde
+ID : 10970
+TYPE : Liquide
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15773.png
+DESCRIPTION : Mais comment avez-vous fait pour récupérer ça ? Et pourquoi ? Vous êtes vraiment bizarre.
+
+NAME : Eau calme
+ID : 11475
+TYPE : Liquide
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15778.png
+DESCRIPTION : Cette eau, conservée dans un état instable de surfusion, est surtout utilisée pour congeler instantanément tout type de nourriture. Certains Frigostiens peu scrupuleux affirment que ça marche aussi très bien avec les belles-mères.
+
+NAME : Pierre de Feu
+ID : 11559
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/50710.png
+DESCRIPTION : Cette pierre est un concentré solide d'énergie élémentaire.
+
+NAME : Pierre de Terre
+ID : 11560
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/50711.png
+DESCRIPTION : Cette pierre est un concentré solide d'énergie élémentaire.
+
+NAME : Pierre d'Eau
+ID : 11561
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/50712.png
+DESCRIPTION : Cette pierre est un concentré solide d'énergie élémentaire.
+
+NAME : Pierre d'Air
+ID : 11562
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/50713.png
+DESCRIPTION : Cette pierre est un concentré solide d'énergie élémentaire.
+
+NAME : Écumouth vivant
+ID : 11705
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15785.png
+DESCRIPTION : Cet Écumouth est vivant. Il bouge, se cure le nez et mord le postérieur des imprudents. On dirait presque votre petite sœur, à condition de faire abstraction de sa grosse queue poilue.
+
+NAME : Crâne de Roublard
+ID : 12242
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47690.png
+DESCRIPTION : Ce crâne de Roublard n'a plus grand chose de détonnant, et encore moins d'étonnant.
+
+NAME : Crâne de Zobal
+ID : 12243
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47691.png
+DESCRIPTION : À défaut de pouvoir vous servir de son masque, qui refuse de s'en détacher, ce crâne de Zobal doit pouvoir vous servir de casque. En revanche son odeur de putréfaction est elle aussi bien attachée.
+
+NAME : Pierre Noire de Vulkania
+ID : 12582
+TYPE : Souvenir
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24736.png
+DESCRIPTION : Cette pierre est aussi noire que le fond de la culotte d'un Trooll mais, heureusement pour votre entourage, ne dégage pas la même odeur. Vous ne pourrez donc pas vous en servir pour expliquer les relents nauséabonds qui vous accompagnent.
+
+NAME : Kœur en Plastique
+ID : 12583
+TYPE : Souvenir
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24263.png
+DESCRIPTION : Ce faux koeur de krokille a un double usage. Les enfants peuvent le remplir d'hémoglobine de porkass pour s'en servir de pistolet à eau en dirigeant la fausse artère vers la cible et en appuyant dessus. Quant aux parents, ce koeur leur rappellera avec nostalgie la chaleur de l'île de Vulkania lorsqu'ils trembleront de froid sur l'île de Nowel.
+
+NAME : Relique du Cimetière des Os Posés
+ID : 12584
+TYPE : Souvenir
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24057.png
+DESCRIPTION : Imprégnée d'une puissante magie, chaque extrêmité de cette relique indique une direction opposée à l'autre. Ainsi, vous pouvez savoir où se situent le nord et le sud, ou l'est et l'ouest, à condition d'orienter correctement la relique. À bien y réfléchir, le marchand vous a sûrement arnaqué, mais n'est-ce pas le propre de toutes les boutiques de souvenirs ?
+
+NAME : Conserve de Vacancier
+ID : 12585
+TYPE : Souvenir
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/125002.png
+DESCRIPTION : Cette conserve contient de la nourriture vitaminée très épicée typique de l'île de Vulkania. L'emballage avertit toutefois le consommateur qu'il peut y trouver de petits bouts de vêtements.
+
+NAME : Cristal de Vie et de Prospérité
+ID : 12586
+TYPE : Souvenir
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/125000.png
+DESCRIPTION : Ce cristal est très populaire chez les aventuriers et encore plus chez les Enutrofs grâce à la bénédiction qu'il octroie. Certains affirment qu'il a été produit par le protecteur du mois de Juinssidor Sumens en personne, ce qui expliquerait cette puissante magie. Néanmoins, quelques savants moins crédules y voient surtout un gros attrape-nigaud, connu également sous l'appellation attrape-touriste.
+
+NAME : Figurine de Krokille
+ID : 12587
+TYPE : Souvenir
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/125001.png
+DESCRIPTION : Cette figurine bon marché fera un excellent attrape-poussière sur votre bureau. Si vous êtes peu scrupuleux, vous pouvez essayer de la revendre un bon prix auprès d'une tribu de réducteurs de krokilles.
+
+NAME : Flocon de Neige
+ID : 12845
+TYPE : Nowel
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/153007.png
+DESCRIPTION : Ce flocon de neige magique est une ressource indispensable à la confection d'objets de Nowel. Malheureusement, il est sans effet pour refroidir les ardeurs de vos prétendants.
+
+NAME : Blague Glutine
+ID : 12876
+TYPE : Nowel
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/153012.png
+DESCRIPTION : Si vous êtes un adepte de blagues vaseuses, mettez vos bottes car vous allez être servi.
+
+NAME : Emballage Boulduk
+ID : 12913
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154005.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Emballage de mariage
+ID : 12899
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154010.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Emballage d'anniversaire
+ID : 12900
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154009.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Emballage d'excuses
+ID : 12902
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154006.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Emballage de félicitations
+ID : 12904
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154014.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Emballage d'amour
+ID : 12907
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154012.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Emballage d'amitié
+ID : 12908
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154007.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Emballage de fraternité
+ID : 12909
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154008.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Emballage d'affection
+ID : 12910
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154013.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Emballage de corruption
+ID : 12911
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154004.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Encre d'Oktapodas
+ID : 26373
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15265.png
+DESCRIPTION : Cette encre vient des profondeurs sous-marines et semble être le vestige d'une lointaine époque. L'odeur qu'elle dégage vous enveloppe et vous paraît presque oppressante, comme si elle renfermait une grande force. Si vous approchez l'oreille vous entendez des petits crépitements, à n'en pas douter, cette encre n'est pas ordinaire.
+
+NAME : Graine de Sésame
+ID : 287
+TYPE : Graine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/58003.png
+DESCRIPTION : Cette graine extrêmement riche en protéines permet de réaliser de délicieux pains, mais la culture du sésame est délicate sous le climat d'Amakna, ce qui en fait une graine rare et chère.
+
+NAME : Fer
+ID : 312
+TYPE : Minerai
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/39024.png
+DESCRIPTION : Le fer est très utile pour les forgerons et pour ceux qui utilisent du métal, certains s'en servent même pour repasser.
+
+NAME : Emballage de Nowel Enneigé
+ID : 12928
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154002.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Emballage de Nowel Étoilé
+ID : 12929
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154001.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Étiquette de cadeau
+ID : 13014
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154003.png
+DESCRIPTION : Cette étiquette porte le nom de l'heureux destinataire d'un cadeau. Elle peut être collée à l'aide d'un atelier d'emballage.
+
+NAME : Crâne de Steamer
+ID : 13274
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47755.png
+DESCRIPTION : Voilà un Steamer qui a bu la tasse. Il est donc normal que son crâne vide soit utilisé comme tasse pour boire un petit coup : ça coule de source.
+
+NAME : Rabmablague Caramel n° 1
+ID : 13527
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/158000.png
+DESCRIPTION : « Vous savez pourquoi les belles femmes sont explosives ?
+... Parce qu'elles sont canons ! »
+
+NAME : Rabmablague Caramel n° 4
+ID : 13530
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/158000.png
+DESCRIPTION : « Que dit un Chacha qui drague ?
+... Nous sommes félins pour l'autre. »
+
+NAME : Rabmablague Caramel n° 8
+ID : 13531
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/158000.png
+DESCRIPTION : « Vous savez pourquoi les Chachas n'aiment pas l'eau ?
+... Parce que dans l'eau, minet râle. »
+
+NAME : Rabmablague Caramel n° 2
+ID : 13532
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/158000.png
+DESCRIPTION : « Pourquoi n'y a-t-il pas de poubelles dans l'étang d'Astrub ?
+... Parce que la corbeille à papier. »
+
+NAME : Rabmablague Caramel n° 3
+ID : 13533
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/158000.png
+DESCRIPTION : « Quel est le plus beau compliment qu'un Kanniboul puisse faire à une fille ?
+... Vous êtes belle à croquer ! »
+
+NAME : Rabmablague Caramel n° 5
+ID : 13534
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/158000.png
+DESCRIPTION : « Que met une Zobale pour rester élégante même dans les égouts de Brâkmar ?
+... Du masque à rat. »
+
+NAME : Rabmablague Caramel n° 6
+ID : 13535
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/158000.png
+DESCRIPTION : « Comment sort-on de la mer d'Asse ?
+... Mouillé. »
+
+NAME : Rabmablague Caramel n° 7
+ID : 13536
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/158000.png
+DESCRIPTION : « Pourquoi Alit Elfminate ne raconte-t-il jamais de mensonges aux enquêteurs du FBA ?
+... Parce que la vérité est tailleur. »
+
+NAME : Rabmablague Fraise n° 1
+ID : 13537
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/159000.png
+DESCRIPTION : « Deux Vampires discutent :
+-	Cette fille, tu l'aimes vraiment ?
+-	Je suis complètement mordu ! »
+
+NAME : Rabmablague Fraise n° 2
+ID : 13538
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/159000.png
+DESCRIPTION : « Francisque Kabroule discute avec Pandalida :
+-	Grâce à ma mandoline, je suis très riche.
+-	Les spectateurs te donnent plein de kamas pour que tu joues ?
+-	Non, justement, pour que je ne joue pas. »
+
+NAME : Rabmablague Fraise n° 3
+ID : 13539
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/159000.png
+DESCRIPTION : « Un contremaître Enutrof réprimande un mineur Sadida :
+-	Tu travailles lentement, tu comprends lentement, tu marches lentement. Y a-t-il quelque chose que tu fasses vite ?
+-	Oui, je me fatigue vite. »
+
+NAME : Rabmablague Fraise n° 4
+ID : 13540
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/159000.png
+DESCRIPTION : « Acidrik Fenlapanse rencontre Herdegrize le Mystique :
+-	J'ai beaucoup aimé votre dernier livre. Qui vous l'a écrit ?
+-	Je suis content qu'il vous ait plu. Qui vous l'a lu ? »
+
+NAME : Rabmablague Fraise n° 5
+ID : 13541
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/159000.png
+DESCRIPTION : « Deux Roublabombes discutent :
+-	Tu viens au Roub'Bar ce soir ? On va s'éclater !
+-	Sûr, passe me prendre à 5 heures pétantes ! »
+
+NAME : Rabmablague Fraise n° 6
+ID : 13542
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/159000.png
+DESCRIPTION : « Deux Sousouris discutent :
+-	J'ai décidé de me mettre au régime.
+-	Tu ne te goinfres plus de gruyère alors ?
+-	Si, mais je ne mange plus que les trous. »
+
+NAME : Rabmablague Fraise n° 7
+ID : 13543
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/159000.png
+DESCRIPTION : « Un touriste en visite sur Vulkania demande à Nevark le Chasseur :
+-	Quelle est la peau que vous avez eu le plus de mal à ramener de vos chasses ?
+-	La mienne. »
+
+NAME : Rabmablague Fraise n° 8
+ID : 13544
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/159000.png
+DESCRIPTION : « Un Sufokien affamé entre dans un restaurant de Madrestam et demande :
+-	Est-ce que vous servez des Crabes ici ?
+-	Nous servons tout le monde, Monsieur. »
+
+NAME : Rabmablague Citron n° 1
+ID : 13545
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/160000.png
+DESCRIPTION : « Quel est le jeu préféré des Chafers ?
+... Les osselets. »
+
+NAME : Rabmablague Citron n° 2
+ID : 13546
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/160000.png
+DESCRIPTION : « Quel est le fruit que les Pichons détestent le plus ?
+... La pêche. »
+
+NAME : Rabmablague Citron n° 3
+ID : 13547
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/160000.png
+DESCRIPTION : « Que dit un Crabe amoureux d'une étoile de la mer d'Asse ?
+... J'en pince pour toi ! »
+
+NAME : Rabmablague Citron n° 4
+ID : 13548
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/160000.png
+DESCRIPTION : « Comment appelle-t-on un Chienchien sans pattes ?
+... On ne l'appelle pas, on va le chercher. »
+
+NAME : Rabmablague Citron n° 5
+ID : 13549
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/160000.png
+DESCRIPTION : « Quel est le dessert préféré des Roublards ?
+... La complote de pommes. »
+
+NAME : Rabmablague Citron n° 6
+ID : 13550
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/160000.png
+DESCRIPTION : « Farle Ingalsse cultive une nouvelle sorte de patate dans son champ. Comment l'appelle-t-il ?
+... Il la pèle avec un couteau. »
+
+NAME : Rabmablague Citron n° 7
+ID : 13551
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/160000.png
+DESCRIPTION : « Qu'obtient-on en étirant un Œil de Vigie Pirate ?
+... Une longue-vue. »
+
+NAME : Rabmablague Citron n° 8
+ID : 13552
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/160000.png
+DESCRIPTION : « Comment appelle-t-on un Sram qui se vante ?
+... un crâneur. »
+
+NAME : Rabmablague Orange n° 1
+ID : 13553
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/161000.png
+DESCRIPTION : « Un familier Bwak drague une Piou près du zaap d'Astrub.
+-	Ça te dirait de prendre un ver et de casser la graine ? »
+
+NAME : Rabmablague Orange n° 2
+ID : 13554
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/161000.png
+DESCRIPTION : « Un Boufmouth et un Rat Bougri arrivent au bord du Lac Gelé. Le Boufmouth hésite à s'avancer. Le Rat Bougri le rassure :
+-	Je vais y aller le premier, pour voir si la glace tient le coup ! »
+
+NAME : Rabmablague Orange n° 3
+ID : 13555
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/161000.png
+DESCRIPTION : « Un Kanigrou croise un Crocodaille.
+-	Salut, sac à puces ! dit le Crocodaille.
+-	Salut, sac à main ! répond le Kanigrou »
+
+NAME : Rabmablague Orange n° 4
+ID : 13556
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/161000.png
+DESCRIPTION : « Un Abraknyde retrouve l'un de ses amis à la taverne.
+-	Qu'est-ce que tu bois ? Une petite mousse, ça te branche ? »
+
+NAME : Rabmablague Orange n° 5
+ID : 13557
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/161000.png
+DESCRIPTION : « Un Lenald de passage à Astrub se plaint à un milicien après avoir été victime d'une agression :
+-	C'est un scandale ! J'ai juste demandé quel était le chemin le plus lapide poul l'hôtel des ventes, et on m'a jeté des cailloux ! »
+
+NAME : Rabmablague Orange n° 6
+ID : 13558
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/161000.png
+DESCRIPTION : « Deux Chafers observent avec inquiétude une armée d'aventuriers en train de se rassembler devant les portes du cimetière d'Amakna.
+-	Si on ne veut pas qu'ils nous tombent dessus, on a intérêt à faire les morts ! »
+
+NAME : Rabmablague Orange n° 7
+ID : 13559
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/161000.png
+DESCRIPTION : « Un horloger Xélor trouve son employé Sadida endormi derrière le comptoir de la boutique.
+-	 Encore en train de piquer une sieste ! Tu vas finir par me rendre marteau.
+Le Sadida se réveille et regarde le cadran de l'horloge. 
+-	Ah zut, j'ai travaillé une heure de trop ! »
+
+NAME : Rabmablague Orange n° 8
+ID : 13560
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/161000.png
+DESCRIPTION : « Un Pandawa ivre se rend chez le Shaman Surivitna. Il se plaint de maux de tête et de vertiges. Le Shaman l'examine et déclare :
+- Je ne trouve rien d'anormal. Ça doit être le lait de bambou fermenté.
+- Ah, répond le Pandawa. Eh bien, je reviendrai lorsque vous serez sobre. »
+
+NAME : Rabmablague Kola n° 1
+ID : 13561
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/162000.png
+DESCRIPTION : « Une jeune Amaknéenne confie à son amie :
+-	Mon rêve, ce serait d'épouser un Enutrof.
+-	Ah bon ? Et pourquoi ?
+-	Parce que plus on vieillit, plus il vous aime. »
+
+NAME : Rabmablague Kola n° 2
+ID : 13562
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/162000.png
+DESCRIPTION : « Un Iop se rend à la bibliothèque d'Amakna :
+-	Salut, je cherche un livre.
+-	Oui, de quel auteur ?
+-	Euh... 30 centikamètres. »
+
+NAME : Rabmablague Kola n° 3
+ID : 13563
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/162000.png
+DESCRIPTION : « Le Mage Bworknroll gronde son élève Titi Gobelait :
+-	Titi, le devoir que tu m'as rendu hier était très mauvais !
+-	Ben fallait pas le manger ! »
+
+NAME : Rabmablague Kola n° 4
+ID : 13564
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/162000.png
+DESCRIPTION : « Un Sram croise une Enutrof dans une ruelle d'Astrub :
+-	Vous n'auriez pas vu un milicien dans le coin ?
+-	Non.
+-	Alors filez-moi votre sac à dos. »
+
+NAME : Rabmablague Kola n° 5
+ID : 13565
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/162000.png
+DESCRIPTION : « Alors que les clients se bousculent au restaurant, Bol Pokuz demande à son marmiton Iop :
+-	Eh, où as-tu rangé la passoire pour égoutter les frites ?
+-	Je l'ai jetée, elle était pleine de trous ! »
+
+NAME : Rabmablague Kola n° 6
+ID : 13566
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/162000.png
+DESCRIPTION : « Un Enutrof demande à un autre Enutrof :
+-	Eh mon vieux, tu peux me prêter 100 kamas ?
+-	Je ne peux pas, je n'ai que 60 kamas sur moi.
+-	Donne toujours, tu m'en devras 40. »
+
+NAME : Rabmablague Kola n° 7
+ID : 13567
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/162000.png
+DESCRIPTION : « Un Gobelin va voir Oshimo :
+-	Moâ vouloâr graines pour zoziau.
+-	Bien sûr. Qu'est-ce que tu as comme oiseau ?
+-	Ben moâ pas savoâr encore, moâ avoâr besoin de graines pour que lui pousser ! »
+
+NAME : Rabmablague Kola n° 8
+ID : 13568
+TYPE : Rabmablague
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/162000.png
+DESCRIPTION : « Deux maîtres cordonniers discutent dans leur atelier, quand un apprenti vient s'incruster dans la conversation. L'un des maîtres murmure alors à son confrère :
+-	Non mais, de quoi il se mêle ? Ignorons-le, il finira par se lasser. »
+
+NAME : Pépite
+ID : 14635
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/50718.png
+DESCRIPTION : Elle scintille comme les yeux de l'amour de votre vie. Elle crépite comme un boudin qui grille.
+
+NAME : Étoffe Mystérieuse
+ID : 14921
+TYPE : Étoffe
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15848.png
+DESCRIPTION : Cette étoffe possède des propriétés moulantes et élastiques hors du commun. Les rumeurs les plus folles lui accordent des pouvoirs surhumains, comme se faire temporairement oublier de ses beaux-parents ou penser à récupérer les enfants à la sortie de l'école pendant toute une semaine. Ceci explique pourquoi on l'utilise dans la confection d'équipements plus ou moins puissants.
+
+NAME : Coupon du lecteur 1/3
+ID : 15582
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24176.png
+DESCRIPTION : Si vous réunissez les 3 coupons, vous pourrez les échanger auprès de Krozette située en [5,3] contre un nouveau cadeau.
+
+NAME : Coupon du lecteur 2/3
+ID : 15583
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24176.png
+DESCRIPTION : Si vous réunissez les 3 coupons, vous pourrez les échanger auprès de Krozette située en [5,3] contre un nouveau cadeau.
+
+NAME : Coupon du lecteur 3/3
+ID : 15584
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24176.png
+DESCRIPTION : Si vous réunissez les 3 coupons, vous pourrez les échanger auprès de Krozette située en [5,3] contre un nouveau cadeau.
+
+NAME : Crâne d'Eliotrope
+ID : 16051
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47842.png
+DESCRIPTION : La dernière téléportation de cet Eliotrope l'a mené droit au cimetière.
+
+NAME : Ortie Roïde
+ID : 16378
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/36646.png
+DESCRIPTION : Il suffit de frotter vivement les feuilles de cette plante sur le visage de votre belle-mère pour l'entendre chanter plus fort qu'un castra.
+
+NAME : Ferrite
+ID : 16440
+TYPE : Alliage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/40712.png
+DESCRIPTION : Ce drôle d'alliage est fabriqué par les mineurs débutants pour s'exercer.
+
+NAME : Planche Agglomérée
+ID : 16489
+TYPE : Planche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/95093.png
+DESCRIPTION : Cette planche sert dans l'assemblage de meubles bon marché, c'est pourquoi elle est prisée par les Enutrofs travaillant aux pompes funèbres.
+
+NAME : Plume Chimérique
+ID : 16512
+TYPE : Plume
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/53661.png
+DESCRIPTION : Tentez donc d'attraper la plume d'un Tofu Chimérique en lui courant après, ça vous fera les jambes !
+
+NAME : Feu Intérieur
+ID : 16518
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164067.png
+DESCRIPTION : Après des années de méditation, vous serez peut-être capable de révéler votre feu intérieur. Si vous n'avez pas envie d'attendre, vous pouvez tout aussi bien martyriser des Feux spirituels.
+
+NAME : Viande Intangible
+ID : 16663
+TYPE : Viande
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/63407.png
+DESCRIPTION : Prélevée sur des animaux moribonds ou des esprits désincarnés, cette viande est particulièrement étrange. On dit qu'elle serait le résultat d'une expérience de Tajonoo... Le dieu de l'insipidité apprécierait particulièrement le goût fade de la chair intangible.
+
+NAME : Sève de Frêne
+ID : 16909
+TYPE : Sève
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/179001.png
+DESCRIPTION : La sève a de nombreuses utilités mais la préférée des bûcherons reste la fabrication de bûches glacées.
+
+NAME : Crâne d'Huppermage
+ID : 17441
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47846.png
+DESCRIPTION : Cet huppercrâne est plein de calcium, et une fois réduit en poudre, il fera un bon complément alimentaire pour votre chacha ou votre chienchien.
+
+NAME : Crâne d'Ouginak
+ID : 18618
+TYPE : Os
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47860.png
+DESCRIPTION : Un dicton ouginak affirme qu'il vaut mieux périr d'une mort sûre plutôt que d'être rongé par le doute.
+
+NAME : Corps de Quintaine
+ID : 19643
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24044.png
+DESCRIPTION : Une base robuste pour assembler une quintaine ou un épouvantail.
+
+NAME : Mélange de Vermifuge
+ID : 19656
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/43039.png
+DESCRIPTION : Autrefois, pour sortir les vers du nez à un suspect, les enquêteurs Iops n'hésitaient pas à utiliser du vermifuge. Le résultat n'étant jamais celui escompté, cette méthode fut abandonnée.
+
+NAME : Laine Urticante
+ID : 19694
+TYPE : Laine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/57056.png
+DESCRIPTION : Démêler des ronces et des orties sans gant est moins dangereux que manipuler cette laine.
+
+NAME : Super Croquette
+ID : 20040
+TYPE : Nourriture pour familier
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15528.png
+DESCRIPTION : Vos familiers raffolent de ces croquettes très nutritives.
+
+NAME : Croquette enrichie
+ID : 20125
+TYPE : Nourriture pour familier
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15528.png
+DESCRIPTION : Vos familiers raffolent de ces croquettes très nutritives.
+
+NAME : Réplique du Dofus Ébène
+ID : 20126
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/23007.png
+DESCRIPTION : Les Sidoas ont inondé le marché de milliers de ces répliques. N'espérez donc pas en tirer un bon prix.
+
+NAME : Réplique du Dofus Émeraude
+ID : 20127
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/23002.png
+DESCRIPTION : Les Sidoas ont inondé le marché de milliers de ces répliques. N'espérez donc pas en tirer un bon prix.
+
+NAME : Réplique du Dofus Ivoire
+ID : 20128
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/23011.png
+DESCRIPTION : Les Sidoas ont inondé le marché de milliers de ces répliques. N'espérez donc pas en tirer un bon prix.
+
+NAME : Réplique du Dofus Ocre
+ID : 20129
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/23012.png
+DESCRIPTION : Les Sidoas ont inondé le marché de milliers de ces répliques. N'espérez donc pas en tirer un bon prix.
+
+NAME : Réplique du Dofus Pourpre
+ID : 20130
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/23001.png
+DESCRIPTION : Les Sidoas ont inondé le marché de milliers de ces répliques. N'espérez donc pas en tirer un bon prix.
+
+NAME : Réplique du Dofus Turquoise
+ID : 20131
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/23003.png
+DESCRIPTION : Les Sidoas ont inondé le marché de milliers de ces répliques. N'espérez donc pas en tirer un bon prix.
+
+NAME : Badge de Malicien
+ID : 20142
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24766.png
+DESCRIPTION : Ce badge s'échange auprès de Malice pendant la période d'Halouine.
+
+NAME : Framboise
+ID : 20231
+TYPE : Fruit
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/46473.png
+DESCRIPTION : Un fruit rouge et sucré qui fait le délice des enfants et de la déesse des mouettes.
+
+NAME : Reflet oublié
+ID : 20292
+TYPE : Ressources des Songes
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164153.png
+DESCRIPTION : Loin derrière la surface voilée de ce fragment astral, vous percevez l'éclat d'un souvenir onirique. Une aventure épique et singulière dans une contrée dénuée de sens. Un reptile volcanique prenant la tête d'une course infinie.
+Il est l'heure de se réveiller pour oublier à nouveau.
+
+NAME : Rune Ta Ine
+ID : 20492
+TYPE : Rune de transcendance
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78179.png
+DESCRIPTION : Une rune de rêve éternel qui rend un peu plus intelligent.
+
+NAME : Rune Ta Fo
+ID : 20558
+TYPE : Rune de transcendance
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78182.png
+DESCRIPTION : Une rune de rêve éternel qui rend un peu plus fort.
+
+NAME : Rune Ta Age
+ID : 20561
+TYPE : Rune de transcendance
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78185.png
+DESCRIPTION : Une rune de rêve éternel qui rend un peu plus agile.
+
+NAME : Rune Ta Cha
+ID : 20564
+TYPE : Rune de transcendance
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78188.png
+DESCRIPTION : Une rune de rêve éternel qui rend un peu plus chanceux.
+
+NAME : Rune Ta Vi
+ID : 20567
+TYPE : Rune de transcendance
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78251.png
+DESCRIPTION : Une rune de rêve éternel qui rend un peu plus vivant.
+
+NAME : Rune Ta Ini
+ID : 20570
+TYPE : Rune de transcendance
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78254.png
+DESCRIPTION : Une rune de rêve éternel qui rend un peu plus initiateur.
+
+NAME : Rune Ta Pod
+ID : 20573
+TYPE : Rune de transcendance
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78257.png
+DESCRIPTION : Une rune de rêve éternel qui rend un peu plus accapareur.
+
+NAME : Flocon de Neige Doré
+ID : 20668
+TYPE : Nowel
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/153015.png
+DESCRIPTION : Sans ce flocon de neige doré, aucun artisan ne saurait fabriquer d'élément de la panoplie hirsute.
+
+NAME : Patron Hirsute
+ID : 20669
+TYPE : Nowel
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/153016.png
+DESCRIPTION : Ce patron sert de base aux artisans pour confectionner un élément de la panoplie Hirsute.
+
+NAME : Cire de Gligli Améliorée
+ID : 20680
+TYPE : Nowel
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/147007.png
+DESCRIPTION : Cette cire est beaucoup plus compacte que la cire classique. Elle est également plus durable. Grâce à ces atouts, elle constitue une excellente base pour fabriquer des bougies.
+
+NAME : Petits oignons
+ID : 21463
+TYPE : Légume
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/176015.png
+DESCRIPTION : Des petits oignons bien cuisinés permettront à toutes vos recettes de friser la perfection.
+
+NAME : Manche équilibré
+ID : 21465
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/176013.png
+DESCRIPTION : Malgré ce que vous venez de lui faire subir ce manche est extrêmement bien équilibré.
+
+NAME : Lame en mousse
+ID : 21466
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/176012.png
+DESCRIPTION : À ce stade de la fabrication, vous pouvez très bien utiliser cette lame pour faire la vaisselle ou tailler vos arbustes.
+
+NAME : Met'Hache immaculée
+ID : 21467
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/19080.png
+DESCRIPTION : Cette hache est encore trop pure pour être utilisée telle quelle.
+
+NAME : Met'Hache
+ID : 21468
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/19080.png
+DESCRIPTION : « Cette hache n'est pas particulièrement dangereuse et pour cause, le but d'un tel outil n'est pas de blesser. Mais gardez-vous bien de la considérer comme inutile : elle peut faire couler beaucoup d'encre. » 
+
+- Roger D, Nairfeur professionnel.
+
+NAME : Dofus Blanc
+ID : 21681
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/23031.png
+DESCRIPTION : Un Dofus vide de toute personnalité.
+
+NAME : Peinture Jaune
+ID : 21682
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136117.png
+DESCRIPTION : Un jaune sinon rien.
+
+NAME : Peinture Rouge
+ID : 21683
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136122.png
+DESCRIPTION : Rouge le silence qui suit les paroles en musique.
+
+NAME : Peinture Bleue
+ID : 21684
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136120.png
+DESCRIPTION : Je suis bleu, da ba dee da ba daa
+
+NAME : Peinture Orange
+ID : 21685
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136119.png
+DESCRIPTION : Orange comme le feu brûlant dans nos cœurs.
+
+NAME : Peinture Verte
+ID : 21686
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136118.png
+DESCRIPTION : Verte comme une souris qu'on attrape par la queue.
+
+NAME : Peinture Violette
+ID : 21687
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136121.png
+DESCRIPTION : La couleur d'un délice sucré, spécialité d'un coin de paradis.
+
+NAME : Peinture Noire
+ID : 21689
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136123.png
+DESCRIPTION : La couleur qu'on utilise quand il n'y a plus d'espoir.
+
+NAME : Pouvoir de Draconiros
+ID : 21948
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/63528.png
+DESCRIPTION : Draconiros vous a confié une infime fraction de son pouvoir afin que vous puissiez fabriquer un attrape-cauchemar. Mieux vaut ne pas essayer de vous en servir pour autre chose, vous risqueriez d'irriter le maître des rêves.
+
+NAME : Rune astrale mineure
+ID : 21964
+TYPE : Rune astrale
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78260.png
+DESCRIPTION : Lorsque les rêves des Douziens convergent, les pensées oniriques se cristallisent et forment une rune astrale. Un petit geste peut paraître anodin, mais il marque parfois le cœur des gens. C'est l'un de ces petits gestes qui a engendré cette rune.
+
+NAME : Rune astrale moyenne
+ID : 21965
+TYPE : Rune astrale
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78261.png
+DESCRIPTION : Lorsque les rêves des Douziens convergent, les pensées oniriques se cristallisent et forment une rune astrale. Il n'est pas rare que plusieurs âmes se mettent à rêver d'aventures similaires la même nuit. Ces coïncidences sont à l'origine des runes astrales comme celle que vous tenez dans vos main.
+
+NAME : Rune astrale majeure
+ID : 21966
+TYPE : Rune astrale
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78262.png
+DESCRIPTION : Lorsque les rêves des Douziens convergent, les pensées oniriques se cristallisent et forment une rune astrale. Les gestes altruistes ne se propagent pas toujours à travers les âges mais leur impact inspire de façon majeure quelques âmes. Leurs rêves se cristallisent en une rune astrale comme celle-ci.
+
+NAME : Rune astrale épatante
+ID : 21967
+TYPE : Rune astrale
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78263.png
+DESCRIPTION : Lorsque les rêves des Douziens convergent, les pensées oniriques se cristallisent et forment une rune astrale. Les héros attirent souvent les foules, qui en retour rêvent de leurs exploits, créant d'épatantes runes astrales.
+
+NAME : Rune astrale merveilleuse
+ID : 21968
+TYPE : Rune astrale
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78264.png
+DESCRIPTION : Lorsque les rêves des Douziens convergent, les pensées oniriques se cristallisent et forment une rune astrale. Les preuves d'amour sont à l'origine de bien des rêves, et l'une d'entre elles a créé cette merveilleuse rune.
+
+NAME : Rune astrale légendaire
+ID : 21969
+TYPE : Rune astrale
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78265.png
+DESCRIPTION : Lorsque les rêves des Douziens convergent, les pensées oniriques se cristallisent et forment une rune astrale. L'incroyable aventure à l'origine de celle-ci est encore contée à travers tout le Krosmoz.
+
+NAME : Livre Endommagé
+ID : 21982
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25007.png
+DESCRIPTION : Ce livre de la bibliothèque d'Amakna a clairement connu des jours meilleurs. Malgré tout, sa détérioration n'est pas irréversible, avec les bons matériaux et un savoir-faire conséquent, il est tout à fait possible de lui rendre une seconde jeunesse.
+
+NAME : Reflet onirique
+ID : 22058
+TYPE : Ressources des Songes
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164149.png
+DESCRIPTION : Lorsque vous rêvez, vous parvenez de temps en temps à vous souvenir de qui vous êtes... Mais une fois éveillé, vous oubliez, encore et toujours. Plongez votre regard dans ce reflet pour vous rappeler ce qui compte vraiment.
+
+NAME : Reflet infini
+ID : 22059
+TYPE : Ressources des Songes
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164152.png
+DESCRIPTION : Pour comprendre le caractère infini de ce reflet, il suffit de plonger son regard pendant quelques instants dans ses motifs astraux, riches d'aventures millénaires.
+
+NAME : Étoffe endommagée
+ID : 22235
+TYPE : Étoffe
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/55431.png
+DESCRIPTION : Une fois cette étoffe rapiécée, elle sera destinée aux entrepôts de Misère.
+
+NAME : Outil de rapiéçage
+ID : 22236
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/20004.png
+DESCRIPTION : Les miséreux utilisent ce kit pour rapiécer les pièces de tissu trouvées dans le désert.
+
+NAME : Échantillon sanguin de Sel Dawa
+ID : 23038
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24031.png
+DESCRIPTION : Un échantillon du sang de Sel Dawa, vous aurez un petit bout de lui en vous, c'est mignon... enfin si on veut.
+
+NAME : Alliage de Katana
+ID : 23104
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164727.png
+DESCRIPTION : Cet alliage, encore incandescent, est le fruit de votre dur travail de martelage. Ne cherchez pas, même en tapant sur votre nez avec un marteau, il ne serait pas aussi droit.
+
+NAME : Lame de Katana
+ID : 23105
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164725.png
+DESCRIPTION : Cela ressemble enfin à quelque chose, cela dit vous allez avoir du mal à vous battre avec seulement cet élément pour votre arme.
+
+NAME : Poignée de Katana
+ID : 23106
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164726.png
+DESCRIPTION : Confectionnée avec soin par Anatakwa. Elle avait peut-être peur du temps que cela allait prendre si elle vous avait confié ce travail.
+
+NAME : Artefact Pandawushu Bois
+ID : 23311
+TYPE : Pierre précieuse
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164660.png
+DESCRIPTION : Cet artefact magique est utilisé par les disciples Pandawushu pour enchanter leur équipement.
+
+NAME : Huile de Riz
+ID : 23480
+TYPE : Huile
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/60069.png
+DESCRIPTION : Si vous avez besoin d'un petit moment de sérénité à la suite d'un repas avec votre belle-mère, utilisez cette huile en tant qu'huile de massage. Réputée pour son parfum suave, elle délassera vos muscles et libérera la tension accumulée durant ce moment désagréable. Sinon, elle est aussi parfaite pour faire de bonnes petites vinaigrettes.
+
+NAME : Poussière de Roche
+ID : 23481
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48691.png
+DESCRIPTION : Si vous êtes allergiques, ne vous approchez pas.
+
+NAME : Branche de bambou spirituel
+ID : 23523
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/38670.png
+DESCRIPTION : Une branche provenant du dernier bambou spirituel de Plantala. Une espèce éteinte de végétal, provenant à l'origine du plan astral, farouchement gardée par un puissant yokai du nom de Shinotake.
+
+NAME : Haïku de papier : Qilin
+ID : 23845
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164797.png
+DESCRIPTION : Un heureux présage
+Pour les Tanuki bien plus !
+L'inspiration
+
+NAME : Haïku de papier : Granouille
+ID : 23846
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164797.png
+DESCRIPTION : Un porte-bonheur ?
+Des granouilles pandalouses
+au fond d'une chope
+
+NAME : Haïku de papier : Chtigre
+ID : 23847
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164797.png
+DESCRIPTION : Un chtigre est un chtigre
+Qu'il soit d'os ou de papier
+il vit dans ton ombre
+
+NAME : Haïku de papier : Cochon
+ID : 23848
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164797.png
+DESCRIPTION : Dragon ou cochon
+l'Amaknéen les confond -
+Son nez est bouché
+
+NAME : Haïku de papier : Cygrue
+ID : 23849
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164797.png
+DESCRIPTION : Un millier d'oiseaux
+virevoltent avec grâce
+Comme une prière
+
+NAME : Haïku d'encre : Mystère
+ID : 23850
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164798.png
+DESCRIPTION : Le plus grand mystère
+qui vous sera dévoilé
+s'écrit dans le noir
+
+NAME : Haïku d'encre : Conte
+ID : 23851
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164798.png
+DESCRIPTION : Le rideau se lève
+Histoire du temps passé
+Il était deux fois...
+
+NAME : Haïku d'encre : Illusion
+ID : 23852
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164798.png
+DESCRIPTION : Tout n'est que chimères
+La vérité ? La voici
+Le mensonge est tout
+
+NAME : Haïku d'encre : Ombre
+ID : 23853
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164798.png
+DESCRIPTION : Silhouettes floues
+projetées dans la lumière
+d'un théâtre d'encre
+
+NAME : Haïku d'encre : Invisible
+ID : 23854
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164798.png
+DESCRIPTION : Envers du décor
+Pas de marionnettiste ?
+Ta main suit la sienne
+
+NAME : Haïku du dragon : Résolution
+ID : 23855
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164799.png
+DESCRIPTION : Wukin et Wukang
+Miroirs d'une conscience
+Témoins d'un serment
+
+NAME : Haïku du dragon : Destruction
+ID : 23856
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164799.png
+DESCRIPTION : Souffle du bourreau
+Fin d'un monde à l'agonie -
+Retour au néant
+
+NAME : Haïku du dragon : Passion
+ID : 23857
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164799.png
+DESCRIPTION : Source de nos âmes
+En ton jardin j'ai trouvé
+mon pays perdu
+
+NAME : Haïku du dragon : Création
+ID : 23858
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164799.png
+DESCRIPTION : Trois sages savants
+Deux royaumes noir et blanc
+Un rêve éveillé
+
+NAME : Haïku du dragon : Renaissance
+ID : 23859
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164799.png
+DESCRIPTION : Domakuro d'encre
+Dorigami de papier -
+Dofus Tacheté
+
+NAME : Haïku des deux Royaumes : Floraison
+ID : 23860
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164800.png
+DESCRIPTION : Sous les frondaisons
+Une Pandawa sommeille
+Son cœur est en fleur
+
+NAME : Haïku des deux Royaumes : Moisson
+ID : 23861
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164800.png
+DESCRIPTION : Au bord des rizières
+Le plus fier de sa cueillette ?
+Le roi moskito
+
+NAME : Haïku des deux Royaumes : Fermentation
+ID : 23862
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164800.png
+DESCRIPTION : Dans la cuve d'or
+le miracle s'accomplit
+Tous les dieux sont gris
+
+NAME : Haïku des deux Royaumes : Sommeil
+ID : 23863
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164800.png
+DESCRIPTION : Doux maître des songes
+Prends-moi dans tes bras et sème
+mon dernier hiver
+
+NAME : Haïku des deux Royaumes : Passage
+ID : 23864
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164800.png
+DESCRIPTION : Sur le seuil de l'an,
+des promesses s'enracinent
+pour germer demain
+
+NAME : Haïku du Wukin : Soir
+ID : 23865
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164801.png
+DESCRIPTION : Le soir de descendre
+dépose un baiser d'argent
+sur les yeux des morts
+
+NAME : Haïku du Wukin : Sakoura
+ID : 23866
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164801.png
+DESCRIPTION : Déjà loin d'ici
+Les corolles caracolent
+Pleurs de cerisier
+
+NAME : Haïku du Wukin : Noir
+ID : 23867
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164801.png
+DESCRIPTION : Grillons grésillants
+Un chacha et deux sorcières -
+Cendres d'un foyer
+
+NAME : Haïku du Wukin : Épouvantail
+ID : 23868
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164801.png
+DESCRIPTION : Au milieu des champs
+le gardien pleure en silence
+les kwaks disparus
+
+NAME : Haïku du Wukin : Froid
+ID : 23869
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164801.png
+DESCRIPTION : Sentier de montagne
+Guide errant dans les reflets
+d'un écrin de glace
+
+NAME : Haïku du Wukang : Matin
+ID : 23870
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164802.png
+DESCRIPTION : Dès son premier jour
+Jiva brille à l'orient
+Soleil du matin
+
+NAME : Haïku du Wukang : Sakoura
+ID : 23871
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164802.png
+DESCRIPTION : Pour quels cieux pars-tu
+sakoura à peine éclos ?
+Juste l'horizon
+
+NAME : Haïku du Wukang : Chaleur
+ID : 23872
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164802.png
+DESCRIPTION : Tiré du fourneau
+Il rayonne sur nos tables
+Un festin de miettes
+
+NAME : Haïku du Wukang : Tonnerre
+ID : 23873
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164802.png
+DESCRIPTION : Orage annoncé
+Pluie sur une île endormie -
+Foudre des esprits
+
+NAME : Haïku du Wukang : Blanc
+ID : 23874
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164802.png
+DESCRIPTION : Pour ne pas trembler
+Sous le manteau de flocons
+Un bon bol de lait
+
+NAME : Haïku de Pandala : Taverne interdite
+ID : 23875
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164803.png
+DESCRIPTION : Un jardin tranquille
+où les cailloux font la ronde,
+Pandawa sourit
+
+NAME : Haïku de Pandala : Plantala
+ID : 23876
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164803.png
+DESCRIPTION : Je rêve d'un arbre
+Ses branches sont la ramure
+d'un cerf aux abois
+
+NAME : Haïku de Pandala : Terrdala
+ID : 23877
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164803.png
+DESCRIPTION : Fer né de la pierre,
+rocher contre pics et pioches,
+un chant pour Tanu ?
+
+NAME : Haïku de Pandala : Akwadala
+ID : 23878
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164803.png
+DESCRIPTION : Le chapeau d'écume
+du lait de bambou versé,
+larmes d'amertume
+
+NAME : Haïku de Pandala : Feudala
+ID : 23879
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164803.png
+DESCRIPTION : Un foux d'artifice
+hurle son désir ardent *
+d'aimer une étoile
+
+NAME : Haïku de Pandala : Aerdala
+ID : 23880
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164803.png
+DESCRIPTION : Entends-tu le vent
+chuchoter quelque secret ?
+Sa voix est muette
+
+NAME : Haïku de Pandala : Grobe
+ID : 23881
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164803.png
+DESCRIPTION : Vis tant qu'il est temps !
+Rien n'est gravé dans le marbre
+sauf ton épitaphe
+
+NAME : Haïku des samouraïs : Printemps
+ID : 23882
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164804.png
+DESCRIPTION : Dans le vieil étang
+un gros crapodo qui plonge
+PLOUF ! Le bruit de l'eau
+
+NAME : Haïku des samouraïs : Été
+ID : 23883
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164804.png
+DESCRIPTION : L'armée de l'été -
+Sous le regard du tofu,
+nous la faucherons
+
+NAME : Haïku des samouraïs : Automne
+ID : 23884
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164804.png
+DESCRIPTION : Des mots qui s'envolent
+Lueurs dansant sous la lune
+Soupirs d'étincelles
+
+NAME : Haïku des samouraïs : Hiver
+ID : 23885
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164804.png
+DESCRIPTION : Deux bras pour deux sabres
+Le poids léger de la neige
+Un pied dans la tombe
+
+NAME : Haïku des samouraïs : Nouvel an
+ID : 23886
+TYPE : Haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164804.png
+DESCRIPTION : Fil du katana
+Tisse le samouraï -
+Amis, ennemis.
+
+NAME : Pwimen
+ID : 24056
+TYPE : Légume
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42111.png
+DESCRIPTION : Ce légume entre dans la composition de la plupart des plats pandaliens et est à manipuler avec précaution. Tenez-le uniquement par la tige. Dans le cas contraire, lavez-vous immédiatement les mains car si par malheur vous les portez à vos yeux ou à votre bouche vous risqueriez de perdre la vue ou l'odorat.
+
+NAME : Offrande aux esprits célestes
+ID : 24102
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164704.png
+DESCRIPTION : Ce sachet de soie écarlate contient une prière aux créatures spirituelles. Déposez-le comme une offrande sur les autels des Royaumes célestes, et peut-être certains esprits vous accorderont-ils un peu d'attention...
+
+NAME : Archeton
+ID : 24959
+TYPE : Ressources de Temporis
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/126126.png
+DESCRIPTION : Lorsqu'on passe sa vie au grand casino, on a moins le temps de voyager, mais grace à ce jeton, vous pourrez combattre l'archimonstre de votre choix.
+
+NAME : Rechercheton
+ID : 24960
+TYPE : Ressources de Temporis
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/126125.png
+DESCRIPTION : Plus besoin de chercher, avec ce Rechercheton, vous allez vite trouver.
+
+NAME : Potion d'autopilotage pour montilier
+ID : 25358
+TYPE : Nourriture pour familier
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/12799.png
+DESCRIPTION : Cette potion confère à un montilier la capacité permanente d'autopilotage qui lui permet de se rendre automatiquement à la destination indiquée.
+
+NAME : Parchoton
+ID : 25769
+TYPE : Ressources de Temporis
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/126128.png
+DESCRIPTION : Ce petit fragment de parchomancie sent encore légèrement la magie détruite, qu'un connaisseur classifierait de doux mélange entre mysticisme et rêve d'aventure. Pour les autres, l'odeur dégagée se situe entre la roulade de carne et la patate.
+
+NAME : Emballage de tendresse
+ID : 12912
+TYPE : Emballage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/154011.png
+DESCRIPTION : Cet emballage va vous permettre de créer un paquet cadeau que vous pourrez offrir à qui vous voulez !
+
+NAME : Pass Location illimitée
+ID : 27205
+TYPE : Ressources de Temporis
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25145.png
+DESCRIPTION : Grâce à ce pass, vous allez pouvoir avoir accès à tous les cosmétiques de votre choix de façon illimitée et refaire votre garde-robe afin d'être le bestiologue le plus stylé d'Osatopia.
+
+NAME : Ronce ephedryenne
+ID : 27748
+TYPE : Plante
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25014.png
+DESCRIPTION : Ces ronces forment habituellement une barricade autour de l'enceinte du château de Belladone dans le seul but de décourager les aventuriers qui voudraient s'y aventurer.
+
+NAME : Clous de Percepteur
+ID : 27929
+TYPE : Ressources de Percepteur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24125.png
+DESCRIPTION : Un Percepteur ne se déplace jamais sans clous sur ses fers. Meilleure adhérence au sol, coups portés plus efficaces, vraiment, les clous leur sont indispensables.
+
+NAME : Mailles de Percepteur
+ID : 27930
+TYPE : Ressources de Percepteur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/55020.png
+DESCRIPTION : Les vêtements que revêtent les Percepteurs ne doivent leur porter ni trop chaud, ni trop froid. C'est pourquoi leurs tuniques sont généralement confectionnées avec ces mailles.
+
+NAME : Hampe de Percepteur
+ID : 27931
+TYPE : Ressources de Percepteur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24126.png
+DESCRIPTION : Cette hampe magique permet de révéler le blason de l'alliance qui emploie le Percepteur sur sa bannière. Ainsi, quiconque osera l'attaquer saura à qui s'attendre.
+
+NAME : Lame de Percepteur
+ID : 27932
+TYPE : Ressources de Percepteur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24127.png
+DESCRIPTION : Ce n'est pas parce que les Percepteurs cachent leurs armes qu'ils n'en ont pas. Une fois affûtée, cette lame deviendra une de leurs redoutables dagues.
+
+NAME : Plaque de Percepteur
+ID : 27933
+TYPE : Ressources de Percepteur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24128.png
+DESCRIPTION : Les cuirasses des Percepteurs sont toujours ornées de ce genre de plaque. À la fois solide et légère, elle permet de parer les coups tout en facilitant les mouvements.
+
+NAME : Serrure de Percepteur
+ID : 27934
+TYPE : Ressources de Percepteur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24129.png
+DESCRIPTION : Les seuls coffres que les Percepteurs acceptent de porter sont ceux qui portent cette serrure. D'après eux, elles sont les seules à garantir la sécurité des biens qui s'y trouvent.
+
+NAME : Sangle de Percepteur
+ID : 27935
+TYPE : Ressources de Percepteur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24753.png
+DESCRIPTION : Les Percepteurs ont souvent affaire à des aventuriers peu scrupuleux qui tentent de leur dérober le butin qu'ils gardent. Ces sangles sont idéales pour tenir fermement les sacoches qu'ils portent, même dans les situations les plus mouvementées telles que la course poursuite ou encore, bien évidemment, le combat.
+
+NAME : Œuf Chimérique
+ID : 28256
+TYPE : Œuf
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/105651.png
+DESCRIPTION : Une chose est sûre : voilà un œuf qui ne sera pas lourd à digérer.
+
+NAME : Clef Premium
+ID : 28398
+TYPE : Clef
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24790.png
+DESCRIPTION : Cette clef ouvre des possibilités insoupçonnées.
+
+NAME : Morceau du Ménologium
+ID : 29117
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/80046.png
+DESCRIPTION : Assemblez les douze morceaux du Ménologium : vous pourrez ensuite brandir fièrement ce bouclier mythique jusqu'à ce que Silvosse vous éparpille façon puzzle.
+
+NAME : Module d'analyse
+ID : 30067
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136127.png
+DESCRIPTION : Vous n'avez pas tout compris à ses explications, mais l'Ankamien vous a assuré que cette machine sera capable de traiter les informations de vos combats. Il lui manque cependant plusieurs éléments pour être parfaitement fonctionnelle.
+
+NAME : Module d'impression
+ID : 30068
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136128.png
+DESCRIPTION : Cette petite machine est capable d'émettre des bouts de papiers.
+
+NAME : Rubis onirique
+ID : 30069
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/50100.png
+DESCRIPTION : Ce rubis infusé du pouvoir du maître des rêves permettra à votre analyseur de capturer l'essence des songes que vous affronterez.
+
+NAME : Module optique
+ID : 30070
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136129.png
+DESCRIPTION : Ce boitier muni d'une lentille semble pouvoir capturer des images haute résolution, quoi que ça puisse bien vouloir dire.
+
+NAME : Liquide mauve
+ID : 30095
+TYPE : Liquide
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136126.png
+DESCRIPTION : Un ingrédient indispensable pour faire un bon mauvitif.
+
+NAME : Peluche du Nomoon
+ID : 30170
+TYPE : Peluche
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/18011.png
+DESCRIPTION : Bon, elle n'est que virtuelle, d'accord, mais c'est quand même une peluche ultra méga collector !
+
+NAME : Ovaton
+ID : 30466
+TYPE : Ressources diverses
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164184.png
+DESCRIPTION : « Je n'étais pas le meilleur parce que je frappais plus vite, j'étais le meilleur parce que la foule m'aimait. Gagne la foule, Maximor, et tu auras ta liberté. »
+
+— Proximor, gladiateur vétéran.
+
+NAME : Ticket de loterie
+ID : 7220
+TYPE : Ressources diverses
+LEVEL : 2
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/15717.png
+DESCRIPTION : Vous avez entre les mains, un superbe ticket de loterie, gardez-le précieusement, il se pourrait que vous soyez l'heureux élu du très grand tirage au sort !
+
+NAME : Pétale Diaphane
+ID : 16513
+TYPE : Fleur
+LEVEL : 2
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/35642.png
+DESCRIPTION : Si vous pensiez vous faire un couvre-chef qui vous protégera du soleil avec ces pétales, vous vous fourrez le doigt dans l'œil.
+
+NAME : Peau de Gloot
+ID : 16522
+TYPE : Peau
+LEVEL : 2
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164066.png
+DESCRIPTION : Tel un ballon de baudruche, cette peau renferme l'eau qui permet aux Gloots de survivre. Si vous voulez en venir à bout, une simple aiguille devrait suffire.
+

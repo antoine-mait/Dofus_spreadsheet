@@ -1,0 +1,172 @@
+NAME : Le Floude
+ID : 8533
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16169.png
+DESCRIPTION : Le Floude n'est pas réellement un chapeau mais un parasite se développant sur le crâne des personnes trop volubiles, excessivement bruyantes, ou simplement verbalement agressives. Son aspect repoussant fait fuir les gens, ce qui pousse son porteur à crier encore plus fort pour se faire entendre, sans succès évidement, puisqu'il n'a rien à dire de toute façon.
+RECIPES:
+  - ID: 16511, Quantity: 2
+  - ID: 421, Quantity: 2
+EFFECTS:
+  - 3 à 4 Sagesse
+  - 4 à 6 Agilité
+IS WEAPON: False
+PARENT SET ID: 69
+PARENT SET NAME: Panoplie du Boune
+
+NAME : Chapeau du Marié
+ID : 6660
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16053.png
+DESCRIPTION : Avec un tel chapeau qui saurait vous dire non ?
+À vous la gloire et les conquêtes !
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Chapeau de la Mariée
+ID : 6662
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16054.png
+DESCRIPTION : Faites-le fondre comme une gelée menthe au soleil avec cette merveilleuse coiffe en soie de larve du sud, lavable à l'eau douce.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Casque des Mercenaires d'Astrub
+ID : 6863
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16072.png
+DESCRIPTION : Casque des Mercenaires d'Astrub.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Tête de Citwouille
+ID : 8162
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16134.png
+DESCRIPTION : Vous aurez l'air encore plus stupide que d'habitude avec cette Citwouille magique sur la tête, mais rappelez-vous de la malédiction d'Halouine, qui transforme certaines créatures en d'étranges bêtes difformes...
+Il semblerait que seule cette coiffe puisse vous prémunir de cette terrible malédiction.
+RECIPES: None
+EFFECTS:
+  - 1 à 10 Initiative
+  - 1 à 5 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Louffeur
+ID : 940
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16020.png
+DESCRIPTION : Le Louffeur prévient des dégâts physiques.
+RECIPES:
+  - ID: 16515, Quantity: 3
+  - ID: 16518, Quantity: 3
+EFFECTS:
+  - 1 Résistance Neutre
+  - 1 Résistance Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Perruque du Poolay
+ID : 8828
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16196.png
+DESCRIPTION : Le Poolay est un volatile malhabile qui a autant de vivacité qu'un Tofu déshydraté.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Crack Sparrow's Own Withered Hat
+ID : 8854
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16005.png
+DESCRIPTION : Event Shika
+RECIPES: None
+EFFECTS:
+  - 61 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Chapeau de l'intrépide
+ID : 10801
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16264.png
+DESCRIPTION : Ce chapeau cache admirablement votre calvitie. Malheureusement, il n'en n'existe pas d'assez grand pour cacher votre fausse modestie.
+RECIPES: None
+EFFECTS:
+  - 1 Vitalité
+  - 1 Initiative
+  - Lié au personnage
+IS WEAPON: False
+PARENT SET ID: 150
+PARENT SET NAME: Panoplie de l'intrépide
+
+NAME : Casque isolant
+ID : 17961
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16250.png
+DESCRIPTION : Deks vous a assuré que ce casque vous permettrait de résister à l'influence des crystaux de résonance. Vous espérez qu'il est efficace : quitte à avoir l'air ridicule, autant que ce ne soit pas pour rien.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Chapeau Transparent
+ID : 18145
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16463.png
+DESCRIPTION : Invisible dans le noir, il l'est tout autant à la lumière.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Casque alourdi
+ID : 21712
+TYPE : Chapeau
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16025.png
+DESCRIPTION : Ce casque a été conçu dans un seul but : empêcher des Gobelins de se rendre sur l'île de Moon. Ne lui cherchez pas une autre utilité, vous risqueriez d'être déçu.
+RECIPES:
+  - ID: 641, Quantity: 1
+  - ID: 16487, Quantity: 1
+  - ID: 312, Quantity: 4
+EFFECTS:
+  - Craft coopératif impossible.
+  - Lié au personnage
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Lisseur
+ID : 942
+TYPE : Chapeau
+LEVEL : 2
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/16023.png
+DESCRIPTION : Le Lisseur prévient des dégâts magiques.
+RECIPES:
+  - ID: 519, Quantity: 3
+  - ID: 1984, Quantity: 3
+EFFECTS:
+  - 1 Résistance Eau
+  - 1 Résistance Air
+  - 1 Résistance Feu
+IS WEAPON: False
+PARENT SET: None
+
