@@ -1,0 +1,4979 @@
+NAME : Docteur mineur
+ID : 13754
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151088.png
+DESCRIPTION : Ce Trophée vous permet de jouer au docteur avec vos alliés ou avec vos ennemis si vos combats sont trop faciles.
+RECIPES:
+  - ID: 13489 / Miroir de Dopeul, Quantity: 10
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 8 Soins
+  - -50 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Sanguinaire mineur
+ID : 16337
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151261.png
+DESCRIPTION : Vos amis ont l'eau à la bouche quand ils vous voient saigner mais refusent de goûter votre délicieuse soupe à l'ail. Étrange.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 429 / Miséricorde du Chafer d'Élite, Quantity: 10
+  - ID: 2286 / Bandelettes, Quantity: 10
+EFFECTS:
+  - 3 Dommages Neutre
+  - 3 Dommages Terre
+  - 3 Dommages Feu
+  - 3 Dommages Eau
+  - 3 Dommages Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Observateur
+ID : 16336
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151264.png
+DESCRIPTION : À l'aide d'une longue-vue, loin du combat, perché dans un arbre, l'observateur joue souvent un rôle déterminant dans une bataille. Il est surtout le premier à pouvoir s'enfuir quand il s'aperçoit que la situation tourne au désavantage de ses alliés.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 5
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 13729 / Papier Charbon, Quantity: 10
+  - ID: 2494 / Pommeau d'Epée, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 5
+EFFECTS:
+  - 2 Portée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fuyard mineur
+ID : 12625
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151034.png
+DESCRIPTION : Ce Trophée permet de se sauver au bon comme au mauvais moment.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2463 / Dent de Kwoan, Quantity: 3
+EFFECTS:
+  - 4 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Vigoureux mineur
+ID : 16330
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151202.png
+DESCRIPTION : Pour ne pas vous ramollir l'esprit, n'oubliez pas de rester psychorigide.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 2504 / Langue de Craquelope, Quantity: 10
+  - ID: 2506 / Grelot, Quantity: 1
+EFFECTS:
+  - 20 Puissance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Air mineur
+ID : 16327
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151241.png
+DESCRIPTION : Ce trophée vous protégera des cyclones, mais pas des six clones.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 2669 / Chauve-souris, Quantity: 1
+  - ID: 2653 / Arakne Majeure Morte, Quantity: 1
+EFFECTS:
+  - 3% Résistance Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ralentisseur mineur
+ID : 12628
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151067.png
+DESCRIPTION : Ce Trophée permet de mieux ralentir les déplacements des adversaires pour les rattraper plus rapidement et leur infliger une humiliation méritée, comme une fessée culotée par exemple.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 439 / Canine de Mergranlou, Quantity: 3
+EFFECTS:
+  - 3 Retrait PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Eau mineur
+ID : 16324
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151232.png
+DESCRIPTION : Ce trophée protège des larmes de Crocodaille.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 417 / Boue du Boo, Quantity: 10
+  - ID: 2576 / Parchoton, Quantity: 10
+EFFECTS:
+  - 3% Résistance Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Feu mineur
+ID : 16321
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151235.png
+DESCRIPTION : Ce trophée fera un excellent cendrier si vous préférez utilisez le calumet de la paix plutôt que de combattre.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 2585 / Cœur de Boue du Boo, Quantity: 1
+  - ID: 2484 / Trident Cassé, Quantity: 10
+EFFECTS:
+  - 3% Résistance Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Engourdisseur mineur
+ID : 12631
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151022.png
+DESCRIPTION : Ce Trophée permet d'engourdir plus facilement les dégourdis. Il semble fonctionner sur les gourdes également.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2642 / Mâchoire de Rib, Quantity: 3
+EFFECTS:
+  - 3 Retrait PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Neutre mineur
+ID : 16318
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151244.png
+DESCRIPTION : Ce trophée vous protégera de tous les indécis qui ne savent pas choisir leur camp lors d'un affrontement.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 2501 / Queue de Croc Gland, Quantity: 10
+  - ID: 2274 / Bougie du Mineur Sombre, Quantity: 1
+EFFECTS:
+  - 3% Résistance Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Terre mineur
+ID : 16314
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151238.png
+DESCRIPTION : Ce trophée repousse la poussière chez votre voisin. Si vous l'utilisez à l'envers, il pourrait peut-être repousser votre voisin dans la poussière.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 1893 / Queue de scorbute, Quantity: 10
+  - ID: 2274 / Bougie du Mineur Sombre, Quantity: 1
+EFFECTS:
+  - 3% Résistance Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fugitif mineur
+ID : 12634
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151028.png
+DESCRIPTION : Ce Trophée permet d'échapper à tous ceux qui essayent de vous empêcher d'atteindre votre destination. Ne fonctionne pas contre ceux qui vous empêchent d'atteindre votre destinée.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2598 / Pic de Dragodinde Rousse Sauvage, Quantity: 3
+EFFECTS:
+  - 4 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fonceur mineur
+ID : 16311
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151226.png
+DESCRIPTION : Rien ne sert de mourir ; il faut fuir à point.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 2496 / Rechercheton, Quantity: 10
+  - ID: 13728 / Paupière d'Étoile, Quantity: 10
+EFFECTS:
+  - 200 Initiative
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Solide mineur
+ID : 16308
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151250.png
+DESCRIPTION : Solide mais pas incassable. C'est avec ces mots que vos alliés vous décrivirent juste avant de vous casser les deux gros orteils suite à une mauvaise blague.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 649 / Poils de Wo Wabbit, Quantity: 10
+  - ID: 8481 / Poil de Rat d'Égoutant, Quantity: 10
+EFFECTS:
+  - 24 Résistances Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Insaisissable mineur
+ID : 12637
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151040.png
+DESCRIPTION : Ce Trophée permet d'échapper à tous ceux qui essayent de limiter vos actions. Ne fonctionne pas contre les banquiers.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 8740 / Chicot du Flib, Quantity: 3
+EFFECTS:
+  - 4 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Culbuteur mineur
+ID : 16303
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151205.png
+DESCRIPTION : Le Culbuteur, c'est le surnom qui vous était donné lorsque vous retourniez votre veste sans avoir de veste.
+RECIPES:
+  - ID: 2248 / Poil d'Ouginak, Quantity: 10
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 13491 / Relique Familiale, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+EFFECTS:
+  - 16 Dommages Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cavaleur mineur
+ID : 16300
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151208.png
+DESCRIPTION : Il n'y a aucune honte à fuir... lorsque l'on n'a aucune chance de gagner.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 2315 / Poils de Croc Gland, Quantity: 10
+  - ID: 646 / Poils de Black Tiwabbit, Quantity: 10
+EFFECTS:
+  - 8 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Pousseur mineur
+ID : 12640
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151025.png
+DESCRIPTION : Ce Trophée permet de faire un peu plus mal à vos adversaires lorsque vous les poussez contre un arbre, du marbre ou un autre adversaire glabre.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2179 / Dent de Dragodinde, Quantity: 3
+EFFECTS:
+  - 8 Dommages Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Évasif mineur
+ID : 16292
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151229.png
+DESCRIPTION : L'évasion fiscale permet de se protéger des impôts et des taxes qui permettraient aux pauvres de voler les riches.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 2301 / Moustache de Kolérat, Quantity: 10
+  - ID: 409 / Poils de Barbe du Bwork Mage, Quantity: 10
+EFFECTS:
+  - 8 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Étourdisseur mineur
+ID : 16282
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151199.png
+DESCRIPTION : Cogner votre tête contre celle de votre adversaire afin de l'étourdir semblait être une action tactique intéressante. Jusqu'à ce que vous vous rappeliez qu'il avait un casque et pas vous.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 1141 / Plume du Kwak de Terre, Quantity: 10
+  - ID: 2479 / Fléau de Robot Fléau, Quantity: 1
+EFFECTS:
+  - 6 Retrait PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Adamantin mineur
+ID : 12643
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151004.png
+DESCRIPTION : Ce Trophée permet de moins souffrir lorsque vos adversaires ou vos alliés vous poussent contre un arbre, une personne, une bestiole ou encore tout simplement un gros truc dur. Ne protège pas des gifles même celles prodiguées par des mains calleuses.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2528 / Ongle de Kanigrou, Quantity: 3
+EFFECTS:
+  - 12 Résistances Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Temporiseur mineur
+ID : 16274
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151196.png
+DESCRIPTION : Votre technique n'est pas d'être le plus rapide, vous cherchez juste à ralentir les autres pour ne pas être le plus lent. Cette technique a déjà fait ses preuves dans toutes les administrations du Monde des Douze.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 414 / Plume du Kwak de Glace, Quantity: 10
+  - ID: 2282 / Touffe de Cheveux Blancs, Quantity: 1
+EFFECTS:
+  - 6 Retrait PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Air mineur
+ID : 16265
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151220.png
+DESCRIPTION : Vous chercherez toute votre vie la constante de l'air sans jamais la trouver.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 13596 / Peau de Larve Dorée, Quantity: 1
+  - ID: 8158 / Plume Graisseuse du Tofu Ventripotent, Quantity: 10
+EFFECTS:
+  - 5 Dommages Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Rempart mineur
+ID : 12646
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151064.png
+DESCRIPTION : Ce Trophée protège des coups critiques dans les endroits critiques lors des situations critiques. Une fois équipé, vous subirez un effet secondaire désagréable pour vos proches : vous ne subirez plus la critique.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2514 / Sabot de Gliglicérin, Quantity: 3
+EFFECTS:
+  - 3 Résistances Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Eau mineur
+ID : 16262
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151211.png
+DESCRIPTION : Vous avez toujours pensé pouvoir vivre d'amour et d'eau fraîche. Mais vous passer des bains chauds en hiver était trop difficile.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 13594 / Peau de Larve Émeraude, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+EFFECTS:
+  - 5 Dommages Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Feu mineur
+ID : 16258
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151214.png
+DESCRIPTION : Vous faîtes feu de tout bois lorsqu'il s'agit de prendre l'avantage sur votre adversaire : jurons, provocations, mauvaises blagues et peaux de bananes.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 13715 / Dent de Larve Dorée, Quantity: 10
+  - ID: 8483 / Peau de Ramane d'Égoutant, Quantity: 10
+EFFECTS:
+  - 5 Dommages Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Air mineur
+ID : 12649
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151007.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Air mais pas des courants d'air.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2322 / Crocs de Rats, Quantity: 3
+EFFECTS:
+  - 6 Résistances Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Neutre mineur
+ID : 16255
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151223.png
+DESCRIPTION : Là où passe votre Dragodinde, l'herbe ne repousse pas.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 418 / Poils de Barbe du Grand Pa Wabbit, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 13714 / Dent de Larve Rubis, Quantity: 10
+  - ID: 14635 / Pépite, Quantity: 10
+EFFECTS:
+  - 5 Dommages Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Terre mineur
+ID : 16252
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151217.png
+DESCRIPTION : Les monstres vous mordront les fesses et vous mordrez la poussière. Pauvres monstres.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 13713 / Dent de Larve Saphir, Quantity: 10
+  - ID: 14457 / Patte de Black Wabbit, Quantity: 10
+EFFECTS:
+  - 5 Dommages Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Eau mineur
+ID : 12652
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151010.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Eau mais pas des attaques de chasses d'eau.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 310 / Os de Chafer, Quantity: 3
+EFFECTS:
+  - 6 Résistances Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fortification mineure
+ID : 16249
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151247.png
+DESCRIPTION : Cette terreur des bacs à sable qui avait écrasé votre château d'un poing vengeur vous a traumatisé à vie. Le temps est venu de lui faire payer cet affront.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 16148 / Poil d'Abrakne, Quantity: 10
+  - ID: 408 / Dentier du Chafer d'Élite, Quantity: 1
+EFFECTS:
+  - 8 Résistances Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Chanceux mineur
+ID : 16246
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151175.png
+DESCRIPTION : Vous aviez 99% de chances d'avoir un verre à moitié vide et on vous a servi un verre à moitié plein. Quelle chance !
+RECIPES:
+  - ID: 2564 / Sourcils de Tronknyde, Quantity: 1
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 10
+EFFECTS:
+  - 25 Chance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Feu mineur
+ID : 12659
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151013.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Feu mais pas des Feux de l'amour.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 383 / Corne de Boufton, Quantity: 3
+EFFECTS:
+  - 6 Résistances Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cascadeur mineur
+ID : 16243
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151178.png
+DESCRIPTION : Cette chute lamentable sur une peau de banane était une cascade destinée à faire rire vos amis. Personne ne vous croit, mais tout le monde a bien rigolé.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 9382 / Fleur de Blopignon, Quantity: 10
+  - ID: 2673 / Œuf Pourri, Quantity: 1
+EFFECTS:
+  - 25 Agilité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Érudit mineur
+ID : 16202
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151169.png
+DESCRIPTION : Alliez-vous avec des Bworks pour devenir l'intellectuel du groupe.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 10
+  - ID: 2253 / Fleur de Gloutovore, Quantity: 10
+EFFECTS:
+  - 25 Intelligence
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Terre mineur
+ID : 12680
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151019.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Terre sauf si vous vous trouvez dans la terre du milieu.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 375 / Dent de Tofu Mutant, Quantity: 3
+EFFECTS:
+  - 6 Résistances Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Enragé mineur
+ID : 16194
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151172.png
+DESCRIPTION : La bave sur vos lèvres vous permettra de simuler le passage d'un Kaskargo lorsque vous mordrez la poussière.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 16167 / Lamelle de Champa Rouge, Quantity: 10
+EFFECTS:
+  - 25 Force
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Miraculé mineur
+ID : 16191
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151181.png
+DESCRIPTION : Mieux vaut être miraculé qu'acculé.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 16166 / Lamelle de Champa Marron, Quantity: 10
+  - ID: 305 / Dent de Wabbit, Quantity: 10
+EFFECTS:
+  - 80 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Neutre mineur
+ID : 12683
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151016.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Neutre mais n'empêchera pas vos adversaires de sortir de leur neutralité lorsque les hostilités débuteront.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2259 / Pic de Lance de Gobet, Quantity: 3
+EFFECTS:
+  - 6 Résistances Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Guérisseur mineur
+ID : 16188
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151187.png
+DESCRIPTION : Ce Trophée vous aide à guérir vos alliés en distribuant de bons conseils : "un grand verre d'eau soigne tous les maux, un grand bol de sciure soigne toutes les fractures".
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 16165 / Lamelle de Champa Bleu, Quantity: 10
+  - ID: 14459 / Moustaches de Tiwabbit, Quantity: 10
+EFFECTS:
+  - 8 Soins
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Déserteur mineur
+ID : 16185
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151193.png
+DESCRIPTION : Ce Trophée ne vous sera d'aucune utilité lors de votre traversée du désert.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 3208 / Slip de Bwork Archer, Quantity: 10
+  - ID: 16149 / Œil d'Abrakne, Quantity: 1
+EFFECTS:
+  - 8 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Obstructeur mineur
+ID : 16182
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151190.png
+DESCRIPTION : A défaut de trépasser, vos ennemis ne passeront pas.
+RECIPES:
+  - ID: 749 / Bakélélite, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2543 / Substrat de Fascine, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 10
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 10
+  - ID: 16148 / Poil d'Abrakne, Quantity: 10
+EFFECTS:
+  - 8 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Féroce mineur
+ID : 13832
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151166.png
+DESCRIPTION : Avec ce Trophée vos ennemis se sauveront en pleurant, ils comprendront que vous êtes capable du meilleur comme du pire mais surtout du pire.
+RECIPES:
+  - ID: 13502 / Fluide Glacial, Quantity: 10
+  - ID: 13487 / Serviette de Plage, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 3 Dommages Eau
+  - 3 Dommages Neutre
+  - 3 Dommages Air
+  - 3 Dommages Terre
+  - 3 Dommages Feu
+  - -6 Dommages Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Air mineur
+ID : 12688
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151049.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Air de ceux qui ne manquent pas d'air.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 430 / Os Invisible du Chafer Invisible, Quantity: 3
+EFFECTS:
+  - 3 Dommages Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Examinateur
+ID : 13831
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151165.png
+DESCRIPTION : Aucun détail ne pourra vous échapper grâce à ce Trophée, pas même la petite tâche de graisse de Blop sur la chemise de votre ennemi caché derrière un buisson lui-même caché dans un trou, de l'autre côté de la colline cachée par le brouillard.
+RECIPES:
+  - ID: 13494 / Nageoire de Compétition, Quantity: 30
+  - ID: 12737 / Galet cramoisi, Quantity: 5
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 5
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+EFFECTS:
+  - 1 Portée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Robuste mineur
+ID : 13826
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151160.png
+DESCRIPTION : Vos ennemis pourront profiter de son arrière goût de rouille antique quand ils se casseront les dents dessus.
+RECIPES:
+  - ID: 13489 / Miroir de Dopeul, Quantity: 10
+  - ID: 2502 / Papatte de Croc Gland, Quantity: 5
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 20 Puissance
+  - -3% Critique
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Eau mineur
+ID : 12691
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151052.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Eau mais il reste inutile si vous désirez mettre de l'eau dans votre vin.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2252 / Dent en Or de Craqueleur, Quantity: 1
+EFFECTS:
+  - 3 Dommages Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Puissant mineur
+ID : 13823
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151157.png
+DESCRIPTION : La publicité de ce Trophée est plutôt explicite : "Pour une poignée de Kamas seulement, combattez l'impuissance et retrouvez votre vigueur d'antan."
+A ne pas mettre entre toutes les mains.
+RECIPES:
+  - ID: 13502 / Fluide Glacial, Quantity: 10
+  - ID: 13505 / Bourse Suspecte, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 10 Puissance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Air mineure
+ID : 13820
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151154.png
+DESCRIPTION : Avec ce Trophée vous resterez dans l'air du temps.
+RECIPES:
+  - ID: 13489 / Miroir de Dopeul, Quantity: 10
+  - ID: 13505 / Bourse Suspecte, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 10 Résistances Air
+  - -2% Résistance Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Feu mineur
+ID : 12694
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151055.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Feu. L'étiquette qui y était accrochée indiquait : « Grâce à lui vous êtes tout feu tout flamme et le cœur de votre ennemi s'enflamme ».
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 407 / Pic de Prespic, Quantity: 3
+EFFECTS:
+  - 3 Dommages Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Eau mineure
+ID : 13817
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151151.png
+DESCRIPTION : Ne jetez pas ce Trophée avec l'eau du bain.
+RECIPES:
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 10
+  - ID: 2502 / Papatte de Croc Gland, Quantity: 5
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 10 Résistances Eau
+  - -2% Résistance Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Neutre mineur
+ID : 12696
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151058.png
+DESCRIPTION : Ce trophée augmente les dommages d'élément Neutre. Il a été imaginé par un célèbre forgeur de hache : Giuseppe Hacheneutre.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2509 / Dent de Larve Champêtre, Quantity: 3
+EFFECTS:
+  - 3 Dommages Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Feu mineure
+ID : 13814
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151148.png
+DESCRIPTION : Ce Trophée pourrait vous sauver la vie dans le feu de l'action.
+RECIPES:
+  - ID: 13494 / Nageoire de Compétition, Quantity: 10
+  - ID: 13505 / Bourse Suspecte, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 10 Résistances Feu
+  - -2% Résistance Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Neutre mineure
+ID : 13811
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151145.png
+DESCRIPTION : Ce Trophée vous empêchera de prendre des décisions en combat et vous ne pourrez plus vous blesser en tentant de lancer un sort.
+RECIPES:
+  - ID: 2502 / Papatte de Croc Gland, Quantity: 5
+  - ID: 13487 / Serviette de Plage, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 10 Résistances Neutre
+  - -2% Résistance Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Terre mineure
+ID : 13808
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151142.png
+DESCRIPTION : Ce Trophée protège des chutes de terre. Très pratique pour labourer des plafonds en terre cuite.
+RECIPES:
+  - ID: 13494 / Nageoire de Compétition, Quantity: 10
+  - ID: 13502 / Fluide Glacial, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 10 Résistances Terre
+  - -2% Résistance Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Initiateur mineur
+ID : 12702
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151037.png
+DESCRIPTION : Ce Trophée permet d'augmenter l'initiative à défaut d'en prendre.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 379 / Pince de Crabe, Quantity: 3
+EFFECTS:
+  - 100 Initiative
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Précurseur mineur
+ID : 13805
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151139.png
+DESCRIPTION : Agir en premier vous donnera l'opportunité de commettre la première bêtise, de passer pour un idiot, d'être ignoré comme cible prioritaire, de périr en dernier et donc d'être considéré comme un héros.
+RECIPES:
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 10
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 200 Initiative
+  - -25 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Porteur mineur
+ID : 12704
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151046.png
+DESCRIPTION : Ce Trophée permet d'augmenter le poids maximum portable. Mais il n'est pas assez puissant pour vous aider à supporter le poids de votre conscience.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2316 / Couteau de Roukouto, Quantity: 3
+EFFECTS:
+  - 250 Pods
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Inflexible mineur
+ID : 13802
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151136.png
+DESCRIPTION : Quand la pression devient trop forte, quand les lourds deviennent trop lourds et quand le poids de votre conscience dépasse le poids de vos années, il devient temps d'utiliser ce Trophée.
+RECIPES:
+  - ID: 13502 / Fluide Glacial, Quantity: 10
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 24 Résistances Poussée
+  - -8 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Bousculeur mineur
+ID : 13799
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151133.png
+DESCRIPTION : Ce Trophée permet de casser les pieds des autres aventuriers à chaque fois que vous les croisez.
+Après mûre réflexion, vous en déduisez que toutes vos anciennes conquêtes amoureuses devaient en être équipées.
+RECIPES:
+  - ID: 13502 / Fluide Glacial, Quantity: 10
+  - ID: 13489 / Miroir de Dopeul, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 16 Dommages Poussée
+  - -8 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Soigneur mineur
+ID : 12707
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151073.png
+DESCRIPTION : Ce Trophée permet d'augmenter les soins. Ce n'est pas avec ça que vous aurez l'air viril.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 8744 / Pince de Crustorail, Quantity: 3
+EFFECTS:
+  - 4 Soins
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Evanescent mineur
+ID : 13796
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151130.png
+DESCRIPTION : De ce Trophée suinte un liquide visqueux vous permettant d'esquiver les tentatives d'entrave de vos adversaires.
+Vos câlins seront également beaucoup moins rugueux.
+RECIPES:
+  - ID: 13494 / Nageoire de Compétition, Quantity: 10
+  - ID: 2502 / Papatte de Croc Gland, Quantity: 5
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 8 Esquive PM
+  - -8 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Tacleur mineur
+ID : 12622
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151079.png
+DESCRIPTION : Ce Trophée permet de garder les pleutres à proximité. Pour mieux les piétiner.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2599 / Pic de Dragodinde, Quantity: 3
+EFFECTS:
+  - 4 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Acrobate mineur
+ID : 12712
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151001.png
+DESCRIPTION : Ce Trophée permet d'augmenter son Agilité. Vous allez enfin réussir à monter sur une échelle sans tomber.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 305 / Dent de Wabbit, Quantity: 3
+EFFECTS:
+  - 15 Agilité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Imprenable mineur
+ID : 13793
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151127.png
+DESCRIPTION : Ce Trophée diffuse à intervalles réguliers de petites décharges de foudre permettant aux muscles de se contracter et d'éviter de s'engourdir.
+Juste assez pour ne pas s'endormir lors des repas de famille.
+RECIPES:
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 10
+  - ID: 13489 / Miroir de Dopeul, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 8 Esquive PA
+  - -8 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Paralyseur mineur
+ID : 13790
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151124.png
+DESCRIPTION : Ce Trophée paralyse de honte vos coéquipiers à chaque fois que vous vous trompez de cible.
+Dissuasif pour certains, amusant pour d'autres.
+RECIPES:
+  - ID: 13489 / Miroir de Dopeul, Quantity: 10
+  - ID: 13487 / Serviette de Plage, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 6 Retrait PA
+  - -6 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Entraveur mineur
+ID : 13787
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151121.png
+DESCRIPTION : Ce Trophée permet de ralentir la charge d'une épouse enragée ou la fuite d'un mari esquivant les tâches ménagères.
+Enfin un Trophée pour tous.
+RECIPES:
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 10
+  - ID: 13505 / Bourse Suspecte, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 6 Retrait PM
+  - -6 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Air mineur
+ID : 13784
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151118.png
+DESCRIPTION : On raconte à propos de ce Trophée qu'il force son propriétaire à combattre les fesses à l'air.
+Soudain, vous êtes pris d'une irrésistible envie de l'équiper.
+RECIPES:
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 10
+  - ID: 13494 / Nageoire de Compétition, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 5 Dommages Air
+  - -2% Résistance Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Joueur mineur
+ID : 12717
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151043.png
+DESCRIPTION : Ce Trophée permet d'augmenter sa Chance. Il ne semble pas fonctionner pour les tentatives de séduction désespérées.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 387 / Défense du Sanglier, Quantity: 3
+EFFECTS:
+  - 15 Chance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Savant mineur
+ID : 12718
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151070.png
+DESCRIPTION : Ce Trophée permet d'augmenter l'Intelligence. Mais pourquoi n'est-il pas offert aux vendeurs à la criée du Zaap d'Astrub ?
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 2483 / Bidule inutile, Quantity: 3
+EFFECTS:
+  - 15 Intelligence
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Eau mineur
+ID : 13781
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151115.png
+DESCRIPTION : Nombreux sont les jeunes aventuriers qui pensent pouvoir vivre d'amour et d'eau fraîche. Les belles plantes peut-être.
+RECIPES:
+  - ID: 13505 / Bourse Suspecte, Quantity: 10
+  - ID: 13487 / Serviette de Plage, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 5 Dommages Eau
+  - -2% Résistance Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Feu mineur
+ID : 13778
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151112.png
+DESCRIPTION : Ce Trophée vous permettra de mettre le feu au lac.
+RECIPES:
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 10
+  - ID: 2502 / Papatte de Croc Gland, Quantity: 5
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 5 Dommages Feu
+  - -2% Résistance Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Furibond mineur
+ID : 12722
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151031.png
+DESCRIPTION : Ce Trophée permet d'augmenter la Force. Attention cet objet ne peut pas convenir pour remplacer un cerveau déficient.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 366 / Bec du Tofu, Quantity: 3
+EFFECTS:
+  - 15 Force
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Neutre mineur
+ID : 13775
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151109.png
+DESCRIPTION : Le Rube ou la Pandrista ? Ce Trophée ne vous aidera pas à prendre une décision.
+RECIPES:
+  - ID: 13494 / Nageoire de Compétition, Quantity: 10
+  - ID: 13489 / Miroir de Dopeul, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 5 Dommages Neutre
+  - -2% Résistance Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Terre mineur
+ID : 13772
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151106.png
+DESCRIPTION : Ce Trophée vous permettra de toujours garder les pieds sur terre. Peut provoquer de terribles douleurs si vous utilisez une monture volante.
+RECIPES:
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 10
+  - ID: 13487 / Serviette de Plage, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 5 Dommages Terre
+  - -2% Résistance Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Bastion mineur
+ID : 13769
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151103.png
+DESCRIPTION : Ce Trophée vous protégera des coups les plus fourbes mais vous empêchera d'en commettre. Saisissez cette opportunité de ressembler à quelqu'un de bien.
+RECIPES:
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 10
+  - ID: 13487 / Serviette de Plage, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 8 Résistances Critiques
+  - -8 Dommages Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Taquin mineur
+ID : 13766
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151100.png
+DESCRIPTION : Un artisan inspiré a gravé au burin sur ce Trophée : "Mâle heureux en combat, mâle heureux pendant les ébats" .
+RECIPES:
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 10
+  - ID: 13505 / Bourse Suspecte, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 25 Chance
+  - -50 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Survivant mineur
+ID : 12727
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151076.png
+DESCRIPTION : Ce Trophée permet d'augmenter la Vitalité. Ses effets contre l'impuissance n'ont jamais pu être prouvés.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 8730 / Coccyx du Corailleur, Quantity: 3
+EFFECTS:
+  - 40 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Equilibriste mineur
+ID : 13763
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151097.png
+DESCRIPTION : Ce Trophée est assez puissant pour tout équilibrer. A part les sorts peut-être.
+RECIPES:
+  - ID: 13505 / Bourse Suspecte, Quantity: 10
+  - ID: 2502 / Papatte de Croc Gland, Quantity: 5
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 25 Agilité
+  - -50 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Terre mineur
+ID : 12748
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151061.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Terre. Seuls les vers de Terre seront impressionnés.
+RECIPES:
+  - ID: 2304 / Fragment de Pierre Polie, Quantity: 1
+  - ID: 2293 / Carapace de Scarafeuille Vert, Quantity: 3
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+EFFECTS:
+  - 3 Dommages Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Bloqueur mineur
+ID : 13748
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151082.png
+DESCRIPTION : Ce Trophée permet de coller les malotrus à vos bottes, ou l'inverse. N'oubliez pas de bien serrer vos lacets.
+RECIPES:
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 10
+  - ID: 13502 / Fluide Glacial, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 8 Tacle
+  - -8 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Astucieux mineur
+ID : 13760
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151094.png
+DESCRIPTION : Ce Trophée vous rendra plus astucieux et vous permettra d'atteindre un score de 3 sur l'échelle de l'intelligence Bwork dont les bornes sont comprises entre moins l'infini et 1.
+RECIPES:
+  - ID: 13494 / Nageoire de Compétition, Quantity: 10
+  - ID: 13487 / Serviette de Plage, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 25 Intelligence
+  - -50 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Forcené mineur
+ID : 13757
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151091.png
+DESCRIPTION : Ce Trophée permet de prouver que la Force est très puissante dans votre famille.
+RECIPES:
+  - ID: 13494 / Nageoire de Compétition, Quantity: 10
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 10
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 25 Force
+  - -50 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Vagabond mineur
+ID : 13751
+TYPE : Trophée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151085.png
+DESCRIPTION : Ce Trophée n'est pas responsable de la fuite des cerveaux.
+RECIPES:
+  - ID: 13502 / Fluide Glacial, Quantity: 10
+  - ID: 2502 / Papatte de Croc Gland, Quantity: 5
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 13365 / Galet Saisonnier, Quantity: 2
+  - ID: 748 / Magnésite, Quantity: 1
+EFFECTS:
+  - 8 Fuite
+  - -8 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Imprenable
+ID : 13794
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151128.png
+DESCRIPTION : Ce Trophée diffuse à intervalles réguliers de petites décharges de foudre permettant aux muscles de se contracter et d'éviter de s'engourdir.
+Juste assez pour ne pas s'endormir lors des repas de famille.
+RECIPES:
+  - ID: 13595 / Peau de Larve Rubis, Quantity: 2
+  - ID: 13496 / Bandeau de Nakunbra, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13793, Quantity: 1
+EFFECTS:
+  - 16 Esquive PA
+  - -16 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Pousseur
+ID : 12641
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151026.png
+DESCRIPTION : Ce Trophée permet de faire un peu plus mal à vos adversaires lorsque vous les poussez contre un arbre, du marbre ou un autre adversaire glabre.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 2323 / Colonne Vertébrale, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12640, Quantity: 1
+EFFECTS:
+  - 16 Dommages Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Vagabond
+ID : 13752
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151086.png
+DESCRIPTION : Ce Trophée n'est pas responsable de la fuite des cerveaux.
+RECIPES:
+  - ID: 13343 / Nœud de Marin, Quantity: 2
+  - ID: 13490 / Bave de Ouassingue, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13751, Quantity: 1
+EFFECTS:
+  - 16 Fuite
+  - -16 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Docteur
+ID : 13755
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151089.png
+DESCRIPTION : Ce Trophée vous permet de jouer au docteur avec vos alliés ou avec vos ennemis si vos combats sont trop faciles.
+RECIPES:
+  - ID: 13496 / Bandeau de Nakunbra, Quantity: 10
+  - ID: 13491 / Relique Familiale, Quantity: 5
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13754, Quantity: 1
+EFFECTS:
+  - 16 Soins
+  - -100 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Sanguinaire
+ID : 16338
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151260.png
+DESCRIPTION : Vos amis ont l'eau à la bouche quand ils vous voient saigner mais refusent de goûter votre délicieuse soupe à l'ail. Étrange.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16337, Quantity: 1
+  - ID: 8757 / Maillot de corps de Barbroussa, Quantity: 10
+  - ID: 2560 / Épaulière de Troolligark, Quantity: 1
+EFFECTS:
+  - 6 Dommages Neutre
+  - 6 Dommages Terre
+  - 6 Dommages Feu
+  - 6 Dommages Eau
+  - 6 Dommages Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Tacleur
+ID : 12623
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151080.png
+DESCRIPTION : Ce Trophée permet de garder les pleutres à proximité. Pour mieux les piétiner.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 14516 / Oreille de Rhinoféroce, Quantity: 1
+  - ID: 12622, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+EFFECTS:
+  - 8 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Forcené
+ID : 13758
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151092.png
+DESCRIPTION : Ce Trophée permet de prouver que la Force est très puissante dans votre famille.
+RECIPES:
+  - ID: 13593 / Peau de Larve Saphir, Quantity: 2
+  - ID: 13595 / Peau de Larve Rubis, Quantity: 2
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13757, Quantity: 1
+EFFECTS:
+  - 50 Force
+  - -100 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Nomade
+ID : 16335
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151257.png
+DESCRIPTION : Vous aimez vous définir comme nomade. Une façon polie de décrire un froussard.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 2
+  - ID: 12738 / Galet rutilant, Quantity: 5
+  - ID: 16212 / Substrat de Fourré, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 3
+  - ID: 8775 / Écorce de Chiendent, Quantity: 5
+  - ID: 13699 / Foulard de Koalak Farouche, Quantity: 20
+  - ID: 13366 / Galet Lunaire, Quantity: 5
+EFFECTS:
+  - 1 PM
+  - 20 Puissance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Bloqueur
+ID : 13749
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151083.png
+DESCRIPTION : Ce Trophée permet de coller les malotrus à vos bottes, ou l'inverse. N'oubliez pas de bien serrer vos lacets.
+RECIPES:
+  - ID: 13595 / Peau de Larve Rubis, Quantity: 2
+  - ID: 13343 / Nœud de Marin, Quantity: 2
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13748, Quantity: 1
+EFFECTS:
+  - 16 Tacle
+  - -16 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Astucieux
+ID : 13761
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151095.png
+DESCRIPTION : Ce Trophée vous rendra plus astucieux et vous permettra d'atteindre un score de 3 sur l'échelle de l'intelligence Bwork dont les bornes sont comprises entre moins l'infini et 1.
+RECIPES:
+  - ID: 13593 / Peau de Larve Saphir, Quantity: 2
+  - ID: 13500 / Dent de Larve Émeraude, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13760, Quantity: 1
+EFFECTS:
+  - 50 Intelligence
+  - -100 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Remueur
+ID : 16333
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151254.png
+DESCRIPTION : Ce trophée émet de petites décharges électriques pour vous inciter à agir continuellement. Vous pouvez l'utiliser sur vos abdominaux, dans vos sous-vêtements, ou dans un aquarium si vous aimez les poissons qui flottent.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 2
+  - ID: 12738 / Galet rutilant, Quantity: 5
+  - ID: 16212 / Substrat de Fourré, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 5
+  - ID: 14471 / Casque de Wobot, Quantity: 1
+  - ID: 8773 / Écorce de Nerbe, Quantity: 5
+  - ID: 13366 / Galet Lunaire, Quantity: 5
+EFFECTS:
+  - 1 PA
+  - 50 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Vigoureux
+ID : 16331
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151203.png
+DESCRIPTION : Pour ne pas vous ramollir l'esprit, n'oubliez pas de rester psychorigide.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16330, Quantity: 1
+  - ID: 8760 / Foulard du Sparo, Quantity: 10
+  - ID: 15164 / Broderie de Malléfisk, Quantity: 2
+EFFECTS:
+  - 40 Puissance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Equilibriste
+ID : 13764
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151098.png
+DESCRIPTION : Ce Trophée est assez puissant pour tout équilibrer. A part les sorts peut-être.
+RECIPES:
+  - ID: 13490 / Bave de Ouassingue, Quantity: 10
+  - ID: 13488 / Aile de Dragodinde Dorée, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13763, Quantity: 1
+EFFECTS:
+  - 50 Agilité
+  - -100 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fuyard
+ID : 12626
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151035.png
+DESCRIPTION : Ce Trophée permet de se sauver au bon comme au mauvais moment.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 1142 / Bec du Kwak de Terre, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12625, Quantity: 1
+EFFECTS:
+  - 8 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Air
+ID : 16328
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151242.png
+DESCRIPTION : Ce trophée vous protégera des cyclones, mais pas des six clones.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16327, Quantity: 1
+  - ID: 13700 / Couche usagée de Warko Violet, Quantity: 10
+  - ID: 13720 / Braise de Tofutoflamme, Quantity: 1
+EFFECTS:
+  - 6% Résistance Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Taquin
+ID : 13767
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151101.png
+DESCRIPTION : Un artisan inspiré a gravé au burin sur ce Trophée : "Mâle heureux en combat, mâle heureux pendant les ébats" .
+RECIPES:
+  - ID: 13595 / Peau de Larve Rubis, Quantity: 2
+  - ID: 13488 / Aile de Dragodinde Dorée, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13766, Quantity: 1
+EFFECTS:
+  - 50 Chance
+  - -100 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Eau
+ID : 16325
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151233.png
+DESCRIPTION : Ce trophée protège des larmes de Crocodaille.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16324, Quantity: 1
+  - ID: 13492 / Short de Capoei Rat, Quantity: 10
+  - ID: 8364 / Lanière en cuir de Gliglitch, Quantity: 1
+EFFECTS:
+  - 6% Résistance Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Survivant
+ID : 12725
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151077.png
+DESCRIPTION : Ce Trophée permet d'augmenter la Vitalité. Ses effets contre l'impuissance n'ont jamais pu être prouvés.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 11242 / Défense du Sanglacier, Quantity: 1
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12727, Quantity: 1
+EFFECTS:
+  - 80 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Bastion
+ID : 13770
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151104.png
+DESCRIPTION : Ce Trophée vous protégera des coups les plus fourbes mais vous empêchera d'en commettre. Saisissez cette opportunité de ressembler à quelqu'un de bien.
+RECIPES:
+  - ID: 13595 / Peau de Larve Rubis, Quantity: 2
+  - ID: 13500 / Dent de Larve Émeraude, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13769, Quantity: 1
+EFFECTS:
+  - 16 Résistances Critiques
+  - -16 Dommages Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ralentisseur
+ID : 12629
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151068.png
+DESCRIPTION : Ce Trophée permet de mieux ralentir les déplacements des adversaires pour les rattraper plus rapidement et leur infliger une humiliation méritée, comme une fessée culotée par exemple.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 8057 / Tibia de Koalak Fossoyeur, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12628, Quantity: 1
+EFFECTS:
+  - 6 Retrait PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Feu
+ID : 16322
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151236.png
+DESCRIPTION : Ce trophée fera un excellent cendrier si vous préférez utilisez le calumet de la paix plutôt que de combattre.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16321, Quantity: 1
+  - ID: 15165 / Corde de Boursoin, Quantity: 10
+  - ID: 15166 / Langue de Mimikado, Quantity: 10
+EFFECTS:
+  - 6% Résistance Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Terre
+ID : 13773
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151107.png
+DESCRIPTION : Ce Trophée vous permettra de toujours garder les pieds sur terre. Peut provoquer de terribles douleurs si vous utilisez une monture volante.
+RECIPES:
+  - ID: 13491 / Relique Familiale, Quantity: 5
+  - ID: 13500 / Dent de Larve Émeraude, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13772, Quantity: 1
+EFFECTS:
+  - 10 Dommages Terre
+  - -4% Résistance Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Neutre
+ID : 16319
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151245.png
+DESCRIPTION : Ce trophée vous protégera de tous les indécis qui ne savent pas choisir leur camp lors d'un affrontement.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16318, Quantity: 1
+  - ID: 8396 / Mojo de Mergranlou, Quantity: 1
+  - ID: 15167 / Antenne de Trésantène, Quantity: 10
+EFFECTS:
+  - 6% Résistance Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Furibond
+ID : 12723
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151032.png
+DESCRIPTION : Ce Trophée permet d'augmenter la Force. Attention cet objet ne peut pas convenir pour remplacer un cerveau déficient.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 2554 / Côtes de Porkass, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12722, Quantity: 1
+EFFECTS:
+  - 30 Force
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Neutre
+ID : 13776
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151110.png
+DESCRIPTION : Le Rube ou la Pandrista ? Ce Trophée ne vous aidera pas à prendre une décision.
+RECIPES:
+  - ID: 13593 / Peau de Larve Saphir, Quantity: 2
+  - ID: 13496 / Bandeau de Nakunbra, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13775, Quantity: 1
+EFFECTS:
+  - 10 Dommages Neutre
+  - -4% Résistance Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Engourdisseur
+ID : 12632
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151023.png
+DESCRIPTION : Ce Trophée permet d'engourdir plus facilement les dégourdis. Il semble fonctionner sur les gourdes également.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 433 / Fémur du Chafer Archer, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12631, Quantity: 1
+EFFECTS:
+  - 6 Retrait PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Savant
+ID : 12720
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151071.png
+DESCRIPTION : Ce Trophée permet d'augmenter l'Intelligence. Mais pourquoi n'est-il pas offert aux vendeurs à la criée du Zaap d'Astrub ?
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 8058 / Cubitus de Momie Koalak, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12718, Quantity: 1
+EFFECTS:
+  - 30 Intelligence
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Feu
+ID : 13779
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151113.png
+DESCRIPTION : Ce Trophée vous permettra de mettre le feu au lac.
+RECIPES:
+  - ID: 13490 / Bave de Ouassingue, Quantity: 10
+  - ID: 13595 / Peau de Larve Rubis, Quantity: 2
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13778, Quantity: 1
+EFFECTS:
+  - 10 Dommages Feu
+  - -4% Résistance Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Terre
+ID : 16315
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151239.png
+DESCRIPTION : Ce trophée repousse la poussière chez votre voisin. Si vous l'utilisez à l'envers, il pourrait peut-être repousser votre voisin dans la poussière.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16314, Quantity: 1
+  - ID: 14469 / Estomac de Black Wo Wabbit, Quantity: 1
+  - ID: 440 / Griffe de Muloubard, Quantity: 10
+EFFECTS:
+  - 6% Résistance Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fonceur
+ID : 16312
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151227.png
+DESCRIPTION : Rien ne sert de mourir ; il faut fuir à point.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16311, Quantity: 1
+  - ID: 14473 / Boulon Wabbit, Quantity: 2
+  - ID: 16211 / Bourgeon explosif de Damadrya, Quantity: 3
+EFFECTS:
+  - 400 Initiative
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Eau
+ID : 13782
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151116.png
+DESCRIPTION : Nombreux sont les jeunes aventuriers qui pensent pouvoir vivre d'amour et d'eau fraîche. Les belles plantes peut-être.
+RECIPES:
+  - ID: 13488 / Aile de Dragodinde Dorée, Quantity: 10
+  - ID: 13500 / Dent de Larve Émeraude, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13781, Quantity: 1
+EFFECTS:
+  - 10 Dommages Eau
+  - -4% Résistance Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fugitif
+ID : 12635
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151029.png
+DESCRIPTION : Ce Trophée permet d'échapper à tous ceux qui essayent de vous empêcher d'atteindre votre destination. Ne fonctionne pas contre ceux qui vous empêchent d'atteindre votre destinée.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 479 / Ivoire, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12634, Quantity: 1
+EFFECTS:
+  - 8 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Solide
+ID : 16309
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151251.png
+DESCRIPTION : Solide mais pas incassable. C'est avec ces mots que vos alliés vous décrivirent juste avant de vous casser les deux gros orteils suite à une mauvaise blague.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16308, Quantity: 1
+  - ID: 14944 / Sueur Froide de Fantôme, Quantity: 10
+  - ID: 2549 / Boîte de Vétauran, Quantity: 1
+EFFECTS:
+  - 48 Résistances Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Air
+ID : 13785
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151119.png
+DESCRIPTION : On raconte à propos de ce Trophée qu'il force son propriétaire à combattre les fesses à l'air.
+Soudain, vous êtes pris d'une irrésistible envie de l'équiper.
+RECIPES:
+  - ID: 13491 / Relique Familiale, Quantity: 5
+  - ID: 13593 / Peau de Larve Saphir, Quantity: 2
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13784, Quantity: 1
+EFFECTS:
+  - 10 Dommages Air
+  - -4% Résistance Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Culbuteur
+ID : 16305
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151206.png
+DESCRIPTION : Le Culbuteur, c'est le surnom qui vous était donné lorsque vous retourniez votre veste sans avoir de veste.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16303, Quantity: 1
+  - ID: 438 / Queue du Mulou, Quantity: 10
+  - ID: 14284 / Flamme Spectrale, Quantity: 10
+EFFECTS:
+  - 32 Dommages Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Joueur
+ID : 12715
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151044.png
+DESCRIPTION : Ce Trophée permet d'augmenter sa Chance. Il ne semble pas fonctionner pour les tentatives de séduction désespérées.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 412 / Bec du Kwak de Flamme, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12717, Quantity: 1
+EFFECTS:
+  - 30 Chance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Entraveur
+ID : 13788
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151122.png
+DESCRIPTION : Ce Trophée permet de ralentir la charge d'une épouse enragée ou la fuite d'un mari esquivant les tâches ménagères.
+Enfin un Trophée pour tous.
+RECIPES:
+  - ID: 13491 / Relique Familiale, Quantity: 5
+  - ID: 13488 / Aile de Dragodinde Dorée, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13787, Quantity: 1
+EFFECTS:
+  - 12 Retrait PM
+  - -12 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Insaisissable
+ID : 12638
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151041.png
+DESCRIPTION : Ce Trophée permet d'échapper à tous ceux qui essayent de limiter vos actions. Ne fonctionne pas contre les banquiers.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 2467 / Rondelles de Milirat Strubien, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12637, Quantity: 1
+EFFECTS:
+  - 8 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cavaleur
+ID : 16301
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151209.png
+DESCRIPTION : Il n'y a aucune honte à fuir... lorsque l'on n'a aucune chance de gagner.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 8347 / Lame brisée de Lichangoro, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 13698 / Houpette de Koalak Sanguin, Quantity: 10
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16300, Quantity: 1
+EFFECTS:
+  - 16 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Paralyseur
+ID : 13791
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151125.png
+DESCRIPTION : Ce Trophée paralyse de honte vos coéquipiers à chaque fois que vous vous trompez de cible.
+Dissuasif pour certains, amusant pour d'autres.
+RECIPES:
+  - ID: 13496 / Bandeau de Nakunbra, Quantity: 10
+  - ID: 13500 / Dent de Larve Émeraude, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13790, Quantity: 1
+EFFECTS:
+  - 12 Retrait PA
+  - -12 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Évasif
+ID : 16293
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151230.png
+DESCRIPTION : L'évasion fiscale permet de se protéger des impôts et des taxes qui permettraient aux pauvres de voler les riches.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16292, Quantity: 1
+  - ID: 15169 / Moustache précieuse, Quantity: 10
+  - ID: 13697 / Poils de Guerrier Koalak, Quantity: 10
+EFFECTS:
+  - 16 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Acrobate
+ID : 12713
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151002.png
+DESCRIPTION : Ce Trophée permet d'augmenter son Agilité. Vous allez enfin réussir à monter sur une échelle sans tomber.
+RECIPES:
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 2451 / Patte d'Arakne des Égouts, Quantity: 3
+  - ID: 12712, Quantity: 1
+EFFECTS:
+  - 30 Agilité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Soigneur
+ID : 12709
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151074.png
+DESCRIPTION : Ce Trophée permet d'augmenter les soins. Ce n'est pas avec ça que vous aurez l'air viril.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 11118 / Clavicule de Boufmouth, Quantity: 1
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12707, Quantity: 1
+EFFECTS:
+  - 8 Soins
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Déserteur
+ID : 16186
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151194.png
+DESCRIPTION : Ce Trophée ne vous sera d'aucune utilité lors de votre traversée du désert.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 16185, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16151 / Écorce d'Abraknyde Vénérable, Quantity: 1
+  - ID: 16152 / Masque Brisé d'Araknotron, Quantity: 10
+EFFECTS:
+  - 16 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Étourdisseur
+ID : 16283
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151200.png
+DESCRIPTION : Cogner votre tête contre celle de votre adversaire afin de l'étourdir semblait être une action tactique intéressante. Jusqu'à ce que vous vous rappeliez qu'il avait un casque et pas vous.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16282, Quantity: 1
+  - ID: 8085 / Poils de Koalak Forestier, Quantity: 10
+  - ID: 8763 / Moustache du Mufafah, Quantity: 10
+EFFECTS:
+  - 12 Retrait PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Evanescent
+ID : 13797
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151131.png
+DESCRIPTION : De ce Trophée suinte un liquide visqueux vous permettant d'esquiver les tentatives d'entrave de vos adversaires.
+Vos câlins seront également beaucoup moins rugueux.
+RECIPES:
+  - ID: 13593 / Peau de Larve Saphir, Quantity: 2
+  - ID: 13490 / Bave de Ouassingue, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13796, Quantity: 1
+EFFECTS:
+  - 16 Esquive PM
+  - -16 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Temporiseur
+ID : 16275
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151197.png
+DESCRIPTION : Votre technique n'est pas d'être le plus rapide, vous cherchez juste à ralentir les autres pour ne pas être le plus lent. Cette technique a déjà fait ses preuves dans toutes les administrations du Monde des Douze.
+RECIPES:
+  - ID: 1890 / Poil de Vétauran, Quantity: 10
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 2321 / Babines de Macien, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16274, Quantity: 1
+EFFECTS:
+  - 12 Retrait PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Adamantin
+ID : 12644
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151005.png
+DESCRIPTION : Ce Trophée permet de moins souffrir lorsque vos adversaires ou vos alliés vous poussent contre un arbre, une personne, une bestiole ou encore tout simplement un gros truc dur. Ne protège pas des gifles même celles prodiguées par des mains calleuses.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 2516 / Défense de Gliglicérin, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12643, Quantity: 1
+EFFECTS:
+  - 24 Résistances Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Bousculeur
+ID : 13800
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151134.png
+DESCRIPTION : Ce Trophée permet de casser les pieds des autres aventuriers à chaque fois que vous les croisez.
+Après mûre réflexion, vous en déduisez que toutes vos anciennes conquêtes amoureuses devaient en être équipées.
+RECIPES:
+  - ID: 13343 / Nœud de Marin, Quantity: 2
+  - ID: 13496 / Bandeau de Nakunbra, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13799, Quantity: 1
+EFFECTS:
+  - 32 Dommages Poussée
+  - -16 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Air
+ID : 16266
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151221.png
+DESCRIPTION : Vous chercherez toute votre vie la constante de l'air sans jamais la trouver.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 14514 / Dent de Molette, Quantity: 10
+  - ID: 8766 / Plume de fesse du Kido, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16265, Quantity: 1
+EFFECTS:
+  - 10 Dommages Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Porteur
+ID : 12705
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151047.png
+DESCRIPTION : Ce Trophée permet d'augmenter le poids maximum portable. Mais il n'est pas assez puissant pour vous aider à supporter le poids de votre conscience.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 411 / Bec du Kwak de Glace, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12704, Quantity: 1
+EFFECTS:
+  - 500 Pods
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Inflexible
+ID : 13803
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151137.png
+DESCRIPTION : Quand la pression devient trop forte, quand les lourds deviennent trop lourds et quand le poids de votre conscience dépasse le poids de vos années, il devient temps d'utiliser ce Trophée.
+RECIPES:
+  - ID: 13343 / Nœud de Marin, Quantity: 2
+  - ID: 13491 / Relique Familiale, Quantity: 5
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13802, Quantity: 1
+EFFECTS:
+  - 48 Résistances Poussée
+  - -16 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Eau
+ID : 16263
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151212.png
+DESCRIPTION : Vous avez toujours pensé pouvoir vivre d'amour et d'eau fraîche. Mais vous passer des bains chauds en hiver était trop difficile.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16262, Quantity: 1
+  - ID: 8315 / Peau de Mandrine, Quantity: 10
+  - ID: 14512 / Plume de Gobvious, Quantity: 10
+EFFECTS:
+  - 10 Dommages Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Rempart
+ID : 12647
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151065.png
+DESCRIPTION : Ce Trophée protège des coups critiques dans les endroits critiques lors des situations critiques. Une fois équipé, vous subirez un effet secondaire désagréable pour vos proches : vous ne subirez plus la critique.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 8083 / Os de Pékeualak, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12646, Quantity: 1
+EFFECTS:
+  - 6 Résistances Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Précurseur
+ID : 13806
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151140.png
+DESCRIPTION : Agir en premier vous donnera l'opportunité de commettre la première bêtise, de passer pour un idiot, d'être ignoré comme cible prioritaire, de périr en dernier et donc d'être considéré comme un héros.
+RECIPES:
+  - ID: 13595 / Peau de Larve Rubis, Quantity: 2
+  - ID: 13491 / Relique Familiale, Quantity: 5
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13805, Quantity: 1
+EFFECTS:
+  - 400 Initiative
+  - -50 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Feu
+ID : 16259
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151215.png
+DESCRIPTION : Vous faîtes feu de tout bois lorsqu'il s'agit de prendre l'avantage sur votre adversaire : jurons, provocations, mauvaises blagues et peaux de bananes.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 14510 / Patte de Bouledogre, Quantity: 10
+  - ID: 8391 / Peau de Don Dorgan, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16258, Quantity: 1
+EFFECTS:
+  - 10 Dommages Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Initiateur
+ID : 12701
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151038.png
+DESCRIPTION : Ce Trophée permet d'augmenter l'initiative à défaut d'en prendre.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 408 / Dentier du Chafer d'Élite, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12702, Quantity: 1
+EFFECTS:
+  - 200 Initiative
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Terre
+ID : 13809
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151143.png
+DESCRIPTION : Ce Trophée protège des chutes de terre. Très pratique pour labourer des plafonds en terre cuite.
+RECIPES:
+  - ID: 13593 / Peau de Larve Saphir, Quantity: 2
+  - ID: 13343 / Nœud de Marin, Quantity: 2
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13808, Quantity: 1
+EFFECTS:
+  - 20 Résistances Terre
+  - -4% Résistance Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Neutre
+ID : 16256
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151224.png
+DESCRIPTION : Là où passe votre Dragodinde, l'herbe ne repousse pas.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16255, Quantity: 1
+  - ID: 13498 / Dent de Bourbassingue, Quantity: 10
+  - ID: 15168 / Corne de Berserkoffre, Quantity: 10
+EFFECTS:
+  - 10 Dommages Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Terre
+ID : 12698
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151062.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Terre. Seuls les vers de Terre seront impressionnés.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 14512 / Plume de Gobvious, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12748, Quantity: 1
+EFFECTS:
+  - 6 Dommages Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Neutre
+ID : 13812
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151146.png
+DESCRIPTION : Ce Trophée vous empêchera de prendre des décisions en combat et vous ne pourrez plus vous blesser en tentant de lancer un sort.
+RECIPES:
+  - ID: 13490 / Bave de Ouassingue, Quantity: 10
+  - ID: 13500 / Dent de Larve Émeraude, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13811, Quantity: 1
+EFFECTS:
+  - 20 Résistances Neutre
+  - -4% Résistance Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Air
+ID : 12650
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151008.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Air mais pas des courants d'air.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 2245 / Pince de Scorbute, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12649, Quantity: 1
+EFFECTS:
+  - 12 Résistances Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Terre
+ID : 16253
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151218.png
+DESCRIPTION : Les monstres vous mordront les fesses et vous mordrez la poussière. Pauvres monstres.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16252, Quantity: 1
+  - ID: 14515 / Corne de Rhinoféroce, Quantity: 1
+  - ID: 7906 / Corne du Boufcoul, Quantity: 10
+EFFECTS:
+  - 10 Dommages Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Feu
+ID : 13815
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151149.png
+DESCRIPTION : Ce Trophée pourrait vous sauver la vie dans le feu de l'action.
+RECIPES:
+  - ID: 13488 / Aile de Dragodinde Dorée, Quantity: 10
+  - ID: 13593 / Peau de Larve Saphir, Quantity: 2
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13814, Quantity: 1
+EFFECTS:
+  - 20 Résistances Feu
+  - -4% Résistance Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fortification
+ID : 16250
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151248.png
+DESCRIPTION : Cette terreur des bacs à sable qui avait écrasé votre château d'un poing vengeur vous a traumatisé à vie. Le temps est venu de lui faire payer cet affront.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16249, Quantity: 1
+  - ID: 14514 / Dent de Molette, Quantity: 10
+  - ID: 8346 / Corne de Dragoss Calcaire, Quantity: 1
+EFFECTS:
+  - 16 Résistances Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Neutre
+ID : 12695
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151059.png
+DESCRIPTION : Ce trophée augmente les dommages d'élément Neutre. Il a été imaginé par un célèbre forgeur de hache : Giuseppe Hacheneutre.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 8357 / Corne de Gliglibido, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12696, Quantity: 1
+EFFECTS:
+  - 6 Dommages Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Eau
+ID : 13818
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151152.png
+DESCRIPTION : Ne jetez pas ce Trophée avec l'eau du bain.
+RECIPES:
+  - ID: 13491 / Relique Familiale, Quantity: 5
+  - ID: 13490 / Bave de Ouassingue, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13817, Quantity: 1
+EFFECTS:
+  - 20 Résistances Eau
+  - -4% Résistance Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Eau
+ID : 12653
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151011.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Eau mais pas des attaques de chasses d'eau.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 1664 / Dent de Crocodaille, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12652, Quantity: 1
+EFFECTS:
+  - 12 Résistances Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Chanceux
+ID : 16247
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151176.png
+DESCRIPTION : Vous aviez 99% de chances d'avoir un verre à moitié vide et on vous a servi un verre à moitié plein. Quelle chance !
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16246, Quantity: 1
+  - ID: 7905 / Laine du Boufcoul, Quantity: 10
+  - ID: 8740 / Chicot du Flib, Quantity: 10
+EFFECTS:
+  - 50 Chance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Air
+ID : 13821
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151155.png
+DESCRIPTION : Avec ce Trophée vous resterez dans l'air du temps.
+RECIPES:
+  - ID: 13496 / Bandeau de Nakunbra, Quantity: 10
+  - ID: 13488 / Aile de Dragodinde Dorée, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13820, Quantity: 1
+EFFECTS:
+  - 20 Résistances Air
+  - -4% Résistance Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cascadeur
+ID : 16244
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151179.png
+DESCRIPTION : Cette chute lamentable sur une peau de banane était une cascade destinée à faire rire vos amis. Personne ne vous croit, mais tout le monde a bien rigolé.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16243, Quantity: 1
+  - ID: 8002 / Étoffe de Dok Alako, Quantity: 10
+  - ID: 9381 / Fleur de Gloutoblop, Quantity: 10
+EFFECTS:
+  - 50 Agilité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Feu
+ID : 12692
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151056.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Feu. L'étiquette qui y était accrochée indiquait : « Grâce à lui vous êtes tout feu tout flamme et le cœur de votre ennemi s'enflamme ».
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 432 / Côtes du Rib, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12694, Quantity: 1
+EFFECTS:
+  - 6 Dommages Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Puissant
+ID : 13824
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151158.png
+DESCRIPTION : La publicité de ce Trophée est plutôt explicite : "Pour une poignée de Kamas seulement, combattez l'impuissance et retrouvez votre vigueur d'antan."
+A ne pas mettre entre toutes les mains.
+RECIPES:
+  - ID: 13488 / Aile de Dragodinde Dorée, Quantity: 10
+  - ID: 13343 / Nœud de Marin, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13823, Quantity: 1
+EFFECTS:
+  - 20 Puissance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Feu
+ID : 12678
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151014.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Feu mais pas des Feux de l'amour.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 2279 / Canine Vampiresque, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12659, Quantity: 1
+EFFECTS:
+  - 12 Résistances Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Érudit
+ID : 16203
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151170.png
+DESCRIPTION : Alliez-vous avec des Bworks pour devenir l'intellectuel du groupe.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 16202, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 8358 / Croc de Dragoeuf Protecteur, Quantity: 1
+  - ID: 14946 / Cuir de Porsalu, Quantity: 10
+EFFECTS:
+  - 50 Intelligence
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Robuste
+ID : 13827
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151161.png
+DESCRIPTION : Vos ennemis pourront profiter de son arrière goût de rouille antique quand ils se casseront les dents dessus.
+RECIPES:
+  - ID: 13496 / Bandeau de Nakunbra, Quantity: 10
+  - ID: 13490 / Bave de Ouassingue, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13826, Quantity: 1
+EFFECTS:
+  - 40 Puissance
+  - -6% Critique
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Enragé
+ID : 16195
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151173.png
+DESCRIPTION : La bave sur vos lèvres vous permettra de simuler le passage d'un Kaskargo lorsque vous mordrez la poussière.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 16194, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 8308 / Carapace de Scaratos, Quantity: 10
+  - ID: 8769 / Coco du Bitouf des Plaines, Quantity: 1
+EFFECTS:
+  - 50 Force
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Turbulent
+ID : 13829
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151163.png
+DESCRIPTION : Dans la cour de récréation, vous étiez le Mulou qui dévorait les Pious. Vous avez gravé à la pointe de votre couteau les paroles de Francisque Kabroule sur les bancs de l'église d'Amakna. Vous avez jeté dans la fontaine de Madrestam les plus faibles que vous. Vous avez mis le feu aux poubelles d'Astrub après les avoir remplies de Fées d'artifice et de petits animaux innocents. Ce Trophée est votre nouveau jouet.
+RECIPES:
+  - ID: 13496 / Bandeau de Nakunbra, Quantity: 30
+  - ID: 13491 / Relique Familiale, Quantity: 15
+  - ID: 12738 / Galet rutilant, Quantity: 5
+  - ID: 12744 / Substrat de Bosquet, Quantity: 2
+  - ID: 13366 / Galet Lunaire, Quantity: 5
+  - ID: 750 / Kouartz, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 5
+EFFECTS:
+  - 1 PA
+  - -1 PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Voyageur
+ID : 13830
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151164.png
+DESCRIPTION : Ce Trophée vous aidera à vous émanciper et quitter votre cocon familial. Prochaine étape, apprendre à faire cuire autre chose que des pâtes.
+RECIPES:
+  - ID: 13343 / Nœud de Marin, Quantity: 6
+  - ID: 13488 / Aile de Dragodinde Dorée, Quantity: 30
+  - ID: 12738 / Galet rutilant, Quantity: 5
+  - ID: 12744 / Substrat de Bosquet, Quantity: 2
+  - ID: 13366 / Galet Lunaire, Quantity: 5
+  - ID: 750 / Kouartz, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 5
+EFFECTS:
+  - 1 PM
+  - -30 Fuite
+  - -30 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Eau
+ID : 12689
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151053.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Eau mais il reste inutile si vous désirez mettre de l'eau dans votre vin.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 11254 / Pince de Crabe Hijacob, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12691, Quantity: 1
+EFFECTS:
+  - 6 Dommages Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Terre
+ID : 12681
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151020.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Terre sauf si vous vous trouvez dans la terre du milieu.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 413 / Bec du Kwak de Vent, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12680, Quantity: 1
+EFFECTS:
+  - 12 Résistances Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Féroce
+ID : 13833
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151167.png
+DESCRIPTION : Avec ce Trophée vos ennemis se sauveront en pleurant, ils comprendront que vous êtes capable du meilleur comme du pire mais surtout du pire.
+RECIPES:
+  - ID: 13343 / Nœud de Marin, Quantity: 2
+  - ID: 13500 / Dent de Larve Émeraude, Quantity: 10
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 13366 / Galet Lunaire, Quantity: 2
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 13832, Quantity: 1
+EFFECTS:
+  - 6 Dommages Eau
+  - 6 Dommages Neutre
+  - 6 Dommages Air
+  - 6 Dommages Terre
+  - 6 Dommages Feu
+  - -12 Dommages Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Miraculé
+ID : 16192
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151182.png
+DESCRIPTION : Mieux vaut être miraculé qu'acculé.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 16191, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16155 / Toile d'Abrakne Sombre, Quantity: 1
+  - ID: 8359 / Aile de Draguaindrop, Quantity: 10
+EFFECTS:
+  - 160 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Air
+ID : 12686
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151050.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Air de ceux qui ne manquent pas d'air.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 1614 / Œil d'Abrakne, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12688, Quantity: 1
+EFFECTS:
+  - 6 Dommages Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Obstructeur
+ID : 16183
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151191.png
+DESCRIPTION : A défaut de trépasser, vos ennemis ne passeront pas.
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 16182, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16180 / Soie Baveuse, Quantity: 3
+  - ID: 16150 / Racine d'Abraknyde Vénérable, Quantity: 10
+EFFECTS:
+  - 16 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Guérisseur
+ID : 16189
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151188.png
+DESCRIPTION : Ce Trophée vous aide à guérir vos alliés en distribuant de bons conseils : "un grand verre d'eau soigne tous les maux, un grand bol de sciure soigne toutes les fractures".
+RECIPES:
+  - ID: 6457 / Kriptonite, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 16188, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 16153 / Arakne Écrabouillée, Quantity: 1
+  - ID: 16154 / Écorce d'Abrakne Sombre, Quantity: 10
+EFFECTS:
+  - 16 Soins
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Neutre
+ID : 12684
+TYPE : Trophée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151017.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Neutre mais n'empêchera pas vos adversaires de sortir de leur neutralité lorsque les hostilités débuteront.
+RECIPES:
+  - ID: 450 / Pierre de Granit, Quantity: 1
+  - ID: 463 / Ambre, Quantity: 1
+  - ID: 382 / Longue-vue de Gob-Trotteur, Quantity: 3
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 12738 / Galet rutilant, Quantity: 2
+  - ID: 12744 / Substrat de Bosquet, Quantity: 1
+  - ID: 12683, Quantity: 1
+EFFECTS:
+  - 12 Résistances Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Obstructeur majeur
+ID : 16184
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151192.png
+DESCRIPTION : A défaut de trépasser, vos ennemis ne passeront pas.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 16183, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15067 / Patte de Gruche, Quantity: 10
+  - ID: 11312 / Queue de Fantomalamère, Quantity: 10
+  - ID: 15271 / Tourmaline, Quantity: 1
+EFFECTS:
+  - 32 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Déserteur majeur
+ID : 16187
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151195.png
+DESCRIPTION : Ce Trophée ne vous sera d'aucune utilité lors de votre traversée du désert.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 16186, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15068 / Aile de Gruche, Quantity: 1
+  - ID: 8362 / Peau de Dragnarok, Quantity: 10
+  - ID: 15271 / Tourmaline, Quantity: 1
+EFFECTS:
+  - 32 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Neutre majeur
+ID : 12685
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151018.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Neutre mais n'empêchera pas vos adversaires de sortir de leur neutralité lorsque les hostilités débuteront.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 11251 / Sternum de Chachachovage, Quantity: 2
+  - ID: 12684, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 24 Résistances Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Vagabond majeur
+ID : 13753
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151087.png
+DESCRIPTION : Ce Trophée n'est pas responsable de la fuite des cerveaux.
+RECIPES:
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 10
+  - ID: 13528 / Bourgeon d'Abraknyde Sombre Irascible, Quantity: 10
+  - ID: 13529 / Feuille de Branche Soignante, Quantity: 10
+  - ID: 13752, Quantity: 1
+EFFECTS:
+  - 32 Fuite
+  - -32 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Guérisseur majeur
+ID : 16190
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151189.png
+DESCRIPTION : Ce Trophée vous aide à guérir vos alliés en distribuant de bons conseils : "un grand verre d'eau soigne tous les maux, un grand bol de sciure soigne toutes les fractures".
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 16189, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 15071 / Plume de Truchideur, Quantity: 10
+  - ID: 8776 / Coco du Bitouf Sombre, Quantity: 1
+EFFECTS:
+  - 32 Soins
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Terre majeur
+ID : 12682
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151021.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Terre sauf si vous vous trouvez dans la terre du milieu.
+RECIPES:
+  - ID: 2664 / Os de Crocodaille, Quantity: 2
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12681, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 24 Résistances Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Féroce majeur
+ID : 13834
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151168.png
+DESCRIPTION : Avec ce Trophée vos ennemis se sauveront en pleurant, ils comprendront que vous êtes capable du meilleur comme du pire mais surtout du pire.
+RECIPES:
+  - ID: 13492 / Short de Capoei Rat, Quantity: 10
+  - ID: 13503 / Calumet Zoth, Quantity: 10
+  - ID: 13529 / Feuille de Branche Soignante, Quantity: 10
+  - ID: 13833, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 12 Dommages Eau
+  - 12 Dommages Neutre
+  - 12 Dommages Air
+  - 12 Dommages Terre
+  - 12 Dommages Feu
+  - -24 Dommages Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Miraculé majeur
+ID : 16193
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151183.png
+DESCRIPTION : Mieux vaut être miraculé qu'acculé.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 16192, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 15072 / Morpion de Truchideur, Quantity: 1
+  - ID: 11317 / Coquille de Harpirate, Quantity: 1
+EFFECTS:
+  - 320 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Air majeur
+ID : 12687
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151051.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Air de ceux qui ne manquent pas d'air.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 8741 / Bec du Kido, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12686, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 12 Dommages Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Robuste majeur
+ID : 13828
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151162.png
+DESCRIPTION : Vos ennemis pourront profiter de son arrière goût de rouille antique quand ils se casseront les dents dessus.
+RECIPES:
+  - ID: 13495 / Crâne d'Aventurier, Quantity: 10
+  - ID: 13503 / Calumet Zoth, Quantity: 10
+  - ID: 13498 / Dent de Bourbassingue, Quantity: 10
+  - ID: 13827, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 80 Puissance
+  - -12% Critique
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Enragé majeur
+ID : 16196
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151174.png
+DESCRIPTION : La bave sur vos lèvres vous permettra de simuler le passage d'un Kaskargo lorsque vous mordrez la poussière.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 16195, Quantity: 1
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 15069 / Croupion de Truchmuche, Quantity: 10
+  - ID: 8800 / Étoffe Zoth, Quantity: 10
+EFFECTS:
+  - 100 Force
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Feu majeur
+ID : 12679
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151015.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Feu mais pas des Feux de l'amour.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 8739 / Humérus du Sparo, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12678, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 24 Résistances Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Eau majeur
+ID : 12690
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151054.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Eau mais il reste inutile si vous désirez mettre de l'eau dans votre vin.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11240 / Dent de Smilomouth, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12689, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 12 Dommages Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Érudit majeur
+ID : 16204
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151171.png
+DESCRIPTION : Alliez-vous avec des Bworks pour devenir l'intellectuel du groupe.
+RECIPES:
+  - ID: 2654 / Eau de Kwapa, Quantity: 1
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15070 / Langue de Truchmuche, Quantity: 1
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16203, Quantity: 1
+EFFECTS:
+  - 100 Intelligence
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Puissant majeur
+ID : 13825
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151159.png
+DESCRIPTION : La publicité de ce Trophée est plutôt explicite : "Pour une poignée de Kamas seulement, combattez l'impuissance et retrouvez votre vigueur d'antan."
+A ne pas mettre entre toutes les mains.
+RECIPES:
+  - ID: 13528 / Bourgeon d'Abraknyde Sombre Irascible, Quantity: 10
+  - ID: 13529 / Feuille de Branche Soignante, Quantity: 10
+  - ID: 13340 / Pustule de Rat Sio, Quantity: 10
+  - ID: 13824, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 40 Puissance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Air majeure
+ID : 13822
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151156.png
+DESCRIPTION : Avec ce Trophée vous resterez dans l'air du temps.
+RECIPES:
+  - ID: 13495 / Crâne d'Aventurier, Quantity: 10
+  - ID: 13492 / Short de Capoei Rat, Quantity: 10
+  - ID: 13338 / Enfumoir Zoth, Quantity: 10
+  - ID: 13821, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 40 Résistances Air
+  - -8% Résistance Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cascadeur majeur
+ID : 16245
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151180.png
+DESCRIPTION : Cette chute lamentable sur une peau de banane était une cascade destinée à faire rire vos amis. Personne ne vous croit, mais tout le monde a bien rigolé.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16244, Quantity: 1
+  - ID: 15075 / Duvet de Truchon, Quantity: 10
+  - ID: 11249 / Étoffe de Kaniglou, Quantity: 1
+EFFECTS:
+  - 100 Agilité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Eau majeur
+ID : 12654
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151012.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Eau mais pas des attaques de chasses d'eau.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 8328 / Corne de Mominotor, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12653, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 24 Résistances Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Feu majeur
+ID : 12693
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151057.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Feu. L'étiquette qui y était accrochée indiquait : « Grâce à lui vous êtes tout feu tout flamme et le cœur de votre ennemi s'enflamme ».
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 11522 / Fragment de pépite de Sakaï, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 12692, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 12 Dommages Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Chanceux majeur
+ID : 16248
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151177.png
+DESCRIPTION : Vous aviez 99% de chances d'avoir un verre à moitié vide et on vous a servi un verre à moitié plein. Quelle chance !
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16247, Quantity: 1
+  - ID: 15076 / Bec de Truchon, Quantity: 1
+  - ID: 11319 / Étoffe de Vigie Pirate, Quantity: 10
+EFFECTS:
+  - 100 Chance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Eau majeure
+ID : 13819
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151153.png
+DESCRIPTION : Ne jetez pas ce Trophée avec l'eau du bain.
+RECIPES:
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 13338 / Enfumoir Zoth, Quantity: 10
+  - ID: 13340 / Pustule de Rat Sio, Quantity: 10
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 10
+  - ID: 13818, Quantity: 1
+EFFECTS:
+  - 40 Résistances Eau
+  - -8% Résistance Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Feu majeure
+ID : 13816
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151150.png
+DESCRIPTION : Ce Trophée pourrait vous sauver la vie dans le feu de l'action.
+RECIPES:
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 13495 / Crâne d'Aventurier, Quantity: 10
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 10
+  - ID: 13499 / Jouet de Gamine Zoth, Quantity: 10
+  - ID: 13815, Quantity: 1
+EFFECTS:
+  - 40 Résistances Feu
+  - -8% Résistance Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fortification majeure
+ID : 16251
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151249.png
+DESCRIPTION : Cette terreur des bacs à sable qui avait écrasé votre château d'un poing vengeur vous a traumatisé à vie. Le temps est venu de lui faire payer cet affront.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16250, Quantity: 1
+  - ID: 15074 / Glandes de Truchtine, Quantity: 1
+  - ID: 8785 / Graine de l'Abrakleur sombre, Quantity: 10
+EFFECTS:
+  - 32 Résistances Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cuirassé Air majeur
+ID : 12651
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151009.png
+DESCRIPTION : Ce Trophée protège des attaques d'élément Air mais pas des courants d'air.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 2511 / Cuir de Gliglibido, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12650, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 24 Résistances Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Neutre majeur
+ID : 12697
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151060.png
+DESCRIPTION : Ce trophée augmente les dommages d'élément Neutre. Il a été imaginé par un célèbre forgeur de hache : Giuseppe Hacheneutre.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11228 / Arête géante du Shamansot, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12695, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 12 Dommages Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Terre majeur
+ID : 16254
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151219.png
+DESCRIPTION : Les monstres vous mordront les fesses et vous mordrez la poussière. Pauvres monstres.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16253, Quantity: 1
+  - ID: 15073 / Œil de Truchtine, Quantity: 10
+  - ID: 11320 / Œil de Vigie Pirate, Quantity: 1
+EFFECTS:
+  - 20 Dommages Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Neutre majeure
+ID : 13813
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151147.png
+DESCRIPTION : Ce Trophée vous empêchera de prendre des décisions en combat et vous ne pourrez plus vous blesser en tentant de lancer un sort.
+RECIPES:
+  - ID: 13504 / Corne de Gamino, Quantity: 10
+  - ID: 13338 / Enfumoir Zoth, Quantity: 10
+  - ID: 13499 / Jouet de Gamine Zoth, Quantity: 10
+  - ID: 13812, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 40 Résistances Neutre
+  - -8% Résistance Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Muraille Terre majeure
+ID : 13810
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151144.png
+DESCRIPTION : Ce Trophée protège des chutes de terre. Très pratique pour labourer des plafonds en terre cuite.
+RECIPES:
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 10
+  - ID: 13504 / Corne de Gamino, Quantity: 10
+  - ID: 13528 / Bourgeon d'Abraknyde Sombre Irascible, Quantity: 10
+  - ID: 13809, Quantity: 1
+EFFECTS:
+  - 40 Résistances Terre
+  - -8% Résistance Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Neutre majeur
+ID : 16257
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151225.png
+DESCRIPTION : Là où passe votre Dragodinde, l'herbe ne repousse pas.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16256, Quantity: 1
+  - ID: 11248 / Oreille de Kaniglou, Quantity: 10
+  - ID: 8357 / Corne de Gliglibido, Quantity: 10
+EFFECTS:
+  - 20 Dommages Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Rempart majeur
+ID : 12648
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151066.png
+DESCRIPTION : Ce Trophée protège des coups critiques dans les endroits critiques lors des situations critiques. Une fois équipé, vous subirez un effet secondaire désagréable pour vos proches : vous ne subirez plus la critique.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 11525 / Péroné du Marôdeur, Quantity: 1
+  - ID: 12647, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 12 Résistances Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Précurseur majeur
+ID : 13807
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151141.png
+DESCRIPTION : Agir en premier vous donnera l'opportunité de commettre la première bêtise, de passer pour un idiot, d'être ignoré comme cible prioritaire, de périr en dernier et donc d'être considéré comme un héros.
+RECIPES:
+  - ID: 13504 / Corne de Gamino, Quantity: 10
+  - ID: 13503 / Calumet Zoth, Quantity: 10
+  - ID: 13529 / Feuille de Branche Soignante, Quantity: 10
+  - ID: 13806, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 800 Initiative
+  - -100 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Feu majeur
+ID : 16260
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151216.png
+DESCRIPTION : Vous faîtes feu de tout bois lorsqu'il s'agit de prendre l'avantage sur votre adversaire : jurons, provocations, mauvaises blagues et peaux de bananes.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16259, Quantity: 1
+  - ID: 15049 / Oreille de Kaniblou, Quantity: 10
+  - ID: 14951 / Corne de Scaratos, Quantity: 1
+EFFECTS:
+  - 20 Dommages Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Initiateur majeur
+ID : 12703
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151039.png
+DESCRIPTION : Ce Trophée permet d'augmenter l'initiative à défaut d'en prendre.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 8055 / Os de Mama Koalak, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12701, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 400 Initiative
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Inflexible majeur
+ID : 13804
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151138.png
+DESCRIPTION : Quand la pression devient trop forte, quand les lourds deviennent trop lourds et quand le poids de votre conscience dépasse le poids de vos années, il devient temps d'utiliser ce Trophée.
+RECIPES:
+  - ID: 13498 / Dent de Bourbassingue, Quantity: 10
+  - ID: 13340 / Pustule de Rat Sio, Quantity: 10
+  - ID: 13495 / Crâne d'Aventurier, Quantity: 10
+  - ID: 13803, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 96 Résistances Poussée
+  - -32 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Eau majeur
+ID : 16264
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151213.png
+DESCRIPTION : Vous avez toujours pensé pouvoir vivre d'amour et d'eau fraîche. Mais vous passer des bains chauds en hiver était trop difficile.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16263, Quantity: 1
+  - ID: 8803 / Rotule du Disciple Zoth, Quantity: 1
+  - ID: 11228 / Arête géante du Shamansot, Quantity: 1
+EFFECTS:
+  - 20 Dommages Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Adamantin majeur
+ID : 12645
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151006.png
+DESCRIPTION : Ce Trophée permet de moins souffrir lorsque vos adversaires ou vos alliés vous poussent contre un arbre, une personne, une bestiole ou encore tout simplement un gros truc dur. Ne protège pas des gifles même celles prodiguées par des mains calleuses.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 7906 / Corne du Boufcoul, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12644, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 48 Résistances Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Bousculeur majeur
+ID : 13801
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151135.png
+DESCRIPTION : Ce Trophée permet de casser les pieds des autres aventuriers à chaque fois que vous les croisez.
+Après mûre réflexion, vous en déduisez que toutes vos anciennes conquêtes amoureuses devaient en être équipées.
+RECIPES:
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 13338 / Enfumoir Zoth, Quantity: 10
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 13495 / Crâne d'Aventurier, Quantity: 10
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 10
+  - ID: 13800, Quantity: 1
+EFFECTS:
+  - 64 Dommages Poussée
+  - -32 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Dévastateur Air majeur
+ID : 16267
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151222.png
+DESCRIPTION : Vous chercherez toute votre vie la constante de l'air sans jamais la trouver.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16266, Quantity: 1
+  - ID: 11309 / Pince du Fancrôme, Quantity: 10
+  - ID: 15046 / Canine de Félygiène, Quantity: 1
+EFFECTS:
+  - 20 Dommages Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Porteur majeur
+ID : 12706
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151048.png
+DESCRIPTION : Ce trophée permet d'augmenter le poids maximum portable. Mais il n'est pas assez puissant pour vous aider à supporter le poids de votre conscience.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 2516 / Défense de Gliglicérin, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12705, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 1000 Pods
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Evanescent majeur
+ID : 13798
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151132.png
+DESCRIPTION : De ce Trophée suinte un liquide visqueux vous permettant d'esquiver les tentatives d'entrave de vos adversaires.
+Vos câlins seront également beaucoup moins rugueux.
+RECIPES:
+  - ID: 13528 / Bourgeon d'Abraknyde Sombre Irascible, Quantity: 10
+  - ID: 13504 / Corne de Gamino, Quantity: 10
+  - ID: 13503 / Calumet Zoth, Quantity: 10
+  - ID: 13797, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 32 Esquive PM
+  - -32 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Temporiseur majeur
+ID : 16281
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151198.png
+DESCRIPTION : Votre technique n'est pas d'être le plus rapide, vous cherchez juste à ralentir les autres pour ne pas être le plus lent. Cette technique a déjà fait ses preuves dans toutes les administrations du Monde des Douze.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16275, Quantity: 1
+  - ID: 11316 / Dent de Fantômat, Quantity: 10
+  - ID: 15045 / Griffe de Félygiène, Quantity: 10
+EFFECTS:
+  - 24 Retrait PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Pousseur majeur
+ID : 12642
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151027.png
+DESCRIPTION : Ce Trophée permet de faire un peu plus mal à vos adversaires lorsque vous les poussez contre un arbre, du marbre ou un autre adversaire glabre.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 8056 / Fémur de Koalak Farouche, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12641, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 32 Dommages Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Soigneur majeur
+ID : 12708
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151075.png
+DESCRIPTION : Ce Trophée permet d'augmenter les soins. Ce n'est pas avec ça que vous aurez l'air viril.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 11
+  - ID: 8345 / Corne de Dragoss Protéiforme, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12709, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 16 Soins
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Étourdisseur majeur
+ID : 16284
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151201.png
+DESCRIPTION : Cogner votre tête contre celle de votre adversaire afin de l'étourdir semblait être une action tactique intéressante. Jusqu'à ce que vous vous rappeliez qu'il avait un casque et pas vous.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16283, Quantity: 1
+  - ID: 11326 / Ulna de Solfataré, Quantity: 10
+  - ID: 8356 / Peau de Dragueuse, Quantity: 10
+EFFECTS:
+  - 24 Retrait PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Imprenable majeur
+ID : 13795
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151129.png
+DESCRIPTION : Ce Trophée diffuse à intervalles réguliers de petites décharges de foudre permettant aux muscles de se contracter et d'éviter de s'engourdir.
+Juste assez pour ne pas s'endormir lors des repas de famille.
+RECIPES:
+  - ID: 13529 / Feuille de Branche Soignante, Quantity: 10
+  - ID: 13492 / Short de Capoei Rat, Quantity: 10
+  - ID: 13340 / Pustule de Rat Sio, Quantity: 10
+  - ID: 13794, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 32 Esquive PA
+  - -32 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Paralyseur majeur
+ID : 13792
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151126.png
+DESCRIPTION : Ce Trophée paralyse de honte vos coéquipiers à chaque fois que vous vous trompez de cible.
+Dissuasif pour certains, amusant pour d'autres.
+RECIPES:
+  - ID: 13503 / Calumet Zoth, Quantity: 10
+  - ID: 13499 / Jouet de Gamine Zoth, Quantity: 10
+  - ID: 13528 / Bourgeon d'Abraknyde Sombre Irascible, Quantity: 10
+  - ID: 13791, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 24 Retrait PA
+  - -24 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Évasif majeur
+ID : 16294
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151231.png
+DESCRIPTION : L'évasion fiscale permet de se protéger des impôts et des taxes qui permettraient aux pauvres de voler les riches.
+RECIPES:
+  - ID: 7294 / Poils de Pétartifoux, Quantity: 10
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 10
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16293, Quantity: 1
+EFFECTS:
+  - 32 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Insaisissable majeur
+ID : 12639
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151042.png
+DESCRIPTION : Ce Trophée permet d'échapper à tous ceux qui essayent de limiter vos actions. Ne fonctionne pas contre les banquiers.
+RECIPES:
+  - ID: 1675 / Os Surprise du Chafer Fantassin, Quantity: 2
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12638, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 16 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Acrobate majeur
+ID : 12714
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151003.png
+DESCRIPTION : Ce Trophée permet d'augmenter son Agilité. Vous allez enfin réussir à monter sur une échelle sans tomber.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 11309 / Pince du Fancrôme, Quantity: 2
+  - ID: 12713, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 60 Agilité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Cavaleur majeur
+ID : 16302
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151210.png
+DESCRIPTION : Il n'y a aucune honte à fuir... lorsque l'on n'a aucune chance de gagner.
+RECIPES:
+  - ID: 7292 / Poils de Boumbardier, Quantity: 10
+  - ID: 11225 / Peau de Mansobèse, Quantity: 10
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16301, Quantity: 1
+EFFECTS:
+  - 32 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Entraveur majeur
+ID : 13789
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151123.png
+DESCRIPTION : Ce Trophée permet de ralentir la charge d'une épouse enragée ou la fuite d'un mari esquivant les tâches ménagères.
+Enfin un Trophée pour tous.
+RECIPES:
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 10
+  - ID: 13499 / Jouet de Gamine Zoth, Quantity: 10
+  - ID: 13504 / Corne de Gamino, Quantity: 10
+  - ID: 13788, Quantity: 1
+EFFECTS:
+  - 24 Retrait PM
+  - -24 Esquive PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Air majeur
+ID : 13786
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151120.png
+DESCRIPTION : On raconte à propos de ce Trophée qu'il force son propriétaire à combattre les fesses à l'air.
+Soudain, vous êtes pris d'une irrésistible envie de l'équiper.
+RECIPES:
+  - ID: 13529 / Feuille de Branche Soignante, Quantity: 10
+  - ID: 13338 / Enfumoir Zoth, Quantity: 10
+  - ID: 13340 / Pustule de Rat Sio, Quantity: 10
+  - ID: 13785, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 20 Dommages Air
+  - -8% Résistance Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Culbuteur majeur
+ID : 16306
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151207.png
+DESCRIPTION : Le Culbuteur, c'est le surnom qui vous était donné lorsque vous retourniez votre veste sans avoir de veste.
+RECIPES:
+  - ID: 7298 / Peau de Rouquette, Quantity: 10
+  - ID: 11318 / Écaille de Harpirate, Quantity: 10
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16305, Quantity: 1
+EFFECTS:
+  - 64 Dommages Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fugitif majeur
+ID : 12636
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151030.png
+DESCRIPTION : Ce Trophée permet d'échapper à tous ceux qui essayent de vous empêcher d'atteindre votre destination. Ne fonctionne pas contre ceux qui vous empêchent d'atteindre votre destinée.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 8363 / Corne de Dragmatique, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12635, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 16 Esquive PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Joueur majeur
+ID : 12716
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151045.png
+DESCRIPTION : Ce Trophée permet d'augmenter sa Chance. Il ne semble pas fonctionner pour les tentatives de séduction désespérées.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 8082 / Étoffe du Fauchalak, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12715, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 60 Chance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Solide majeur
+ID : 16310
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151252.png
+DESCRIPTION : Solide mais pas incassable. C'est avec ces mots que vos alliés vous décrivirent juste avant de vous casser les deux gros orteils suite à une mauvaise blague.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16309, Quantity: 1
+  - ID: 8779 / Carpelle de Brouture, Quantity: 10
+  - ID: 13717 / Houpette de Vilain Petit Tofu, Quantity: 1
+EFFECTS:
+  - 96 Résistances Poussée
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Eau majeur
+ID : 13783
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151117.png
+DESCRIPTION : Nombreux sont les jeunes aventuriers qui pensent pouvoir vivre d'amour et d'eau fraîche. Les belles plantes peut-être.
+RECIPES:
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 13495 / Crâne d'Aventurier, Quantity: 10
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 10
+  - ID: 13498 / Dent de Bourbassingue, Quantity: 10
+  - ID: 13782, Quantity: 1
+EFFECTS:
+  - 20 Dommages Eau
+  - -8% Résistance Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Savant majeur
+ID : 12719
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151072.png
+DESCRIPTION : Ce Trophée permet d'augmenter l'Intelligence. Mais pourquoi n'est-il pas offert aux vendeurs à la criée du Zaap d'Astrub ?
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 11256 / Bec de Gélikan, Quantity: 1
+  - ID: 12720, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 60 Intelligence
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fonceur majeur
+ID : 16313
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151228.png
+DESCRIPTION : Rien ne sert de mourir ; il faut fuir à point.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16312, Quantity: 1
+  - ID: 8781 / Calice de Fécorce, Quantity: 10
+  - ID: 11223 / Plume du Timansot, Quantity: 10
+EFFECTS:
+  - 800 Initiative
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Engourdisseur majeur
+ID : 12633
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151024.png
+DESCRIPTION : Ce Trophée permet d'engourdir plus facilement les dégourdis. Il semble fonctionner sur les gourdes également.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11222 / Bec du Timansot, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12632, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 12 Retrait PA
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Feu majeur
+ID : 13780
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151114.png
+DESCRIPTION : Ce Trophée vous permettra de mettre le feu au lac.
+RECIPES:
+  - ID: 13338 / Enfumoir Zoth, Quantity: 10
+  - ID: 13492 / Short de Capoei Rat, Quantity: 10
+  - ID: 13499 / Jouet de Gamine Zoth, Quantity: 10
+  - ID: 13779, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 20 Dommages Feu
+  - -8% Résistance Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Terre majeur
+ID : 16316
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151240.png
+DESCRIPTION : Ce trophée repousse la poussière chez votre voisin. Si vous l'utilisez à l'envers, il pourrait peut-être repousser votre voisin dans la poussière.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16315, Quantity: 1
+  - ID: 8778 / Étamine de Floribonde, Quantity: 10
+  - ID: 8309 / Plume du Serpiplume, Quantity: 10
+EFFECTS:
+  - 12% Résistance Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Neutre majeur
+ID : 13777
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151111.png
+DESCRIPTION : Le Rube ou la Pandrista ? Ce Trophée ne vous aidera pas à prendre une décision.
+RECIPES:
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 13340 / Pustule de Rat Sio, Quantity: 10
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 10
+  - ID: 13504 / Corne de Gamino, Quantity: 10
+  - ID: 13776, Quantity: 1
+EFFECTS:
+  - 20 Dommages Neutre
+  - -8% Résistance Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Saccageur Terre majeur
+ID : 13774
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151108.png
+DESCRIPTION : Ce Trophée vous permettra de toujours garder les pieds sur terre. Peut provoquer de terribles douleurs si vous utilisez une monture volante.
+RECIPES:
+  - ID: 13528 / Bourgeon d'Abraknyde Sombre Irascible, Quantity: 10
+  - ID: 13499 / Jouet de Gamine Zoth, Quantity: 10
+  - ID: 13495 / Crâne d'Aventurier, Quantity: 10
+  - ID: 13773, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 20 Dommages Terre
+  - -8% Résistance Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Neutre majeur
+ID : 16320
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151246.png
+DESCRIPTION : Ce trophée vous protégera de tous les indécis qui ne savent pas choisir leur camp lors d'un affrontement.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16319, Quantity: 1
+  - ID: 11241 / Poils de Smilomouth, Quantity: 10
+  - ID: 8311 / Poil de Gamino, Quantity: 10
+EFFECTS:
+  - 12% Résistance Neutre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ralentisseur majeur
+ID : 12630
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151069.png
+DESCRIPTION : Ce Trophée permet de mieux ralentir les déplacements des adversaires pour les rattraper plus rapidement et leur infliger une humiliation méritée, comme une fessée culotée par exemple.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 1894 / Poil de Gliglitch, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12629, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 12 Retrait PM
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Furibond majeur
+ID : 12724
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151033.png
+DESCRIPTION : Ce Trophée permet d'augmenter la Force. Attention cet objet ne peut pas convenir pour remplacer un cerveau déficient.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 8361 / Corne de Dragacé, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12723, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 60 Force
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Feu majeur
+ID : 16323
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151237.png
+DESCRIPTION : Ce trophée fera un excellent cendrier si vous préférez utiliser le calumet de la paix plutôt que de combattre.
+RECIPES:
+  - ID: 2287 / Concombre, Quantity: 10
+  - ID: 11227 / Duvet de Mamansot, Quantity: 10
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16322, Quantity: 1
+EFFECTS:
+  - 12% Résistance Feu
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Bastion majeur
+ID : 13771
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151105.png
+DESCRIPTION : Ce Trophée vous protégera des coups les plus fourbes mais vous empêchera d'en commettre. Saisissez cette opportunité de ressembler à quelqu'un de bien.
+RECIPES:
+  - ID: 13495 / Crâne d'Aventurier, Quantity: 10
+  - ID: 13492 / Short de Capoei Rat, Quantity: 10
+  - ID: 13340 / Pustule de Rat Sio, Quantity: 10
+  - ID: 13770, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 32 Résistances Critiques
+  - -32 Dommages Critiques
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Taquin majeur
+ID : 13768
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151102.png
+DESCRIPTION : Un artisan inspiré a gravé au burin sur ce Trophée : "Mâle heureux en combat, mâle heureux pendant les ébats" .
+RECIPES:
+  - ID: 13504 / Corne de Gamino, Quantity: 10
+  - ID: 13338 / Enfumoir Zoth, Quantity: 10
+  - ID: 13503 / Calumet Zoth, Quantity: 10
+  - ID: 13767, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 100 Chance
+  - -200 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Eau majeur
+ID : 16326
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151234.png
+DESCRIPTION : Ce trophée protège des larmes de Crocodaille.
+RECIPES:
+  - ID: 7300 / Tête de lance de Fangshu, Quantity: 10
+  - ID: 7301 / Étoffe de Kurookin, Quantity: 10
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16325, Quantity: 1
+EFFECTS:
+  - 12% Résistance Eau
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Fuyard majeur
+ID : 12627
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151036.png
+DESCRIPTION : Ce Trophée permet de se sauver au bon comme au mauvais moment.
+RECIPES:
+  - ID: 6738 / Crâne de Chef Crocodaille, Quantity: 2
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12626, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 16 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Survivant majeur
+ID : 12726
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151078.png
+DESCRIPTION : Ce Trophée permet d'augmenter la Vitalité. Ses effets contre l'impuissance n'ont jamais pu être prouvés.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 13725 / Aile Atrophiée de Tofu Dodu, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12725, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 160 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Carapace Air majeur
+ID : 16329
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151243.png
+DESCRIPTION : Ce trophée vous protégera des cyclones, mais pas des six clones.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16328, Quantity: 1
+  - ID: 8786 / Tresse du Poolay, Quantity: 1
+  - ID: 15051 / Crinière d'Orfélin, Quantity: 10
+EFFECTS:
+  - 12% Résistance Air
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Equilibriste majeur
+ID : 13765
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151099.png
+DESCRIPTION : Ce Trophée est assez puissant pour tout équilibrer. A part les sorts peut-être.
+RECIPES:
+  - ID: 13504 / Corne de Gamino, Quantity: 10
+  - ID: 13499 / Jouet de Gamine Zoth, Quantity: 10
+  - ID: 13528 / Bourgeon d'Abraknyde Sombre Irascible, Quantity: 10
+  - ID: 13764, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 100 Agilité
+  - -200 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Ravageur Terre majeur
+ID : 12747
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151063.png
+DESCRIPTION : Ce Trophée augmente les dommages d'élément Terre. Seuls les vers de Terre seront impressionnés.
+RECIPES:
+  - ID: 1680 / Corne Brûlée du Minotoror, Quantity: 1
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12698, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 12 Dommages Terre
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Vigoureux majeur
+ID : 16332
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151204.png
+DESCRIPTION : Pour ne pas vous ramollir l'esprit, n'oubliez pas de rester psychorigide.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16331, Quantity: 1
+  - ID: 15043 / Cheveux d'Alhyène, Quantity: 10
+  - ID: 11135 / Queue du Boufmouth légendaire, Quantity: 1
+EFFECTS:
+  - 80 Puissance
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Astucieux majeur
+ID : 13762
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151096.png
+DESCRIPTION : Ce Trophée vous rendra plus astucieux et vous permettra d'atteindre un score de 3 sur l'échelle de l'intelligence Bwork dont les bornes sont comprises entre moins l'infini et 1.
+RECIPES:
+  - ID: 13498 / Dent de Bourbassingue, Quantity: 10
+  - ID: 13492 / Short de Capoei Rat, Quantity: 10
+  - ID: 13340 / Pustule de Rat Sio, Quantity: 10
+  - ID: 13761, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 100 Intelligence
+  - -200 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Forcené majeur
+ID : 13759
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151093.png
+DESCRIPTION : Ce Trophée permet de prouver que la Force est très puissante dans votre famille.
+RECIPES:
+  - ID: 13498 / Dent de Bourbassingue, Quantity: 10
+  - ID: 13503 / Calumet Zoth, Quantity: 10
+  - ID: 13529 / Feuille de Branche Soignante, Quantity: 10
+  - ID: 13758, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 100 Force
+  - -200 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Tacleur majeur
+ID : 12624
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151081.png
+DESCRIPTION : Ce Trophée permet de garder les pleutres à proximité. Pour mieux les piétiner.
+RECIPES:
+  - ID: 845 / Œuf de Dragoeuf Argile, Quantity: 1
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 1
+  - ID: 8803 / Rotule du Disciple Zoth, Quantity: 1
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 12623, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+EFFECTS:
+  - 16 Tacle
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Bloqueur majeur
+ID : 13750
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151084.png
+DESCRIPTION : Ce Trophée permet de coller les malotrus à vos bottes, ou l'inverse. N'oubliez pas de bien serrer vos lacets.
+RECIPES:
+  - ID: 13495 / Crâne d'Aventurier, Quantity: 10
+  - ID: 13338 / Enfumoir Zoth, Quantity: 10
+  - ID: 13340 / Pustule de Rat Sio, Quantity: 10
+  - ID: 13749, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 6458 / Kobalite, Quantity: 1
+EFFECTS:
+  - 32 Tacle
+  - -32 Fuite
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Docteur majeur
+ID : 13756
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151090.png
+DESCRIPTION : Ce Trophée vous permet de jouer au docteur avec vos alliés ou avec vos ennemis si vos combats sont trop faciles.
+RECIPES:
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 13338 / Enfumoir Zoth, Quantity: 10
+  - ID: 13367 / Galet Solaire, Quantity: 2
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 10
+  - ID: 13499 / Jouet de Gamine Zoth, Quantity: 10
+  - ID: 13755, Quantity: 1
+EFFECTS:
+  - 32 Soins
+  - -200 Vitalité
+IS WEAPON: False
+PARENT SET: None
+
+NAME : Sanguinaire majeur
+ID : 16339
+TYPE : Trophée
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/151259.png
+DESCRIPTION : Vos amis ont l'eau à la bouche quand ils vous voient saigner mais refusent de goûter votre délicieuse soupe à l'ail. Étrange.
+RECIPES:
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 29444 / Galet rayonnant, Quantity: 2
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15271 / Tourmaline, Quantity: 1
+  - ID: 16338, Quantity: 1
+  - ID: 15041 / Tignasse de Kanihilan, Quantity: 10
+  - ID: 11230 / Queue du Fu Mansot, Quantity: 10
+EFFECTS:
+  - 12 Dommages Neutre
+  - 12 Dommages Terre
+  - 12 Dommages Feu
+  - 12 Dommages Eau
+  - 12 Dommages Air
+IS WEAPON: False
+PARENT SET: None
+

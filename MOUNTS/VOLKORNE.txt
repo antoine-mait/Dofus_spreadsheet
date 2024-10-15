@@ -1,0 +1,965 @@
+NAME : Volkorne Pourpre Sauvage
+ID : 172
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/172.png
+EFFECTS: None
+
+NAME : Volkorne Orchidée Sauvage
+ID : 173
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/173.png
+EFFECTS: None
+
+NAME : Volkorne Indigo Sauvage
+ID : 174
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/174.png
+EFFECTS: None
+
+NAME : Volkorne Ebène Sauvage
+ID : 175
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/175.png
+EFFECTS: None
+
+NAME : Volkorne Indigo
+ID : 176
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/176.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 70 Chance
+
+NAME : Volkorne Ebène
+ID : 177
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/177.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 70 Agilité
+
+NAME : Volkorne Pourpre
+ID : 178
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/178.png
+EFFECTS:
+  - 0 à 70 Force
+  - 0 à 1 PA
+
+NAME : Volkorne Orchidée
+ID : 179
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/179.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 70 Intelligence
+
+NAME : Volkorne Roux
+ID : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/180.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 60 Dommage Poussée
+
+NAME : Volkorne Amande
+ID : 181
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/181.png
+EFFECTS:
+  - 0 à 80 Résistance Poussée
+  - 0 à 1 PA
+
+NAME : Volkorne Ivoire
+ID : 182
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/182.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 30 Retrait PA
+
+NAME : Volkorne Turquoise
+ID : 183
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/183.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 30 Retrait PM
+
+NAME : Volkorne Prune
+ID : 184
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/184.png
+EFFECTS:
+  - 0 à 50 Résistance Critiques
+  - 0 à 1 PA
+
+NAME : Volkorne Emeraude
+ID : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/185.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 7% Critique
+
+NAME : Volkorne Doré
+ID : 186
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/186.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 150 Vitalité
+
+NAME : Volkorne Jade
+ID : 187
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/187.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 12% Résistance Terre
+
+NAME : Volkorne Rubis
+ID : 188
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/188.png
+EFFECTS:
+  - 0 à 12% Résistance Feu
+  - 0 à 1 PA
+
+NAME : Volkorne Saphir
+ID : 189
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/189.png
+EFFECTS:
+  - 0 à 12% Résistance Eau
+  - 0 à 1 PA
+
+NAME : Volkorne Améthyste
+ID : 190
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/190.png
+EFFECTS:
+  - 0 à 12% Résistance Air
+  - 0 à 1 PA
+
+NAME : Volkorne Pourpre et Orchidée
+ID : 191
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/191.png
+EFFECTS:
+  - 0 à 50 Force
+  - 0 à 50 Intelligence
+  - 0 à 1 PA
+
+NAME : Volkorne Pourpre et Indigo
+ID : 192
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/192.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 50 Chance
+  - 0 à 50 Force
+
+NAME : Volkorne Pourpre et Ebène
+ID : 193
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/193.png
+EFFECTS:
+  - 0 à 50 Force
+  - 0 à 1 PA
+  - 0 à 50 Agilité
+
+NAME : Volkorne Orchidée et Indigo
+ID : 194
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/194.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 50 Chance
+  - 0 à 50 Intelligence
+
+NAME : Volkorne Orchidée et Ebène
+ID : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/195.png
+EFFECTS:
+  - 0 à 50 Agilité
+  - 0 à 1 PA
+  - 0 à 50 Intelligence
+
+NAME : Volkorne Indigo et Ebène
+ID : 196
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/196.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 50 Chance
+  - 0 à 50 Agilité
+
+NAME : Volkorne Amande et Pourpre
+ID : 197
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/197.png
+EFFECTS:
+  - 0 à 50 Force
+  - 0 à 60 Résistance Poussée
+  - 0 à 1 PA
+
+NAME : Volkorne Amande et Orchidée
+ID : 198
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/198.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 60 Résistance Poussée
+  - 0 à 50 Intelligence
+
+NAME : Volkorne Amande et Indigo
+ID : 199
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/199.png
+EFFECTS:
+  - 0 à 60 Résistance Poussée
+  - 0 à 50 Chance
+  - 0 à 1 PA
+
+NAME : Volkorne Amande et Ebène
+ID : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/200.png
+EFFECTS:
+  - 0 à 50 Agilité
+  - 0 à 60 Résistance Poussée
+  - 0 à 1 PA
+
+NAME : Volkorne Amande et Roux
+ID : 201
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/201.png
+EFFECTS:
+  - 0 à 60 Résistance Poussée
+  - 0 à 1 PA
+  - 0 à 40 Dommage Poussée
+
+NAME : Volkorne Amande et Ivoire
+ID : 202
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/202.png
+EFFECTS:
+  - 0 à 60 Résistance Poussée
+  - 0 à 1 PA
+  - 0 à 20 Retrait PA
+
+NAME : Volkorne Amande et Turquoise
+ID : 203
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/203.png
+EFFECTS:
+  - 0 à 20 Retrait PM
+  - 0 à 60 Résistance Poussée
+  - 0 à 1 PA
+
+NAME : Volkorne Roux et Pourpre
+ID : 204
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/204.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 40 Dommage Poussée
+  - 0 à 50 Force
+
+NAME : Volkorne Roux et Orchidée
+ID : 205
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/205.png
+EFFECTS:
+  - 0 à 40 Dommage Poussée
+  - 0 à 50 Intelligence
+  - 0 à 1 PA
+
+NAME : Volkorne Roux et Indigo
+ID : 206
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/206.png
+EFFECTS:
+  - 0 à 40 Dommage Poussée
+  - 0 à 1 PA
+  - 0 à 50 Chance
+
+NAME : Volkorne Roux et Ebène
+ID : 207
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/207.png
+EFFECTS:
+  - 0 à 40 Dommage Poussée
+  - 0 à 50 Agilité
+  - 0 à 1 PA
+
+NAME : Volkorne Roux et Ivoire
+ID : 208
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/208.png
+EFFECTS:
+  - 0 à 40 Dommage Poussée
+  - 0 à 1 PA
+  - 0 à 20 Retrait PA
+
+NAME : Volkorne Roux et Turquoise
+ID : 209
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/209.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 20 Retrait PM
+  - 0 à 40 Dommage Poussée
+
+NAME : Volkorne Ivoire et Pourpre
+ID : 210
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/210.png
+EFFECTS:
+  - 0 à 20 Retrait PA
+  - 0 à 1 PA
+  - 0 à 50 Force
+
+NAME : Volkorne Ivoire et Orchidée
+ID : 211
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/211.png
+EFFECTS:
+  - 0 à 20 Retrait PA
+  - 0 à 1 PA
+  - 0 à 50 Intelligence
+
+NAME : Volkorne Ivoire et Indigo
+ID : 212
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/212.png
+EFFECTS:
+  - 0 à 20 Retrait PA
+  - 0 à 1 PA
+  - 0 à 50 Chance
+
+NAME : Volkorne Ivoire et Ebène
+ID : 213
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/213.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 20 Retrait PA
+  - 0 à 50 Agilité
+
+NAME : Volkorne Ivoire et Turquoise
+ID : 214
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/214.png
+EFFECTS:
+  - 0 à 20 Retrait PM
+  - 0 à 1 PA
+  - 0 à 20 Retrait PA
+
+NAME : Volkorne Turquoise et Pourpre
+ID : 215
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/215.png
+EFFECTS:
+  - 0 à 20 Retrait PM
+  - 0 à 1 PA
+  - 0 à 50 Force
+
+NAME : Volkorne Turquoise et Orchidée
+ID : 216
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/216.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 20 Retrait PM
+  - 0 à 50 Intelligence
+
+NAME : Volkorne Turquoise et Indigo
+ID : 217
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/217.png
+EFFECTS:
+  - 0 à 50 Chance
+  - 0 à 1 PA
+  - 0 à 20 Retrait PM
+
+NAME : Volkorne Turquoise et Ebène
+ID : 218
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/218.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 50 Agilité
+  - 0 à 20 Retrait PM
+
+NAME : Volkorne Prune et Pourpre
+ID : 219
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/219.png
+EFFECTS:
+  - 0 à 35 Résistance Critiques
+  - 0 à 1 PA
+  - 0 à 50 Force
+
+NAME : Volkorne Prune et Orchidée
+ID : 220
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/220.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 35 Résistance Critiques
+  - 0 à 50 Intelligence
+
+NAME : Volkorne Prune et Indigo
+ID : 221
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/221.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 50 Chance
+  - 0 à 35 Résistance Critiques
+
+NAME : Volkorne Prune et Ebène
+ID : 222
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/222.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 35 Résistance Critiques
+  - 0 à 50 Agilité
+
+NAME : Volkorne Prune et Amande
+ID : 223
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/223.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 60 Résistance Poussée
+  - 0 à 35 Résistance Critiques
+
+NAME : Volkorne Prune et Turquoise
+ID : 224
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/224.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 35 Résistance Critiques
+  - 0 à 20 Retrait PM
+
+NAME : Volkorne Prune et Emeraude
+ID : 225
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/225.png
+EFFECTS:
+  - 0 à 35 Résistance Critiques
+  - 0 à 1 PA
+  - 0 à 5% Critique
+
+NAME : Volkorne Emeraude et Pourpre
+ID : 226
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/226.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 5% Critique
+  - 0 à 50 Force
+
+NAME : Volkorne Emeraude et Orchidée
+ID : 227
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/227.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 5% Critique
+  - 0 à 50 Intelligence
+
+NAME : Volkorne Emeraude et Indigo
+ID : 228
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/228.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 50 Chance
+  - 0 à 5% Critique
+
+NAME : Volkorne Emeraude et Ebène
+ID : 229
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/229.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 5% Critique
+  - 0 à 50 Agilité
+
+NAME : Volkorne Emeraude et Amande
+ID : 230
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/230.png
+EFFECTS:
+  - 0 à 60 Résistance Poussée
+  - 0 à 5% Critique
+  - 0 à 1 PA
+
+NAME : Volkorne Emeraude et Roux
+ID : 231
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/231.png
+EFFECTS:
+  - 0 à 5% Critique
+  - 0 à 40 Dommage Poussée
+  - 0 à 1 PA
+
+NAME : Volkorne Emeraude et Ivoire
+ID : 233
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/233.png
+EFFECTS:
+  - 0 à 20 Retrait PA
+  - 0 à 5% Critique
+  - 0 à 1 PA
+
+NAME : Volkorne Emeraude et Turquoise
+ID : 234
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/234.png
+EFFECTS:
+  - 0 à 20 Retrait PM
+  - 0 à 1 PA
+  - 0 à 5% Critique
+
+NAME : Volkorne Doré et Pourpre
+ID : 235
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/235.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 100 Vitalité
+  - 0 à 50 Force
+
+NAME : Volkorne Doré et Orchidée
+ID : 236
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/236.png
+EFFECTS:
+  - 0 à 100 Vitalité
+  - 0 à 50 Intelligence
+  - 0 à 1 PA
+
+NAME : Volkorne Doré et Indigo
+ID : 237
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/237.png
+EFFECTS:
+  - 0 à 100 Vitalité
+  - 0 à 50 Chance
+  - 0 à 1 PA
+
+NAME : Volkorne Doré et Ebène
+ID : 238
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/238.png
+EFFECTS:
+  - 0 à 100 Vitalité
+  - 0 à 50 Agilité
+  - 0 à 1 PA
+
+NAME : Volkorne Jade et Pourpre
+ID : 239
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/239.png
+EFFECTS:
+  - 0 à 6% Résistance Terre
+  - 0 à 50 Force
+  - 0 à 1 PA
+
+NAME : Volkorne Jade et Orchidée
+ID : 240
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/240.png
+EFFECTS:
+  - 0 à 50 Intelligence
+  - 0 à 1 PA
+  - 0 à 6% Résistance Terre
+
+NAME : Volkorne Jade et Indigo
+ID : 241
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/241.png
+EFFECTS:
+  - 0 à 50 Chance
+  - 0 à 1 PA
+  - 0 à 6% Résistance Terre
+
+NAME : Volkorne Jade et Ebène
+ID : 242
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/242.png
+EFFECTS:
+  - 0 à 6% Résistance Terre
+  - 0 à 50 Agilité
+  - 0 à 1 PA
+
+NAME : Volkorne Jade et Amande
+ID : 243
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/243.png
+EFFECTS:
+  - 0 à 6% Résistance Terre
+  - 0 à 1 PA
+  - 0 à 60 Résistance Poussée
+
+NAME : Volkorne Jade et Roux
+ID : 244
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/244.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 6% Résistance Terre
+  - 0 à 40 Dommage Poussée
+
+NAME : Volkorne Jade et Ivoire
+ID : 245
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/245.png
+EFFECTS:
+  - 0 à 20 Retrait PA
+  - 0 à 6% Résistance Terre
+  - 0 à 1 PA
+
+NAME : Volkorne Jade et Turquoise
+ID : 246
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/246.png
+EFFECTS:
+  - 0 à 6% Résistance Terre
+  - 0 à 20 Retrait PM
+  - 0 à 1 PA
+
+NAME : Volkorne Jade et Prune
+ID : 247
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/247.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 6% Résistance Terre
+  - 0 à 35 Résistance Critiques
+
+NAME : Volkorne Jade et Emeraude
+ID : 248
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/248.png
+EFFECTS:
+  - 0 à 5% Critique
+  - 0 à 6% Résistance Terre
+  - 0 à 1 PA
+
+NAME : Volkorne Jade et Doré
+ID : 249
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/249.png
+EFFECTS:
+  - 0 à 100 Vitalité
+  - 0 à 6% Résistance Terre
+  - 0 à 1 PA
+
+NAME : Volkorne Jade et Rubis
+ID : 250
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/250.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 6% Résistance Feu
+  - 0 à 6% Résistance Terre
+
+NAME : Volkorne Jade et Saphir
+ID : 251
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/251.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 6% Résistance Eau
+  - 0 à 6% Résistance Terre
+
+NAME : Volkorne Jade et Améthyste
+ID : 252
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/252.png
+EFFECTS:
+  - 0 à 6% Résistance Air
+  - 0 à 1 PA
+  - 0 à 6% Résistance Terre
+
+NAME : Volkorne Rubis et Pourpre
+ID : 253
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/253.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 50 Force
+  - 0 à 6% Résistance Feu
+
+NAME : Volkorne Rubis et Orchidée
+ID : 254
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/254.png
+EFFECTS:
+  - 0 à 6% Résistance Feu
+  - 0 à 1 PA
+  - 0 à 50 Intelligence
+
+NAME : Volkorne Rubis et Indigo
+ID : 255
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/255.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 50 Chance
+  - 0 à 6% Résistance Feu
+
+NAME : Volkorne Rubis et Ebène
+ID : 256
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/256.png
+EFFECTS:
+  - 0 à 50 Agilité
+  - 0 à 1 PA
+  - 0 à 6% Résistance Feu
+
+NAME : Volkorne Rubis et Amande
+ID : 257
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/257.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 6% Résistance Feu
+  - 0 à 60 Résistance Poussée
+
+NAME : Volkorne Rubis et Roux
+ID : 258
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/258.png
+EFFECTS:
+  - 0 à 40 Dommage Poussée
+  - 0 à 6% Résistance Feu
+  - 0 à 1 PA
+
+NAME : Volkorne Rubis et Ivoire
+ID : 259
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/259.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 6% Résistance Feu
+  - 0 à 20 Retrait PA
+
+NAME : Volkorne Rubis et Turquoise
+ID : 260
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/260.png
+EFFECTS:
+  - 0 à 6% Résistance Feu
+  - 0 à 1 PA
+  - 0 à 20 Retrait PM
+
+NAME : Volkorne Rubis et Prune
+ID : 261
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/261.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 35 Résistance Critiques
+  - 0 à 6% Résistance Feu
+
+NAME : Volkorne Rubis et Emeraude
+ID : 262
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/262.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 5% Critique
+  - 0 à 6% Résistance Feu
+
+NAME : Volkorne Rubis et Doré
+ID : 263
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/263.png
+EFFECTS:
+  - 0 à 6% Résistance Feu
+  - 0 à 1 PA
+  - 0 à 100 Vitalité
+
+NAME : Volkorne Saphir et Pourpre
+ID : 264
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/264.png
+EFFECTS:
+  - 0 à 6% Résistance Eau
+  - 0 à 50 Force
+  - 0 à 1 PA
+
+NAME : Volkorne Saphir et Orchidée
+ID : 265
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/265.png
+EFFECTS:
+  - 0 à 50 Intelligence
+  - 0 à 6% Résistance Eau
+  - 0 à 1 PA
+
+NAME : Volkorne Saphir et Indigo
+ID : 266
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/266.png
+EFFECTS:
+  - 0 à 50 Chance
+  - 0 à 6% Résistance Eau
+  - 0 à 1 PA
+
+NAME : Volkorne Saphir et Ebène
+ID : 267
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/267.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 6% Résistance Eau
+  - 0 à 50 Agilité
+
+NAME : Volkorne Saphir et Amande
+ID : 268
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/268.png
+EFFECTS:
+  - 0 à 60 Résistance Poussée
+  - 0 à 6% Résistance Eau
+  - 0 à 1 PA
+
+NAME : Volkorne Saphir et Roux
+ID : 269
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/269.png
+EFFECTS:
+  - 0 à 40 Dommage Poussée
+  - 0 à 6% Résistance Eau
+  - 0 à 1 PA
+
+NAME : Volkorne Saphir et Ivoire
+ID : 270
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/270.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 6% Résistance Eau
+  - 0 à 20 Retrait PA
+
+NAME : Volkorne Saphir et Turquoise
+ID : 271
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/271.png
+EFFECTS:
+  - 0 à 6% Résistance Eau
+  - 0 à 1 PA
+  - 0 à 20 Retrait PM
+
+NAME : Volkorne Saphir et Prune
+ID : 272
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/272.png
+EFFECTS:
+  - 0 à 35 Résistance Critiques
+  - 0 à 1 PA
+  - 0 à 6% Résistance Eau
+
+NAME : Volkorne Saphir et Emeraude
+ID : 273
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/273.png
+EFFECTS:
+  - 0 à 5% Critique
+  - 0 à 6% Résistance Eau
+  - 0 à 1 PA
+
+NAME : Volkorne Saphir et Doré
+ID : 274
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/274.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 100 Vitalité
+  - 0 à 6% Résistance Eau
+
+NAME : Volkorne Saphir et Améthyste
+ID : 275
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/275.png
+EFFECTS:
+  - 0 à 6% Résistance Air
+  - 0 à 6% Résistance Eau
+  - 0 à 1 PA
+
+NAME : Volkorne Améthyste et Pourpre
+ID : 276
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/276.png
+EFFECTS:
+  - 0 à 6% Résistance Air
+  - 0 à 50 Force
+  - 0 à 1 PA
+
+NAME : Volkorne Améthyste et Orchidée
+ID : 277
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/277.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 50 Intelligence
+  - 0 à 6% Résistance Air
+
+NAME : Volkorne Améthyste et Indigo
+ID : 278
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/278.png
+EFFECTS:
+  - 0 à 50 Chance
+  - 0 à 1 PA
+  - 0 à 6% Résistance Air
+
+NAME : Volkorne Améthyste et Ebène
+ID : 279
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/279.png
+EFFECTS:
+  - 0 à 50 Agilité
+  - 0 à 6% Résistance Air
+  - 0 à 1 PA
+
+NAME : Volkorne Améthyste et Amande
+ID : 280
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/280.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 6% Résistance Air
+  - 0 à 60 Résistance Poussée
+
+NAME : Volkorne Améthyste et Roux
+ID : 281
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/281.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 6% Résistance Air
+  - 0 à 40 Dommage Poussée
+
+NAME : Volkorne Améthyste et Ivoire
+ID : 282
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/282.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 20 Retrait PA
+  - 0 à 6% Résistance Air
+
+NAME : Volkorne Améthyste et Turquoise
+ID : 283
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/283.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 20 Retrait PM
+  - 0 à 6% Résistance Air
+
+NAME : Volkorne Améthyste et Prune
+ID : 284
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/284.png
+EFFECTS:
+  - 0 à 35 Résistance Critiques
+  - 0 à 1 PA
+  - 0 à 6% Résistance Air
+
+NAME : Volkorne Améthyste et Emeraude
+ID : 285
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/285.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 5% Critique
+  - 0 à 6% Résistance Air
+
+NAME : Volkorne Améthyste et Doré
+ID : 286
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/286.png
+EFFECTS:
+  - 0 à 6% Résistance Air
+  - 0 à 1 PA
+  - 0 à 100 Vitalité
+
+NAME : Volkorne Prune et Roux
+ID : 287
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/287.png
+EFFECTS:
+  - 0 à 35 Résistance Critiques
+  - 0 à 40 Dommage Poussée
+  - 0 à 1 PA
+
+NAME : Volkorne Prune et Ivoire
+ID : 288
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/288.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 35 Résistance Critiques
+  - 0 à 20 Retrait PA
+
+NAME : Volkorne Rubis et Saphir
+ID : 289
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/289.png
+EFFECTS:
+  - 0 à 6% Résistance Eau
+  - 0 à 6% Résistance Feu
+  - 0 à 1 PA
+
+NAME : Volkorne Rubis et Améthyste
+ID : 290
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/290.png
+EFFECTS:
+  - 0 à 6% Résistance Feu
+  - 0 à 1 PA
+  - 0 à 6% Résistance Air
+
+NAME : Volkorne Doré et Roux
+ID : 291
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/291.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 40 Dommage Poussée
+  - 0 à 100 Vitalité
+
+NAME : Volkorne Doré et Amande
+ID : 292
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/292.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 100 Vitalité
+  - 0 à 60 Résistance Poussée
+
+NAME : Volkorne Doré et Ivoire
+ID : 293
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/293.png
+EFFECTS:
+  - 0 à 100 Vitalité
+  - 0 à 20 Retrait PA
+  - 0 à 1 PA
+
+NAME : Volkorne Doré et Turquoise
+ID : 294
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/294.png
+EFFECTS:
+  - 0 à 1 PA
+  - 0 à 100 Vitalité
+  - 0 à 20 Retrait PM
+
+NAME : Volkorne Doré et Prune
+ID : 295
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/295.png
+EFFECTS:
+  - 0 à 35 Résistance Critiques
+  - 0 à 1 PA
+  - 0 à 100 Vitalité
+
+NAME : Volkorne Doré et Emeraude
+ID : 296
+IMAGE URL : https://api.dofusdu.de/dofus2/img/mount/296.png
+EFFECTS:
+  - 0 à 100 Vitalité
+  - 0 à 5% Critique
+  - 0 à 1 PA
+
