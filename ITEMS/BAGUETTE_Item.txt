@@ -1,0 +1,1978 @@
+NAME : Demi-Baguette
+ID : 1356
+TYPE : Baguette
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3013.png
+DESCRIPTION : Rika Zarouil la boulangère fut connue pour avoir été l'eniripsa la plus petite de la contrée. Elle faisait son pain dans des petits-fours en carton et se battait avec des demi-baguettes.
+RECIPES:
+  - ID: 16513, Quantity: 3
+  - ID: 16511, Quantity: 3
+EFFECTS:
+  - 2 à 6 (dommages Eau)
+  - 3 à 4 Chance
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Flûte de Sarr Ys
+ID : 8627
+TYPE : Baguette
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3063.png
+DESCRIPTION : Confrère et ami du célèbre Guy-guy (proche parent du Chêne Mou), Sarr Ys est un troubadour dont les notes enchanteresses ont gravé leurs empreintes dans la mémoire d'Amakna. Malheureusement, ce brillant artiste est décédé tragiquement dans un accident de Koinkoin, lors d'une beuverie estivale.
+RECIPES: None
+EFFECTS:
+  - 3 à 5 (dommages Air)
+  - Change les paroles
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette de Boisaille
+ID : 134
+TYPE : Baguette
+LEVEL : 3
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3008.png
+DESCRIPTION : Baguette de simple facture, elle ne fera pas de votre héros une légende.
+RECIPES:
+  - ID: 16515, Quantity: 3
+  - ID: 312, Quantity: 1
+EFFECTS:
+  - 4 à 8 (dommages Feu)
+  - 3 à 5 Intelligence
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette de Feu Follesque
+ID : 1503
+TYPE : Baguette
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3014.png
+DESCRIPTION : Pour la fabrication de cette baguette lugubre, on dit qu'il faut mettre la baguette dans le corps d'un cadavre frais, et l'enterrer peu après. Mais personne n'ose imaginer comment faire.
+RECIPES:
+  - ID: 16518, Quantity: 3
+  - ID: 16523, Quantity: 3
+EFFECTS:
+  - 8 à 12 (dommages Feu)
+  - 5 à 7 Intelligence
+  - 2% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette de Glace
+ID : 165
+TYPE : Baguette
+LEVEL : 11
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3002.png
+DESCRIPTION : Une baguette bien sculptée, intéressante pour les novices.
+RECIPES:
+  - ID: 2491, Quantity: 3
+  - ID: 2563, Quantity: 3
+EFFECTS:
+  - 14 à 18 (dommages Feu)
+  - 9 à 12 Intelligence
+  - 1 Dommage Feu
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette de l'initié
+ID : 6781
+TYPE : Baguette
+LEVEL : 12
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3008.png
+DESCRIPTION : Cette arme d'apparence rudimentaire vous donnera l'impression de savoir vous battre.
+RECIPES: None
+EFFECTS:
+  - 6 à 10 (dommages Feu)
+  - 10 Initiative
+  - 10 Vitalité
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette de Liriel
+ID : 334
+TYPE : Baguette
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3005.png
+DESCRIPTION : Cette baguette appartenait à l'Eniripsa Liriel qui mourut d'une overdose de fraises dans d'atroces souffrances, perdant ses ailes dans un râle de douleur à vous glacer le sang. Les collectionneurs s'arrachent cette baguette réputée maudite.
+RECIPES:
+  - ID: 2539, Quantity: 2
+  - ID: 13494, Quantity: 3
+EFFECTS:
+  - 16 à 20 (dommages Air)
+  - 2 à 3% Critique
+  - Arme de chasse
+  - 11 à 15 Agilité
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette du Tofu
+ID : 8110
+TYPE : Baguette
+LEVEL : 25
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3058.png
+DESCRIPTION : Contrairement à ce que certains aventuriers peuvent croire, cette baguette n'est pas utilisée par les Tofus (bien trop stupides pour savoir se servir d'une telle arme), mais contre les Tofus. En effet, les plumes de Tofu qui la composent permettent aux chasseurs de simuler la parade nuptiale des Tofus pour ensuite mieux les attraper. Mais jusqu'où iront ces terribles chasseurs pour satisfaire leurs pulsions meurtrières ?
+RECIPES:
+  - ID: 366, Quantity: 4
+  - ID: 2659, Quantity: 4
+  - ID: 8682, Quantity: 3
+EFFECTS:
+  - 3 à 4 (vol Air)
+  - 3 à 4 (vol Feu)
+  - 1 Agilité
+  - Arme de chasse
+IS WEAPON: True
+PARENT SET ID: 50
+PARENT SET NAME: Panoplie du Tofu
+
+NAME : Baguette de Sagesse
+ID : 835
+TYPE : Baguette
+LEVEL : 27
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3004.png
+DESCRIPTION : Cette baguette permet à son porteur d'augmenter sa sagesse.
+RECIPES:
+  - ID: 13487, Quantity: 4
+  - ID: 747, Quantity: 2
+  - ID: 307, Quantity: 4
+EFFECTS:
+  - 16 à 20 (dommages Neutre)
+  - 41 à 60 Vitalité
+  - -10 Force
+  - -10 Intelligence
+  - -10 Agilité
+  - -10 Chance
+  - 21 à 25 Sagesse
+  - 3 à 4 Tacle
+  - 3 à 4 Fuite
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Rangleuse
+ID : 7173
+TYPE : Baguette
+LEVEL : 27
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3048.png
+DESCRIPTION : Cette terrifiante baguette est capable de s'enrouler autour du cou de vos adversaires pour les étrangler lentement mais sûrement. Une façon originale et distinguée de donner la mort aux adversaires que vous respectez un peu.
+RECIPES:
+  - ID: 6899, Quantity: 4
+  - ID: 2455, Quantity: 1
+  - ID: 309, Quantity: 4
+EFFECTS:
+  - 5 à 7 (dommages Feu)
+  - 21 à 30 Vitalité
+  - 21 à 30 Intelligence
+  - 5 à 7 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette d'Intelligence
+ID : 832
+TYPE : Baguette
+LEVEL : 29
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3001.png
+DESCRIPTION : Cette baguette permet à son porteur d'augmenter son intelligence.
+RECIPES:
+  - ID: 2539, Quantity: 2
+  - ID: 16487, Quantity: 1
+  - ID: 13727, Quantity: 4
+EFFECTS:
+  - 12 à 16 (dommages Feu)
+  - 21 à 30 Vitalité
+  - -30 Force
+  - 31 à 40 Intelligence
+  - 4 à 5 Fuite
+  - 4 à 5 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Heure
+ID : 1104
+TYPE : Baguette
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3017.png
+DESCRIPTION : L'eniripsa Mie Dopan confectionna cette série de baguettes piquantes pour lutter contre les vols. Capable en théorie de remonter le temps pour empêcher une agression, elle finit généralement dans l'œil d'un démon.
+RECIPES:
+  - ID: 12745, Quantity: 1
+  - ID: 8680, Quantity: 1
+  - ID: 13494, Quantity: 4
+EFFECTS:
+  - 6 à 10 (dommages Neutre)
+  - 21 à 30 Force
+  - 21 à 30 Intelligence
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette en Racine d'Abraknyde
+ID : 469
+TYPE : Baguette
+LEVEL : 33
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3003.png
+DESCRIPTION : Cette baguette utilise les propriétés magiques de la Racine d'Abraknyde qui est encore vivante, méfiez-vous des effets néfastes de cette baguette, il lui arrive parfois de se retourner contre son maître.
+RECIPES:
+  - ID: 6842, Quantity: 5
+  - ID: 2449, Quantity: 1
+  - ID: 16150, Quantity: 2
+EFFECTS:
+  - 16 à 20 (dommages Neutre)
+  - 21 à 30 Vitalité
+  - 21 à 30 Force
+  - -20 Agilité
+  - -20 Chance
+  - 16 à 20 Sagesse
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Daguette
+ID : 1357
+TYPE : Baguette
+LEVEL : 35
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3017.png
+DESCRIPTION : Un sculpteur un peu farceur tenta de faire passer ses baguettes pour des dagues. Son stratagème n'eut aucun succès, mais ses baguettes, elles, en eurent.
+RECIPES:
+  - ID: 383, Quantity: 4
+  - ID: 747, Quantity: 1
+  - ID: 6845, Quantity: 5
+EFFECTS:
+  - 10 à 15 (dommages Air)
+  - 21 à 30 Vitalité
+  - -20 Force
+  - -20 Intelligence
+  - 21 à 30 Agilité
+  - -20 Chance
+  - 7 à 10 Sagesse
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Larvesque
+ID : 7110
+TYPE : Baguette
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3019.png
+DESCRIPTION : Cette terrifiante baguette est en fait un boyau de larve desséché puis enchanté, et enfin réhydraté. Il ne ressemble plus à rien désormais, un peu comme vous en fait, sauf que vous n'êtes même pas enchanté.
+RECIPES:
+  - ID: 363, Quantity: 5
+  - ID: 364, Quantity: 7
+  - ID: 643, Quantity: 1
+  - ID: 16001, Quantity: 6
+EFFECTS:
+  - -2 à -1 PA
+  - 8 à 12 (soins Feu)
+  - 31 à 40 Vitalité
+  - 16 à 20 Agilité
+  - 7 à 10 Soins
+  - 1 Invocation
+IS WEAPON: True
+PARENT SET ID: 33
+PARENT SET NAME: Panoplie Larvesque
+
+NAME : Baguette Rikiki
+ID : 15990
+TYPE : Baguette
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3086.png
+DESCRIPTION : Vous êtes du genre à vous faire tout petit quand il y a du grabuge ? Vous souffrez d'une folie des grandeurs ? La baguette Rikiki est à la mesure de vos attentes. Vous pourrez aussi l'utiliser pour vous faufiler dans des endroits inaccessibles... bientôt, les trous de sousouris n'auront plus de secret pour vous.
+RECIPES:
+  - ID: 652, Quantity: 1
+  - ID: 8157, Quantity: 1
+  - ID: 2462, Quantity: 1
+  - ID: 1672, Quantity: 1
+EFFECTS:
+  - 4 à 7 (vol Eau)
+  - 31 à 40 Vitalité
+  - 11 à 15 Chance
+  - 7 à 10 Sagesse
+  - 4 à 5 Fuite
+  - 3 à 4 Dommages Eau
+  - 2% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Sylvien
+ID : 1361
+TYPE : Baguette
+LEVEL : 43
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3015.png
+DESCRIPTION : La Baguette Sylvien a l'étrange pouvoir de conférer une vue perçante à son porteur. Charge ensuite à celui ci d'être suffisamment agile pour pouvoir fuir le danger.
+RECIPES:
+  - ID: 752, Quantity: 7
+  - ID: 883, Quantity: 2
+  - ID: 746, Quantity: 2
+  - ID: 11815, Quantity: 3
+EFFECTS:
+  - 8 à 14 (dommages Air)
+  - 31 à 40 Vitalité
+  - -20 Force
+  - 16 à 20 Chance
+  - 11 à 15 Sagesse
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Cetera
+ID : 7167
+TYPE : Baguette
+LEVEL : 43
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3050.png
+DESCRIPTION : L'artisan à l'origine de cette baguette avait de nombreux apprentis qu'il faisait travailler à longueur de journées. Il était censé leur apprendre les ficelles du métier, mais était en fait très mauvais pédagogue, il commençait toujours ses explications, mais ne les finissait jamais.
+RECIPES:
+  - ID: 2669, Quantity: 1
+  - ID: 2571, Quantity: 6
+  - ID: 12745, Quantity: 2
+  - ID: 13096, Quantity: 4
+EFFECTS:
+  - 8 à 17 (dommages Neutre)
+  - 201 à 300 Initiative
+  - 41 à 60 Vitalité
+  - 4 à 5 Dommages
+  - 4 à 5 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette à Pans
+ID : 1136
+TYPE : Baguette
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3020.png
+DESCRIPTION : L'émancipation des ménagères Eniripsa de moins de 50 ans commença grâce à cette baguette : redoutable à la fois pour les monstres et pour la poussière. Pratique non ?
+RECIPES:
+  - ID: 746, Quantity: 2
+  - ID: 1467, Quantity: 7
+  - ID: 2250, Quantity: 7
+  - ID: 8557, Quantity: 2
+EFFECTS:
+  - 10 à 16 (dommages Feu)
+  - 36 à 45 Vitalité
+  - 36 à 45 Intelligence
+  - 4 à 5 Tacle
+  - 4 à 5 Retrait PM
+IS WEAPON: True
+PARENT SET: None
+
+NAME : L'Hyldegarde
+ID : 1360
+TYPE : Baguette
+LEVEL : 48
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3008.png
+DESCRIPTION : Cette baguette fut créée il y a de nombreuses années dans les flammes de la forge de Mort Dur. Cette arme nécessite d'avoir toujours de l'eau à côté de soi pour pouvoir maitriser son feu intérieur...
+RECIPES:
+  - ID: 382, Quantity: 5
+  - ID: 2264, Quantity: 1
+  - ID: 746, Quantity: 2
+  - ID: 8161, Quantity: 2
+EFFECTS:
+  - 11 à 23 (dommages Eau)
+  - -60 Vitalité
+  - 31 à 40 Intelligence
+  - 21 à 30 Chance
+  - 2 à 3 Dommages Feu
+  - 5 à 7 Dommages Eau
+  - 5 à 7 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Ni'Ninnin
+ID : 1132
+TYPE : Baguette
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3018.png
+DESCRIPTION : Cette œuvre d'art symbolise l'alliance de la pureté... et de la stupidité. Son créateur devait l'être un peu aussi, car il lui conféra d'énormes pouvoirs magiques.
+RECIPES:
+  - ID: 2259, Quantity: 7
+  - ID: 2250, Quantity: 7
+  - ID: 8160, Quantity: 3
+  - ID: 2540, Quantity: 1
+EFFECTS:
+  - 1 à 10 (vol Feu)
+  - 61 à 90 Vitalité
+  - -90 Intelligence
+  - 16 à 20 Sagesse
+  - 1 PA
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Deuh-Pain
+ID : 333
+TYPE : Baguette
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3009.png
+DESCRIPTION : À l'origine destinée à être mangée, cette baguette est devenue une arme redoutée. En effet, Xavier le Boulanger l'a oubliée dans son four pendant 234 ans alors qu'il était parti distribuer des pains aux monstres autour de sa boulangerie.
+RECIPES:
+  - ID: 16166, Quantity: 6
+  - ID: 901, Quantity: 6
+  - ID: 746, Quantity: 1
+  - ID: 16002, Quantity: 3
+EFFECTS:
+  - 6 à 10 (dommages Neutre)
+  - 21 à 30 Vitalité
+  - -20 Force
+  - 16 à 20 Chance
+  - 21 à 30 Sagesse
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette des Cieux
+ID : 181
+TYPE : Baguette
+LEVEL : 51
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3006.png
+DESCRIPTION : Cette baguette fut bénie par Helle du haut des cieux. Elle procure à son porteur agilité et vitalité dans les batailles.
+RECIPES:
+  - ID: 2288, Quantity: 6
+  - ID: 8747, Quantity: 1
+  - ID: 746, Quantity: 1
+  - ID: 8738, Quantity: 4
+EFFECTS:
+  - 11 à 15 (dommages Neutre)
+  - 46 à 55 Vitalité
+  - -10 Force
+  - -10 Intelligence
+  - 31 à 40 Agilité
+  - -10 Chance
+  - 2 à 3 Tacle
+  - 2 à 3 Fuite
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette d'Eglise
+ID : 1131
+TYPE : Baguette
+LEVEL : 52
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3016.png
+DESCRIPTION : Cette lourde baguette a fracassé plus d'un crâne de pécheur. Les prêtres Iop l'utilisant pour absoudre radicalement et définitivement un repenti.
+RECIPES:
+  - ID: 2611, Quantity: 8
+  - ID: 13714, Quantity: 2
+  - ID: 434, Quantity: 1
+  - ID: 8386, Quantity: 1
+EFFECTS:
+  - 5 à 11 (dommages Neutre)
+  - 31 à 40 Vitalité
+  - 31 à 40 Force
+  - 31 à 40 Intelligence
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette d'Houvette
+ID : 1140
+TYPE : Baguette
+LEVEL : 55
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3019.png
+DESCRIPTION : Houvette inventa cette baguette pour ramener son mari enutrof du bar où il passait ses journées. Bien utilisée, celle-ci permettait de redonner du piquant à leur couple, mais nul ne dit comment.
+RECIPES:
+  - ID: 1002, Quantity: 7
+  - ID: 13728, Quantity: 8
+  - ID: 2540, Quantity: 1
+  - ID: 8388, Quantity: 1
+EFFECTS:
+  - 5 à 10 (dommages Neutre)
+  - -60 Vitalité
+  - 31 à 40 Intelligence
+  - 16 à 20 Chance
+  - 16 à 20 Sagesse
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette du Scarabosse Doré
+ID : 8118
+TYPE : Baguette
+LEVEL : 59
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3059.png
+DESCRIPTION : Cette baguette magique est parfaite pour dépoussiérer les vieux meubles ou les vieilles personnes.
+RECIPES:
+  - ID: 8140, Quantity: 2
+  - ID: 2294, Quantity: 1
+  - ID: 2540, Quantity: 1
+  - ID: 8161, Quantity: 2
+EFFECTS:
+  - 11 à 30 (soins Feu)
+  - 21 à 30 Intelligence
+  - 11 à 15 Agilité
+  - 16 à 20 Puissance
+  - 11 à 15 Soins
+  - 1 Invocation
+IS WEAPON: True
+PARENT SET ID: 51
+PARENT SET NAME: Panoplie Scarabosse Doré
+
+NAME : Le Tison Fûté
+ID : 1359
+TYPE : Baguette
+LEVEL : 59
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3008.png
+DESCRIPTION : Les origines de cette baguette restent obscures. Cependant, elle a toujours aidé ses heureux possesseurs à trouver les chemins les moins encombrés d'Amakna, ce qui peut servir les jours de grande affluence sur le domaine du bouftou royal.
+RECIPES:
+  - ID: 485, Quantity: 6
+  - ID: 429, Quantity: 7
+  - ID: 8732, Quantity: 1
+  - ID: 8389, Quantity: 1
+EFFECTS:
+  - 9 à 16 (dommages Feu)
+  - 21 à 30 Vitalité
+  - 16 à 20 Force
+  - 21 à 30 Intelligence
+  - 16 à 20 Agilité
+  - -30 Chance
+  - 4 à 5 Fuite
+  - 4 à 5 Dommages Feu
+  - 4 à 5% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Hylique
+ID : 7168
+TYPE : Baguette
+LEVEL : 63
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3051.png
+DESCRIPTION : Une fois sculptée, cette baguette a été trempée dans la bière pendant plusieurs années. Elle a déjà commencé à pourrir, mais elle garde cependant encore quelques propriétés magiques, suffisantes pour divertir ou exterminer vos alliés.
+RECIPES:
+  - ID: 2540, Quantity: 2
+  - ID: 9382, Quantity: 9
+  - ID: 9384, Quantity: 1
+  - ID: 13596, Quantity: 1
+  - ID: 13715, Quantity: 2
+EFFECTS:
+  - 5 à 8 (dommages Neutre)
+  - 5 à 8 (dommages Feu)
+  - 41 à 50 Intelligence
+  - 11 à 15 Puissance
+  - 4 à 5 Dommages Feu
+  - 4 à 5 Dommages Neutre
+  - 4 à 5 Retrait PM
+  - 7 à 10 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Balgourde des Clairettes
+ID : 6497
+TYPE : Baguette
+LEVEL : 63
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3043.png
+DESCRIPTION : La femme de Brouce Boulgoure, une Eniripsa, ne cessait de lui voler sa célèbre hache. Pour mettre un terme à ces bêtises, il lui coupa une aile et un bras et pour s'excuser, il lui offrît cette Baguette. Voilà un homme qui savait y faire avec les femmes.
+RECIPES:
+  - ID: 9381, Quantity: 2
+  - ID: 2556, Quantity: 1
+  - ID: 11696, Quantity: 1
+  - ID: 2540, Quantity: 2
+  - ID: 2496, Quantity: 6
+EFFECTS:
+  - 8 à 20 (dommages Feu)
+  - 41 à 50 Intelligence
+  - 11 à 15 Puissance
+  - 4 à 6 Fuite
+  - 4 à 5 Esquive PA
+  - 1 Portée
+  - -5 Esquive PM
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Pieu Vampirique
+ID : 1362
+TYPE : Baguette
+LEVEL : 65
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3014.png
+DESCRIPTION : Le pieu vampirique est en fait la baguette d'un vampire depuis longtemps retiré de la vie sociale et de la boucherie. Cet étrange bout de bois a cependant gardé quelques uns des avantages de son ancien maître...
+RECIPES:
+  - ID: 2486, Quantity: 8
+  - ID: 1891, Quantity: 6
+  - ID: 13596, Quantity: 1
+  - ID: 9384, Quantity: 1
+  - ID: 2540, Quantity: 2
+EFFECTS:
+  - 6 à 15 (vol Feu)
+  - 41 à 60 Vitalité
+  - 31 à 40 Intelligence
+  - 7 à 10 Soins
+  - 1 Invocation
+  - 4 à 5% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette en Racine d'Abraknyde Sombre
+ID : 6496
+TYPE : Baguette
+LEVEL : 67
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3040.png
+DESCRIPTION : Cette baguette a parfois tendance à reprendre vie et se révolter contre son maître. Dans ce cas-là, la meilleure chose à faire reste de la donner à votre ennemi, ou à un Iop qui pensera que vous lui faîtes un cadeau.
+RECIPES:
+  - ID: 1612, Quantity: 4
+  - ID: 2248, Quantity: 2
+  - ID: 2506, Quantity: 1
+  - ID: 12016, Quantity: 4
+  - ID: 2540, Quantity: 2
+EFFECTS:
+  - 12 à 16 (dommages Feu)
+  - 31 à 40 Vitalité
+  - -40 Force
+  - 41 à 60 Intelligence
+  - -40 Agilité
+  - -40 Chance
+  - 21 à 30 Sagesse
+  - 4 à 5 Fuite
+  - 16 à 20 Dommages Critiques
+  - 4 à 5% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Bagdette Café
+ID : 8611
+TYPE : Baguette
+LEVEL : 69
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3061.png
+DESCRIPTION : Cette baguette appartient au célèbre Grinegau, qui fait du très bon café, mais qui ne vendra pas son échelle.
+RECIPES:
+  - ID: 368, Quantity: 8
+  - ID: 13715, Quantity: 2
+  - ID: 480, Quantity: 1
+  - ID: 12016, Quantity: 4
+  - ID: 748, Quantity: 2
+EFFECTS:
+  - 5 à 8 (dommages Eau)
+  - 5 à 8 (dommages Neutre)
+  - 41 à 50 Vitalité
+  - 26 à 35 Intelligence
+  - 26 à 35 Chance
+  - 16 à 20 Sagesse
+  - 4 à 5 Soins
+  - 7 à 10 Dommages Critiques
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Meneuse
+ID : 1146
+TYPE : Baguette
+LEVEL : 71
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3021.png
+DESCRIPTION : Selon l'étiquette, cette baguette aurait l'étrange pouvoir de faire obéir les gens. Le mode d'emploi stipule simplement de l'agiter fortement devant une personne. En cas de mauvais fonctionnement, l'agiter sur la personne marche bien aussi.
+RECIPES:
+  - ID: 2301, Quantity: 11
+  - ID: 14280, Quantity: 10
+  - ID: 2251, Quantity: 1
+  - ID: 8758, Quantity: 4
+  - ID: 2543, Quantity: 1
+EFFECTS:
+  - 13 à 23 (dommages Neutre)
+  - 41 à 60 Vitalité
+  - 26 à 35 Force
+  - 46 à 65 Intelligence
+  - -35 Agilité
+  - 2 à 3% Résistance Eau
+  - 2 à 3% Résistance Air
+  - 2 à 3% Résistance Feu
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Bidjiz
+ID : 8612
+TYPE : Baguette
+LEVEL : 74
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3062.png
+DESCRIPTION : Avec la Bidjiz, vous resterez vivant, sûrement parce que vos adversaires se mettront à danser en voyant les multiples facettes de la boule qui orne cette baguette.
+RECIPES:
+  - ID: 748, Quantity: 1
+  - ID: 2503, Quantity: 1
+  - ID: 8394, Quantity: 1
+  - ID: 8757, Quantity: 9
+  - ID: 13488, Quantity: 10
+EFFECTS:
+  - 13 à 22 (dommages Neutre)
+  - 31 à 40 Vitalité
+  - 31 à 40 Agilité
+  - 11 à 15 Sagesse
+  - 2% Critique
+  - 1 PM
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Helles
+ID : 5999
+TYPE : Baguette
+LEVEL : 75
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3022.png
+DESCRIPTION : Cette baguette est fabriquée dans des conditions extrêmes, presque identiques à celles du cœur de la terre dit-on. Son énorme puissance viendrait de là. Personne ne peut vraiment vérifier hormis les artisans capables de la fabriquer.
+RECIPES:
+  - ID: 748, Quantity: 1
+  - ID: 1613, Quantity: 10
+  - ID: 2056, Quantity: 1
+  - ID: 2596, Quantity: 6
+  - ID: 8758, Quantity: 3
+EFFECTS:
+  - 11 à 14 (dommages Neutre)
+  - 41 à 50 Vitalité
+  - 41 à 50 Intelligence
+  - 21 à 30 Sagesse
+  - 4 à 5 Dommages Feu
+  - 4 à 5% Résistance Neutre
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette de Kouartz
+ID : 6519
+TYPE : Baguette
+LEVEL : 78
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3041.png
+DESCRIPTION : C'est un sculpteur réputé, connu également pour la ressemblance de son nom avec un des alliages les plus précieux d'Amakna, qui eut le premier, l'idée d'introduire des métaux dans ses créations. La folie mène parfois au succès.
+RECIPES:
+  - ID: 13488, Quantity: 11
+  - ID: 2150, Quantity: 8
+  - ID: 2320, Quantity: 1
+  - ID: 12075, Quantity: 1
+  - ID: 2543, Quantity: 1
+EFFECTS:
+  - 13 à 27 (dommages Neutre)
+  - 9 à 23 (soins Feu)
+  - 301 à 400 Initiative
+  - 61 à 80 Vitalité
+  - 41 à 50 Intelligence
+  - 11 à 15 Puissance
+  - 21 à 25 Sagesse
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Affeulante
+ID : 1739
+TYPE : Baguette
+LEVEL : 80
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3024.png
+DESCRIPTION : Cette baguette a d'étranges propriétés : au toucher, elle est brûlante. Mais le plus énigmatique reste son odeur de cendre, qui laisse à penser que le bois de cette baguette aurait survécu à un feu de forêt.
+RECIPES:
+  - ID: 2179, Quantity: 8
+  - ID: 2528, Quantity: 9
+  - ID: 8050, Quantity: 1
+  - ID: 8995, Quantity: 1
+  - ID: 2543, Quantity: 2
+EFFECTS:
+  - 11 à 14 (dommages Feu)
+  - 251 à 300 Initiative
+  - 61 à 80 Vitalité
+  - -60 Force
+  - 41 à 60 Intelligence
+  - 16 à 20 Sagesse
+  - 4 à 5% Résistance Eau
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Hincelle
+ID : 7169
+TYPE : Baguette
+LEVEL : 81
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3052.png
+DESCRIPTION : Idéale pour allumer le feu, ou animer les mariages ennuyeux, cette baguette vous permettra peut-être une fois dans votre vie, de faire des étincelles. Une occasion à saisir.
+RECIPES:
+  - ID: 845, Quantity: 12
+  - ID: 2543, Quantity: 2
+  - ID: 14473, Quantity: 3
+  - ID: 8077, Quantity: 1
+  - ID: 18371, Quantity: 4
+  - ID: 14635, Quantity: 60
+EFFECTS:
+  - 11 à 20 (dommages Neutre)
+  - 3 à 4 (vol Feu)
+  - 61 à 80 Vitalité
+  - 41 à 50 Intelligence
+  - 4 à 5 Fuite
+  - 5 à 7 Dommages Feu
+  - 5 à 7 Dommages Neutre
+  - 4 à 5% Résistance Feu
+  - 7 à 10 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Molle
+ID : 6438
+TYPE : Baguette
+LEVEL : 83
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3033.png
+DESCRIPTION : Cette baguette est constituée d'éléments plutôt mous, ce qui en fait une baguette difficile à manier. Mais au cœur du combat, cette baguette révèle son véritable pouvoir.
+RECIPES:
+  - ID: 749, Quantity: 2
+  - ID: 14473, Quantity: 3
+  - ID: 8002, Quantity: 13
+  - ID: 18371, Quantity: 2
+  - ID: 14472, Quantity: 1
+  - ID: 14635, Quantity: 60
+EFFECTS:
+  - 11 à 15 (dommages Neutre)
+  - -400 Initiative
+  - 61 à 80 Vitalité
+  - 21 à 30 Puissance
+  - 21 à 30 Sagesse
+  - 7 à 10 Prospection
+  - 7 à 10 Dommages
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Migraine
+ID : 6520
+TYPE : Baguette
+LEVEL : 84
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3045.png
+DESCRIPTION : Le sculpteur de cette baguette, a maintes fois demandé à changer de nom. Trop habitués à passer leurs journées à la Taverne, les responsables du registre d'Amakna, ont fini par avoir mal à la tête avec toutes ces histoires. Cette baguette leur est dédiée.
+RECIPES:
+  - ID: 845, Quantity: 12
+  - ID: 18411, Quantity: 10
+  - ID: 14469, Quantity: 1
+  - ID: 18371, Quantity: 2
+  - ID: 749, Quantity: 2
+  - ID: 12737, Quantity: 3
+EFFECTS:
+  - 11 à 19 (dommages Neutre)
+  - 301 à 350 Initiative
+  - 71 à 90 Vitalité
+  - 21 à 25 Puissance
+  - 16 à 20 Sagesse
+  - 2 à 3% Résistance Terre
+  - 2 à 3% Résistance Neutre
+  - 4 à 5 Dommages
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Irréelle
+ID : 6439
+TYPE : Baguette
+LEVEL : 90
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3032.png
+DESCRIPTION : Des mélanges magiques d'éléments surnaturels ont permis la création de cette baguette qui vogue aux frontières du réel. Tantôt terrifiante, tantôt délirante, cette baguette est l'exemple typique de l'instabilité.
+RECIPES:
+  - ID: 12744, Quantity: 1
+  - ID: 13731, Quantity: 7
+  - ID: 844, Quantity: 7
+  - ID: 8077, Quantity: 1
+  - ID: 14635, Quantity: 60
+  - ID: 18371, Quantity: 2
+EFFECTS:
+  - 1 à 40 (dommages Neutre)
+  - 41 à 50 Intelligence
+  - 7 à 10 Résistances Critiques
+  - 11 à 15 Sagesse
+  - 2 à 3% Résistance Terre
+  - 2 à 3% Résistance Neutre
+  - 2 à 3% Résistance Eau
+  - 2 à 3% Résistance Air
+  - 2 à 3% Résistance Feu
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Velue
+ID : 6440
+TYPE : Baguette
+LEVEL : 95
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3031.png
+DESCRIPTION : Cette baguette n'est pas qu'un vulgaire amas de poils. Le cœur même de la baguette absorbe l'essence magique des diverses touffes et les fusionne entre elles. Aussi aberrant que cela puisse paraître, ça marche !
+RECIPES:
+  - ID: 17075, Quantity: 10
+  - ID: 7030, Quantity: 10
+  - ID: 16217, Quantity: 2
+  - ID: 1696, Quantity: 1
+  - ID: 12744, Quantity: 1
+  - ID: 15263, Quantity: 80
+EFFECTS:
+  - 16 à 21 (dommages Neutre)
+  - 71 à 100 Vitalité
+  - 5 à 7 Fuite
+  - 4 à 5% Résistance Terre
+  - 4 à 5% Résistance Eau
+  - 4 à 5% Résistance Air
+  - 4 à 5% Résistance Feu
+  - 5 à 7 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Branche de l'Abrakleur sombre
+ID : 8834
+TYPE : Baguette
+LEVEL : 97
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3064.png
+DESCRIPTION : Cette branche servait à racler certaines parties du corps inaccessibles autrement. Mais rassurez-vous, la couleur sombre est d'origine. Aucun rapport avec les dépôts contenus dans les cavités les plus inaccessibles de l'Abrakleur.
+RECIPES:
+  - ID: 8782, Quantity: 8
+  - ID: 8780, Quantity: 9
+  - ID: 8784, Quantity: 1
+  - ID: 8496, Quantity: 4
+  - ID: 749, Quantity: 1
+  - ID: 14635, Quantity: 80
+EFFECTS:
+  - 1 à 6 (vol Terre)
+  - 6 à 30 (dommages Feu)
+  - 51 à 70 Vitalité
+  - 36 à 45 Force
+  - 36 à 45 Intelligence
+  - 7 à 10 Prospection
+  - 3 à 4% Résistance Terre
+  - 4 à 5 Dommages
+  - 16 à 20 Soins
+IS WEAPON: True
+PARENT SET ID: 80
+PARENT SET NAME: Panoplie Sombre
+
+NAME : Baguette Nah
+ID : 7165
+TYPE : Baguette
+LEVEL : 102
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3054.png
+DESCRIPTION : Cette baguette explosive a été trempée dans la lave d'un volcan en éruption avant d'être sculptée, puis enchantée. Il va sans dire qu'elle semble très puissante, malgré son apparence ridicule.
+RECIPES:
+  - ID: 470, Quantity: 6
+  - ID: 7027, Quantity: 1
+  - ID: 2624, Quantity: 1
+  - ID: 2250, Quantity: 15
+  - ID: 1610, Quantity: 2
+  - ID: 2294, Quantity: 1
+  - ID: 16001, Quantity: 5
+EFFECTS:
+  - 9 à 13 (dommages Neutre)
+  - 4 à 5 (vol Feu)
+  - 21 à 40 Intelligence
+  - 4 à 6 Soins
+  - 5 à 7 Résistances Neutre
+  - 5 à 7% Résistance Neutre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Rhon
+ID : 7172
+TYPE : Baguette
+LEVEL : 105
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3049.png
+DESCRIPTION : Cette baguette magique est encore de nos jours utilisée pour vider les fosses septiques, curer les fossés, et accessoirement pour se curer le nez. Les sculpteurs les plus avertis, vous expliqueront qu'elle tire toute sa magie, des immondices qu'elle a pu côtoyer, surtout celles présentes dans votre nez.
+RECIPES:
+  - ID: 470, Quantity: 6
+  - ID: 472, Quantity: 9
+  - ID: 1002, Quantity: 10
+  - ID: 2357, Quantity: 12
+  - ID: 2250, Quantity: 15
+  - ID: 2294, Quantity: 1
+  - ID: 16001, Quantity: 2
+EFFECTS:
+  - 6 à 15 (dommages Neutre)
+  - 1 à 100 (soins Feu)
+  - 1 à 10 (vol Feu)
+  - 101 à 130 Vitalité
+  - 21 à 35 Sagesse
+  - 21 à 35 Intelligence
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Baguette des Limbes
+ID : 180
+TYPE : Baguette
+LEVEL : 105
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3007.png
+DESCRIPTION : Cette baguette provient des Limbes de Syrastass. La légende raconte qu'elle permet de faire fleurir des champs entiers de pâquerettes à la simple demande de son porteur.
+RECIPES:
+  - ID: 12738, Quantity: 1
+  - ID: 315, Quantity: 2
+  - ID: 12744, Quantity: 2
+  - ID: 14512, Quantity: 25
+  - ID: 2805, Quantity: 3
+  - ID: 2620, Quantity: 10
+  - ID: 14517, Quantity: 1
+EFFECTS:
+  - 1 PA
+  - 1 PM
+  - 16 à 20 (dommages Neutre)
+  - 1 Portée
+  - -40 à -11 Force
+  - 21 à 40 Sagesse
+  - 21 à 40 Intelligence
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Houffe-Craitien
+ID : 7170
+TYPE : Baguette
+LEVEL : 112
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3046.png
+DESCRIPTION : Houffe le pâtissier était fou au point de se marier avec la bûcheronne Craitien, et de l'étouffer le lendemain avec ses pâtisseries trop grasses. On parle donc depuis cet événement, "d'histoire de Houffe", pour relater les événements les plus fous.
+RECIPES:
+  - ID: 12738, Quantity: 2
+  - ID: 16212, Quantity: 1
+  - ID: 7027, Quantity: 1
+  - ID: 8766, Quantity: 32
+  - ID: 8765, Quantity: 3
+  - ID: 14518, Quantity: 3
+  - ID: 8798, Quantity: 1
+EFFECTS:
+  - 1 à 5 (dommages Neutre)
+  - 2 à 3 (vol Feu)
+  - 41 à 70 Vitalité
+  - 21 à 35 Sagesse
+  - 26 à 40 Intelligence
+  - 5 à 6% Critique
+  - 4 à 6 Soins
+  - 151 à 250 Initiative
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Amrothiline
+ID : 6518
+TYPE : Baguette
+LEVEL : 113
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3044.png
+DESCRIPTION : Conçue par un célèbre Sculpteur, cette baguette a gagné 13 fois le grand concours de la Baguette N'hi, en réussissant à surpasser les anciens modèles de Boulgourdes aujourd'hui retirés du marché car trop dangereux pour les petites Eniripsas.
+RECIPES:
+  - ID: 12738, Quantity: 2
+  - ID: 315, Quantity: 1
+  - ID: 16212, Quantity: 1
+  - ID: 8356, Quantity: 31
+  - ID: 8354, Quantity: 29
+  - ID: 8496, Quantity: 2
+  - ID: 9391, Quantity: 1
+  - ID: 8485, Quantity: 4
+EFFECTS:
+  - 11 à 23 (dommages Neutre)
+  - 5 à 9 (vol Neutre)
+  - 41 à 80 Vitalité
+  - 21 à 30 Sagesse
+  - 21 à 40 Intelligence
+  - 11 à 15 Puissance
+  - 6 à 10 Prospection
+  - 3 à 5% Résistance Air
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette d'Elya Wood
+ID : 6494
+TYPE : Baguette
+LEVEL : 117
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3039.png
+DESCRIPTION : Utilisée par les plus célèbres Eniripsas d'Amakna, cette baguette constitue l'arme idéale pour envoyer un sortilège sur ses adversaires ou tenter de rendre plus intelligents ses propres amis. Ainsi, vous pouvez transformer un Iop en citrouille.
+RECIPES:
+  - ID: 12738, Quantity: 2
+  - ID: 466, Quantity: 1
+  - ID: 16212, Quantity: 1
+  - ID: 13720, Quantity: 2
+  - ID: 13495, Quantity: 28
+  - ID: 918, Quantity: 3
+  - ID: 2525, Quantity: 1
+  - ID: 8365, Quantity: 1
+EFFECTS:
+  - 7 à 11 (dommages Feu)
+  - 7 à 11 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 21 à 40 Intelligence
+  - 6 à 10 Dommages
+  - 1 Portée
+  - 6 à 10 Prospection
+  - 3 à 5% Résistance Eau
+IS WEAPON: True
+PARENT SET ID: 39
+PARENT SET NAME: Panoplie d'Elya Wood
+
+NAME : Baguette du Dragoeuf
+ID : 8296
+TYPE : Baguette
+LEVEL : 124
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3060.png
+DESCRIPTION : Cette baguette semble plus efficace lorsqu'elle est utilisée comme un gourdin ou comme une tapette à Moskitos.
+RECIPES:
+  - ID: 8348, Quantity: 12
+  - ID: 470, Quantity: 10
+  - ID: 21265, Quantity: 1
+  - ID: 8358, Quantity: 9
+  - ID: 17613, Quantity: 23
+  - ID: 8353, Quantity: 19
+  - ID: 8355, Quantity: 15
+  - ID: 15169, Quantity: 22
+EFFECTS:
+  - 12 à 16 (dommages Air)
+  - 5 à 8 (vol Air)
+  - 101 à 200 Initiative
+  - 151 à 200 Vitalité
+  - 31 à 50 Agilité
+  - 6 à 10 Résistances Eau
+  - 6 à 10 Résistances Feu
+  - 16 à 25 Sagesse
+  - 6 à 10 Prospection
+  - 4 à 5 Dommages Air
+  - 3 à 4% Résistance Neutre
+  - 4 à 6 Soins
+  - 6 à 10 Dommages Critiques
+  - 4 à 5% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Houalle
+ID : 7368
+TYPE : Baguette
+LEVEL : 125
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3055.png
+DESCRIPTION : Le sculpteur de cette baguette voulait qu'elle puisse détruire les étoiles filantes qui l'empêchaient de dormir la nuit. La légende raconte qu'un soir en sortant de la taverne, complètement ivre, il a voulu essayer sa baguette, mais a confondu la lune avec une étoile filante. La baguette étant réellement très puissante, il aurait cassé la lune en deux, et une des deux parties serait tombée en pleine Mer d'Asse, donnant ainsi naissance à l'île de Moon telle qu'on la connaît actuellement. Encore une histoire débile de plus, à raconter entre amis, les soirs de beuverie.
+RECIPES:
+  - ID: 6457, Quantity: 2
+  - ID: 8384, Quantity: 1
+  - ID: 16212, Quantity: 2
+  - ID: 12738, Quantity: 2
+  - ID: 15727, Quantity: 4
+  - ID: 14478, Quantity: 3
+  - ID: 14479, Quantity: 31
+  - ID: 8486, Quantity: 4
+EFFECTS:
+  - 15 à 24 (dommages Neutre)
+  - -1 PA
+  - 21 à 40 Sagesse
+  - 101 à 150 Vitalité
+  - 21 à 35 Intelligence
+  - 4 à 5 Soins
+  - 301 à 400 Initiative
+  - 11 à 15 Prospection
+  - Arme de chasse
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Ourderie
+ID : 7171
+TYPE : Baguette
+LEVEL : 127
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3047.png
+DESCRIPTION : Le sculpteur de cette baguette avait la fâcheuse habitude d'oublier ses enfants à l'école. Sa femme, une mère indigne comme tant d'autres, s'en réjouissait. Conscient d'être trop étourdi, il sculpta cette baguette qui tous les jours, prenait vie et lui rappelait d'aller chercher ses enfants. Il a par la suite tenté de faire des baguettes similaires pour rappeler à sa femme d'aller faire le ménage, mais la baguette ne fut jamais assez puissante pour relever ce défi.
+RECIPES:
+  - ID: 8345, Quantity: 3
+  - ID: 8351, Quantity: 4
+  - ID: 8365, Quantity: 1
+  - ID: 8496, Quantity: 4
+  - ID: 16212, Quantity: 2
+  - ID: 12738, Quantity: 2
+  - ID: 8052, Quantity: 10
+  - ID: 8486, Quantity: 4
+EFFECTS:
+  - 6 à 14 (dommages Neutre)
+  - 6 à 14 (dommages Feu)
+  - 101 à 150 Vitalité
+  - 31 à 50 Intelligence
+  - 31 à 50 Agilité
+  - 5 à 6 Soins
+  - 1 PM
+  - 5 à 6% Résistance Feu
+  - 5 à 6% Résistance Terre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Gyver
+ID : 8088
+TYPE : Baguette
+LEVEL : 128
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3056.png
+DESCRIPTION : Cette baguette faite de bric et de broc renferme une énergie surprenante. On raconte qu'elle est capable de se déplacer elle-même, pour choisir sa cible et défendre son maître même lorsque ce dernier est en train d'agoniser. Le Chouque aurait même dit à propos de cette baguette "Je crois que votre baguette est ouverte". Pauvre Chouque.
+RECIPES:
+  - ID: 12738, Quantity: 2
+  - ID: 8358, Quantity: 2
+  - ID: 16212, Quantity: 2
+  - ID: 13716, Quantity: 20
+  - ID: 13725, Quantity: 2
+  - ID: 2622, Quantity: 24
+  - ID: 8798, Quantity: 1
+  - ID: 2247, Quantity: 3
+EFFECTS:
+  - 26 à 33 (dommages Neutre)
+  - 31 à 50 Intelligence
+  - 151 à 200 Vitalité
+  - 21 à 40 Sagesse
+  - 1 Portée
+  - 5 à 7 Soins
+  - 6 à 8% Résistance Terre
+  - 4 à 6 (dommages Feu)
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Branche de l'Abrakleur clair
+ID : 8835
+TYPE : Baguette
+LEVEL : 132
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3065.png
+DESCRIPTION : Cette branche servait à racler certaines parties du corps inaccessibles autrement. Ceci explique peut-être l'odeur étrange de cette branche.
+RECIPES:
+  - ID: 8997, Quantity: 1
+  - ID: 8771, Quantity: 3
+  - ID: 8775, Quantity: 2
+  - ID: 8781, Quantity: 28
+  - ID: 8780, Quantity: 34
+  - ID: 8796, Quantity: 9
+  - ID: 8797, Quantity: 52
+EFFECTS:
+  - 4 à 6 (vol Terre)
+  - 7 à 16 (dommages Air)
+  - 7 à 16 (dommages Neutre)
+  - 26 à 40 Agilité
+  - 26 à 40 Force
+  - 101 à 150 Vitalité
+  - 26 à 40 Sagesse
+  - 11 à 15 Prospection
+  - 6 à 8% Résistance Neutre
+  - 6 à 8% Résistance Air
+IS WEAPON: True
+PARENT SET ID: 79
+PARENT SET NAME: Panoplie Claire
+
+NAME : Baguette Bainkuite
+ID : 23267
+TYPE : Baguette
+LEVEL : 132
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/4141.png
+DESCRIPTION : Le secret d'une Baguette Bainkuite ? Du savoir-faire et beaucoup d'amour. Osez la demander à votre artisan local !
+RECIPES:
+  - ID: 7276, Quantity: 25
+  - ID: 7275, Quantity: 14
+  - ID: 7305, Quantity: 6
+  - ID: 7386, Quantity: 3
+  - ID: 15065, Quantity: 2
+  - ID: 15731, Quantity: 25
+  - ID: 12744, Quantity: 1
+  - ID: 15219, Quantity: 1
+EFFECTS:
+  - 201 à 300 Initiative
+  - 151 à 200 Vitalité
+  - 41 à 50 Force
+  - 41 à 50 Chance
+  - 11 à 15 Puissance
+  - 4 à 6 Résistances Terre
+  - 4 à 6 Résistances Eau
+  - 31 à 40 Sagesse
+  - 7 à 10 Prospection
+  - 4 à 6 Dommages Terre
+  - 4 à 6 Dommages Eau
+  - 3 à 4 Retrait PM
+  - 2 à 3% Critique
+  - -1 PM
+  - 14 à 19 (dommages Terre)
+  - 14 à 19 (dommages Eau)
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette du Grand Glucid
+ID : 13583
+TYPE : Baguette
+LEVEL : 134
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3079.png
+DESCRIPTION : Cette baguette ressemble à s'y méprendre à une branche du Grand Glucid, l'arbre mythique qui pousse dans la Gelaxième Dimension. C'est sans doute pour cela qu'elle attire les Petites Gelées Fraises sucrées et tremblotantes.
+RECIPES:
+  - ID: 12738, Quantity: 3
+  - ID: 13608, Quantity: 36
+  - ID: 8777, Quantity: 2
+  - ID: 8781, Quantity: 21
+  - ID: 2032, Quantity: 1
+  - ID: 2242, Quantity: 2
+  - ID: 996, Quantity: 5
+  - ID: 11232, Quantity: 4
+EFFECTS:
+  - Quelqu'un vous suit !
+  - 21 à 28 (dommages Neutre)
+  - 2 à 3 (vol Feu)
+  - 101 à 150 Vitalité
+  - 31 à 40 Chance
+  - 31 à 40 Agilité
+  - 16 à 25 Sagesse
+  - 4 à 5% Critique
+  - 7 à 10 Soins
+  - 1 à 2 Invocation
+  - 11 à 15 Prospection
+  - 6 à 8 Dommages Eau
+  - 6 à 8 Dommages Air
+  - 7 à 10% Résistance Feu
+  - 3 à 4 Retrait PM
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Iots
+ID : 8089
+TYPE : Baguette
+LEVEL : 138
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3057.png
+DESCRIPTION : Iots était un perroquet qui répétait toujours tout, on raconte que cette baguette fut sculptée dans son bec.
+RECIPES:
+  - ID: 15271, Quantity: 4
+  - ID: 6458, Quantity: 1
+  - ID: 12733, Quantity: 1
+  - ID: 15074, Quantity: 4
+  - ID: 13503, Quantity: 25
+  - ID: 2623, Quantity: 1
+  - ID: 2247, Quantity: 3
+  - ID: 15066, Quantity: 1
+EFFECTS:
+  - 1 à 2 (vol Feu)
+  - 1 à 2 (vol Terre)
+  - 1 à 2 (vol Eau)
+  - 1 à 2 (vol Air)
+  - 151 à 200 Vitalité
+  - 5 à 7 Soins
+  - 21 à 35 Intelligence
+  - 21 à 40 Sagesse
+  - 6 à 10 Prospection
+  - 21 à 35 Chance
+  - 21 à 35 Force
+  - 21 à 35 Agilité
+  - 6 à 8 Résistances Feu
+  - 6 à 8 Résistances Air
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Xyothine
+ID : 7103
+TYPE : Baguette
+LEVEL : 145
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3053.png
+DESCRIPTION : Cette baguette servait à décapiter tous les ploucs d'Amakna. Autant dire qu'elle a beaucoup servi. Il est intéressant de constater qu'elle ressemble à s'y méprendre à un bâton, et même peut-être à une canne... Peut-être était-elle utilisée pour assouvir les vieux fantasmes de son propriétaire, qui a fini par lui donner son nom. Personne ne saura jamais le fin mot de cette histoire sordide.
+RECIPES:
+  - ID: 12738, Quantity: 4
+  - ID: 13528, Quantity: 16
+  - ID: 12733, Quantity: 2
+  - ID: 16158, Quantity: 2
+  - ID: 13529, Quantity: 13
+  - ID: 8495, Quantity: 1
+  - ID: 15065, Quantity: 3
+  - ID: 6486, Quantity: 4
+EFFECTS:
+  - 9 à 13 (dommages Feu)
+  - 9 à 13 (dommages Neutre)
+  - 4 à 5 (vol Air)
+  - 101 à 150 Vitalité
+  - 21 à 40 Sagesse
+  - 31 à 50 Intelligence
+  - 3 à 4% Critique
+  - 5 à 7 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette de Frigostine
+ID : 12088
+TYPE : Baguette
+LEVEL : 149
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3078.png
+DESCRIPTION : Frigostine, les baguettes, c'est sa spécialité. Celle-ci semble néanmoins légèrement différente des autres, attention à ne pas vous y casser les dents.
+RECIPES:
+  - ID: 11233, Quantity: 1
+  - ID: 11232, Quantity: 2
+  - ID: 6488, Quantity: 2
+  - ID: 9389, Quantity: 4
+  - ID: 11231, Quantity: 5
+  - ID: 12738, Quantity: 4
+  - ID: 11240, Quantity: 10
+  - ID: 11243, Quantity: 54
+EFFECTS:
+  - 11 à 16 (dommages Neutre)
+  - 4 à 6 (dommages Air)
+  - 101 à 150 Vitalité
+  - 21 à 30 Agilité
+  - 16 à 25 Sagesse
+  - 21 à 30 Puissance
+  - 5 à 7 Soins
+  - 11 à 15 Prospection
+  - 6 à 8 Dommages Neutre
+  - 8 à 12 Dommages Feu
+  - 6 à 8 Dommages Air
+  - 5 à 7% Résistance Feu
+  - 5 à 7% Résistance Air
+  - 4 à 5 Esquive PA
+  - -5 à -4 Esquive PM
+  - 4 à 5 Fuite
+  - 7 à 10 Résistances Critiques
+IS WEAPON: True
+PARENT SET ID: 206
+PARENT SET NAME: Panoplie de Frigostine
+
+NAME : Baguette Hernuement
+ID : 11632
+TYPE : Baguette
+LEVEL : 163
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3074.png
+DESCRIPTION : Cette baguette a été confectionnée par un expert frigostien de la discrétion et de la furtivité. Sur le manuel d'utilisation, il est inscrit : « Si vous arrivez derrière votre ennemi par surprise pour lui donner un coup de baguette bien placé dans l'arrière-train et que vous êtes subitement pris d'une envie d'éternuer, enfoncer rapidement cette baguette dans la narine impaire de votre nez et comptez jusqu'à trois. »
+Le manuel qui explique comment connaître votre narine impaire est payant.
+RECIPES:
+  - ID: 11334, Quantity: 1
+  - ID: 11332, Quantity: 4
+  - ID: 6488, Quantity: 2
+  - ID: 29444, Quantity: 2
+  - ID: 11333, Quantity: 2
+  - ID: 11329, Quantity: 18
+  - ID: 13164, Quantity: 4
+  - ID: 11323, Quantity: 28
+EFFECTS:
+  - 12 à 20 (dommages Neutre)
+  - 5 à 8 (dommages Feu)
+  - 5 à 8 (dommages Eau)
+  - 151 à 200 Vitalité
+  - 31 à 50 Intelligence
+  - 31 à 50 Chance
+  - 31 à 40 Sagesse
+  - 7 à 10 Soins
+  - 1 Portée
+  - 101 à 200 Initiative
+  - 7 à 10 Dommages Feu
+  - 7 à 10 Dommages Eau
+  - 7 à 10 Résistances Neutre
+  - 5 à 7% Résistance Terre
+  - 5 à 7% Résistance Air
+  - 4 à 5 Tacle
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette du Chêne Mou
+ID : 6495
+TYPE : Baguette
+LEVEL : 171
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3042.png
+DESCRIPTION : Fabriquée à partir de restes du Chêne Mou ayant repris vie, cette baguette est tout simplement surpuissante. Il suffit de l'agiter à droite puis à gauche avec le bon rythme, pour déclencher des pluies de crapauds ou passer pour un idiot notoire.
+RECIPES:
+  - ID: 29444, Quantity: 2
+  - ID: 16459, Quantity: 1
+  - ID: 15043, Quantity: 41
+  - ID: 11880, Quantity: 40
+  - ID: 13745, Quantity: 4
+  - ID: 6487, Quantity: 1
+  - ID: 8789, Quantity: 1
+  - ID: 11341, Quantity: 2
+EFFECTS:
+  - 1 à 25 (dommages Feu)
+  - 1 à 15 (vol Eau)
+  - 101 à 200 Initiative
+  - 31 à 50 Intelligence
+  - 31 à 50 Sagesse
+  - 8 à 10 Soins
+  - 31 à 50 Chance
+  - 151 à 250 Vitalité
+  - 6 à 7% Résistance Feu
+  - 6 à 7% Résistance Eau
+  - -7 à -6% Résistance Air
+  - -7 à -6% Résistance Terre
+  - Arme de chasse
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Osseuse
+ID : 17460
+TYPE : Baguette
+LEVEL : 173
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3003.png
+DESCRIPTION : Cette baguette magique possède un enchantement qui lui permet d'ouvrir un passage vers le bosquet des Charmes Sombres. Elle serait bien plus populaire si elle permettait d'ouvrir un passage vers la taverne.
+RECIPES:
+  - ID: 16458, Quantity: 1
+  - ID: 7036, Quantity: 1
+  - ID: 11880, Quantity: 5
+EFFECTS:
+  - 6 à 8 (dommages Neutre)
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Nolog
+ID : 11757
+TYPE : Baguette
+LEVEL : 177
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3075.png
+DESCRIPTION : Cette baguette était un signe distinctif pour les savants frigostiens qui étudiaient les caractères sociaux et culturels des habitants de Frigost. C'était également un signe distinctif très utile pour les monstres qui pouvaient ainsi facilement repérer les proies les plus faibles mais avec la cervelle la plus remplie.
+RECIPES:
+  - ID: 11342, Quantity: 1
+  - ID: 11948, Quantity: 2
+  - ID: 13164, Quantity: 3
+  - ID: 11882, Quantity: 3
+  - ID: 11341, Quantity: 2
+  - ID: 13165, Quantity: 3
+  - ID: 29444, Quantity: 2
+  - ID: 11880, Quantity: 43
+EFFECTS:
+  - 20 à 34 (dommages Neutre)
+  - 3 à 4 (vol Terre)
+  - 201 à 250 Vitalité
+  - 31 à 40 Force
+  - 31 à 40 Intelligence
+  - 31 à 40 Sagesse
+  - 4 à 5% Critique
+  - 5 à 7 Soins
+  - 1 Invocation
+  - 7 à 10 Prospection
+  - 7 à 10 Dommages Neutre
+  - 7 à 10 Dommages Terre
+  - 7 à 10 Dommages Feu
+  - 7 à 10% Résistance Neutre
+  - 4 à 5 Esquive PA
+  - 4 à 5 Fuite
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguetterelle
+ID : 9135
+TYPE : Baguette
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3066.png
+DESCRIPTION : À l'origine, il suffisait de souffler très fort dans cette trompette fongique, pour faire arriver le ménestrel Francisque Kabroule. Ce dernier se mettait alors à chanter et tous les monstres mourraient sur place. Bon, comme c'était un peu trop facile comme technique pour tuer les monstres, les dieux ont décidé de la boucher et de la transformer en une vulgaire baguette.
+RECIPES:
+  - ID: 8792, Quantity: 12
+  - ID: 9267, Quantity: 6
+  - ID: 9263, Quantity: 10
+  - ID: 8770, Quantity: 1
+  - ID: 8775, Quantity: 13
+  - ID: 8772, Quantity: 14
+  - ID: 8765, Quantity: 19
+  - ID: 7103, Quantity: 1
+EFFECTS:
+  - 9 à 16 (dommages Neutre)
+  - 9 à 16 (dommages Air)
+  - 1 à 7 (vol Feu)
+  - -1 PA
+  - 31 à 50 Intelligence
+  - 31 à 50 Agilité
+  - 251 à 300 Vitalité
+  - 31 à 40 Sagesse
+  - 4 à 5 Dommages
+  - 6 à 10 Soins
+  - 11 à 15 Puissance
+  - 6 à 10 Prospection
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Hernelle
+ID : 11758
+TYPE : Baguette
+LEVEL : 187
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3076.png
+DESCRIPTION : Sur le manche en bois vous pouvez lire les inscriptions suivantes : "La femme de cette braguette brille pour l'éternité". Il s'agit sûrement d'un message codé, à moins que son sculpteur n'ait voulu écrire : "La flamme de cette baguette brille pour l'éternité".
+RECIPES:
+  - ID: 11896, Quantity: 1
+  - ID: 11894, Quantity: 4
+  - ID: 29444, Quantity: 3
+  - ID: 13164, Quantity: 3
+  - ID: 11895, Quantity: 3
+  - ID: 11893, Quantity: 16
+  - ID: 11888, Quantity: 42
+  - ID: 13167, Quantity: 4
+EFFECTS:
+  - 14 à 22 (dommages Neutre)
+  - 14 à 22 (dommages Neutre)
+  - 6 à 9 (vol Air)
+  - 251 à 300 Vitalité
+  - 31 à 50 Intelligence
+  - 31 à 50 Agilité
+  - 31 à 50 Sagesse
+  - 7 à 10 Soins
+  - 1 Portée
+  - 7 à 10 Dommages Neutre
+  - 8 à 12 Dommages Feu
+  - 7 à 10 Dommages Air
+  - 7 à 10 Résistances Terre
+  - 7 à 10 Résistances Eau
+  - 4 à 5 Esquive PM
+  - -5 à -4 Fuite
+  - 7 à 10 Dommages Poussée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Hique
+ID : 11759
+TYPE : Baguette
+LEVEL : 193
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3077.png
+DESCRIPTION : Cette baguette est l'arme idéale pour faire la morale à vos adversaires, ou pointer du doigt les alliés désignés volontaires qui devront engager le combat en premier.
+RECIPES:
+  - ID: 8997, Quantity: 1
+  - ID: 11921, Quantity: 35
+  - ID: 11923, Quantity: 44
+  - ID: 11926, Quantity: 42
+  - ID: 11931, Quantity: 2
+  - ID: 11932, Quantity: 1
+  - ID: 29444, Quantity: 4
+  - ID: 13164, Quantity: 4
+EFFECTS:
+  - 14 à 24 (dommages Neutre)
+  - 7 à 12 (dommages Eau)
+  - 4 à 5 (vol Eau)
+  - 251 à 300 Vitalité
+  - 31 à 45 Intelligence
+  - 31 à 45 Chance
+  - 31 à 45 Sagesse
+  - 7 à 10 Soins
+  - 301 à 400 Initiative
+  - 11 à 20 Prospection
+  - 8 à 12 Dommages Feu
+  - 8 à 12 Dommages Eau
+  - 5 à 7% Résistance Terre
+  - 5 à 7% Résistance Air
+  - 5 à 6 Retrait PM
+  - 5 à 6 Fuite
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Bâtonnet Ronien
+ID : 14288
+TYPE : Baguette
+LEVEL : 198
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3080.png
+DESCRIPTION : Les compagnies répressives sanguinaires formant le service de sécurité du parc de Vulkania se servent de ces baguettes sur les touristes pendant leurs pauses. Ça a donné lieu à des jeux tels que la Dame te pique, la Crâpette latronche, le Pouilleux matraqueur et bien d'autres.
+RECIPES:
+  - ID: 12431, Quantity: 25
+  - ID: 12443, Quantity: 26
+  - ID: 12439, Quantity: 35
+  - ID: 12435, Quantity: 39
+  - ID: 12451, Quantity: 10
+  - ID: 14267, Quantity: 5
+  - ID: 14268, Quantity: 1
+  - ID: 12740, Quantity: 2
+EFFECTS:
+  - 251 à 300 Vitalité
+  - 31 à 50 Agilité
+  - 31 à 45 Sagesse
+  - 2% Critique
+  - 9 à 12 Soins
+  - 16 à 25 Puissance
+  - 1 Invocation
+  - 9 à 12 Dommages Eau
+  - 9 à 12 Dommages Air
+  - 11 à 15 Résistances Feu
+  - 11 à 15 Résistances Eau
+  - 7 à 10% Résistance Terre
+  - 4 à 6 Retrait PM
+  - 10 à 14 (dommages Air)
+  - 10 à 14 (dommages Eau)
+IS WEAPON: True
+PARENT SET ID: 288
+PARENT SET NAME: Panoplie Quartzésienne
+
+NAME : Baguette Héroclite
+ID : 19605
+TYPE : Baguette
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3089.png
+DESCRIPTION : L'artisan à l'origine de cette baguette a utilisé quelques gouttes d'écume, une pincée de ressources en décomposition, une once de mauvaise foi et un morceau de bonne volonté.
+RECIPES:
+  - ID: 19408, Quantity: 76
+  - ID: 19406, Quantity: 13
+  - ID: 19412, Quantity: 10
+  - ID: 19411, Quantity: 4
+  - ID: 17989, Quantity: 4
+  - ID: 13157, Quantity: 3
+  - ID: 12740, Quantity: 3
+  - ID: 15271, Quantity: 15
+EFFECTS:
+  - 55 à 60 (dommages Eau)
+  - 301 à 350 Vitalité
+  - 41 à 60 Chance
+  - 16 à 25 Résistances Poussée
+  - 31 à 40 Sagesse
+  - 9 à 12 Tacle
+  - 11 à 15 Dommages Eau
+  - 7 à 10% Résistance Air
+  - 9 à 12 Esquive PM
+  - 11 à 15 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Range
+ID : 18011
+TYPE : Baguette
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3087.png
+DESCRIPTION : Visuellement inconfortable, cette baguette saura semer le doute dans l'esprit de vos adversaires.
+RECIPES:
+  - ID: 17971, Quantity: 74
+  - ID: 17990, Quantity: 80
+  - ID: 17974, Quantity: 8
+  - ID: 17976, Quantity: 4
+  - ID: 17982, Quantity: 3
+  - ID: 15715, Quantity: 4
+  - ID: 17992, Quantity: 50
+  - ID: 17864, Quantity: 3
+EFFECTS:
+  - 6 à 9 (dommages Air)
+  - 2 à 3 (dommages Feu)
+  - 2 à 3 (vol Feu)
+  - 301 à 350 Vitalité
+  - 41 à 60 Intelligence
+  - 41 à 60 Agilité
+  - 16 à 25 Résistances Critiques
+  - 31 à 40 Sagesse
+  - 5 à 7 Fuite
+  - 9 à 12 Dommages Feu
+  - 9 à 12 Dommages Air
+  - 5 à 7% Résistance Terre
+  - 7 à 10% Résistance Eau
+  - 4 à 5 Retrait PM
+  - 3 à 4% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Pyraguette
+ID : 18601
+TYPE : Baguette
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3088.png
+DESCRIPTION : Celui qui a baptisé cette baguette n'était pas plus inspiré que celui chargé de la décrire au commun des mortels.
+RECIPES:
+  - ID: 18539, Quantity: 81
+  - ID: 18537, Quantity: 80
+  - ID: 18543, Quantity: 10
+  - ID: 18542, Quantity: 4
+  - ID: 17989, Quantity: 3
+  - ID: 13168, Quantity: 4
+  - ID: 12740, Quantity: 3
+  - ID: 15271, Quantity: 15
+EFFECTS:
+  - 25 à 30 (dommages Feu)
+  - 10 à 12 (dommages Eau)
+  - 10 à 12 (dommages Eau)
+  - 301 à 350 Vitalité
+  - 51 à 70 Intelligence
+  - 51 à 70 Chance
+  - 11 à 15 Résistances Critiques
+  - 31 à 40 Sagesse
+  - 11 à 15 Prospection
+  - 11 à 15 Fuite
+  - 16 à 20 Dommages Feu
+  - 16 à 20 Dommages Eau
+  - 7 à 10% Résistance Air
+  - 11 à 15 Soins
+  - -10% Critique
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette de Malléfisk
+ID : 15216
+TYPE : Baguette
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3083.png
+DESCRIPTION : On dit de Malléfisk qu'il mène son armée de coffres à la baguette. Cette expression prise littéralement a donné naissance à cet objet, qui n'a naturellement pas les effets escomptés.
+RECIPES:
+  - ID: 15179, Quantity: 41
+  - ID: 15178, Quantity: 38
+  - ID: 15182, Quantity: 15
+  - ID: 15176, Quantity: 4
+  - ID: 14864, Quantity: 3
+  - ID: 13168, Quantity: 3
+  - ID: 15219, Quantity: 15
+  - ID: 15271, Quantity: 15
+EFFECTS:
+  - 11 à 15 (vol Feu)
+  - 26 à 30 (soins Feu)
+  - 26 à 30 (soins Feu)
+  - -1 Portée
+  - 3 à 4% Critique
+  - 16 à 20 Soins
+  - 7 à 10% Résistance Air
+  - 7 à 10 Esquive PM
+  - 5 à 7% Résistance Eau
+  - 11 à 15 Prospection
+  - 31 à 40 Sagesse
+  - 16 à 20 Résistances Poussée
+  - 41 à 60 Puissance
+  - 301 à 350 Vitalité
+  - 401 à 600 Initiative
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Frisson de Brumaire
+ID : 20355
+TYPE : Baguette
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/4135.png
+DESCRIPTION : Cet objet est légendaire. Vous, non.
+RECIPES:
+  - ID: 20648, Quantity: 1
+  - ID: 22058, Quantity: 9000
+  - ID: 19909, Quantity: 1
+  - ID: 14701, Quantity: 1
+  - ID: 19412, Quantity: 15
+  - ID: 19975, Quantity: 15
+  - ID: 12728, Quantity: 2
+  - ID: 12740, Quantity: 4
+EFFECTS:
+  - Froid de Novamaire :
+• À chaque début de tour, le porteur gagne 20 de Retrait PA s'il est au contact d'un ennemi. Sinon, il gagne 20 de Fuite. 
+• Lorsque le porteur achève un combattant ennemi durant son tour, il devient invisible pendant 1 tour.
+  - 351 à 400 Vitalité
+  - 81 à 120 Chance
+  - 7 à 10 Retrait PA
+  - -60 Résistances Poussée
+  - -40 Tacle
+  - 38 à 44 (dommages Eau)
+  - 31 à 40 Sagesse
+  - -1 PA
+  - 16 à 20 Fuite
+  - 7 à 10% Résistance Eau
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette de Torkélonia
+ID : 21229
+TYPE : Baguette
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/4137.png
+DESCRIPTION : À force d'être menés à la baguette par Torkélonia, la tortue arkélone, les Crocuzkiens ont décidé de fabriquer des répliques exactes de cette arme pour se faire respecter des sots qui s'aventureraient sur l'île. Le résultat n'est pas toujours au rendez-vous, mais c'est l'intention qui compte.
+RECIPES:
+  - ID: 21208, Quantity: 15
+  - ID: 21211, Quantity: 73
+  - ID: 21206, Quantity: 10
+  - ID: 21207, Quantity: 4
+  - ID: 19411, Quantity: 5
+  - ID: 11333, Quantity: 5
+  - ID: 12740, Quantity: 3
+  - ID: 19975, Quantity: 10
+EFFECTS:
+  - 301 à 350 Vitalité
+  - 41 à 60 Force
+  - 41 à 60 Agilité
+  - 21 à 30 Puissance
+  - 26 à 40 Sagesse
+  - 16 à 20 Dommages Air
+  - 16 à 20 Dommages Terre
+  - 16 à 20 Dommages Critiques
+  - 1 Invocation
+  - 16 à 25 Prospection
+  - 4 à 6% Critique
+  - 11 à 15 Résistances Terre
+  - 11 à 15 Résistances Eau
+  - 24 à 35 (dommages Air)
+  - 24 à 35 (dommages Terre)
+IS WEAPON: True
+PARENT SET ID: 472
+PARENT SET NAME: Panoplie de Torkélonia
+
+NAME : Balance-Fléau de Misère
+ID : 22444
+TYPE : Baguette
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/4138.png
+DESCRIPTION : « Entendez-vous les plaintes charriées par le vent, les grognements des Troolgrodytes et les gargouillements des ventres affamés ? C'est une symphonie si douce à mes oreilles... Le désert gagne du terrain. Il avance, dune après dune. Les grains de sable remplacent les grains de blé. Les puits se tarissent. Les assiettes se vident. Les Cacterres se dessèchent. Bientôt, les terres fertiles ne seront plus qu'un conte qui bercera les espoirs inutiles des enfants malingres, le soir à la veillée. Bientôt, je règnerai sans partage sur Saharach... Ce pays sera à moi, enfin. »
+
+- Misère
+RECIPES:
+  - ID: 22415, Quantity: 1
+  - ID: 22129, Quantity: 1
+  - ID: 19914, Quantity: 1
+  - ID: 22052, Quantity: 15
+  - ID: 22058, Quantity: 9000
+  - ID: 14635, Quantity: 7500
+  - ID: 12728, Quantity: 2
+  - ID: 12740, Quantity: 4
+EFFECTS:
+  - 301 à 350 Vitalité
+  - 81 à 100 Puissance
+  - -20 Fuite
+  - 11 à 15 Esquive PM
+  - 11 à 15 Esquive PA
+  - 7 à 10 Dommages Critiques
+  - 4 à 5% Critique
+  - Épreuve de la Balance :
+• Lorsque le porteur subit une tentative de retrait de PA, de PM ou de Portée, les dommages qu'il subit sont réduits de 4% pour 2 tours et les dommages subis par son attaquant sont augmentés de 4% pour 2 tours (cumulable 3 fois).
+  - 8 à 10 (vol Air)
+  - 8 à 10 (vol Eau)
+  - 8 à 10 (vol Feu)
+  - 8 à 10 (vol Terre)
+  - -5% Résistance Eau
+  - -1 Portée
+  - -300 Initiative
+  - 7 à 10% Résistance Terre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette des égarés
+ID : 15779
+TYPE : Baguette
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3084.png
+DESCRIPTION : Soulever cette baguette pendant un orage pourrait vous faire voyager dans le temps. Jusque-là, tous ceux ayant essayé ont littéralement disparu, laissant penser que cela fonctionne bien.
+RECIPES:
+  - ID: 15719, Quantity: 40
+  - ID: 15716, Quantity: 36
+  - ID: 15733, Quantity: 15
+  - ID: 15715, Quantity: 4
+  - ID: 13923, Quantity: 2
+  - ID: 13154, Quantity: 2
+  - ID: 15219, Quantity: 15
+  - ID: 15271, Quantity: 15
+EFFECTS:
+  - 24 à 30 (dommages Terre)
+  - 24 à 30 (dommages Eau)
+  - 301 à 350 Vitalité
+  - 41 à 60 Force
+  - 41 à 60 Chance
+  - 16 à 20 Résistances Poussée
+  - 31 à 40 Sagesse
+  - 16 à 20 Dommages Terre
+  - 11 à 15 Prospection
+  - 16 à 20 Dommages Neutre
+  - 16 à 20 Dommages Eau
+  - 7 à 10% Résistance Feu
+  - 7 à 10 Esquive PM
+  - -5% Critique
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette Imologie
+ID : 24036
+TYPE : Baguette
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3090.png
+DESCRIPTION : Le savais-tu ? Dans le langage ancestral des Pandawas, le mot "étymologie", comme pour les autres mots, tire ses origines des Kianzhi, les mots-esprits. Éthymo- vient en effet du Kianzhi signifiant "la vérité", tandis que -logie vient du Kianzhi exprimant entre autres "le savoir" et "le sens caché".
+RECIPES:
+  - ID: 23970, Quantity: 11
+  - ID: 23966, Quantity: 90
+  - ID: 23957, Quantity: 11
+  - ID: 23963, Quantity: 4
+  - ID: 13994, Quantity: 2
+  - ID: 15689, Quantity: 3
+  - ID: 12728, Quantity: 2
+  - ID: 24144, Quantity: 2
+EFFECTS:
+  - 21 à 26 (dommages Feu)
+  - 5 à 8 (vol Feu)
+  - 251 à 300 Vitalité
+  - 61 à 80 Intelligence
+  - 31 à 50 Sagesse
+  - 5 à 7 Fuite
+  - 11 à 15 Dommages Feu
+  - 21 à 30 Dommages Poussée
+  - 4 à 5% Résistance Terre
+  - 4 à 5% Résistance Feu
+  - 4 à 5% Résistance Eau
+  - 9 à 12 Soins
+  - 11 à 15 Dommages Critiques
+  - 4 à 5% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Baguette du Pandamonium
+ID : 25219
+TYPE : Baguette
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/3091.png
+DESCRIPTION : « Il ne faut pas confondre anarchisme et anomie : l'anomie est l'absence ou le refus de toute loi ou règle, qui conduit inévitablement au délitement de la société. Au contraire, l'anarchie est l'ordre sans concentration du pouvoir ou autre forme de hiérarchie, c'est-à-dire un ordre social juste et égalitaire, car décidé collectivement. »
+
+— Affy Hobmane, extrait du livre « Dérobez cet ouvrage »
+RECIPES:
+  - ID: 25177, Quantity: 78
+  - ID: 25179, Quantity: 84
+  - ID: 25182, Quantity: 8
+  - ID: 25181, Quantity: 5
+  - ID: 22219, Quantity: 5
+  - ID: 21207, Quantity: 5
+  - ID: 14635, Quantity: 5000
+  - ID: 24144, Quantity: 2
+EFFECTS:
+  - 18 à 21 (vol Neutre)
+  - 18 à 21 (vol Terre)
+  - 301 à 350 Vitalité
+  - 61 à 80 Force
+  - 16 à 20 Résistances Poussée
+  - 21 à 30 Sagesse
+  - 7 à 10 Fuite
+  - 11 à 15 Dommages Neutre
+  - 11 à 15 Dommages Terre
+  - 5 à 7% Résistance Air
+  - 5 à 7% Résistance Terre
+  - 9 à 12 Esquive PA
+  - 11 à 15 Soins
+  - 1 Portée
+IS WEAPON: True
+PARENT SET ID: 496
+PARENT SET NAME: Panoplie du Pandamonium
+

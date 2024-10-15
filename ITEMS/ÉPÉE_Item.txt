@@ -1,0 +1,2786 @@
+NAME : Épée de Nowel
+ID : 8338
+TYPE : Épée
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6069.png
+DESCRIPTION : Cette étrange épée ne vous rendra pas invincible, mais vous pourrez peut-être vous en servir pour tuer des boules de neige.
+RECIPES: None
+EFFECTS:
+  - 1 à 2 (dommages Neutre)
+  - Utilisations restantes : 10 / 10
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée de Justice
+ID : 2156
+TYPE : Épée
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6016.png
+DESCRIPTION : Cette épée permet de répandre la sainte parole.
+RECIPES: None
+EFFECTS:
+  - 41 à 60 (vol Neutre)
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée de Yanguru
+ID : 6840
+TYPE : Épée
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6018.png
+DESCRIPTION : Cette arme estampillée par Meow Meow pourrait faire de vous une Ecaflip de légende, éventuellement...
+RECIPES: None
+EFFECTS:
+  - 1 à 5 (dommages Neutre)
+  - 10 Initiative
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée de Yingnitié
+ID : 6839
+TYPE : Épée
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6018.png
+DESCRIPTION : Cette arme estampillée par Meow Meow pourrait faire de vous un Ecaflip de légende, éventuellement...
+RECIPES: None
+EFFECTS:
+  - 1 à 5 (dommages Neutre)
+  - 10 Initiative
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Tulante
+ID : 10797
+TYPE : Épée
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6096.png
+DESCRIPTION : Sortie de son fourreau, cette épée peut couper le jambon, les Enutrofs, les unijambistes, les danseurs et les Enutrofs unijambistes enroulés dans une tranche de jambon qui dansent un soir de pleine lune. En revanche pour trancher les monstres, elle est plutôt inefficace.
+RECIPES: None
+EFFECTS:
+  - 5 à 6 (vol Neutre)
+  - 1 Vitalité
+  - Lié au personnage
+  - 1 Initiative
+IS WEAPON: True
+PARENT SET ID: 150
+PARENT SET NAME: Panoplie de l'intrépide
+
+NAME : Épée de Boisaille
+ID : 44
+TYPE : Épée
+LEVEL : 7
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6007.png
+DESCRIPTION : Épée de simple facture, elle ne fera pas de votre héros une légende.
+RECIPES:
+  - ID: 16512, Quantity: 3
+  - ID: 303, Quantity: 3
+EFFECTS:
+  - 8 à 10 (dommages Neutre)
+  - 7 à 10 Force
+  - 1 Dommage Terre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée de l'initié
+ID : 6780
+TYPE : Épée
+LEVEL : 12
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6007.png
+DESCRIPTION : Cette arme d'apparence rudimentaire vous donnera l'impression de savoir vous battre.
+RECIPES: None
+EFFECTS:
+  - 7 à 12 (dommages Neutre)
+  - 10 Initiative
+  - 10 Vitalité
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Queue
+ID : 357
+TYPE : Épée
+LEVEL : 13
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6018.png
+DESCRIPTION : Epée symbolisant la partie de leur corps dont les Ecaflips sont le plus fier. Cette épée résume bien la façon de faire des joueurs.
+RECIPES:
+  - ID: 8680, Quantity: 1
+  - ID: 2659, Quantity: 3
+EFFECTS:
+  - 1 à 25 (dommages Neutre)
+  - 21 à 25 Vitalité
+  - 7 à 10 Agilité
+  - 1 Dommage Air
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée de Fouraille
+ID : 49
+TYPE : Épée
+LEVEL : 15
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6002.png
+DESCRIPTION : Une épée bien forgée, intéressante pour les novices.
+RECIPES:
+  - ID: 1673, Quantity: 1
+  - ID: 377, Quantity: 3
+EFFECTS:
+  - 14 à 18 (dommages Neutre)
+  - 11 à 15 Vitalité
+  - 7 à 10 Force
+  - 2 Dommages Terre
+  - 2 Dommages Neutre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Lame du Gob-Trotteur
+ID : 327
+TYPE : Épée
+LEVEL : 16
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6003.png
+DESCRIPTION : Cette lame forgée à l'origine pour les Gob-Trotteurs, était en fait bien trop lourde pour ces faibles gobelins. Elle n'en reste pas moins très légère pour un individu normal, ce qui lui permet de frapper très vite.
+RECIPES:
+  - ID: 363, Quantity: 3
+  - ID: 374, Quantity: 4
+EFFECTS:
+  - 16 à 20 (dommages Neutre)
+  - 16 à 20 Force
+  - 2 à 3 Fuite
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée d'Ha
+ID : 62
+TYPE : Épée
+LEVEL : 17
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6006.png
+DESCRIPTION : Conçue par un forgeron qui voyait double, cette épée est très populaire à Brâkmar. Il n'y a pas un milicien qui ne s'écrie « Je veux mon épée d'Ha ! » Sa seule vue fait loucher le plus courageux des adversaires.
+RECIPES:
+  - ID: 1673, Quantity: 1
+  - ID: 366, Quantity: 3
+EFFECTS:
+  - 6 à 10 (dommages Neutre)
+  - 16 à 20 Vitalité
+  - 7 à 10 Force
+  - 3 à 4 Fuite
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Sacrée
+ID : 821
+TYPE : Épée
+LEVEL : 17
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6001.png
+DESCRIPTION : Une épée sainte distribuée aux jeunes guerriers durant leur formation.
+RECIPES:
+  - ID: 16440, Quantity: 1
+  - ID: 643, Quantity: 1
+EFFECTS:
+  - 14 à 18 (dommages Neutre)
+  - 26 à 30 Vitalité
+  - 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Koupe-koupe
+ID : 328
+TYPE : Épée
+LEVEL : 18
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6004.png
+DESCRIPTION : Cette lame double à la forme bien étrange servait à l'origine à élaguer les arbres pour progresser dans les forêts denses. Les bûcherons se sont vite aperçus qu'elle constituait une arme de choix pour exterminer toute forme de menace.
+RECIPES:
+  - ID: 6899, Quantity: 3
+  - ID: 2659, Quantity: 3
+EFFECTS:
+  - 11 à 15 (dommages Air)
+  - 2% Critique
+  - 16 à 25 Agilité
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée du Chevalier de Glace
+ID : 7102
+TYPE : Épée
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6051.png
+DESCRIPTION : Le Chevalier de Glace était connu pour être un des plus grands forgeurs d'épées de tout Amakna. Seule l'horrible et impitoyable Liche refusait de reconnaître son immense talent. Vexé qu'une telle créature puisse ne pas s'émerveiller devant ses créations, le forgeur lui posa un ultimatum : il refusa d'exercer sa profession tant qu'elle ne ferait pas l'effort de reconnaître publiquement son talent de créateur d'épées. Mais c'était mal connaître la terrible Liche, qui ne céda point. Une centaine d'années plus tard, le forgeur dut se résoudre à reprendre son métier qu'il avait entre-temps oublié. Cette épée ridicule fut sa dernière création utilisable. Les années passèrent et le véritable pouvoir de cette épée fut enfin découvert : brisée, elle libérait une énergie maléfique qui perturbait durablement toutes les activités économiques de la Liche. Moquée, provoquée, humiliée et prise à son propre jeu, la Liche feignit d'abdiquer pour revenir plus méchante et se venger au moment opportun.
+RECIPES:
+  - ID: 2539, Quantity: 2
+  - ID: 307, Quantity: 3
+EFFECTS:
+  - 11 à 15 (soins Feu)
+  - 16 à 20 Vitalité
+  - 11 à 15 Intelligence
+  - 2 Tacle
+  - 5 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Triste Lame
+ID : 58
+TYPE : Épée
+LEVEL : 21
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6005.png
+DESCRIPTION : Il s'agit d'une épée ayant baigné dans les larmes d'un jeune Mulou. Beaucoup de guerriers pensent qu'ainsi bénie, leur arme apportera chance et courage sur les champs de bataille.
+RECIPES:
+  - ID: 747, Quantity: 2
+  - ID: 1673, Quantity: 1
+  - ID: 306, Quantity: 4
+EFFECTS:
+  - 6 à 10 (dommages Neutre)
+  - 4 à 6% Critique
+  - Arme de chasse
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Queue Infernale
+ID : 358
+TYPE : Épée
+LEVEL : 21
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6018.png
+DESCRIPTION : La Queue Infernale est vraiment infernale... De quoi rendre votre adversaire ou vos coéquipiers complètement fous, et surtout de transformer vos coéquipiers en adversaires si vous vous y prenez mal. En revanche, le cas inverse ne semble jamais se produire.
+RECIPES:
+  - ID: 373, Quantity: 4
+  - ID: 6903, Quantity: 4
+  - ID: 365, Quantity: 4
+EFFECTS:
+  - 1 à 35 (dommages Neutre)
+  - 21 à 30 Vitalité
+  - 16 à 20 Agilité
+  - -20 Chance
+  - 7 à 10 Dommages Poussée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Le Tranchant Infernal
+ID : 67
+TYPE : Épée
+LEVEL : 22
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6013.png
+DESCRIPTION : Tranchante et infernale : tels ont été les mots de la succube qui l'a forgée. À moins que ce ne soit les mots utilisés par Vald pour décrire sa sœur, plus personne ne sait.
+RECIPES:
+  - ID: 13487, Quantity: 4
+  - ID: 2455, Quantity: 1
+  - ID: 6899, Quantity: 4
+EFFECTS:
+  - 11 à 15 (dommages Neutre)
+  - 31 à 40 Vitalité
+  - 21 à 25 Agilité
+  - 2 à 3 Fuite
+  - -10 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Klebik
+ID : 354
+TYPE : Épée
+LEVEL : 25
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6011.png
+DESCRIPTION : Ce type d'épée était forgé pour les gardes d'un commerçant aussi riche que réputé. Plutôt destinée à effrayer les voleurs, elle n'en reste pas moins redoutable pour achever les voleurs ou les clients honnêtes, mais un peu usants.
+RECIPES:
+  - ID: 2491, Quantity: 4
+  - ID: 1681, Quantity: 1
+  - ID: 366, Quantity: 4
+EFFECTS:
+  - 13 à 17 (dommages Neutre)
+  - 31 à 40 Force
+  - -40 Chance
+  - 11 à 15 Sagesse
+  - -8 Fuite
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée du Chevalier
+ID : 824
+TYPE : Épée
+LEVEL : 26
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6009.png
+DESCRIPTION : L'épée du Chevalier est une épée solide et efficace. Bien utilisée, elle peut causer de gros dommages à vos ennemis.
+RECIPES:
+  - ID: 366, Quantity: 4
+  - ID: 2539, Quantity: 2
+  - ID: 300, Quantity: 4
+EFFECTS:
+  - 17 à 31 (dommages Neutre)
+  - 21 à 25 Vitalité
+  - 21 à 30 Chance
+  - 2 à 3 Tacle
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Lame du Bwork
+ID : 827
+TYPE : Épée
+LEVEL : 26
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6013.png
+DESCRIPTION : Cette épée d'apparence rudimentaire est très appréciée des Bworks les plus débiles, qui ne savent pas se servir d'un arc ou d'un bâton, certains confondent même la lame et le manche ce qui ne manque pas de faire rire leurs adversaires.
+RECIPES:
+  - ID: 747, Quantity: 2
+  - ID: 371, Quantity: 1
+  - ID: 2491, Quantity: 4
+EFFECTS:
+  - 22 à 26 (dommages Air)
+  - -30 Vitalité
+  - 21 à 30 Agilité
+  - 2 à 3 Fuite
+  - 2 à 3 Dommages Air
+  - 2 à 3 Dommages Neutre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée d'Alle
+ID : 55
+TYPE : Épée
+LEVEL : 26
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6001.png
+DESCRIPTION : Cette épée très prisée des jeunes Iops vous permettra peut-être de faire vos preuves. Mais attention, ne vous attachez pas à elle, car on finit toujours par perdre l'épée d'Alle.
+RECIPES:
+  - ID: 364, Quantity: 4
+  - ID: 300, Quantity: 4
+  - ID: 2659, Quantity: 4
+EFFECTS:
+  - 11 à 15 (dommages Feu)
+  - -20 Vitalité
+  - 16 à 20 Force
+  - 16 à 20 Intelligence
+  - 4 à 5 Fuite
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Lame du Chafer
+ID : 339
+TYPE : Épée
+LEVEL : 27
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6005.png
+DESCRIPTION : Cette lame appartenait à Metzger le boucher, elle avait été forgée pour découper les os. Le Chafer a cependant réussi à lui dérober son outil, devenu maintenant une arme très redoutée qui est à l'origine de nombreuses amputations.
+RECIPES:
+  - ID: 2336, Quantity: 1
+  - ID: 6898, Quantity: 4
+  - ID: 6900, Quantity: 4
+EFFECTS:
+  - 16 à 20 (dommages Eau)
+  - 31 à 40 Vitalité
+  - -30 Intelligence
+  - 21 à 30 Chance
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Bouquet de Roses démoniaques
+ID : 17525
+TYPE : Épée
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6047.png
+DESCRIPTION : Avec ce superbe bouquet, vous montrerez à votre bien aimé(e) que vous êtes prêt(e) à braver 1000 et 1 dangers pour sa jolie frimousse.
+RECIPES:
+  - ID: 2659, Quantity: 4
+  - ID: 2455, Quantity: 1
+  - ID: 309, Quantity: 4
+EFFECTS:
+  - 11 à 15 (soins Feu)
+  - 16 à 20 Vitalité
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Royale du Bouftou
+ID : 2440
+TYPE : Épée
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6030.png
+DESCRIPTION : Cette épée ne sait pas trop sur quel sabot danser... Elle inflige des dégâts de chaque élément.
+RECIPES:
+  - ID: 884, Quantity: 1
+  - ID: 2455, Quantity: 1
+  - ID: 886, Quantity: 3
+EFFECTS:
+  - 4 à 8 (dommages Air)
+  - 4 à 8 (dommages Eau)
+  - 4 à 8 (dommages Feu)
+  - 4 à 8 (dommages Terre)
+  - 31 à 40 Vitalité
+  - 21 à 30 Puissance
+  - 2 à 3 Tacle
+IS WEAPON: True
+PARENT SET ID: 4
+PARENT SET NAME: Panoplie du Bouftou Royal
+
+NAME : La crinière de Badoul
+ID : 66
+TYPE : Épée
+LEVEL : 33
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6011.png
+DESCRIPTION : Cette épée appartenait au célèbre Badoul, vaillant guerrier ayant perdu la boule lors d'un combat.
+RECIPES:
+  - ID: 386, Quantity: 5
+  - ID: 12745, Quantity: 1
+  - ID: 885, Quantity: 6
+EFFECTS:
+  - 6 à 10 (dommages Neutre)
+  - -12 Tacle
+  - -12 Fuite
+  - 1 PM
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Griffe
+ID : 2637
+TYPE : Épée
+LEVEL : 35
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6033.png
+DESCRIPTION : Cette lame recourbée, faite d'os, de cartilage et de corne, est aussi tranchante qu'une griffe d'Ecaflip. En un peu plus gros et plus propre.
+RECIPES:
+  - ID: 387, Quantity: 6
+  - ID: 6845, Quantity: 6
+  - ID: 884, Quantity: 1
+EFFECTS:
+  - 11 à 20 (dommages Neutre)
+  - 101 à 150 Initiative
+  - -50 Vitalité
+  - 21 à 30 Force
+  - 21 à 30 Agilité
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Lame du Craqueleur
+ID : 6957
+TYPE : Épée
+LEVEL : 37
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6054.png
+DESCRIPTION : Cette épée servait autrefois à découper des blocs de granit pour confectionner les murailles des cités prestigieuses telles que Bonta ou Brâkmar. Aujourd'hui, cette arme est avant tout recherchée pour sa capacité à écraser toutes sortes de créatures vivantes, consentantes ou pas.
+RECIPES:
+  - ID: 2495, Quantity: 8
+  - ID: 1679, Quantity: 1
+  - ID: 12745, Quantity: 1
+  - ID: 8160, Quantity: 3
+EFFECTS:
+  - 26 à 30 (dommages Terre)
+  - 51 à 100 Initiative
+  - 21 à 30 Vitalité
+  - 21 à 30 Force
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET ID: 26
+PARENT SET NAME: Panoplie du Craqueleur
+
+NAME : Sabre Shodanwa
+ID : 7200
+TYPE : Épée
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6055.png
+DESCRIPTION : Ce magnifique sabre est utilisé par les disciples Pandawushuka lorsqu'ils réussissent à atteindre le grade Shodanwa sans être morts entre temps.
+RECIPES:
+  - ID: 6841, Quantity: 6
+  - ID: 747, Quantity: 2
+  - ID: 394, Quantity: 6
+EFFECTS:
+  - 15 à 22 (dommages Neutre)
+  - 21 à 30 Force
+  - 21 à 30 Agilité
+  - 1 Invocation
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Goultard
+ID : 65
+TYPE : Épée
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6017.png
+DESCRIPTION : L'épée Goultard a été trempée dans le sang d'un Dragon Cochon. Le héros qui supportera l'odeur dégagée par cette puissante épée pourra se hisser à la hauteur des plus grands.
+RECIPES:
+  - ID: 407, Quantity: 6
+  - ID: 881, Quantity: 6
+  - ID: 6841, Quantity: 6
+EFFECTS:
+  - 26 à 30 (dommages Neutre)
+  - 31 à 40 Vitalité
+  - 21 à 30 Force
+  - 21 à 30 Agilité
+  - 2 à 3 Tacle
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Kwaklame de Terre
+ID : 6751
+TYPE : Épée
+LEVEL : 41
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6053.png
+DESCRIPTION : "Cette lame aiguisée mais pas déguisée, conviendra parfaitement aux aventuriers déjà expérimentés en quête de nouvelles sensations". Voici ce que l'on peut lire sur le manuel de cette épée. Les manuels ne sont plus ce qu'ils étaient décidément.
+RECIPES:
+  - ID: 1141, Quantity: 7
+  - ID: 887, Quantity: 6
+  - ID: 746, Quantity: 2
+  - ID: 12016, Quantity: 2
+EFFECTS:
+  - 16 à 25 (dommages Terre)
+  - 21 à 30 Vitalité
+  - 21 à 30 Force
+  - 2 à 3% Résistance Terre
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET ID: 14
+PARENT SET NAME: Panoplie du Kwak de Terre
+
+NAME : Kwaklame de Flammes
+ID : 2415
+TYPE : Épée
+LEVEL : 41
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6052.png
+DESCRIPTION : La Kwaklame de Flammes est une arme vraiment stylée. A défaut de faire peur à votre adversaire, elle vous servira à l'impressionner, pour ensuite mieux le surprendre par une vieille ruse de fourbe.
+RECIPES:
+  - ID: 415, Quantity: 6
+  - ID: 16167, Quantity: 5
+  - ID: 746, Quantity: 2
+  - ID: 12016, Quantity: 2
+EFFECTS:
+  - 16 à 25 (dommages Feu)
+  - 21 à 30 Vitalité
+  - 21 à 30 Intelligence
+  - 2 à 3% Résistance Feu
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET ID: 2
+PARENT SET NAME: Panoplie du Kwak de Flammes
+
+NAME : Kwaklame du Vent
+ID : 6752
+TYPE : Épée
+LEVEL : 41
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6050.png
+DESCRIPTION : Idéale pour couper les nuages, cette lame pourra également vous servir à faire du vent si vous l'agitez comme un éventail. Une excellente technique pour décimer les Moskitos ou défigurer vos amis.
+RECIPES:
+  - ID: 413, Quantity: 1
+  - ID: 2579, Quantity: 6
+  - ID: 12745, Quantity: 2
+  - ID: 12016, Quantity: 3
+EFFECTS:
+  - 16 à 25 (dommages Air)
+  - 21 à 30 Vitalité
+  - 21 à 30 Agilité
+  - 2 à 3% Résistance Air
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET ID: 15
+PARENT SET NAME: Panoplie du Kwak du Vent
+
+NAME : Kwaklame de Glace
+ID : 6750
+TYPE : Épée
+LEVEL : 41
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6051.png
+DESCRIPTION : Lame froide et tranchante, elle réveillera les instincts les plus primitifs de ceux qui l'utilisent.
+RECIPES:
+  - ID: 411, Quantity: 1
+  - ID: 2579, Quantity: 6
+  - ID: 12745, Quantity: 2
+  - ID: 12016, Quantity: 3
+EFFECTS:
+  - 16 à 25 (dommages Eau)
+  - 21 à 30 Vitalité
+  - 21 à 30 Chance
+  - 2 à 3% Résistance Eau
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET ID: 13
+PARENT SET NAME: Panoplie du Kwak de Glace
+
+NAME : Lame d'Ogralimde
+ID : 928
+TYPE : Épée
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6012.png
+DESCRIPTION : Ogralimde était un grand guerrier qui devait sa force à Adyol son maître, un puissant Bwork Mage d'une intelligence surprenante. Mais l'élève n'a jamais dépassé le maître, contrairement à ce que raconte la légende.
+RECIPES:
+  - ID: 2571, Quantity: 5
+  - ID: 1685, Quantity: 1
+  - ID: 12745, Quantity: 2
+  - ID: 8137, Quantity: 1
+EFFECTS:
+  - 11 à 28 (dommages Neutre)
+  - 31 à 40 Force
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Corbalame
+ID : 2544
+TYPE : Épée
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6032.png
+DESCRIPTION : Terriblement tranchante et incroyablement classe, cette lame risque de faire des jaloux parmi votre entourage de Corbacs.
+RECIPES:
+  - ID: 1889, Quantity: 6
+  - ID: 2315, Quantity: 6
+  - ID: 746, Quantity: 2
+  - ID: 8557, Quantity: 2
+EFFECTS:
+  - 11 à 50 (dommages Neutre)
+  - 31 à 40 Vitalité
+  - 21 à 30 Agilité
+  - 2 à 3 Fuite
+  - 2 Dommages Air
+  - 2 Dommages Neutre
+  - 7 à 10 Dommages Poussée
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET ID: 8
+PARENT SET NAME: Panoplie du Corbac
+
+NAME : Épée Tillante
+ID : 11306
+TYPE : Épée
+LEVEL : 49
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6102.png
+DESCRIPTION : Vous pouvez lire gravé sur son pommeau : « Elle vole la vie des pauvres pour la redistribuer aux riches ». Dommage que vous soyez pauvre.
+RECIPES:
+  - ID: 1465, Quantity: 7
+  - ID: 2249, Quantity: 7
+  - ID: 12745, Quantity: 2
+  - ID: 8159, Quantity: 4
+EFFECTS:
+  - 13 à 17 (vol Terre)
+  - 41 à 50 Vitalité
+  - 31 à 40 Force
+  - 11 à 15 Puissance
+  - 4 à 5 Dommages Terre
+  - 4 à 5 Dommages Neutre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Goultard Ankarton
+ID : 27268
+TYPE : Épée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6754.png
+DESCRIPTION : L'épée Goultard Ankarton a été trempée dans du sang de cochon de lait, du coup, elle est molle et sent un peu le saucisson.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Utilisations restantes : 1000 / 1000
+  - 3 à 6 (dommages Air)
+  - 3 à 6 (dommages Eau)
+  - 3 à 6 (dommages Feu)
+  - 3 à 6 (dommages Terre)
+IS WEAPON: True
+PARENT SET ID: 505
+PARENT SET NAME: Panoplie Ankarton
+
+NAME : Épée Nécronyx
+ID : 19482
+TYPE : Épée
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6098.png
+DESCRIPTION : Cette épée née sous le marteau divin de Gobanos vous permet d'utiliser le pouvoir du nécronyx pour pétrifier les Trépamorts.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+  - Ajouter un sort temporaire
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Étoile du soir
+ID : 1639
+TYPE : Épée
+LEVEL : 52
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6022.png
+DESCRIPTION : La créatrice de cette épée au charme certain a voulu retranscrire toute sa beauté gracieuse auréolée d'un caractère piquant. Le résultat est bien plus parlant que des mots.
+RECIPES:
+  - ID: 16148, Quantity: 6
+  - ID: 2268, Quantity: 1
+  - ID: 746, Quantity: 1
+  - ID: 8731, Quantity: 1
+EFFECTS:
+  - 17 à 26 (dommages Neutre)
+  - 31 à 40 Vitalité
+  - -20 Force
+  - 21 à 30 Agilité
+  - 11 à 15 Sagesse
+  - 4 à 5 Fuite
+  - 2 à 3% Résistance Neutre
+  - 2 à 3% Résistance Air
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Razielle
+ID : 202
+TYPE : Épée
+LEVEL : 52
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6016.png
+DESCRIPTION : Cette épée a été bénie par les larmes de l'ange Raziel. Terriblement destructrice elle est suffisamment puissante pour permettre à son porteur d'affronter le plus terrible des adversaires.
+RECIPES:
+  - ID: 13339, Quantity: 6
+  - ID: 413, Quantity: 2
+  - ID: 2540, Quantity: 1
+  - ID: 8385, Quantity: 3
+EFFECTS:
+  - 26 à 40 (dommages Neutre)
+  - 41 à 60 Vitalité
+  - 31 à 40 Force
+  - -25 Intelligence
+  - 31 à 40 Agilité
+  - -25 Chance
+  - 2 à 3 Tacle
+  - 2 à 3 Dommages Air
+  - 2 à 3 Dommages Terre
+  - 2 à 3 Dommages Neutre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Kwakwalame
+ID : 12018
+TYPE : Épée
+LEVEL : 56
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6109.png
+DESCRIPTION : À l'instar de ses sujets les Kwaks, le Kwakwa a une lame à son nom. Même si on ne sait toujours pas pourquoi ni en quel honneur un oiseau aurait une épée, celle-ci semble plus légère et plus maniable que les Kwaklames. Vous allez peut-être enfin pouvoir déplumer vos ennemis avec.
+RECIPES:
+  - ID: 2652, Quantity: 1
+  - ID: 2648, Quantity: 7
+  - ID: 2540, Quantity: 1
+  - ID: 12016, Quantity: 4
+EFFECTS:
+  - 16 à 25 (dommages Neutre)
+  - -1 PA
+  - 7 à 10 Résistances Poussée
+  - 5 à 8 Fuite
+  - 4 à 5 Dommages Feu
+  - 4 à 5 Dommages Air
+  - 4 à 5 Dommages Terre
+  - 4 à 5 Dommages Eau
+  - 7 à 10 Dommages Poussée
+IS WEAPON: True
+PARENT SET ID: 196
+PARENT SET NAME: Panoplie du Kwakwa
+
+NAME : Découpeuse de Yench
+ID : 1574
+TYPE : Épée
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6021.png
+DESCRIPTION : Cette épée appartenait au regretté Kih Bésans, dit le découpeur de Yench. C'etait, en effet, sa principale occupation d'amusement. Comme quoi, un rien amuse.
+RECIPES:
+  - ID: 1142, Quantity: 2
+  - ID: 2540, Quantity: 2
+  - ID: 13491, Quantity: 7
+  - ID: 8731, Quantity: 1
+EFFECTS:
+  - 26 à 35 (dommages Neutre)
+  - 41 à 60 Vitalité
+  - 31 à 40 Force
+  - -40 Agilité
+  - -40 Chance
+  - 2 à 3 Dommages Terre
+  - 2 à 3 Dommages Neutre
+  - 5 à 7 Dommages Critiques
+  - 3 à 4% Critique
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Zulie Lame
+ID : 1475
+TYPE : Épée
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6015.png
+DESCRIPTION : La Zulie Lame a été forgée par le célèbre forgeron Dave-Lol avant de mourir, pour la plus jolie des iopettes du royaume. On dit que cette lame n'a d'égal que la beauté de son porteur.
+RECIPES:
+  - ID: 1141, Quantity: 6
+  - ID: 8140, Quantity: 2
+  - ID: 2540, Quantity: 2
+  - ID: 8388, Quantity: 2
+EFFECTS:
+  - 17 à 31 (dommages Neutre)
+  - 31 à 40 Agilité
+  - 31 à 40 Chance
+  - 11 à 15 Puissance
+  - 2 à 3 Dommages Air
+  - 2 à 3 Dommages Eau
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Découpeuse de Kralamoure
+ID : 620
+TYPE : Épée
+LEVEL : 61
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6008.png
+DESCRIPTION : Cette épée a permis au célèbre marin Mobby Diqueriveurse, de découper en tranches, les tentacules du célèbre Kralamoure Géant de l'île de Moon, réputé pour étouffer les marins saouls et saouler les marins étouffés.
+RECIPES:
+  - ID: 2492, Quantity: 2
+  - ID: 2557, Quantity: 1
+  - ID: 9384, Quantity: 1
+  - ID: 2540, Quantity: 2
+  - ID: 2496, Quantity: 9
+EFFECTS:
+  - 31 à 45 (dommages Neutre)
+  - 4 à 6 Dommages
+  - 21 à 30 Force
+  - 1 à 2% Critique
+  - -20 à -1 Intelligence
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Le Cutter
+ID : 1651
+TYPE : Épée
+LEVEL : 64
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6023.png
+DESCRIPTION : Cette épée est totalement appropriée pour agresser de gentilles personnes. Rapide, maniable et surtout extrêmement coupante. Elle est, de ce fait, interdite à la vente depuis longtemps. Mais tolérée aujourd'hui comme défense anti-bwork.
+RECIPES:
+  - ID: 308, Quantity: 9
+  - ID: 2481, Quantity: 10
+  - ID: 2556, Quantity: 1
+  - ID: 12015, Quantity: 1
+  - ID: 748, Quantity: 2
+EFFECTS:
+  - 17 à 39 (dommages Neutre)
+  - 251 à 300 Initiative
+  - 46 à 65 Force
+  - -65 Intelligence
+  - 26 à 35 Agilité
+  - 16 à 20 Chance
+  - 4 à 5 Dommages
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Sabre Nidanwa
+ID : 7201
+TYPE : Épée
+LEVEL : 66
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6056.png
+DESCRIPTION : Ce magnifique sabre est utilisé par les disciples Pandawushuka lorsqu'ils réussissent à atteindre le grade Nidanwa sans être morts entre temps.
+RECIPES:
+  - ID: 1129, Quantity: 9
+  - ID: 369, Quantity: 10
+  - ID: 650, Quantity: 1
+  - ID: 9388, Quantity: 2
+  - ID: 748, Quantity: 2
+EFFECTS:
+  - 26 à 37 (dommages Neutre)
+  - 36 à 45 Vitalité
+  - 36 à 45 Agilité
+  - 21 à 25 Sagesse
+  - 2 à 3 Tacle
+  - 5 à 7% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : La Griffe Aiguisée
+ID : 2638
+TYPE : Épée
+LEVEL : 68
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6034.png
+DESCRIPTION : Cent pour cent naturelle, cette épée est comme une sixième griffe pour une main Ecaflip. A ce propos, faites attention à ne pas vous grattouiller le museau avec cette griffe là !
+RECIPES:
+  - ID: 6476, Quantity: 10
+  - ID: 418, Quantity: 7
+  - ID: 649, Quantity: 1
+  - ID: 9386, Quantity: 1
+  - ID: 748, Quantity: 2
+EFFECTS:
+  - 16 à 30 (dommages Neutre)
+  - 251 à 300 Initiative
+  - 41 à 60 Vitalité
+  - 21 à 30 Force
+  - 21 à 30 Agilité
+  - 7 à 10 Fuite
+  - 2 à 3 Dommages
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Lame du Chef Crocodaille
+ID : 6821
+TYPE : Épée
+LEVEL : 70
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6049.png
+DESCRIPTION : Fabriquée à partir de débris trouvés sur un Chef Crocodaille, cette arme saura se révéler très efficace si vous êtes assez beau, habile, intelligent et fort pour la manier. Avec un peu de chance, vous finirez par trouver quelqu'un qui acceptera de vous l'échanger contre une épée de boisaille.
+RECIPES:
+  - ID: 1663, Quantity: 8
+  - ID: 1613, Quantity: 9
+  - ID: 2296, Quantity: 1
+  - ID: 8102, Quantity: 3
+  - ID: 2543, Quantity: 1
+EFFECTS:
+  - 21 à 40 (dommages Neutre)
+  - 1 à 2 (vol Neutre)
+  - 46 à 55 Vitalité
+  - 41 à 50 Agilité
+  - 41 à 50 Chance
+  - 2 à 3 Dommages
+  - 1 Invocation
+IS WEAPON: True
+PARENT SET ID: 20
+PARENT SET NAME: Panoplie du Chef Crocodaille
+
+NAME : Épée Zervatif
+ID : 8605
+TYPE : Épée
+LEVEL : 73
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6074.png
+DESCRIPTION : Cette lame est lubrifiée afin de glisser plus facilement dans son fourreau. En revanche elle est impossible à nettoyer et doit être jetée après utilisation, surtout si elle est recouverte de sang. N'oubliez pas qu'elle sert avant tout à se protéger.
+RECIPES:
+  - ID: 2321, Quantity: 3
+  - ID: 8757, Quantity: 9
+  - ID: 2552, Quantity: 1
+  - ID: 8761, Quantity: 1
+  - ID: 748, Quantity: 1
+EFFECTS:
+  - 15 à 22 (dommages Neutre)
+  - 6 à 10 (dommages Air)
+  - 6 à 10 (dommages Feu)
+  - 41 à 60 Vitalité
+  - 26 à 35 Force
+  - 26 à 35 Intelligence
+  - 26 à 35 Agilité
+  - 16 à 20 Sagesse
+  - 2 à 3 Dommages
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Eventail Tranchant
+ID : 4242
+TYPE : Épée
+LEVEL : 75
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6024.png
+DESCRIPTION : A l'origine, cette épée était un accessoire utile pour s'aérer le visage. Il suffisait juste de l'agiter avec vigueur. Après que quelques têtes sont tombées, il fut admis qu'utiliser du métal pour ce genre d'objet n'était pas une bonne idée.
+RECIPES:
+  - ID: 8740, Quantity: 9
+  - ID: 1889, Quantity: 11
+  - ID: 2594, Quantity: 1
+  - ID: 8761, Quantity: 1
+  - ID: 748, Quantity: 1
+EFFECTS:
+  - 26 à 40 (dommages Neutre)
+  - 31 à 40 Force
+  - 31 à 40 Intelligence
+  - 31 à 40 Agilité
+  - 31 à 40 Chance
+  - 4 à 5 Puissance
+  - 2 à 3 Dommages
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Sabre Feudala
+ID : 7257
+TYPE : Épée
+LEVEL : 76
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6064.png
+DESCRIPTION : Ce sabre a été forgé par Hotari Honza en personne. Il parait que c'est l'une de ses dernières créations avant sa reconversation en cuisinier. Une véritable pièce de collection en tout cas.
+RECIPES:
+  - ID: 750, Quantity: 2
+  - ID: 2580, Quantity: 1
+  - ID: 7225, Quantity: 5
+  - ID: 1610, Quantity: 8
+  - ID: 2561, Quantity: 1
+  - ID: 12737, Quantity: 2
+EFFECTS:
+  - 11 à 30 (dommages Feu)
+  - 2 à 3 (vol Feu)
+  - -1 PA
+  - 56 à 75 Vitalité
+  - 41 à 50 Intelligence
+  - 4 à 5% Résistance Terre
+  - 4 à 5% Résistance Feu
+  - 3 à 4% Critique
+IS WEAPON: True
+PARENT SET ID: 37
+PARENT SET NAME: Panoplie Feudala
+
+NAME : Sabre Sandanwa
+ID : 7202
+TYPE : Épée
+LEVEL : 83
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6057.png
+DESCRIPTION : Ce magnifique sabre est utilisé par les disciples Pandawushuka lorsqu'ils réussissent à atteindre le grade Sandanwa sans être morts entre temps.
+RECIPES:
+  - ID: 749, Quantity: 2
+  - ID: 13731, Quantity: 10
+  - ID: 8002, Quantity: 13
+  - ID: 18371, Quantity: 2
+  - ID: 15263, Quantity: 60
+  - ID: 14473, Quantity: 2
+EFFECTS:
+  - 28 à 41 (dommages Neutre)
+  - 61 à 80 Vitalité
+  - 51 à 70 Force
+  - 21 à 30 Puissance
+  - 4 à 5 Tacle
+  - 5 à 8 Dommages
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Pic à Glace
+ID : 4382
+TYPE : Épée
+LEVEL : 85
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6014.png
+DESCRIPTION : Cette épée, à la lame froide et pointue, fait ressurgir les instincts les plus basiques de celui qui la porte. Chaque geste, si anodin soit-il, est alors exécuté comme un coup bas. Il vous faudra renforcer votre esprit pour résister à cette lame.
+RECIPES:
+  - ID: 749, Quantity: 2
+  - ID: 1612, Quantity: 13
+  - ID: 844, Quantity: 10
+  - ID: 12737, Quantity: 3
+  - ID: 14470, Quantity: 1
+  - ID: 18385, Quantity: 1
+EFFECTS:
+  - 26 à 30 (dommages Neutre)
+  - 71 à 100 Vitalité
+  - 41 à 50 Chance
+  - 2 à 3 Fuite
+  - 4 à 5% Résistance Eau
+  - -5% Résistance Feu
+  - 4 à 5 Dommages
+  - 7 à 10 Dommages Critiques
+  - 4 à 5% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Sabre Yondanwa
+ID : 7203
+TYPE : Épée
+LEVEL : 92
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6058.png
+DESCRIPTION : Ce magnifique sabre est utilisé par les disciples Pandawushuka lorsqu'ils réussissent à atteindre le grade Yondanwa sans être morts entre temps.
+RECIPES:
+  - ID: 2620, Quantity: 3
+  - ID: 7030, Quantity: 12
+  - ID: 2271, Quantity: 2
+  - ID: 8494, Quantity: 4
+  - ID: 12744, Quantity: 1
+  - ID: 14635, Quantity: 80
+EFFECTS:
+  - 21 à 40 (dommages Neutre)
+  - 3 à 4 (vol Air)
+  - 71 à 100 Vitalité
+  - 21 à 30 Force
+  - 31 à 40 Agilité
+  - 16 à 20 Puissance
+  - 21 à 25 Sagesse
+  - 4 à 5 Tacle
+  - 4 à 5 Dommages
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Choh
+ID : 8701
+TYPE : Épée
+LEVEL : 95
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6077.png
+DESCRIPTION : Cette somptueuse épée appartenait à un voleur réputé pour se faire attraper à chaque fois qu'il commettait un délit.
+RECIPES: None
+EFFECTS:
+  - 21 à 40 (dommages Neutre)
+  - 301 à 400 Initiative
+  - 31 à 45 Force
+  - 31 à 45 Agilité
+  - 31 à 45 Vitalité
+  - 5 Prospection
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Fausse Griffe de Ceangal
+ID : 2639
+TYPE : Épée
+LEVEL : 95
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6035.png
+DESCRIPTION : Une forgeuse ecaflipette eut l'idée de forger cette épée après son échec à maitriser la technique ancestrale du même nom. Elle se disait qu'au moins cette griffe ne lui ferait pas faux bond.
+RECIPES:
+  - ID: 17075, Quantity: 12
+  - ID: 1611, Quantity: 8
+  - ID: 8062, Quantity: 2
+  - ID: 8496, Quantity: 4
+  - ID: 12744, Quantity: 1
+  - ID: 14635, Quantity: 80
+EFFECTS:
+  - 21 à 40 (dommages Neutre)
+  - 351 à 400 Initiative
+  - 71 à 100 Vitalité
+  - 41 à 50 Force
+  - 41 à 50 Agilité
+  - 4 à 5 Prospection
+  - 4 à 5 Dommages
+  - 4 à 5% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Doncule
+ID : 8604
+TYPE : Épée
+LEVEL : 97
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6073.png
+DESCRIPTION : Cette épée brillante est idéale pour cueillir des fleurs, même si elles se défendent. Elle est même parfaite pour cueillir des arbres.
+RECIPES:
+  - ID: 16152, Quantity: 3
+  - ID: 14946, Quantity: 13
+  - ID: 1676, Quantity: 2
+  - ID: 8494, Quantity: 4
+  - ID: 749, Quantity: 1
+  - ID: 12737, Quantity: 4
+EFFECTS:
+  - 46 à 65 (dommages Neutre)
+  - 31 à 50 Force
+  - 101 à 150 Vitalité
+  - 21 à 35 Sagesse
+  - -50 à -31 Intelligence
+  - -50 à -31 Chance
+  - -50 à -31 Agilité
+  - 6 à 10% Résistance Feu
+  - Arme de chasse
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Neuf Queues
+ID : 1511
+TYPE : Épée
+LEVEL : 99
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6019.png
+DESCRIPTION : La légende veut qu'Ecaflip, lors du dantesque combat qui l'éleva au rang de dieu, utilisa une arme constituée de ses propres queues, chacune issue de l'une de ses vies.
+RECIPES:
+  - ID: 17075, Quantity: 8
+  - ID: 7030, Quantity: 12
+  - ID: 8061, Quantity: 2
+  - ID: 8496, Quantity: 3
+  - ID: 12744, Quantity: 1
+  - ID: 15263, Quantity: 80
+EFFECTS:
+  - 9 à 99 (dommages Neutre)
+  - 71 à 99 Vitalité
+  - 21 à 29 Force
+  - 21 à 29 Agilité
+  - 7 à 9 Tacle
+  - 7 à 9% Résistance Air
+  - 7 à 9% Résistance Feu
+  - 7 à 9 Dommages Critiques
+  - -1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Lame du Chef Bwork
+ID : 6799
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6048.png
+DESCRIPTION : Tranchante comme une lame de Bwork, cette lame du Chef Bwork a l'avantage de peser beaucoup plus lourd. Elle est certes moins maniable, mais il suffit de la laisser tomber sur son adversaire pour le trancher en deux, telle une vulgaire tranche de Tronknyde. Si votre ennemi ne meurt pas de douleur, il mourra de honte, et vous de rire.
+RECIPES: None
+EFFECTS:
+  - 23 à 57 (dommages Terre)
+  - 71 à 100 Vitalité
+  - 41 à 50 Force
+  - 41 à 50 Agilité
+  - 11 à 15 Puissance
+  - 7 à 10 Prospection
+  - 4 à 5 Tacle
+  - 4 à 5% Résistance Eau
+  - 4 à 5 Dommages
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8963
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : Certains superstitieux prétendent que les pattes de wapin apportent chance et fortune. Grâce à cette légendaire épée, vous pourrez briller à leurs yeux. Par ailleurs, son tranchant est très affuté et sa coupe vous rappelle légèrement celle d'une épée que vous avez déjà connue.
+RECIPES: None
+EFFECTS:
+  - 18 à 37 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Griffe Rose
+ID : 4241
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6041.png
+DESCRIPTION : Cette épée, d'une couleur peu commune, permet d'attendrir l'ennemi avant d'attendrir sa chair. Comme le ferait une douce Ecaflipette. Sa teinte particulière est obtenue en trempant la lame dans des viscères de monstres pendant plusieurs centaines d'années.
+RECIPES:
+  - ID: 2543, Quantity: 2
+  - ID: 1610, Quantity: 7
+  - ID: 8494, Quantity: 3
+  - ID: 11250, Quantity: 13
+  - ID: 12737, Quantity: 8
+  - ID: 16220, Quantity: 2
+EFFECTS:
+  - 31 à 50 (dommages Terre)
+  - 71 à 100 Vitalité
+  - 61 à 80 Force
+  - 26 à 35 Sagesse
+  - 4 à 5 Dommages Terre
+  - 4 à 5 Dommages Neutre
+  - 7 à 10 Dommages Poussée
+  - 1 Invocation
+  - 2 à 3% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Crocobur
+ID : 20213
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6740.png
+DESCRIPTION : Après bien des efforts, vous tenez enfin entre vos mains l'épée de l'empereur qui a failli conquérir le monde à une lointaine époque. Néanmoins, n'oubliez pas le marché que vous avez passé avec Volkaragnar : lorsque vous aurez obtenu le Dofus Ébène, vous devrez rendre Crocobur à son créateur. On ne peut pas tout avoir...
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Crocobur
+ID : 20210
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6739.png
+DESCRIPTION : L'épée légendaire que Grougalorasalar a offerte à son fils est désormais en votre possession. Mais si l'arme que vous avez retirée du rocher est bien Crocobur, elle n'est que l'ombre de ce qu'elle a été... Charge à vous de lui rendre ses pouvoirs et son histoire.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip Parfaite
+ID : 8966
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6081.png
+DESCRIPTION : Cette épée constitue l'incarnation même de la chance du dieu Ecaflip. Vous tenez entre vos mains la plus pure version de la Patte d'Ecaflip, qui témoigne de votre chance aussi incroyable qu'insolente (et donc de votre célibat définitif).
+RECIPES: None
+EFFECTS:
+  - 31 à 50 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8961
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : Certains superstitieux prétendent que les pattes de wapin apportent chance et fortune. Grâce à cette légendaire épée, vous pourrez briller à leurs yeux. Par ailleurs, son tranchant est très affuté et sa coupe vous rappelle légèrement celle d'une épée que vous avez déjà connue.
+RECIPES: None
+EFFECTS:
+  - 14 à 33 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8965
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : « La chance sourit aux audacieux ! » soufflent les adeptes du dieu Ecaflip. Vous voilà armé comme un as de pique, vous allez pouvoir abattre votre jeu. Cette épée de prestige est d'une rareté et d'une pureté exceptionnelles.
+RECIPES: None
+EFFECTS:
+  - 22 à 41 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8964
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : « La chance sourit aux audacieux ! » soufflent les adeptes du dieu Ecaflip. Vous voilà armé comme un as de pique, vous allez pouvoir abattre votre jeu. Cette épée de prestige est d'une rareté et d'une pureté exceptionnelles.
+RECIPES: None
+EFFECTS:
+  - 20 à 39 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8962
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : Certains superstitieux prétendent que les pattes de wapin apportent chance et fortune. Grâce à cette légendaire épée, vous pourrez briller à leurs yeux. Par ailleurs, son tranchant est très affuté et sa coupe vous rappelle légèrement celle d'une épée que vous avez déjà connue.
+RECIPES: None
+EFFECTS:
+  - 16 à 35 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8941
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : Cette épée vous démontrera que même dans les plus grandes chances, il y a parfois des petits malheurs.
+RECIPES: None
+EFFECTS:
+  - 2 à 21 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8956
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : Cette épée vous démontrera que même dans les plus grandes chances, il y a parfois des petits malheurs.
+RECIPES: None
+EFFECTS:
+  - 4 à 23 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8957
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : Cette épée vous démontrera que même dans les plus grandes chances, il y a parfois des petits malheurs.
+RECIPES: None
+EFFECTS:
+  - 6 à 25 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8958
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : Le dieu Ecaflip vous a tendu sa patte, mais vous n'avez pu saisir qu'une griffe... Et encore, elle ne coupait pas aussi bien que vous auriez pu le croire à première vue. En fait, ce n'était peut-être pas le dieu Ecaflip, finalement...
+RECIPES: None
+EFFECTS:
+  - 8 à 27 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8959
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : Le dieu Ecaflip vous a tendu sa patte, mais vous n'avez pu saisir qu'une griffe... Et encore, elle ne coupait pas aussi bien que vous auriez pu le croire à première vue. En fait, ce n'était peut-être pas le dieu Ecaflip, finalement...
+RECIPES: None
+EFFECTS:
+  - 10 à 29 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Patte d'Ecaflip
+ID : 8960
+TYPE : Épée
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6082.png
+DESCRIPTION : Le dieu Ecaflip vous a tendu sa patte, mais vous n'avez pu saisir qu'une griffe... Et encore, elle ne coupait pas aussi bien que vous auriez pu le croire à première vue. En fait, ce n'était peut-être pas le dieu Ecaflip, finalement...
+RECIPES: None
+EFFECTS:
+  - 12 à 31 (dommages Neutre)
+  - 21 à 40 Sagesse
+  - 41 à 70 Force
+  - 31 à 60 Vitalité
+  - Échangeable : 0
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Razoir du Soir
+ID : 7198
+TYPE : Épée
+LEVEL : 105
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6062.png
+DESCRIPTION : Tous les vieux Enutrofs vous le diront, une belle barbe est une barbe entretenue. Sa lame est si finement aiguisée, qu'elle conviendra même aux dames un peu trop poilues.
+RECIPES:
+  - ID: 750, Quantity: 2
+  - ID: 292, Quantity: 1
+  - ID: 1018, Quantity: 2
+  - ID: 12744, Quantity: 2
+  - ID: 1610, Quantity: 6
+  - ID: 11122, Quantity: 2
+  - ID: 25767, Quantity: 2
+EFFECTS:
+  - 23 à 37 (dommages Neutre)
+  - 31 à 50 Force
+  - 31 à 50 Agilité
+  - 21 à 35 Sagesse
+  - 5 à 7% Critique
+  - 101 à 150 Vitalité
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Rapière du Rat Blanc
+ID : 8450
+TYPE : Épée
+LEVEL : 109
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6071.png
+DESCRIPTION : Cette Arme est le symbole du Rat Blanc. Elle est réputée pour être capable de trancher ennemis et alliés avec la même facilité.
+RECIPES:
+  - ID: 25758, Quantity: 25
+  - ID: 8570, Quantity: 6
+  - ID: 17614, Quantity: 3
+  - ID: 21268, Quantity: 2
+  - ID: 12738, Quantity: 1
+  - ID: 13492, Quantity: 21
+  - ID: 8486, Quantity: 3
+EFFECTS:
+  - 16 à 28 (dommages Eau)
+  - 16 à 28 (dommages Feu)
+  - -1 PA
+  - 101 à 150 Initiative
+  - 81 à 150 Vitalité
+  - 31 à 50 Intelligence
+  - 31 à 50 Chance
+  - 16 à 20 Sagesse
+  - 4 à 6 Prospection
+  - 4 à 6 Dommages Feu
+  - 4 à 6 Dommages Eau
+  - 3 à 5 Retrait PM
+  - 3 à 5 Retrait PA
+  - 2 à 4 Soins
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Griffe de Grizmine
+ID : 7192
+TYPE : Épée
+LEVEL : 111
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6059.png
+DESCRIPTION : Grizmine n'a jamais réussi à utiliser correctement cette griffe. A force de jouer aux cartes et aux jeux d'argent tout en buvant de la bière, ses muscles ont vite fini par s'atrophier. Chez certaines personnes, il semblerait que ce type de loisirs puisse même atrophier d'autres organes.
+RECIPES:
+  - ID: 2279, Quantity: 3
+  - ID: 2581, Quantity: 1
+  - ID: 8769, Quantity: 1
+  - ID: 7027, Quantity: 2
+  - ID: 16212, Quantity: 1
+  - ID: 6457, Quantity: 1
+  - ID: 2503, Quantity: 9
+EFFECTS:
+  - 31 à 48 (dommages Terre)
+  - 31 à 50 Force
+  - 101 à 150 Vitalité
+  - 31 à 50 Agilité
+  - 4 à 5 Dommages
+  - 5 à 7% Résistance Neutre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Katana de la Roche
+ID : 23315
+TYPE : Épée
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6743.png
+DESCRIPTION : Ce katana est extrêmement lourd pour sa taille, mais également d'une solidité sans faille. Difficile à manier pour un néophyte, cette arme est particulièrement redoutable lors d'un duel de sabres.
+RECIPES:
+  - ID: 7224, Quantity: 50
+  - ID: 23105, Quantity: 1
+  - ID: 23106, Quantity: 1
+  - ID: 9391, Quantity: 10
+  - ID: 9389, Quantity: 3
+EFFECTS:
+  - Craft coopératif impossible.
+  - 35 à 52 (dommages Terre)
+  - 61 à 80 Force
+  - 21 à 30 Sagesse
+  - 5 à 7 Tacle
+  - 9 à 12 Dommages Terre
+  - 7 à 10% Résistance Terre
+  - 4 à 6% Critique
+  - -10% Dommages distance
+  - 7 à 10% Dommages d'armes
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Katana de la Feuille
+ID : 23316
+TYPE : Épée
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6747.png
+DESCRIPTION : Ce katana dégage une subtile odeur de mousse et sa lame est remarquablement souple pour une arme de ce type. Bien équilibrée entre poids et solidité, il vous semble entendre un bruissement de feuille lorsqu'elle fend l'air.
+RECIPES:
+  - ID: 23311, Quantity: 50
+  - ID: 23105, Quantity: 1
+  - ID: 23106, Quantity: 1
+  - ID: 9391, Quantity: 10
+  - ID: 9389, Quantity: 4
+EFFECTS:
+  - Craft coopératif impossible.
+  - 41 à 60 Puissance
+  - 21 à 30 Sagesse
+  - 5 à 7 Tacle
+  - 3 à 4 Dommages Feu
+  - 3 à 4 Dommages Air
+  - 3 à 4 Dommages Terre
+  - 3 à 4 Dommages Eau
+  - 7 à 10% Résistance Neutre
+  - 4 à 6% Critique
+  - -10% Dommages distance
+  - 7 à 10% Dommages d'armes
+  - 7 à 12 (dommages Air)
+  - 7 à 12 (dommages Eau)
+  - 7 à 12 (dommages Feu)
+  - 7 à 12 (dommages Terre)
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Katana de la Marée
+ID : 23314
+TYPE : Épée
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6744.png
+DESCRIPTION : Ce katana possède une maniabilité à toute épreuve vous permettant des mouvements fluides et imprévisibles. Lorsque vous le portez, vous êtes empli d'un sentiment de calme et de sérénité.
+RECIPES:
+  - ID: 7222, Quantity: 50
+  - ID: 23105, Quantity: 1
+  - ID: 23106, Quantity: 1
+  - ID: 9391, Quantity: 10
+  - ID: 9389, Quantity: 2
+EFFECTS:
+  - Craft coopératif impossible.
+  - 35 à 52 (dommages Eau)
+  - 61 à 80 Chance
+  - 21 à 30 Sagesse
+  - 5 à 7 Tacle
+  - 9 à 12 Dommages Eau
+  - 7 à 10% Résistance Eau
+  - 4 à 6% Critique
+  - -10% Dommages distance
+  - 7 à 10% Dommages d'armes
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Katana de la Tempête
+ID : 23313
+TYPE : Épée
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6745.png
+DESCRIPTION : Ce katana est particulièrement léger vous permettant de réaliser des mouvements aériens et des esquives efficaces. Lorsque vous abattez cette arme, elle semble disparaître dans un souffle de vent.
+RECIPES:
+  - ID: 7223, Quantity: 50
+  - ID: 23105, Quantity: 1
+  - ID: 23106, Quantity: 1
+  - ID: 9391, Quantity: 10
+  - ID: 9389, Quantity: 3
+EFFECTS:
+  - Craft coopératif impossible.
+  - 35 à 52 (dommages Air)
+  - 61 à 80 Agilité
+  - 21 à 30 Sagesse
+  - 5 à 7 Tacle
+  - 9 à 12 Dommages Air
+  - 7 à 10% Résistance Air
+  - 4 à 6% Critique
+  - -10% Dommages distance
+  - 7 à 10% Dommages d'armes
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Katana de la Flamme
+ID : 23312
+TYPE : Épée
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6746.png
+DESCRIPTION : Ce katana dégage une intense chaleur qui ne vous brûle pas pour autant. Lorsque vous l'utilisez, il vous semble plus facile de déceler les points faibles de vos adversaires.
+RECIPES:
+  - ID: 7225, Quantity: 50
+  - ID: 23105, Quantity: 1
+  - ID: 23106, Quantity: 1
+  - ID: 9391, Quantity: 10
+  - ID: 9389, Quantity: 4
+EFFECTS:
+  - Craft coopératif impossible.
+  - 35 à 52 (dommages Feu)
+  - 61 à 80 Intelligence
+  - 21 à 30 Sagesse
+  - 5 à 7 Tacle
+  - 9 à 12 Dommages Feu
+  - 7 à 10% Résistance Feu
+  - 4 à 6% Critique
+  - -10% Dommages distance
+  - 7 à 10% Dommages d'armes
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée du Dark Vlad
+ID : 7193
+TYPE : Épée
+LEVEL : 126
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6061.png
+DESCRIPTION : Seul le Dark Vlad en personne est à même de faire ressurgir toute la magie de cette épée, pour la rendre réellement étincelante. En la portant, vous pourrez fièrement montrer que vous n'avez pas fini comme ces ridicules aventuriers qui ont péri sous sa lame.
+RECIPES:
+  - ID: 470, Quantity: 30
+  - ID: 918, Quantity: 3
+  - ID: 1679, Quantity: 1
+  - ID: 16212, Quantity: 2
+  - ID: 6457, Quantity: 2
+  - ID: 3002, Quantity: 5
+  - ID: 8322, Quantity: 1
+  - ID: 2299, Quantity: 1
+EFFECTS:
+  - 18 à 32 (dommages Feu)
+  - 11 à 20 (dommages Neutre)
+  - 151 à 200 Vitalité
+  - 31 à 50 Intelligence
+  - 21 à 40 Agilité
+  - 16 à 20 Puissance
+  - 11 à 15 Prospection
+  - 4 à 6% Résistance Feu
+  - 4 à 6% Résistance Air
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée du Dragoeuf
+ID : 8292
+TYPE : Épée
+LEVEL : 127
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6068.png
+DESCRIPTION : Aiguisée comme le rasoir du soir, cette lame vous permettra tout de même de vous raser le matin, mais uniquement les aisselles.
+RECIPES:
+  - ID: 13725, Quantity: 2
+  - ID: 8348, Quantity: 15
+  - ID: 8349, Quantity: 15
+  - ID: 8350, Quantity: 23
+  - ID: 8351, Quantity: 15
+  - ID: 8361, Quantity: 31
+  - ID: 8363, Quantity: 18
+  - ID: 11240, Quantity: 4
+EFFECTS:
+  - 16 à 25 (dommages Terre)
+  - 16 à 25 (dommages Air)
+  - 71 à 100 Vitalité
+  - 26 à 45 Force
+  - 26 à 45 Agilité
+  - 11 à 15 Puissance
+  - 5 à 7 Résistances Critiques
+  - 16 à 25 Sagesse
+  - 6 à 10 Prospection
+  - 4 à 6% Résistance Eau
+  - 4 à 6% Résistance Feu
+  - 6 à 9 Dommages Critiques
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Maracassabre
+ID : 18438
+TYPE : Épée
+LEVEL : 130
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6737.png
+DESCRIPTION : Musicien dans l'âme ? Ce sabre ajoutera un son ambiancé dans vos chorégraphies de combat.
+RECIPES:
+  - ID: 2666, Quantity: 1
+  - ID: 15271, Quantity: 3
+  - ID: 15444, Quantity: 3
+  - ID: 18357, Quantity: 3
+  - ID: 18358, Quantity: 15
+  - ID: 18359, Quantity: 30
+  - ID: 18363, Quantity: 26
+  - ID: 18383, Quantity: 2
+EFFECTS:
+  - 16 à 20 (dommages Air)
+  - 16 à 20 (dommages Terre)
+  - 101 à 150 Vitalité
+  - 21 à 30 Force
+  - 21 à 30 Agilité
+  - 16 à 25 Résistances Critiques
+  - 26 à 35 Sagesse
+  - 7 à 10 Tacle
+  - 5 à 7 Dommages Air
+  - 5 à 7 Dommages Terre
+  - 5 à 7 Dommages Neutre
+  - 5 à 7% Résistance Eau
+  - 1 Invocation
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Glaive Icération
+ID : 7199
+TYPE : Épée
+LEVEL : 130
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6063.png
+DESCRIPTION : Ce glaive appartenait à Metzger le boucher, qui s'en servait pour récupérer rapidement les entrailles de ses ennemis pour en faire de la chair à saucisse qu'il revendait à bon prix sur les marchés de Bonta.
+RECIPES:
+  - ID: 12738, Quantity: 3
+  - ID: 6458, Quantity: 1
+  - ID: 12733, Quantity: 1
+  - ID: 14279, Quantity: 31
+  - ID: 15071, Quantity: 34
+  - ID: 2581, Quantity: 1
+  - ID: 8368, Quantity: 1
+  - ID: 15065, Quantity: 4
+EFFECTS:
+  - 11 à 20 (dommages Neutre)
+  - 11 à 20 (dommages Air)
+  - 31 à 50 Force
+  - 151 à 200 Vitalité
+  - 31 à 50 Agilité
+  - -1 PA
+  - 300 Initiative
+  - 5 à 7% Résistance Neutre
+  - 5 à 7% Résistance Feu
+  - 5 à 7% Résistance Eau
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Le Sabre Ayassalama
+ID : 8095
+TYPE : Épée
+LEVEL : 143
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6067.png
+DESCRIPTION : Cette épée fut forgée en visant uniquement l'esthétisme afin de décorer une cheminée de grande valeur, mais son efficacité lors des tueries lui vaut d'être maniée régulièrement. Les gens n'ont décidément aucun respect pour l'art.
+RECIPES:
+  - ID: 6458, Quantity: 2
+  - ID: 2305, Quantity: 11
+  - ID: 2488, Quantity: 2
+  - ID: 7014, Quantity: 17
+  - ID: 12733, Quantity: 2
+  - ID: 7299, Quantity: 4
+  - ID: 7925, Quantity: 16
+  - ID: 8361, Quantity: 12
+EFFECTS:
+  - 26 à 40 (dommages Neutre)
+  - 4 à 6 (vol Feu)
+  - 31 à 50 Intelligence
+  - 16 à 30 Agilité
+  - 201 à 400 Initiative
+  - 201 à 250 Vitalité
+  - 6 à 10 Dommages
+  - 6 à 10 Résistances Neutre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Sabre Heutelle
+ID : 11624
+TYPE : Épée
+LEVEL : 144
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6101.png
+DESCRIPTION : La lame de ce sabre a été spécialement conçue pour couper les bretelles de vos adversaires. Une fois leurs braies tombées sur les chevilles, vous pourrez facilement les faire trébucher ou tout simplement les humilier d'un rire moqueur avant de les achever.
+RECIPES:
+  - ID: 8399, Quantity: 4
+  - ID: 11224, Quantity: 6
+  - ID: 11228, Quantity: 4
+  - ID: 11229, Quantity: 36
+  - ID: 11232, Quantity: 3
+  - ID: 11233, Quantity: 1
+  - ID: 12738, Quantity: 4
+  - ID: 13165, Quantity: 4
+EFFECTS:
+  - 16 à 20 (dommages Neutre)
+  - 16 à 20 (dommages Neutre)
+  - -1 PA
+  - 101 à 150 Vitalité
+  - 31 à 40 Force
+  - 31 à 40 Sagesse
+  - 16 à 20 Puissance
+  - 11 à 20 Prospection
+  - 5 à 7 Dommages Neutre
+  - 5 à 7 Dommages Terre
+  - 7 à 10 Dommages Feu
+  - 7 à 10 Dommages Eau
+  - 7 à 10 Dommages Air
+  - 7 à 10 Résistances Terre
+  - 7 à 10 Résistances Air
+  - 7 à 10 Dommages Poussée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Griffe Pourpre
+ID : 8596
+TYPE : Épée
+LEVEL : 145
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6072.png
+DESCRIPTION : Cette épée acérée a pris cette teinte pourpre si élégante après avoir éviscéré des milliers de Bworks. Alors qu'avant, elle n'était que violet foncé.
+RECIPES:
+  - ID: 1696, Quantity: 1
+  - ID: 2271, Quantity: 100
+  - ID: 6898, Quantity: 100
+  - ID: 7277, Quantity: 15
+  - ID: 7275, Quantity: 9
+  - ID: 8777, Quantity: 3
+  - ID: 8798, Quantity: 1
+  - ID: 8808, Quantity: 7
+EFFECTS:
+  - 36 à 60 (dommages Neutre)
+  - 3 à 5 (vol Terre)
+  - 151 à 200 Vitalité
+  - 3 à 4% Critique
+  - 5 à 8 Dommages
+  - 21 à 35 Sagesse
+  - 4 à 6% Résistance Feu
+  - 31 à 50 Puissance
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Sabre de Ben le Ripate
+ID : 11586
+TYPE : Épée
+LEVEL : 152
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6100.png
+DESCRIPTION : Comme tout véritable pirate fantôme qui se respecte, Ben le Ripate possédait un sabre pour trancher les nœuds, les têtes, et les têtes de nœuds. Mais il était si sensible qu'il ne pouvait pas se retenir de verser une larme. Ses adversaires qui ont perdu la tête ont profité de cette anecdote avant de mourir pour le surnommer « la fine larme ».
+RECIPES:
+  - ID: 8493, Quantity: 3
+  - ID: 11313, Quantity: 4
+  - ID: 11314, Quantity: 49
+  - ID: 11315, Quantity: 48
+  - ID: 11321, Quantity: 3
+  - ID: 11322, Quantity: 1
+  - ID: 29444, Quantity: 1
+  - ID: 15727, Quantity: 3
+EFFECTS:
+  - 21 à 30 (dommages Neutre)
+  - 2 à 3 (vol Air)
+  - 201 à 250 Vitalité
+  - 31 à 50 Agilité
+  - 31 à 50 Intelligence
+  - 16 à 25 Puissance
+  - 11 à 15 Prospection
+  - 7 à 10 Dommages Air
+  - 7 à 10 Dommages Feu
+  - 5 à 7% Résistance Eau
+  - 5 à 7% Résistance Terre
+  - 4 à 5 Tacle
+  - -5 à -4 Fuite
+  - 7 à 10 Résistances Critiques
+IS WEAPON: True
+PARENT SET ID: 178
+PARENT SET NAME: Panoplie de Ben le Ripate
+
+NAME : Karnak
+ID : 7195
+TYPE : Épée
+LEVEL : 158
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6060.png
+DESCRIPTION : Cette épée légendaire a été forgée au petit matin, par une armée d'Enutrofs saouls, dans le fond des mines de Grimoth. Elle dégage une aura de puissance surprenante, mais aussi une odeur de bière éventée.
+RECIPES:
+  - ID: 7014, Quantity: 15
+  - ID: 7026, Quantity: 5
+  - ID: 7027, Quantity: 5
+  - ID: 16458, Quantity: 1
+  - ID: 7036, Quantity: 1
+  - ID: 2673, Quantity: 4
+  - ID: 2561, Quantity: 3
+  - ID: 1894, Quantity: 1
+EFFECTS:
+  - 29 à 47 (dommages Neutre)
+  - 4 à 6 (vol Air)
+  - 201 à 250 Vitalité
+  - 21 à 35 Sagesse
+  - 1 PM
+  - 31 à 50 Agilité
+  - 6 à 8 Dommages
+  - 5 à 7% Résistance Neutre
+  - 5 à 7% Résistance Air
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Musamune
+ID : 23590
+TYPE : Épée
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6748.png
+DESCRIPTION : Ce katana est un véritable travail d'orfèvre, il reste parfaitement équilibré malgré la longueur inhabituelle de sa lame. Une grande force physique est nécessaire pour le manier correctement mais en contrepartie, son tranchant est sans pareil. En outre, lorsque vous le dégainez, une onde bienfaisante traverse votre corps, vous emplissant d'une douce sérénité avant le combat.
+RECIPES: None
+EFFECTS:
+  - 61 à 80 Vitalité
+  - 71 à 100 Force
+  - 31 à 50 Sagesse
+  - 11 à 15 Résistances Neutre
+  - 7 à 10 Tacle
+  - -20 Fuite
+  - 11 à 15 Dommages Neutre
+  - 9 à 12% Résistance Neutre
+  - 6 à 8% Critique
+  - 7 à 10% Dommages d'armes
+  - -15% Dommages distance
+  - 51 à 70 (dommages Neutre)
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Katana de Spiritueur
+ID : 23627
+TYPE : Épée
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6749.png
+DESCRIPTION : Ce katana de spiritueur ayant la capacité de bannir les fantômes a nécessité quatre longues années de travail à Nasumara, le forgeron de Grobe. Malheureusement suite à un combat ayant mal tourné, il a perdu ses propriétés anti-fantôme. Cela reste cependant une arme de qualité pour qui sait manier ce type de lame.
+RECIPES:
+  - ID: 7379, Quantity: 39
+  - ID: 7410, Quantity: 25
+  - ID: 7383, Quantity: 5
+  - ID: 7393, Quantity: 4
+  - ID: 15039, Quantity: 3
+  - ID: 17619, Quantity: 22
+  - ID: 16458, Quantity: 2
+  - ID: 7036, Quantity: 2
+EFFECTS:
+  - 101 à 150 Vitalité
+  - 41 à 60 Force
+  - 41 à 60 Intelligence
+  - 41 à 60 Agilité
+  - -10 Résistances Critiques
+  - 21 à 25 Sagesse
+  - -20 Fuite
+  - 4 à 5 Dommages Feu
+  - 4 à 5 Dommages Air
+  - 4 à 5 Dommages Terre
+  - 4 à 5 Dommages Neutre
+  - 4 à 5% Résistance Air
+  - 11 à 15 Dommages Critiques
+  - 3 à 4% Critique
+  - -2 Portée
+  - 1 PM
+  - 10 à 16 (dommages Air)
+  - 10 à 16 (dommages Feu)
+  - 10 à 16 (dommages Terre)
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Langue de Feu Réanimée
+ID : 19105
+TYPE : Épée
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6061.png
+DESCRIPTION : La création de cette épée se situe entre l'invention de la torche et de la lampe-torche.
+RECIPES: None
+EFFECTS:
+  - 1 (dommages Feu)
+  - Lié au personnage
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée du Bretteur Céleste
+ID : 17095
+TYPE : Épée
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6731.png
+DESCRIPTION : Cette épée d'une puissance redoutable fait s'abattre la foudre sur vos adversaires. Notez que cela fonctionne beaucoup mieux les jours d'orage, lorsque l'épée est tendue vers le ciel, et que vos ennemis la tiennent par la lame.
+RECIPES:
+  - ID: 15040, Quantity: 1
+  - ID: 15047, Quantity: 11
+  - ID: 15043, Quantity: 12
+  - ID: 13164, Quantity: 4
+  - ID: 8788, Quantity: 11
+  - ID: 8409, Quantity: 1
+  - ID: 11325, Quantity: 10
+  - ID: 17115, Quantity: 1
+EFFECTS:
+  - 11 à 15 Puissance
+  - 201 à 250 Vitalité
+  - 31 à 50 Intelligence
+  - 31 à 50 Agilité
+  - 11 à 15 Résistances Critiques
+  - 11 à 15 Résistances Neutre
+  - 31 à 40 Sagesse
+  - 7 à 10 Fuite
+  - 7 à 10 Dommages Feu
+  - 7 à 10 Dommages Air
+  - 4 à 5 Esquive PM
+  - 7 à 10 Dommages Critiques
+  - 30 à 44 (dommages Neutre)
+  - 4 à 6 (vol Feu)
+IS WEAPON: True
+PARENT SET ID: 381
+PARENT SET NAME: Panoplie du Bretteur Céleste
+
+NAME : Épée Langue de Feu
+ID : 18853
+TYPE : Épée
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6061.png
+DESCRIPTION : Grâce à cette épée, plus besoin de torche pour vous éclairer ni de feu de camp. Vous pouvez directement faire griller votre viande et vos friandises en les empalant.
+RECIPES: None
+EFFECTS:
+  - 300 Vitalité
+  - 60 Puissance
+  - 6% Résistance Terre
+  - 6% Résistance Air
+  - 1 (dommages Feu)
+  - Lié au personnage
+  - 
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Fuschia
+ID : 8930
+TYPE : Épée
+LEVEL : 163
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6078.png
+DESCRIPTION : Plus d'un fier guerrier a refusé cette arme à cause de sa couleur, la majorité d'entre eux est morte sous sa lame.
+RECIPES:
+  - ID: 2294, Quantity: 2
+  - ID: 8805, Quantity: 11
+  - ID: 8144, Quantity: 1
+  - ID: 8779, Quantity: 59
+  - ID: 8797, Quantity: 47
+  - ID: 8387, Quantity: 1
+  - ID: 8770, Quantity: 1
+  - ID: 8788, Quantity: 13
+EFFECTS:
+  - 16 à 28 (dommages Air)
+  - 16 à 28 (dommages Feu)
+  - 31 à 50 Agilité
+  - 31 à 50 Intelligence
+  - 151 à 200 Vitalité
+  - 6 à 8 Soins
+  - 26 à 40 Sagesse
+  - 1 Portée
+  - 6 à 8% Résistance Air
+  - 6 à 8% Résistance Feu
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée de Ush
+ID : 17589
+TYPE : Épée
+LEVEL : 165
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6735.png
+DESCRIPTION : Chacune des épées de Ush représente une part de lui-même. En lui arrachant son côté flamboyant, vous ne lui avez laissé que sa partie sombre.
+RECIPES:
+  - ID: 17615, Quantity: 25
+  - ID: 17617, Quantity: 30
+  - ID: 17619, Quantity: 19
+  - ID: 17620, Quantity: 4
+  - ID: 13164, Quantity: 4
+  - ID: 15271, Quantity: 6
+  - ID: 17567, Quantity: 6
+  - ID: 15219, Quantity: 6
+EFFECTS:
+  - 201 à 250 Vitalité
+  - 41 à 60 Intelligence
+  - 41 à 60 Agilité
+  - 11 à 15 Puissance
+  - 26 à 35 Sagesse
+  - 4 à 5 Fuite
+  - 7 à 10 Dommages Feu
+  - 7 à 10 Dommages Air
+  - 9 à 12 Dommages Poussée
+  - 5 à 7% Résistance Neutre
+  - 3 à 4% Critique
+  - 1 Portée
+  - 19 à 28 (dommages Neutre)
+  - 3 à 4 (vol Air)
+  - 3 à 4 (vol Feu)
+IS WEAPON: True
+PARENT SET ID: 407
+PARENT SET NAME: Panoplie de Ush
+
+NAME : L'Epée Rilleuse
+ID : 8094
+TYPE : Épée
+LEVEL : 169
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6066.png
+DESCRIPTION : Cette épée illustre bien un vieux proverbe Iop, quand l'ennemi périt, l'épée rit.
+RECIPES:
+  - ID: 29444, Quantity: 2
+  - ID: 7036, Quantity: 2
+  - ID: 16458, Quantity: 2
+  - ID: 15051, Quantity: 45
+  - ID: 15042, Quantity: 2
+  - ID: 6486, Quantity: 2
+  - ID: 14921, Quantity: 7
+  - ID: 15039, Quantity: 4
+EFFECTS:
+  - 26 à 50 (dommages Neutre)
+  - 3 à 4 (vol Terre)
+  - 31 à 50 Force
+  - 201 à 300 Vitalité
+  - 11 à 20 Prospection
+  - 6 à 10 Dommages
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : L'Épée Nice
+ID : 8695
+TYPE : Épée
+LEVEL : 177
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6076.png
+DESCRIPTION : Comme disait Brice : « Ce n'est pas sa taille qui compte, mais la façon de s'en servir. »
+RECIPES:
+  - ID: 8778, Quantity: 55
+  - ID: 1558, Quantity: 1
+  - ID: 6904, Quantity: 1
+  - ID: 8998, Quantity: 1
+  - ID: 8798, Quantity: 1
+  - ID: 8404, Quantity: 1
+  - ID: 8792, Quantity: 5
+  - ID: 8804, Quantity: 1
+EFFECTS:
+  - 16 à 30 (dommages Neutre)
+  - 31 à 50 Force
+  - 26 à 40 Agilité
+  - 101 à 150 Vitalité
+  - 4 à 6% Critique
+  - 1 PM
+  - 200 Initiative
+  - 6 à 10 Résistances Neutre
+  - 6 à 10 Résistances Terre
+  - 6 à 8% Résistance Air
+  - 6 à 8% Résistance Feu
+  - 6 à 8% Résistance Eau
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Kadille
+ID : 11742
+TYPE : Épée
+LEVEL : 177
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6107.png
+DESCRIPTION : Cette épée très courte vous demandera une allonge importante afin d'avoir une chance de toucher vos adversaires. Vous éprouverez beaucoup de difficulté à blesser vos ennemis mais également vos alliés. Essayez pour une fois de voir le bon côté des choses.
+RECIPES:
+  - ID: 11335, Quantity: 4
+  - ID: 11341, Quantity: 4
+  - ID: 11342, Quantity: 1
+  - ID: 11882, Quantity: 6
+  - ID: 11948, Quantity: 2
+  - ID: 29444, Quantity: 2
+  - ID: 13166, Quantity: 4
+  - ID: 15727, Quantity: 4
+EFFECTS:
+  - 21 à 30 (dommages Neutre)
+  - 5 (vol Neutre)
+  - 5 (vol Feu)
+  - 201 à 250 Vitalité
+  - 31 à 50 Force
+  - 31 à 50 Intelligence
+  - 31 à 40 Sagesse
+  - 3 à 4% Critique
+  - 7 à 10 Soins
+  - 11 à 15 Prospection
+  - 7 à 10 Résistances Eau
+  - 7 à 10 Résistances Air
+  - 4 à 5 Esquive PM
+  - 4 à 5 Fuite
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Kukri Kura
+ID : 8932
+TYPE : Épée
+LEVEL : 179
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6080.png
+DESCRIPTION : Souriez ! Dites cheese ! Voilà, vous êtes coupé en deux.
+RECIPES:
+  - ID: 7035, Quantity: 1
+  - ID: 2623, Quantity: 1
+  - ID: 8801, Quantity: 38
+  - ID: 8403, Quantity: 2
+  - ID: 8788, Quantity: 38
+  - ID: 8789, Quantity: 1
+  - ID: 8803, Quantity: 13
+  - ID: 8763, Quantity: 39
+EFFECTS:
+  - 10 à 21 (dommages Neutre)
+  - 10 à 21 (dommages Neutre)
+  - 31 à 50 Force
+  - 21 à 30 Agilité
+  - 26 à 40 Sagesse
+  - 151 à 200 Vitalité
+  - 2 à 3% Critique
+  - 5 à 7 Dommages
+  - 11 à 15 Prospection
+  - 301 à 500 Initiative
+  - 6 à 10 Résistances Neutre
+  - 6 à 10% Résistance Neutre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Lame de Danaba
+ID : 25235
+TYPE : Épée
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6749.png
+DESCRIPTION : Cette lame est la propriété de la cheffe des Spiritueurs elle-même.
+RECIPES: None
+EFFECTS:
+  - 250 Vitalité
+  - 5% Résistance Neutre
+  - 5% Résistance Feu
+  - 5% Résistance Eau
+  - 5% Résistance Terre
+  - 5% Résistance Air
+  - Lié au personnage
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Kari
+ID : 11743
+TYPE : Épée
+LEVEL : 184
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6105.png
+DESCRIPTION : C'est l'épée préférée des dentistes, des chasseurs de sangliers et des dentistes chasseurs de sangliers.
+RECIPES:
+  - ID: 8493, Quantity: 4
+  - ID: 11888, Quantity: 34
+  - ID: 11889, Quantity: 3
+  - ID: 11893, Quantity: 25
+  - ID: 11895, Quantity: 3
+  - ID: 11896, Quantity: 1
+  - ID: 29444, Quantity: 3
+  - ID: 15727, Quantity: 3
+EFFECTS:
+  - 46 à 75 (dommages Neutre)
+  - 301 à 400 Vitalité
+  - 46 à 75 Puissance
+  - 31 à 50 Sagesse
+  - 16 à 25 Prospection
+  - 1 Portée
+  - 10 Tacle
+  - -10 Fuite
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Loponèze
+ID : 9469
+TYPE : Épée
+LEVEL : 184
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6085.png
+DESCRIPTION : Fabriquée à partir de fragments de mycoses, cette épée parasitera à merveille les intestins de vos ennemis.
+RECIPES:
+  - ID: 8761, Quantity: 1
+  - ID: 8410, Quantity: 1
+  - ID: 9269, Quantity: 4
+  - ID: 2035, Quantity: 1
+  - ID: 8774, Quantity: 31
+  - ID: 8680, Quantity: 100
+  - ID: 8769, Quantity: 20
+  - ID: 8916, Quantity: 1
+EFFECTS:
+  - 6 à 28 (dommages Eau)
+  - 6 à 28 (dommages Air)
+  - 31 à 50 Chance
+  - 31 à 50 Agilité
+  - 201 à 250 Vitalité
+  - 21 à 30 Sagesse
+  - 401 à 700 Initiative
+  - 6 à 10 Dommages
+  - 1 Portée
+  - 6 à 10% Résistance Air
+  - 6 à 10% Résistance Eau
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Az'tech
+ID : 8931
+TYPE : Épée
+LEVEL : 186
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6079.png
+DESCRIPTION : Cette épée appartenait à un vieil Enutrof mégalomane, elle est en or massif, comme l'était son égo.
+RECIPES:
+  - ID: 313, Quantity: 1000
+  - ID: 6487, Quantity: 1
+  - ID: 8736, Quantity: 21
+  - ID: 8790, Quantity: 60
+  - ID: 8793, Quantity: 9
+  - ID: 8795, Quantity: 2
+  - ID: 8996, Quantity: 1
+  - ID: 8998, Quantity: 1
+EFFECTS:
+  - 31 à 50 (dommages Neutre)
+  - 6 à 8 (vol Air)
+  - 6 à 8 (vol Eau)
+  - -1 PA
+  - 31 à 50 Chance
+  - 31 à 50 Agilité
+  - 31 à 50 Force
+  - 21 à 30 Sagesse
+  - 101 à 150 Vitalité
+  - 4 à 5 Dommages
+  - 11 à 15 Prospection
+  - 5 à 7% Résistance Eau
+  - 5 à 7% Résistance Air
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Toche
+ID : 11744
+TYPE : Épée
+LEVEL : 196
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6106.png
+DESCRIPTION : La lame de cette arme devient molle lorsque vos jambes commencent à trembler et vous donne ainsi un très bon prétexte pour fuir comme un lâche.
+RECIPES:
+  - ID: 11944, Quantity: 1
+  - ID: 11933, Quantity: 5
+  - ID: 12740, Quantity: 2
+  - ID: 8404, Quantity: 1
+  - ID: 11943, Quantity: 2
+  - ID: 11939, Quantity: 23
+  - ID: 11934, Quantity: 41
+  - ID: 13156, Quantity: 4
+EFFECTS:
+  - 16 à 30 (dommages Neutre)
+  - 16 à 30 (dommages Terre)
+  - 5 à 6 (vol Feu)
+  - 201 à 250 Vitalité
+  - 31 à 50 Force
+  - 31 à 50 Intelligence
+  - 31 à 50 Sagesse
+  - 4 à 5% Critique
+  - 201 à 300 Initiative
+  - 11 à 15 Prospection
+  - 8 à 12 Dommages Neutre
+  - 8 à 12 Dommages Terre
+  - 8 à 12 Dommages Feu
+  - 7 à 10 Résistances Eau
+  - 7 à 10% Résistance Terre
+  - 4 à 5 Retrait PM
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée d'Otomaï
+ID : 13119
+TYPE : Épée
+LEVEL : 196
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6719.png
+DESCRIPTION : Cette lame a tranché de nombreuses créatures innocentes.
+Mais c'était pour la Science.
+RECIPES:
+  - ID: 2288, Quantity: 48
+  - ID: 8793, Quantity: 7
+  - ID: 11309, Quantity: 26
+  - ID: 11327, Quantity: 37
+  - ID: 11884, Quantity: 5
+  - ID: 12740, Quantity: 2
+  - ID: 13157, Quantity: 4
+  - ID: 15727, Quantity: 5
+EFFECTS:
+  - 36 à 44 (dommages Feu)
+  - 251 à 300 Vitalité
+  - 61 à 80 Intelligence
+  - 21 à 30 Sagesse
+  - 2 à 3% Critique
+  - 1 Portée
+  - 1 Invocation
+  - 301 à 400 Initiative
+  - 11 à 15 Prospection
+  - 14 à 18 Dommages Feu
+  - 16 à 20 Résistances Neutre
+  - 16 à 20 Résistances Eau
+  - 4 à 6 Esquive PA
+  - 7 à 10 Tacle
+IS WEAPON: True
+PARENT SET ID: 241
+PARENT SET NAME: Panoplie d'Otomaï
+
+NAME : Rapière aux Glyphes
+ID : 14156
+TYPE : Épée
+LEVEL : 197
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6722.png
+DESCRIPTION : On dit qu'utiliser cette épée sur le glyphe d'un Féca permet de comprendre les indéchiffrables symboles inscrits en leur centre. La rumeur dit aussi qu'elle coupe très bien la pierre, la rosette, et les champignons.
+RECIPES:
+  - ID: 13945, Quantity: 38
+  - ID: 13942, Quantity: 5
+  - ID: 13971, Quantity: 12
+  - ID: 13948, Quantity: 1
+  - ID: 13982, Quantity: 4
+  - ID: 13155, Quantity: 2
+  - ID: 14142, Quantity: 1
+  - ID: 12740, Quantity: 2
+EFFECTS:
+  - 33 à 44 (dommages Neutre)
+  - 8 à 10 (vol Eau)
+  - 251 à 300 Vitalité
+  - 61 à 80 Chance
+  - 31 à 40 Sagesse
+  - 4 à 5% Critique
+  - 1 Portée
+  - -400 à -301 Initiative
+  - 11 à 15 Prospection
+  - 9 à 13 Dommages Eau
+  - 16 à 20 Résistances Neutre
+  - 6 à 8% Résistance Terre
+  - 6 à 8% Résistance Air
+  - 6 à 8 Esquive PM
+  - 6 à 8 Fuite
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Gloursonne
+ID : 12115
+TYPE : Épée
+LEVEL : 199
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6111.png
+DESCRIPTION : Il est inscrit sur cette épée que seul celui arrivant à l'extraire de son socle de miel pourrait devenir roi des Gloursons. On dit que le Glourséleste s'est fait aider de nombreux Glouragans, mais le résultat est là.
+RECIPES:
+  - ID: 11928, Quantity: 11
+  - ID: 11939, Quantity: 16
+  - ID: 11943, Quantity: 5
+  - ID: 11944, Quantity: 1
+  - ID: 11945, Quantity: 72
+  - ID: 12740, Quantity: 2
+  - ID: 13154, Quantity: 5
+  - ID: 15727, Quantity: 5
+EFFECTS:
+  - 7 à 12 (dommages Neutre)
+  - 7 à 12 (dommages Neutre)
+  - 7 à 12 (dommages Neutre)
+  - 251 à 300 Vitalité
+  - 31 à 50 Sagesse
+  - 6 à 8% Critique
+  - 401 à 500 Initiative
+  - 16 à 25 Prospection
+  - 7 à 10 Résistances Neutre
+  - 7 à 10 Résistances Terre
+  - 7 à 10 Résistances Feu
+  - 7 à 10 Résistances Eau
+  - 7 à 10 Résistances Air
+  - 11 à 15 Tacle
+  - 7 à 10 Résistances Critiques
+IS WEAPON: True
+PARENT SET ID: 212
+PARENT SET NAME: Panoplie Gloursonne
+
+NAME : Crocobur
+ID : 20353
+TYPE : Épée
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6740.png
+DESCRIPTION : « Les Crocodailles étaient des milliers, à quelques centaines de kamètres des portes de la cité. Nous nous étions préparés à l'assaut, la garde au grand complet était rassemblée devant la grande porte et les machines de guerre avaient été installées sur les remparts. La vue de la gigantesque armée de reptiles était déjà terrifiante, mais le pire fût lorsque nous l'aperçûmes. Crocoburio se tenait au milieu de ses soldats, les dépassant tous de plusieurs têtes et brandissant sa maudite épée dans notre direction. Quand la masse verte se mit en marche, un frisson parcourut nos rangs, et nous sûmes que la bataille qui allait avoir lieu serait terrible. »
+
+- Un soldat bontarien
+RECIPES:
+  - ID: 20650, Quantity: 1
+  - ID: 22058, Quantity: 9000
+  - ID: 19907, Quantity: 1
+  - ID: 19914, Quantity: 1
+  - ID: 19968, Quantity: 15
+  - ID: 15271, Quantity: 22
+  - ID: 12728, Quantity: 2
+  - ID: 12740, Quantity: 4
+EFFECTS:
+  - Appétit de Crocobur :
+• À chaque début de tour, le porteur s'inflige 11 à 15 de dommages dans son meilleur élément d'attaque pour voler 11 à 15 de la vie aux entités à son contact à la fin de son tour.
+  - 451 à 500 Vitalité
+  - 71 à 100 Force
+  - 51 à 70 Agilité
+  - 51 à 70 Chance
+  - 16 à 20 Tacle
+  - -30 Esquive PA
+  - 41 à 60 (dommages Neutre)
+  - 6 à 9 (vol Air)
+  - 6 à 9 (vol Eau)
+  - 16 à 20 Dommages Air
+  - 16 à 20 Dommages Eau
+  - 16 à 20 Dommages Feu
+  - 16 à 20 Dommages Terre
+  - 16 à 20 Dommages Neutre
+  - 41 à 50 Intelligence
+  - -30 Esquive PM
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épouvante
+ID : 18015
+TYPE : Épée
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6736.png
+DESCRIPTION : Cette épée tranche directement dans l'âme de vos ennemis.
+RECIPES:
+  - ID: 17986, Quantity: 75
+  - ID: 17983, Quantity: 89
+  - ID: 17988, Quantity: 8
+  - ID: 17989, Quantity: 3
+  - ID: 17976, Quantity: 2
+  - ID: 13994, Quantity: 4
+  - ID: 17993, Quantity: 50
+  - ID: 17864, Quantity: 3
+EFFECTS:
+  - 23 à 28 (dommages Terre)
+  - 23 à 28 (dommages Eau)
+  - 301 à 350 Vitalité
+  - 41 à 60 Force
+  - 41 à 60 Chance
+  - 31 à 40 Sagesse
+  - 11 à 15 Prospection
+  - 7 à 10 Tacle
+  - 9 à 12 Dommages Terre
+  - 9 à 12 Dommages Neutre
+  - 9 à 12 Dommages Eau
+  - 7 à 10% Résistance Feu
+  - 9 à 12 Esquive PM
+  - 4 à 6% Critique
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée du Granduk
+ID : 14084
+TYPE : Épée
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6721.png
+DESCRIPTION : L'épée du Granduk lui est offerte par le Comte Harebourg lors de son adoubement. Elle est le symbole de son rang parmi les Sinistros, et, le Granduk n'ayant pas de mains, ne servira jamais.
+RECIPES:
+  - ID: 13988, Quantity: 50
+  - ID: 13991, Quantity: 5
+  - ID: 13976, Quantity: 3
+  - ID: 13995, Quantity: 1
+  - ID: 13947, Quantity: 4
+  - ID: 13155, Quantity: 5
+  - ID: 14145, Quantity: 1
+  - ID: 12740, Quantity: 3
+EFFECTS:
+  - 30 à 37 (dommages Neutre)
+  - 9 à 14 (dommages Air)
+  - 301 à 350 Vitalité
+  - 61 à 80 Agilité
+  - 31 à 40 Sagesse
+  - 4 à 6% Critique
+  - -1 Portée
+  - 301 à 400 Initiative
+  - 16 à 20 Prospection
+  - 14 à 18 Dommages Air
+  - 11 à 15 Résistances Feu
+  - 7 à 10 Esquive PM
+  - 7 à 10 Tacle
+  - 16 à 20 Résistances Critiques
+IS WEAPON: True
+PARENT SET ID: 276
+PARENT SET NAME: Panoplie du Granduk
+
+NAME : Épée Maudite du Saigneur Guerrier
+ID : 8993
+TYPE : Épée
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6083.png
+DESCRIPTION : Cette épée dégage un pouvoir impressionnant, les carnages qu'elle augure sont de ceux restant dans les livres d'histoire. On raconte qu'il existerait également une Faux Maudite, mais seul le plus célèbre des paysans pourrait vous confirmer cela.
+RECIPES:
+  - ID: 4241, Quantity: 1
+  - ID: 7192, Quantity: 1
+  - ID: 65, Quantity: 1
+  - ID: 202, Quantity: 1
+  - ID: 8094, Quantity: 1
+  - ID: 7102, Quantity: 1
+  - ID: 2639, Quantity: 1
+  - ID: 7195, Quantity: 1
+EFFECTS:
+  - 9 à 18 (dommages Air)
+  - 9 à 18 (dommages Eau)
+  - 9 à 18 (dommages Feu)
+  - 9 à 18 (dommages Neutre)
+  - 9 à 18 (dommages Terre)
+  - 30 Chance
+  - 30 Intelligence
+  - 30 Force
+  - 30 Agilité
+  - 30 Sagesse
+  - 165 Vitalité
+  - 5% Résistance Air
+  - 5% Résistance Eau
+  - 5% Résistance Feu
+  - 5% Résistance Neutre
+  - 5% Résistance Terre
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Brûlâme
+ID : 19269
+TYPE : Épée
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6738.png
+DESCRIPTION : Un Crâme a apparemment pris possession de cette épée. Il est donc conseillé de la manipuler avec précaution, et d'utiliser des gants afin d'éviter tout contact avec le Brûlâme.
+RECIPES:
+  - ID: 19237, Quantity: 3
+  - ID: 13995, Quantity: 1
+  - ID: 19236, Quantity: 76
+  - ID: 19233, Quantity: 10
+  - ID: 12728, Quantity: 2
+  - ID: 12740, Quantity: 3
+  - ID: 13155, Quantity: 4
+  - ID: 15271, Quantity: 15
+EFFECTS:
+  - 25 à 30 (vol Feu)
+  - 25 à 30 (vol Eau)
+  - 301 à 350 Vitalité
+  - 51 à 70 Intelligence
+  - 51 à 70 Chance
+  - 31 à 50 Sagesse
+  - 11 à 15 Prospection
+  - 11 à 15 Tacle
+  - 9 à 12 Dommages Feu
+  - 9 à 12 Dommages Eau
+  - 7 à 10% Résistance Terre
+  - -10 Esquive PM
+  - 11 à 15 Soins
+  - 9 à 12 Dommages Critiques
+  - 4 à 5% Critique
+  - 1 Portée
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée de la Reine des Voleurs
+ID : 15496
+TYPE : Épée
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6730.png
+DESCRIPTION : Cette épée, bien qu'imposante, reste très maniable. Au point que la Reine des Voleurs la conserve toujours sur elle. Certains racontent qu'elle serait même sa principale confidente et meilleure amie.
+RECIPES:
+  - ID: 15444, Quantity: 15
+  - ID: 15219, Quantity: 15
+  - ID: 15445, Quantity: 3
+  - ID: 15271, Quantity: 15
+  - ID: 15448, Quantity: 43
+  - ID: 15446, Quantity: 45
+  - ID: 13156, Quantity: 4
+  - ID: 13935, Quantity: 4
+EFFECTS:
+  - 41 à 45 (dommages Neutre)
+  - 5 à 8 (dommages Terre)
+  - 7 à 12 (vol Air)
+  - 301 à 350 Vitalité
+  - 41 à 60 Force
+  - 41 à 60 Agilité
+  - 31 à 50 Sagesse
+  - 11 à 15 Fuite
+  - 11 à 15 Dommages Air
+  - 11 à 15 Dommages Terre
+  - 11 à 15 Dommages Neutre
+  - 7 à 10% Résistance Feu
+  - -25 Esquive PM
+  - -15 Esquive PA
+  - 16 à 20 Dommages Critiques
+  - 1 PM
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Épée Diablotine
+ID : 26010
+TYPE : Épée
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6753.png
+DESCRIPTION : « Que le monde tombe un jour en morceaux ou non, que vous soyez dans le camp des anges ou le diable lui-même, prenez la vie pour ce qu'elle est, payez-vous en, et répandez joie et chaos. »
+
+— Henri 'Mille Heures' Valentine, « Les Contes de l'Aurore »
+RECIPES:
+  - ID: 26034, Quantity: 88
+  - ID: 26031, Quantity: 64
+  - ID: 26036, Quantity: 8
+  - ID: 26037, Quantity: 4
+  - ID: 23971, Quantity: 4
+  - ID: 25181, Quantity: 2
+  - ID: 16460, Quantity: 2
+  - ID: 24144, Quantity: 2
+EFFECTS:
+  - 301 à 350 Vitalité
+  - 41 à 60 Intelligence
+  - 21 à 30 Puissance
+  - 21 à 30 Sagesse
+  - 7 à 10 Tacle
+  - 11 à 15 Dommages Feu
+  - 5 à 7% Résistance Neutre
+  - 5 à 7% Résistance Feu
+  - 4 à 7 Retrait PM
+  - 11 à 15 Soins
+  - 9 à 12 Dommages Critiques
+  - 1 Invocation
+  - 4 à 5% Critique
+  - 45 à 50 (dommages Feu)
+  - 4 à 5 (vol Feu)
+  - -1 PM
+IS WEAPON: True
+PARENT SET: None
+
+NAME : Sabres d'Atcham
+ID : 17586
+TYPE : Épée
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6732.png
+DESCRIPTION : Ces sabres sont très tranchants, au point que si Atcham avait des poils, il aurait bien du mal à les manier de peur d'abimer son pelage.
+RECIPES:
+  - ID: 17625, Quantity: 44
+  - ID: 17623, Quantity: 40
+  - ID: 17567, Quantity: 15
+  - ID: 17626, Quantity: 4
+  - ID: 14864, Quantity: 5
+  - ID: 13157, Quantity: 5
+  - ID: 15219, Quantity: 15
+  - ID: 17641, Quantity: 1
+EFFECTS:
+  - 20 à 25 (dommages Feu)
+  - 20 à 25 (dommages Eau)
+  - 20 à 25 (dommages Air)
+  - -1 PA
+  - 301 à 350 Vitalité
+  - 31 à 40 Intelligence
+  - 31 à 40 Agilité
+  - 31 à 40 Chance
+  - 11 à 15 Puissance
+  - 31 à 40 Sagesse
+  - 5 à 7 Fuite
+  - 7 à 10 Dommages Feu
+  - 7 à 10 Dommages Air
+  - 7 à 10 Dommages Eau
+  - 7 à 10% Résistance Feu
+  - 5 à 7 Retrait PA
+  - 11 à 15 Dommages Critiques
+  - 4 à 5% Critique
+  - 1 Portée
+IS WEAPON: True
+PARENT SET ID: 406
+PARENT SET NAME: Panoplie d'Atcham
+
+NAME : Claymomore
+ID : 27510
+TYPE : Épée
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/6755.png
+DESCRIPTION : Si quelqu'un tente de voler vos biens, la Claymomore le tuera sur le coup et aspirera son âme, telle une sinistre épée noire porteuse de tempête. Enfin, c'est ce qui était marqué en caractères gras sur la notice livrée avec l'arme, juste au-dessus des précautions d'usage et de la clause d'irresponsabilité en cas d'éventration involontaire.
+RECIPES:
+  - ID: 27433, Quantity: 19
+  - ID: 27439, Quantity: 2
+  - ID: 27403, Quantity: 11
+  - ID: 27518, Quantity: 1
+  - ID: 27517, Quantity: 3
+  - ID: 27402, Quantity: 2
+  - ID: 14635, Quantity: 6000
+  - ID: 12740, Quantity: 3
+EFFECTS:
+  - 451 à 500 Vitalité
+  - 41 à 50 Puissance
+  - 31 à 40 Sagesse
+  - 16 à 20 Résistances Poussée
+  - 11 à 15 Tacle
+  - 9 à 12 Dommages Terre
+  - 9 à 12 Dommages Eau
+  - 9 à 12 Dommages Air
+  - 9 à 12 Dommages Feu
+  - 2 à 3% Résistance Terre
+  - 2 à 3% Résistance Neutre
+  - 2 à 3% Résistance Feu
+  - 2 à 3% Résistance Eau
+  - 2 à 3% Résistance Air
+  - 18 à 22 (dommages Terre)
+  - 18 à 22 (dommages Feu)
+  - 18 à 22 (dommages Eau)
+  - 18 à 22 (dommages Air)
+  - 11 à 15 Prospection
+IS WEAPON: True
+PARENT SET ID: 507
+PARENT SET NAME: Malédiction de Cire Momore
+
