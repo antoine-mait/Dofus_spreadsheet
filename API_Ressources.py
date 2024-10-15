@@ -1,8 +1,12 @@
 import requests
+import sys
 
 base_url = "https://api.dofusdu.de"  # Confirm the correct base URL
-user_levelmin = input('Choose min level : ')
-user_levelmax = input('Choose min level : ')
+user_levelmin = input('Choose min level (1-199): ')
+user_levelmax = input('Choose min level (2-200): ')
+if user_levelmax < user_levelmin:
+     sys.exit("Level Max can't be inferior of level Min")
+     
 
 def get_ressources(base_url, user_levelmin, user_levelmax ):
     # Parameters for sorting and filtering
@@ -18,13 +22,6 @@ def get_ressources(base_url, user_levelmin, user_levelmax ):
     if response.status_code == 200:
         response_data = response.json()
         ressources = response_data['items']
-
-        ressource_ids = [ressource['ankama_id'] for ressource in ressources]
-        ressource_names = [ressource['name'] for ressource in ressources]
-        ressource_types = [ressource['type']['name'] for ressource in ressources]
-        ressource_levels = [ressource['level'] for ressource in ressources]
-        ressource_images = [ressource['image_urls']['icon'] for ressource in ressources]
-        ressource_descriptions = [ressource['description'] for ressource in ressources]
 
     else:
         print(f"Error: {response.status_code}, Message: {response.text}")
