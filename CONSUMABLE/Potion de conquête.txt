@@ -1,0 +1,236 @@
+NAME : Potion de Percepteur
+ID : 27635
+TYPE : Potion de conquête
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164023.png
+DESCRIPTION : Cette potion permet d'invoquer un Percepteur.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 20
+  - ID: 377 / Épine du Champ Champ, Quantity: 3
+  - ID: 371 / Sourcil de Moskito, Quantity: 3
+EFFECTS:
+  - Invoque un percepteur
+IS WEAPON: False
+
+NAME : Remarquable Potion de Percepteur
+ID : 27905
+TYPE : Potion de conquête
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164023.png
+DESCRIPTION : Cette potion permet d'invoquer un Percepteur.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 40
+  - ID: 16001 / Antennes de Vilinsekt, Quantity: 3
+  - ID: 376 / Aile du Tofu Maléfique, Quantity: 3
+  - ID: 430 / Os Invisible du Chafer Invisible, Quantity: 3
+EFFECTS:
+  - Invoque un percepteur
+IS WEAPON: False
+
+NAME : Potion d'Éclaireur
+ID : 28214
+TYPE : Potion de conquête
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/12068.png
+DESCRIPTION : Cette potion vous permet de décharger votre fardeau sur un prisme pour avantager votre alliance.
+RECIPES:
+  - ID: 1663 / Écaille de Crocodaille, Quantity: 2
+  - ID: 16165 / Lamelle de Champa Bleu, Quantity: 2
+  - ID: 13505 / Bourse Suspecte, Quantity: 2
+  - ID: 1455 / Ailes de Scarafeuille Bleu, Quantity: 2
+  - ID: 1002 / Tronc de Kokoko, Quantity: 2
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de Vigile
+ID : 14426
+TYPE : Potion de conquête
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14036.png
+DESCRIPTION : Cette potion vous permet d'entrer dans une telle rage que vous attaquez automatiquement les ennemis qui s'approcheront à moins de 6 cases.
+RECIPES:
+  - ID: 1890 / Poil de Vétauran, Quantity: 2
+  - ID: 2481 / Chaîne de Robot Fléau, Quantity: 2
+  - ID: 379 / Pince de Crabe, Quantity: 2
+  - ID: 287 / Graine de Sésame, Quantity: 2
+  - ID: 417 / Boue du Boo, Quantity: 2
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de Guérisseur
+ID : 14443
+TYPE : Potion de conquête
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/12745.png
+DESCRIPTION : Vous étiez censé protéger cet aventurier mais vous avez lamentablement échoué. Cette potion vous offre la possibilité de le ressusciter pour lui éviter un passage vers le cimetière.
+RECIPES:
+  - ID: 2557 / Pétale de Gloutoblop, Quantity: 2
+  - ID: 374 / Langue d'Épouvanteur, Quantity: 2
+  - ID: 376 / Aile du Tofu Maléfique, Quantity: 2
+  - ID: 2551 / Oreille de Foufayteur, Quantity: 2
+  - ID: 1690 / Sève de Frêne, Quantity: 2
+EFFECTS:
+  - Ressuscite la cible
+IS WEAPON: False
+
+NAME : Potion de Croque-mort
+ID : 14442
+TYPE : Potion de conquête
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/12746.png
+DESCRIPTION : Lorsque rendre votre adversaire muet comme une tombe ne suffit pas, cette potion permet de libérer son âme pour le renvoyer directement au cimetière.
+RECIPES:
+  - ID: 2656 / Os rongé de Gobichon, Quantity: 2
+  - ID: 2584 / Main de Boo, Quantity: 2
+  - ID: 393 / Gland, Quantity: 2
+  - ID: 752 / Sang de Vampire, Quantity: 2
+  - ID: 305 / Dent de Wabbit, Quantity: 2
+EFFECTS:
+  - Libère une âme ennemie
+IS WEAPON: False
+
+NAME : Étonnante Potion de Percepteur
+ID : 27906
+TYPE : Potion de conquête
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164023.png
+DESCRIPTION : Cette potion permet d'invoquer un Percepteur.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 60
+  - ID: 302 / Tambour de Gobaladée, Quantity: 3
+  - ID: 360 / Oreilles du Tiwabbit, Quantity: 3
+  - ID: 379 / Pince de Crabe, Quantity: 3
+  - ID: 965 / Pierre de Dopeul, Quantity: 3
+EFFECTS:
+  - Invoque un percepteur
+IS WEAPON: False
+
+NAME : Incroyable Potion de Percepteur
+ID : 14553
+TYPE : Potion de conquête
+LEVEL : 80
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164023.png
+DESCRIPTION : Cette potion permet d'invoquer un Percepteur.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 80
+  - ID: 2490 / Patte de Scorbute, Quantity: 3
+  - ID: 2586 / Aile de Dragodinde Rousse Sauvage, Quantity: 3
+  - ID: 2306 / Cœur de Craqueleur, Quantity: 3
+  - ID: 11254 / Pince de Crabe Hijacob, Quantity: 3
+  - ID: 2584 / Main de Boo, Quantity: 3
+EFFECTS:
+  - Invoque un percepteur
+IS WEAPON: False
+
+NAME : Formidable Potion de Percepteur
+ID : 27907
+TYPE : Potion de conquête
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164023.png
+DESCRIPTION : Cette potion permet d'invoquer un Percepteur.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 100
+  - ID: 15182 / Kamatrix, Quantity: 3
+  - ID: 6736 / Bourgeon de Fourbasse, Quantity: 3
+  - ID: 11252 / Patte de Rat Bougri, Quantity: 3
+  - ID: 16154 / Écorce d'Abrakne Sombre, Quantity: 3
+  - ID: 8062 / Poils de Koalak Indigo, Quantity: 3
+  - ID: 2286 / Bandelettes, Quantity: 3
+EFFECTS:
+  - Invoque un percepteur
+IS WEAPON: False
+
+NAME : Splendide Potion de Percepteur
+ID : 27908
+TYPE : Potion de conquête
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164023.png
+DESCRIPTION : Cette potion permet d'invoquer un Percepteur.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 120
+  - ID: 13732 / Vieille Ventouse de Kralamoure, Quantity: 3
+  - ID: 8570 / Poil de Rat Bontarien, Quantity: 3
+  - ID: 18198 / Gâtrool, Quantity: 3
+  - ID: 7024 / Pierre de Topaze, Quantity: 3
+  - ID: 11223 / Plume du Timansot, Quantity: 3
+  - ID: 8762 / Fragment de cerveau poli, Quantity: 3
+EFFECTS:
+  - Invoque un percepteur
+IS WEAPON: False
+
+NAME : Merveilleuse Potion de Percepteur
+ID : 27909
+TYPE : Potion de conquête
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164023.png
+DESCRIPTION : Cette potion permet d'invoquer un Percepteur.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 140
+  - ID: 11248 / Oreille de Kaniglou, Quantity: 3
+  - ID: 15460 / Os de Sramouraï, Quantity: 3
+  - ID: 11227 / Duvet de Mamansot, Quantity: 3
+  - ID: 7276 / Baguette de Tétonuki, Quantity: 3
+  - ID: 7292 / Poils de Boumbardier, Quantity: 3
+  - ID: 8344 / Akaslip d'Akakwa, Quantity: 3
+  - ID: 16160 / Mandibule d'Abrakne Irascible, Quantity: 3
+EFFECTS:
+  - Invoque un percepteur
+IS WEAPON: False
+
+NAME : Grandiose Potion de Percepteur
+ID : 27910
+TYPE : Potion de conquête
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164023.png
+DESCRIPTION : Cette potion permet d'invoquer un Percepteur.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 160
+  - ID: 7023 / Pierre d'Aigue-Marine, Quantity: 3
+  - ID: 15172 / Peau de Métaphorreur, Quantity: 3
+  - ID: 8787 / Cloaque du Poolay, Quantity: 3
+  - ID: 11318 / Écaille de Harpirate, Quantity: 3
+  - ID: 26319 / Pic de Malépik, Quantity: 3
+  - ID: 15045 / Griffe de Félygiène, Quantity: 3
+  - ID: 17615 / Queue de Chasquatch, Quantity: 3
+EFFECTS:
+  - Invoque un percepteur
+IS WEAPON: False
+
+NAME : Exceptionnelle Potion de Percepteur
+ID : 27911
+TYPE : Potion de conquête
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164023.png
+DESCRIPTION : Cette potion permet d'invoquer un Percepteur.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 180
+  - ID: 11519 / Oreille de Gobosteur, Quantity: 3
+  - ID: 13740 / Bandeau troué de Terre, Quantity: 3
+  - ID: 15725 / Barbe de Seith, Quantity: 3
+  - ID: 15455 / Venin d'Éperfide, Quantity: 3
+  - ID: 18566 / Pic de Pikténia, Quantity: 3
+  - ID: 7411 / Masque brisé, Quantity: 3
+  - ID: 426 / Fibre de Chanvre, Quantity: 3
+EFFECTS:
+  - Invoque un percepteur
+IS WEAPON: False
+
+NAME : Extraordinaire Potion de Percepteur
+ID : 27912
+TYPE : Potion de conquête
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164023.png
+DESCRIPTION : Cette potion permet d'invoquer un Percepteur.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 200
+  - ID: 11521 / Œil de Sapeur, Quantity: 3
+  - ID: 11942 / Antenne de Gloursaya, Quantity: 3
+  - ID: 15450 / Crâne magique de Magouille, Quantity: 3
+  - ID: 13925 / Sang de Ventrublion, Quantity: 3
+  - ID: 15684 / Œil de Verminocule, Quantity: 3
+  - ID: 15180 / Morceau de clef de Paspartou, Quantity: 3
+  - ID: 15719 / Griffe de Buboxor, Quantity: 3
+EFFECTS:
+  - Invoque un percepteur
+IS WEAPON: False
+

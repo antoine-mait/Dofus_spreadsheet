@@ -1,0 +1,4662 @@
+NAME : Abreuvoir en Chêne
+ID : 7591
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93001.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 270 / 270
+IS WEAPON: False
+
+NAME : Abreuvoir en Érable
+ID : 7592
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93008.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 450 / 450
+IS WEAPON: False
+
+NAME : Abreuvoir en Châtaignier
+ID : 7593
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93007.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 150 / 150
+IS WEAPON: False
+
+NAME : Abreuvoir en Charme
+ID : 7594
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93009.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Abreuvoir en Noyer
+ID : 7595
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93010.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 200 / 200
+IS WEAPON: False
+
+NAME : Abreuvoir en Merisier
+ID : 7596
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93011.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Abreuvoir en If
+ID : 7597
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93012.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Abreuvoir en Ébène
+ID : 7598
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93013.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Abreuvoir en Bombu
+ID : 7600
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93015.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 300 / 300
+IS WEAPON: False
+
+NAME : Abreuvoir en Oliviolet
+ID : 7601
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93016.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 400 / 400
+IS WEAPON: False
+
+NAME : Abreuvoir Classique
+ID : 7605
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93001.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 2
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Mangeoire Classique
+ID : 7606
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93002.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 2
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Mangeoire en Chêne
+ID : 7608
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93002.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 270 / 270
+IS WEAPON: False
+
+NAME : Mangeoire en If
+ID : 7609
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93019.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Mangeoire en Ébène
+ID : 7610
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93020.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Mangeoire en Érable
+ID : 7612
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93022.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 450 / 450
+IS WEAPON: False
+
+NAME : Mangeoire en Charme
+ID : 7613
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93023.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Mangeoire en Châtaignier
+ID : 7614
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93002.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 150 / 150
+IS WEAPON: False
+
+NAME : Mangeoire en Noyer
+ID : 7615
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93024.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 200 / 200
+IS WEAPON: False
+
+NAME : Mangeoire en Merisier
+ID : 7616
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93025.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Mangeoire en Bombu
+ID : 7617
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93026.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 300 / 300
+IS WEAPON: False
+
+NAME : Mangeoire en Oliviolet
+ID : 7618
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93027.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 400 / 400
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Tofu
+ID : 7622
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93030.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 150 / 150
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Piou Bleu
+ID : 7623
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93031.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Piou Violet
+ID : 7624
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93032.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Baffeur Classique
+ID : 7625
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93005.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 2
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Baffeur en Châtaignier
+ID : 7626
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93005.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 150 / 150
+IS WEAPON: False
+
+NAME : Baffeur en Chêne
+ID : 7627
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93005.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 270 / 270
+IS WEAPON: False
+
+NAME : Caresseur Classique
+ID : 7628
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93006.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 2
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Baffeur en If
+ID : 7629
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93047.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Dragofesse Classique
+ID : 7634
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93003.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 2
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Boostache Prépubère
+ID : 7635
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93078.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Boufton Noir
+ID : 7636
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93079.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Bouftou
+ID : 7637
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93080.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 150 / 150
+IS WEAPON: False
+
+NAME : Abreuvoir en Bois Ancestral
+ID : 7673
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93088.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Abreuvoir en Bois Envoûté
+ID : 7674
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93088.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Abreuvoir en Bois de Tronknyde
+ID : 7675
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93089.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 350 / 350
+IS WEAPON: False
+
+NAME : Abreuvoir en Bambou Doré
+ID : 7676
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93090.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Abreuvoir en Bambou Magique
+ID : 7677
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93017.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Abreuvoir en Bois de Bambouto
+ID : 7678
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93091.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 500 / 500
+IS WEAPON: False
+
+NAME : Abreuvoir en Bois de Bambouto Sacré
+ID : 7679
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93091.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 80
+  - Objet pour enclos
+  - Utilisations restantes : 8000 / 8000
+IS WEAPON: False
+
+NAME : Abreuvoir en Bois de Kokoko
+ID : 7682
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93091.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 250 / 250
+IS WEAPON: False
+
+NAME : Mangeoire en Bois Ancestral
+ID : 7683
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93092.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Mangeoire en Bois Envoûté
+ID : 7684
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93092.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Mangeoire en Bambou Doré
+ID : 7685
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93093.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Mangeoire en Bambou Magique
+ID : 7686
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93028.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Mangeoire en Bois de Bambouto
+ID : 7687
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93094.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 500 / 500
+IS WEAPON: False
+
+NAME : Mangeoire en Bois de Bambouto Sacré
+ID : 7688
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93094.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 80
+  - Objet pour enclos
+  - Utilisations restantes : 8000 / 8000
+IS WEAPON: False
+
+NAME : Mangeoire en Bois de Kokoko
+ID : 7689
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93094.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 250 / 250
+IS WEAPON: False
+
+NAME : Mangeoire en Bois de Tronknyde
+ID : 7690
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93095.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 350 / 350
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Chef de Guerre Bouftou
+ID : 7691
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93078.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 7
+  - Objet pour enclos
+  - Utilisations restantes : 700 / 700
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Bouftou Royal
+ID : 7692
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93081.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 7000 / 7000
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Gargrouille
+ID : 7693
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93079.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 450 / 450
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Dragon Cochon
+ID : 7694
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Cochon de Lait
+ID : 7695
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Porkass
+ID : 7697
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 350 / 350
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Sanglier des Plaines
+ID : 7699
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93086.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Minotoror
+ID : 7700
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93087.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 80
+  - Objet pour enclos
+  - Utilisations restantes : 8000 / 8000
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Piou Vert
+ID : 7733
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93033.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Piou Rouge
+ID : 7734
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93034.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Piou Jaune
+ID : 7735
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93035.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Piou Rose
+ID : 7736
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93036.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Corbac
+ID : 7738
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93038.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 500 / 500
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Kwak de Glace
+ID : 7739
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93039.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Kwak de Flamme
+ID : 7740
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93040.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Kwak de Vent
+ID : 7741
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93041.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Kwak de Terre
+ID : 7742
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93042.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Caresseur en Plume Pointue de Kwak
+ID : 7744
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93044.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Caresseur en Plume du Maître Corbac
+ID : 7745
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93045.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 80
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Tofu Royal
+ID : 7746
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93046.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Baffeur en Ébène
+ID : 7755
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93048.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Baffeur en Érable
+ID : 7757
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93050.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 450 / 450
+IS WEAPON: False
+
+NAME : Baffeur en Charme
+ID : 7758
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93051.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Baffeur en Noyer
+ID : 7760
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93052.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 200 / 200
+IS WEAPON: False
+
+NAME : Baffeur en Merisier
+ID : 7761
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93053.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Baffeur en Bombu
+ID : 7763
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93054.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 300 / 300
+IS WEAPON: False
+
+NAME : Baffeur en Oliviolet
+ID : 7764
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93055.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 400 / 400
+IS WEAPON: False
+
+NAME : Baffeur en Bois Ancestral
+ID : 7767
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93058.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Baffeur en Bois Envoûté
+ID : 7768
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93058.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Baffeur en Bois de Tronknyde
+ID : 7769
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93059.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 350 / 350
+IS WEAPON: False
+
+NAME : Baffeur en Bambou Doré
+ID : 7770
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93060.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Baffeur en Bois de Kokoko
+ID : 7771
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93061.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 250 / 250
+IS WEAPON: False
+
+NAME : Baffeur en Bambou Magique
+ID : 7772
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Baffeur en Bois de Bambouto
+ID : 7773
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93062.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 500 / 500
+IS WEAPON: False
+
+NAME : Baffeur en Bois de Bambouto Sacré
+ID : 7774
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93062.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 80
+  - Objet pour enclos
+  - Utilisations restantes : 8000 / 8000
+IS WEAPON: False
+
+NAME : Foudroyeur en Chêne
+ID : 7776
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93004.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 270 / 270
+IS WEAPON: False
+
+NAME : Foudroyeur en If
+ID : 7777
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93063.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Foudroyeur en Ébène
+ID : 7778
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93064.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Foudroyeur en Érable
+ID : 7780
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93066.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 450 / 450
+IS WEAPON: False
+
+NAME : Foudroyeur en Charme
+ID : 7781
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93067.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Foudroyeur en Châtaignier
+ID : 7782
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93004.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 150 / 150
+IS WEAPON: False
+
+NAME : Foudroyeur en Noyer
+ID : 7783
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93068.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 200 / 200
+IS WEAPON: False
+
+NAME : Foudroyeur en Merisier
+ID : 7784
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93069.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 15
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Foudroyeur en Bombu
+ID : 7785
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93070.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 300 / 300
+IS WEAPON: False
+
+NAME : Foudroyeur en Oliviolet
+ID : 7786
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93071.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 400 / 400
+IS WEAPON: False
+
+NAME : Foudroyeur en Bois Ancestral
+ID : 7790
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93074.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Foudroyeur en Bois Envoûté
+ID : 7791
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93074.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Foudroyeur en Bois de Tronknyde
+ID : 7792
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93075.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 4
+  - Objet pour enclos
+  - Utilisations restantes : 350 / 350
+IS WEAPON: False
+
+NAME : Foudroyeur en Bambou Doré
+ID : 7793
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93076.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Foudroyeur en Bambou Magique
+ID : 7794
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Foudroyeur en Bois de Bambouto
+ID : 7795
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93077.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 5
+  - Objet pour enclos
+  - Utilisations restantes : 500 / 500
+IS WEAPON: False
+
+NAME : Foudroyeur en Bois de Bambouto Sacré
+ID : 7796
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93077.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 80
+  - Objet pour enclos
+  - Utilisations restantes : 8000 / 8000
+IS WEAPON: False
+
+NAME : Foudroyeur en Bois de Kokoko
+ID : 7797
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93077.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 1
+  - Objet pour enclos
+  - Utilisations restantes : 250 / 250
+IS WEAPON: False
+
+NAME : Foudroyeur Classique
+ID : 7798
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93004.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES: None
+EFFECTS:
+  - Efficacité : 2
+  - Objet pour enclos
+  - Utilisations restantes : 100 / 100
+IS WEAPON: False
+
+NAME : Démonteur
+ID : 8010
+TYPE : Objet d'élevage
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93096.png
+DESCRIPTION : Permet de récupérer un équipement installé dans un enclos.
+RECIPES: None
+EFFECTS:
+  - Récupérer un objet d'enclos
+IS WEAPON: False
+
+NAME : Abreuvoir en Frêne
+ID : 7590
+TYPE : Objet d'élevage
+LEVEL : 5
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93001.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 2515 / Groin de Sanglier des Plaines, Quantity: 10
+  - ID: 303 / Bois de Frêne, Quantity: 20
+EFFECTS:
+  - Efficacité : 10
+  - Objet pour enclos
+  - Utilisations restantes : 500 / 500
+IS WEAPON: False
+
+NAME : Mangeoire en Frêne
+ID : 7607
+TYPE : Objet d'élevage
+LEVEL : 5
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93002.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 303 / Bois de Frêne, Quantity: 20
+  - ID: 2481 / Chaîne de Robot Fléau, Quantity: 10
+EFFECTS:
+  - Efficacité : 10
+  - Objet pour enclos
+  - Utilisations restantes : 1000 / 1000
+IS WEAPON: False
+
+NAME : Baffeur en Frêne
+ID : 7759
+TYPE : Objet d'élevage
+LEVEL : 5
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93005.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 13727 / Crème à bronzer, Quantity: 10
+  - ID: 303 / Bois de Frêne, Quantity: 20
+EFFECTS:
+  - Efficacité : 10
+  - Objet pour enclos
+  - Utilisations restantes : 200 / 200
+IS WEAPON: False
+
+NAME : Foudroyeur en Frêne
+ID : 7775
+TYPE : Objet d'élevage
+LEVEL : 5
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93004.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 303 / Bois de Frêne, Quantity: 20
+  - ID: 13726 / Conque Marine, Quantity: 10
+EFFECTS:
+  - Efficacité : 10
+  - Objet pour enclos
+  - Utilisations restantes : 1000 / 1000
+IS WEAPON: False
+
+NAME : Foudroyeur de Mob l'Éponge
+ID : 14719
+TYPE : Objet d'élevage
+LEVEL : 15
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2150 / Graine de Scorbute, Quantity: 1
+  - ID: 2275 / Cuir de Porkass, Quantity: 2
+  - ID: 2624 / Feuille de Tikoko, Quantity: 2
+  - ID: 14473 / Boulon Wabbit, Quantity: 1
+  - ID: 14646 / Essence de Mob l'Éponge, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Abreuvoir du Tournesol Affamé
+ID : 14707
+TYPE : Objet d'élevage
+LEVEL : 15
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93017.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14645 / Essence du Tournesol Affamé, Quantity: 1
+  - ID: 13494 / Nageoire de Compétition, Quantity: 2
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 2
+  - ID: 1777 / Bout de Blop Indigo, Quantity: 1
+  - ID: 8355 / Écaille de Dragoss Argile, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 1250 / 1250
+IS WEAPON: False
+
+NAME : Baffeur de Kardorim
+ID : 17038
+TYPE : Objet d'élevage
+LEVEL : 25
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 17037 / Essence de Kardorim, Quantity: 1
+  - ID: 6476 / Griffe de Robionicle, Quantity: 2
+  - ID: 2610 / Carapace Rouge, Quantity: 2
+  - ID: 18411 / Œil de Léolhyène, Quantity: 1
+  - ID: 8252 / Plume de Corbac Apprivoisé, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 300 / 300
+IS WEAPON: False
+
+NAME : Baffeur du Bouftou Royal
+ID : 14732
+TYPE : Objet d'élevage
+LEVEL : 25
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 14647 / Essence du Bouftou Royal, Quantity: 1
+  - ID: 2482 / Charnière Cassée, Quantity: 2
+  - ID: 2611 / Carapace Jaune, Quantity: 2
+  - ID: 18369 / Queue de Scordion Bleu, Quantity: 1
+  - ID: 8249 / Plume de Buveur, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 500 / 500
+IS WEAPON: False
+
+NAME : Caresseur de Boostache
+ID : 14759
+TYPE : Objet d'élevage
+LEVEL : 35
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93037.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14650 / Essence de Boostache, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 387 / Défense du Sanglier, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1771 / Souris verte, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 500 / 500
+IS WEAPON: False
+
+NAME : Mangeoire de Batofu
+ID : 14772
+TYPE : Objet d'élevage
+LEVEL : 35
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93028.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 14649 / Essence de Batofu, Quantity: 1
+  - ID: 409 / Poils de Barbe du Bwork Mage, Quantity: 2
+  - ID: 16166 / Lamelle de Champa Marron, Quantity: 2
+  - ID: 11253 / Étoffe de Rat Bougri, Quantity: 1
+  - ID: 2647 / Oreille de Médibwork, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Dragofesse du Scarabosse Doré
+ID : 14744
+TYPE : Objet d'élevage
+LEVEL : 35
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93083.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14648 / Essence du Scarabosse Doré, Quantity: 1
+  - ID: 14459 / Moustaches de Tiwabbit, Quantity: 2
+  - ID: 8750 / Bulbe Malibout, Quantity: 2
+  - ID: 1890 / Poil de Vétauran, Quantity: 1
+  - ID: 1611 / Bourgeon de Pirolienne, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Abreuvoir de Kankreblath
+ID : 16288
+TYPE : Objet d'élevage
+LEVEL : 35
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93018.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 16285 / Essence de Kankreblath, Quantity: 1
+  - ID: 13502 / Fluide Glacial, Quantity: 2
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 2
+  - ID: 1773 / Bout de Blop Reinette, Quantity: 1
+  - ID: 8362 / Peau de Dragnarok, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Mangeoire de la Bworkette
+ID : 14773
+TYPE : Objet d'élevage
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93028.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 14652 / Essence de la Bworkette, Quantity: 1
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 16167 / Lamelle de Champa Rouge, Quantity: 2
+  - ID: 11254 / Pince de Crabe Hijacob, Quantity: 1
+  - ID: 3002 / Botte trouée de Mégabwork, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Abreuvoir du Wa Wabbit
+ID : 14709
+TYPE : Objet d'élevage
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93018.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14657 / Essence du Wa Wabbit, Quantity: 1
+  - ID: 13494 / Nageoire de Compétition, Quantity: 2
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 2
+  - ID: 1770 / Bout de Blop Coco, Quantity: 1
+  - ID: 8353 / Écaille de Dragoss Ardoise, Quantity: 1
+  - ID: 13724 / Patte de Tofu Dodu, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Foudroyeur du Kwakwa
+ID : 14721
+TYPE : Objet d'élevage
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 901 / Cuir du Cochon de Lait, Quantity: 2
+  - ID: 1889 / Plume de Crowneille, Quantity: 1
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 13731 / Pierre Médicinale, Quantity: 1
+  - ID: 14720 / Essence du Kwakwa, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Baffeur du Corailleur Magistral
+ID : 14733
+TYPE : Objet d'élevage
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 14655 / Essence du Corailleur Magistral, Quantity: 1
+  - ID: 2486 / Coque Endommagée, Quantity: 2
+  - ID: 2613 / Carapace Bleue, Quantity: 2
+  - ID: 18370 / Queue de Fennex, Quantity: 1
+  - ID: 8250 / Poil de Renarbo, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 1000 / 1000
+IS WEAPON: False
+
+NAME : Abreuvoir du Mantiscore
+ID : 19917
+TYPE : Objet d'élevage
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93018.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 19905 / Essence du Mantiscore, Quantity: 1
+  - ID: 13487 / Serviette de Plage, Quantity: 2
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 2
+  - ID: 1775 / Bout de Blop Griotte, Quantity: 1
+  - ID: 8360 / Peau de Draguaindrop, Quantity: 1
+  - ID: 13718 / Cendres de Tofutoflamme, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Caresseur des Forgerons
+ID : 14760
+TYPE : Objet d'élevage
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93037.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14653 / Essence des Forgerons, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 394 / Noisette, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1891 / Peau de serpentin, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 1000 / 1000
+IS WEAPON: False
+
+NAME : Dragofesse de la Shin Larve
+ID : 14745
+TYPE : Objet d'élevage
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93083.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14654 / Essence de la Shin Larve, Quantity: 1
+  - ID: 14460 / Branche de Tiwabbit Kiafin, Quantity: 2
+  - ID: 8751 / Bulbe Passaoh, Quantity: 2
+  - ID: 2528 / Ongle de Kanigrou, Quantity: 1
+  - ID: 1614 / Œil d'Abrakne, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Foudroyeur du Chafer Rōnin
+ID : 14785
+TYPE : Objet d'élevage
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2275 / Cuir de Porkass, Quantity: 2
+  - ID: 2301 / Moustache de Kolérat, Quantity: 1
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+  - ID: 14651 / Essence du Chafer Rōnin, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Dragofesse du Directeur Grunob
+ID : 26806
+TYPE : Objet d'élevage
+LEVEL : 45
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93083.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 26804 / Essence du Directeur Grunob, Quantity: 1
+  - ID: 2264 / Canine de Gobelin, Quantity: 2
+  - ID: 2259 / Pic de Lance de Gobet, Quantity: 1
+  - ID: 411 / Bec du Kwak de Glace, Quantity: 1
+  - ID: 13596 / Peau de Larve Dorée, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Caresseur de Rakoopeur
+ID : 27373
+TYPE : Objet d'élevage
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93038.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 1985 / Résine, Quantity: 2
+  - ID: 27372 / Essence de Rakoopeur, Quantity: 1
+  - ID: 27362 / Pom de Pin, Quantity: 2
+  - ID: 27365 / Corne de Buffalourd, Quantity: 1
+  - ID: 1777 / Bout de Blop Indigo, Quantity: 1
+  - ID: 2259 / Pic de Lance de Gobet, Quantity: 1
+EFFECTS:
+  - Efficacité : 40
+  - Objet pour enclos
+  - Utilisations restantes : 2000 / 2000
+IS WEAPON: False
+
+NAME : Foudroyeur de Blop Royal
+ID : 14722
+TYPE : Objet d'élevage
+LEVEL : 55
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93073.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2275 / Cuir de Porkass, Quantity: 2
+  - ID: 2301 / Moustache de Kolérat, Quantity: 1
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+  - ID: 14658 / Essence du Blop Royal, Quantity: 1
+  - ID: 18209 / Gratrooll, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 6000 / 6000
+IS WEAPON: False
+
+NAME : Mangeoire du Kanniboul Ebil
+ID : 14775
+TYPE : Objet d'élevage
+LEVEL : 55
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93029.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 14774 / Essence du Kanniboul Ebil, Quantity: 1
+  - ID: 409 / Poils de Barbe du Bwork Mage, Quantity: 2
+  - ID: 16167 / Lamelle de Champa Rouge, Quantity: 2
+  - ID: 11257 / Plume de Gélikan, Quantity: 1
+  - ID: 7030 / Peau de Krambwork, Quantity: 1
+  - ID: 438 / Queue du Mulou, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 6000 / 6000
+IS WEAPON: False
+
+NAME : Baffeur de Gelée Royale
+ID : 14734
+TYPE : Objet d'élevage
+LEVEL : 55
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93057.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2060 / Rune Ta Do Neutre, Quantity: 1
+  - ID: 2486 / Coque Endommagée, Quantity: 2
+  - ID: 2610 / Carapace Rouge, Quantity: 2
+  - ID: 8347 / Lame brisée de Lichangoro, Quantity: 1
+  - ID: 14659 / Essence de la Gelée Royale, Quantity: 1
+  - ID: 18369 / Queue de Scordion Bleu, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 1200 / 1200
+IS WEAPON: False
+
+NAME : Baffeur en Bambou
+ID : 7762
+TYPE : Objet d'élevage
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 7013 / Bois de Bambou, Quantity: 20
+  - ID: 2481 / Chaîne de Robot Fléau, Quantity: 2
+  - ID: 2609 / Carapace Verte, Quantity: 2
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+  - ID: 2060 / Rune Ta Do Neutre, Quantity: 1
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 600 / 600
+IS WEAPON: False
+
+NAME : Abreuvoir en Bambou
+ID : 7602
+TYPE : Objet d'élevage
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93017.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 7013 / Bois de Bambou, Quantity: 20
+  - ID: 13487 / Serviette de Plage, Quantity: 2
+  - ID: 14278 / Chaînes Brisées, Quantity: 2
+  - ID: 1770 / Bout de Blop Coco, Quantity: 1
+  - ID: 8354 / Écaille de Dragoss Calcaire, Quantity: 1
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Mangeoire en Bambou
+ID : 7619
+TYPE : Objet d'élevage
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93028.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 7013 / Bois de Bambou, Quantity: 20
+  - ID: 391 / Noix de Cajou, Quantity: 2
+  - ID: 16165 / Lamelle de Champa Bleu, Quantity: 2
+  - ID: 11250 / Poil de Chachachovage, Quantity: 1
+  - ID: 2273 / Tissu Pourpre, Quantity: 1
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir Violet de Bwork
+ID : 7696
+TYPE : Objet d'élevage
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93083.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 2271 / Cuir Violet de Mégabwork, Quantity: 1
+  - ID: 14457 / Patte de Black Wabbit, Quantity: 2
+  - ID: 8749 / Bulbe Kouraçao, Quantity: 2
+  - ID: 290 / Champignon, Quantity: 1
+  - ID: 1610 / Roue de Tivelo, Quantity: 1
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Tofu Maléfique
+ID : 7737
+TYPE : Objet d'élevage
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93037.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 2675 / Plume de Tofu Maléfique, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 386 / Groin de Sanglier, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 648 / Aile de Bourdard, Quantity: 1
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 600 / 600
+IS WEAPON: False
+
+NAME : Foudroyeur en Bambou
+ID : 7787
+TYPE : Objet d'élevage
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2317 / Oreilles de Croc Gland, Quantity: 1
+  - ID: 2484 / Trident Cassé, Quantity: 2
+  - ID: 7013 / Bois de Bambou, Quantity: 20
+  - ID: 844 / Œuf de Dragoeuf Ardoise, Quantity: 1
+  - ID: 2250 / Bois de Tronknyde, Quantity: 2
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Caresseur du Craqueleur Légendaire
+ID : 14761
+TYPE : Objet d'élevage
+LEVEL : 65
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93043.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14662 / Essence du Craqueleur Légendaire, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 1690 / Sève de Frêne, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 648 / Aile de Bourdard, Quantity: 1
+  - ID: 2254 / Feuille de Fourbasse, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 1200 / 1200
+IS WEAPON: False
+
+NAME : Baffeur de Nelween
+ID : 14786
+TYPE : Objet d'élevage
+LEVEL : 65
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93057.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2611 / Carapace Jaune, Quantity: 2
+  - ID: 6476 / Griffe de Robionicle, Quantity: 2
+  - ID: 7300 / Tête de lance de Fangshu, Quantity: 1
+  - ID: 8250 / Poil de Renarbo, Quantity: 1
+  - ID: 14660 / Essence de Nelween, Quantity: 1
+  - ID: 18369 / Queue de Scordion Bleu, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 2400 / 2400
+IS WEAPON: False
+
+NAME : Dragofesse de Gourlo le Terrible
+ID : 14746
+TYPE : Objet d'élevage
+LEVEL : 75
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93085.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14661 / Essence de Gourlo le Terrible, Quantity: 1
+  - ID: 14466 / Bandeau de Black Wabbit Squelette, Quantity: 2
+  - ID: 8730 / Coccyx du Corailleur, Quantity: 2
+  - ID: 290 / Champignon, Quantity: 1
+  - ID: 1610 / Roue de Tivelo, Quantity: 1
+  - ID: 8060 / Poils de Koalak Coco, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 6000 / 6000
+IS WEAPON: False
+
+NAME : Dragofesse de Draegnerys
+ID : 21516
+TYPE : Objet d'élevage
+LEVEL : 75
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93085.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 290 / Champignon, Quantity: 1
+  - ID: 1611 / Bourgeon de Pirolienne, Quantity: 1
+  - ID: 13731 / Pierre Médicinale, Quantity: 1
+  - ID: 8744 / Pince de Crustorail, Quantity: 2
+  - ID: 418 / Poils de Barbe du Grand Pa Wabbit, Quantity: 2
+  - ID: 21513 / Essence de Draegnerys, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 12000 / 12000
+IS WEAPON: False
+
+NAME : Caresseur du Wa Wobot
+ID : 14762
+TYPE : Objet d'élevage
+LEVEL : 75
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93043.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14664 / Essence du Wa Wobot, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 386 / Groin de Sanglier, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1771 / Souris verte, Quantity: 1
+  - ID: 2607 / Trukikol Mort, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 1200 / 1200
+IS WEAPON: False
+
+NAME : Abreuvoir de la Reine Nyée
+ID : 16287
+TYPE : Objet d'élevage
+LEVEL : 85
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93018.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 16286 / Essence de la Reine Nyée, Quantity: 1
+  - ID: 13502 / Fluide Glacial, Quantity: 1
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 2
+  - ID: 1773 / Bout de Blop Reinette, Quantity: 1
+  - ID: 8359 / Aile de Draguaindrop, Quantity: 1
+  - ID: 13716 / Bec de Vilain Petit Tofu, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 6000 / 6000
+IS WEAPON: False
+
+NAME : Caresseur du Chouque
+ID : 17416
+TYPE : Objet d'élevage
+LEVEL : 85
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93043.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 17414 / Essence du Chouque, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 394 / Noisette, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1891 / Peau de serpentin, Quantity: 1
+  - ID: 2605 / Plume de Dostrogo, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 2400 / 2400
+IS WEAPON: False
+
+NAME : Baffeur de Choudini
+ID : 19925
+TYPE : Objet d'élevage
+LEVEL : 85
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93057.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2482 / Charnière Cassée, Quantity: 2
+  - ID: 2613 / Carapace Bleue, Quantity: 2
+  - ID: 2287 / Concombre, Quantity: 1
+  - ID: 8249 / Plume de Buveur, Quantity: 1
+  - ID: 18411 / Œil de Léolhyène, Quantity: 1
+  - ID: 19921 / Essence de Choudini, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 1200 / 1200
+IS WEAPON: False
+
+NAME : Baffeur du Koulosse
+ID : 14735
+TYPE : Objet d'élevage
+LEVEL : 95
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93057.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2609 / Carapace Verte, Quantity: 2
+  - ID: 6476 / Griffe de Robionicle, Quantity: 2
+  - ID: 7301 / Étoffe de Kurookin, Quantity: 1
+  - ID: 8249 / Plume de Buveur, Quantity: 1
+  - ID: 14667 / Essence du Koulosse, Quantity: 1
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 2400 / 2400
+IS WEAPON: False
+
+NAME : Dragofesse de Dramak
+ID : 14787
+TYPE : Objet d'élevage
+LEVEL : 95
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93085.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14670 / Essence de Dramak, Quantity: 1
+  - ID: 14459 / Moustaches de Tiwabbit, Quantity: 2
+  - ID: 8751 / Bulbe Passaoh, Quantity: 2
+  - ID: 2551 / Oreille de Foufayteur, Quantity: 1
+  - ID: 1611 / Bourgeon de Pirolienne, Quantity: 1
+  - ID: 8062 / Poils de Koalak Indigo, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 6000 / 6000
+IS WEAPON: False
+
+NAME : Mangeoire du Dragon Cochon
+ID : 14788
+TYPE : Objet d'élevage
+LEVEL : 95
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93029.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 14666 / Essence du Dragon Cochon, Quantity: 1
+  - ID: 3208 / Slip de Bwork Archer, Quantity: 2
+  - ID: 16165 / Lamelle de Champa Bleu, Quantity: 2
+  - ID: 11250 / Poil de Chachachovage, Quantity: 1
+  - ID: 2647 / Oreille de Médibwork, Quantity: 1
+  - ID: 2578 / Œil de Cocholou, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 12000 / 12000
+IS WEAPON: False
+
+NAME : Foudroyeur de Malléfisk
+ID : 15276
+TYPE : Objet d'élevage
+LEVEL : 95
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93073.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 901 / Cuir du Cochon de Lait, Quantity: 2
+  - ID: 2317 / Oreilles de Croc Gland, Quantity: 1
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 844 / Œuf de Dragoeuf Ardoise, Quantity: 1
+  - ID: 15273 / Essence de Malléfisk, Quantity: 1
+  - ID: 18198 / Gâtrool, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 12000 / 12000
+IS WEAPON: False
+
+NAME : Abreuvoir de Moon
+ID : 14710
+TYPE : Objet d'élevage
+LEVEL : 95
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93018.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14669 / Essence de Moon, Quantity: 1
+  - ID: 13727 / Crème à bronzer, Quantity: 2
+  - ID: 13730 / Graine de la Discorde, Quantity: 2
+  - ID: 1777 / Bout de Blop Indigo, Quantity: 1
+  - ID: 8356 / Peau de Dragueuse, Quantity: 1
+  - ID: 13722 / Plume de Tofubine, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 6000 / 6000
+IS WEAPON: False
+
+NAME : Foudroyeur du Meulou
+ID : 14723
+TYPE : Objet d'élevage
+LEVEL : 95
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93073.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2150 / Graine de Scorbute, Quantity: 1
+  - ID: 2484 / Trident Cassé, Quantity: 2
+  - ID: 14473 / Boulon Wabbit, Quantity: 1
+  - ID: 2250 / Bois de Tronknyde, Quantity: 2
+  - ID: 8322 / Poil de Troolléolé, Quantity: 1
+  - ID: 14668 / Essence du Meulou, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 12000 / 12000
+IS WEAPON: False
+
+NAME : Mangeoire du Kharnozor
+ID : 21518
+TYPE : Objet d'élevage
+LEVEL : 95
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93029.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 291 / Morceau du Ménologium, Quantity: 1
+  - ID: 2273 / Tissu Pourpre, Quantity: 1
+  - ID: 391 / Noix de Cajou, Quantity: 2
+  - ID: 11253 / Étoffe de Rat Bougri, Quantity: 1
+  - ID: 21514 / Essence du Kharnozor, Quantity: 1
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 6000 / 6000
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Fesse du Kido
+ID : 14758
+TYPE : Objet d'élevage
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93101.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 8766 / Plume de fesse du Kido, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 407 / Pic de Prespic, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 2509 / Dent de Larve Champêtre, Quantity: 1
+  - ID: 2607 / Trukikol Mort, Quantity: 1
+  - ID: 18359 / Parchemin de Cactana, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 1400 / 1400
+IS WEAPON: False
+
+NAME : Foudroyeur en Bambou Sombre
+ID : 7788
+TYPE : Objet d'élevage
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93073.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 1889 / Plume de Crowneille, Quantity: 1
+  - ID: 2484 / Trident Cassé, Quantity: 2
+  - ID: 2559 / Crinière de Troollaraj, Quantity: 1
+  - ID: 7016 / Bois de Bambou Sombre, Quantity: 20
+  - ID: 2624 / Feuille de Tikoko, Quantity: 2
+  - ID: 13731 / Pierre Médicinale, Quantity: 1
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Baffeur en Bambou Sombre
+ID : 7765
+TYPE : Objet d'élevage
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93057.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2481 / Chaîne de Robot Fléau, Quantity: 2
+  - ID: 2611 / Carapace Jaune, Quantity: 2
+  - ID: 7016 / Bois de Bambou Sombre, Quantity: 20
+  - ID: 7300 / Tête de lance de Fangshu, Quantity: 1
+  - ID: 8252 / Plume de Corbac Apprivoisé, Quantity: 1
+  - ID: 18370 / Queue de Fennex, Quantity: 1
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 1000 / 1000
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir Noir
+ID : 7698
+TYPE : Objet d'élevage
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93085.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 8732 / Corail Kouraçao, Quantity: 1
+  - ID: 2316 / Couteau de Roukouto, Quantity: 1
+  - ID: 2551 / Oreille de Foufayteur, Quantity: 1
+  - ID: 8059 / Poils de Koalak Griotte, Quantity: 1
+  - ID: 8752 / Bulbe Morito, Quantity: 2
+  - ID: 14462 / Os de Wabbit Squelette, Quantity: 2
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Mangeoire en Bambou Sombre
+ID : 7620
+TYPE : Objet d'élevage
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93029.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 7016 / Bois de Bambou Sombre, Quantity: 20
+  - ID: 391 / Noix de Cajou, Quantity: 2
+  - ID: 16166 / Lamelle de Champa Marron, Quantity: 2
+  - ID: 11254 / Pince de Crabe Hijacob, Quantity: 1
+  - ID: 3002 / Botte trouée de Mégabwork, Quantity: 1
+  - ID: 291 / Morceau du Ménologium, Quantity: 1
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Abreuvoir en Bambou Sombre
+ID : 7603
+TYPE : Objet d'élevage
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93018.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 7016 / Bois de Bambou Sombre, Quantity: 20
+  - ID: 13726 / Conque Marine, Quantity: 2
+  - ID: 13505 / Bourse Suspecte, Quantity: 2
+  - ID: 1775 / Bout de Blop Griotte, Quantity: 1
+  - ID: 8352 / Écaille de Dragoss Charbon, Quantity: 1
+  - ID: 13719 / Plumeau de Tofuzmo, Quantity: 1
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Prototype d'Abreuvoir frigostien en Bambou
+ID : 11292
+TYPE : Objet d'élevage
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93097.png
+DESCRIPTION : Ce prototype d'objet d'élevage nécessite encore quelques réglages avant d'être parfaitement fonctionnel.
+RECIPES:
+  - ID: 7602, Quantity: 1
+  - ID: 11231 / Oreille du Fu Mansot, Quantity: 2
+  - ID: 11227 / Duvet de Mamansot, Quantity: 10
+  - ID: 11249 / Étoffe de Kaniglou, Quantity: 2
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 10
+  - ID: 11255 / Œil de Crabe Hijacob, Quantity: 2
+  - ID: 11253 / Étoffe de Rat Bougri, Quantity: 10
+  - ID: 11246 / Œil torve de Fricochère, Quantity: 2
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Prototype de Mangeoire frigostienne en Bambou
+ID : 11293
+TYPE : Objet d'élevage
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93098.png
+DESCRIPTION : Ce prototype d'objet d'élevage nécessite encore quelques réglages avant d'être parfaitement fonctionnel.
+RECIPES:
+  - ID: 7619, Quantity: 1
+  - ID: 11226 / Huile de Mamansot, Quantity: 2
+  - ID: 11229 / Poil de barbe du Shamansot, Quantity: 10
+  - ID: 11239 / Gland de l'Écumouth, Quantity: 2
+  - ID: 11247 / Oreille percée du Fricochère, Quantity: 10
+  - ID: 11256 / Bec de Gélikan, Quantity: 2
+  - ID: 11254 / Pince de Crabe Hijacob, Quantity: 10
+  - ID: 11241 / Poils de Smilomouth, Quantity: 10
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Prototype de Foudroyeur frigostien en Bambou
+ID : 11294
+TYPE : Objet d'élevage
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93099.png
+DESCRIPTION : Ce prototype d'objet d'élevage nécessite encore quelques réglages avant d'être parfaitement fonctionnel.
+RECIPES:
+  - ID: 7787, Quantity: 1
+  - ID: 11228 / Arête géante du Shamansot, Quantity: 2
+  - ID: 11223 / Plume du Timansot, Quantity: 10
+  - ID: 11242 / Défense du Sanglacier, Quantity: 2
+  - ID: 11248 / Oreille de Kaniglou, Quantity: 10
+  - ID: 11251 / Sternum de Chachachovage, Quantity: 2
+  - ID: 11257 / Plume de Gélikan, Quantity: 10
+  - ID: 11222 / Bec du Timansot, Quantity: 2
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Prototype de Baffeur frigostien en Bambou
+ID : 11295
+TYPE : Objet d'élevage
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93100.png
+DESCRIPTION : Ce prototype d'objet d'élevage nécessite encore quelques réglages avant d'être parfaitement fonctionnel.
+RECIPES:
+  - ID: 7762, Quantity: 1
+  - ID: 11224 / Aile de Mansobèse, Quantity: 2
+  - ID: 11230 / Queue du Fu Mansot, Quantity: 10
+  - ID: 11240 / Dent de Smilomouth, Quantity: 2
+  - ID: 11238 / Queue d'Écumouth, Quantity: 10
+  - ID: 11252 / Patte de Rat Bougri, Quantity: 2
+  - ID: 11250 / Poil de Chachachovage, Quantity: 10
+  - ID: 11225 / Peau de Mansobèse, Quantity: 10
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Dragofesse du Rat Noir
+ID : 14749
+TYPE : Objet d'élevage
+LEVEL : 105
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14674 / Essence du Rat Noir, Quantity: 1
+  - ID: 14462 / Os de Wabbit Squelette, Quantity: 2
+  - ID: 8730 / Coccyx du Corailleur, Quantity: 2
+  - ID: 290 / Champignon, Quantity: 1
+  - ID: 1611 / Bourgeon de Pirolienne, Quantity: 1
+  - ID: 8084 / Peau de Piralak, Quantity: 1
+  - ID: 2511 / Cuir de Gliglibido, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 7500 / 7500
+IS WEAPON: False
+
+NAME : Foudroyeur du Pounicheur
+ID : 17738
+TYPE : Objet d'élevage
+LEVEL : 105
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93065.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2317 / Oreilles de Croc Gland, Quantity: 1
+  - ID: 2484 / Trident Cassé, Quantity: 2
+  - ID: 2559 / Crinière de Troollaraj, Quantity: 1
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 14473 / Boulon Wabbit, Quantity: 1
+  - ID: 11238 / Queue d'Écumouth, Quantity: 1
+  - ID: 17737 / Essence du Pounicheur, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Baffeur du Rat Blanc
+ID : 14736
+TYPE : Objet d'élevage
+LEVEL : 105
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93049.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2482 / Charnière Cassée, Quantity: 2
+  - ID: 2610 / Carapace Rouge, Quantity: 2
+  - ID: 2287 / Concombre, Quantity: 1
+  - ID: 8250 / Poil de Renarbo, Quantity: 1
+  - ID: 8779 / Carpelle de Brouture, Quantity: 1
+  - ID: 14673 / Essence du Rat Blanc, Quantity: 1
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Abreuvoir du Rasboul Majeur
+ID : 14711
+TYPE : Objet d'élevage
+LEVEL : 105
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93014.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14671 / Essence du Rasboul Majeur, Quantity: 1
+  - ID: 13726 / Conque Marine, Quantity: 2
+  - ID: 13505 / Bourse Suspecte, Quantity: 2
+  - ID: 1773 / Bout de Blop Reinette, Quantity: 1
+  - ID: 8360 / Peau de Draguaindrop, Quantity: 1
+  - ID: 13724 / Patte de Tofu Dodu, Quantity: 1
+  - ID: 13700 / Couche usagée de Warko Violet, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 3750 / 3750
+IS WEAPON: False
+
+NAME : Dragofesse de l'Abraknyde Ancestral
+ID : 14747
+TYPE : Objet d'élevage
+LEVEL : 105
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14665 / Essence de l'Abraknyde Ancestral, Quantity: 1
+  - ID: 14457 / Patte de Black Wabbit, Quantity: 2
+  - ID: 8750 / Bulbe Malibout, Quantity: 2
+  - ID: 2528 / Ongle de Kanigrou, Quantity: 1
+  - ID: 1614 / Œil d'Abrakne, Quantity: 1
+  - ID: 8061 / Poils de Koalak Reinette, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 12000 / 12000
+IS WEAPON: False
+
+NAME : Abreuvoir de Damadrya
+ID : 14708
+TYPE : Objet d'élevage
+LEVEL : 105
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93017.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14656 / Essence de Damadrya, Quantity: 1
+  - ID: 13502 / Fluide Glacial, Quantity: 1
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 2
+  - ID: 1773 / Bout de Blop Reinette, Quantity: 1
+  - ID: 8362 / Peau de Dragnarok, Quantity: 1
+  - ID: 13718 / Cendres de Tofutoflamme, Quantity: 1
+  - ID: 13699 / Foulard de Koalak Farouche, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 7500 / 7500
+IS WEAPON: False
+
+NAME : Foudroyeur du Maître Corbac
+ID : 14724
+TYPE : Objet d'élevage
+LEVEL : 105
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93065.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 1889 / Plume de Crowneille, Quantity: 1
+  - ID: 2275 / Cuir de Porkass, Quantity: 2
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+  - ID: 11248 / Oreille de Kaniglou, Quantity: 1
+  - ID: 14672 / Essence du Maître Corbac, Quantity: 1
+  - ID: 18198 / Gâtrool, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 7500 / 7500
+IS WEAPON: False
+
+NAME : Baffeur du Minotoror
+ID : 14791
+TYPE : Objet d'élevage
+LEVEL : 115
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93049.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2060 / Rune Ta Do Neutre, Quantity: 1
+  - ID: 2481 / Chaîne de Robot Fléau, Quantity: 2
+  - ID: 2611 / Carapace Jaune, Quantity: 2
+  - ID: 7301 / Étoffe de Kurookin, Quantity: 1
+  - ID: 8782 / Bractée de Chiendent, Quantity: 1
+  - ID: 14676 / Essence du Minotoror, Quantity: 1
+  - ID: 18411 / Œil de Léolhyène, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Mangeoire de Crocabulia
+ID : 14778
+TYPE : Objet d'élevage
+LEVEL : 115
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93021.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 14680 / Essence de Crocabulia, Quantity: 1
+  - ID: 3208 / Slip de Bwork Archer, Quantity: 2
+  - ID: 16167 / Lamelle de Champa Rouge, Quantity: 2
+  - ID: 11254 / Pince de Crabe Hijacob, Quantity: 1
+  - ID: 7030 / Peau de Krambwork, Quantity: 1
+  - ID: 439 / Canine de Mergranlou, Quantity: 1
+  - ID: 8797 / Souche de l'Abrakleur clair, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Mangeoire de Skeunk
+ID : 14794
+TYPE : Objet d'élevage
+LEVEL : 115
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93021.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 14681 / Essence de Skeunk, Quantity: 1
+  - ID: 391 / Noix de Cajou, Quantity: 2
+  - ID: 16166 / Lamelle de Champa Marron, Quantity: 2
+  - ID: 11257 / Plume de Gélikan, Quantity: 1
+  - ID: 2273 / Tissu Pourpre, Quantity: 1
+  - ID: 2578 / Œil de Cocholou, Quantity: 1
+  - ID: 8832 / Bave du Kaskargo, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 7500 / 7500
+IS WEAPON: False
+
+NAME : Abreuvoir du Blop Multicolore Royal
+ID : 14789
+TYPE : Objet d'élevage
+LEVEL : 115
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93014.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14675 / Essence du Blop Multicolore Royal, Quantity: 1
+  - ID: 13727 / Crème à bronzer, Quantity: 2
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 2
+  - ID: 1775 / Bout de Blop Griotte, Quantity: 1
+  - ID: 8362 / Peau de Dragnarok, Quantity: 1
+  - ID: 13722 / Plume de Tofubine, Quantity: 1
+  - ID: 13698 / Houpette de Koalak Sanguin, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 7500 / 7500
+IS WEAPON: False
+
+NAME : Caresseur du Royalmouth
+ID : 14763
+TYPE : Objet d'élevage
+LEVEL : 115
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93101.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14677 / Essence du Royalmouth, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 387 / Défense du Sanglier, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1891 / Peau de serpentin, Quantity: 1
+  - ID: 2253 / Fleur de Gloutovore, Quantity: 1
+  - ID: 18362 / Moustaches de Cactoblongo, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Caresseur du Tofu Royal
+ID : 14793
+TYPE : Objet d'élevage
+LEVEL : 115
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93046.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14679 / Essence du Tofu Royal, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 394 / Noisette, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 648 / Aile de Bourdard, Quantity: 1
+  - ID: 2605 / Plume de Dostrogo, Quantity: 1
+  - ID: 18359 / Parchemin de Cactana, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Caresseur de Fraktale
+ID : 16289
+TYPE : Objet d'élevage
+LEVEL : 115
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93101.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 15736 / Essence de Fraktale, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 1690 / Sève de Frêne, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1771 / Souris verte, Quantity: 1
+  - ID: 2607 / Trukikol Mort, Quantity: 1
+  - ID: 18361 / Fleur de Cactiflore, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Abreuvoir du Capitaine Ekarlatte
+ID : 15709
+TYPE : Objet d'élevage
+LEVEL : 115
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93014.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 15702 / Essence du Capitaine Ekarlatte, Quantity: 1
+  - ID: 13494 / Nageoire de Compétition, Quantity: 2
+  - ID: 13730 / Graine de la Discorde, Quantity: 2
+  - ID: 1777 / Bout de Blop Indigo, Quantity: 1
+  - ID: 8356 / Peau de Dragueuse, Quantity: 1
+  - ID: 13719 / Plumeau de Tofuzmo, Quantity: 1
+  - ID: 13697 / Poils de Guerrier Koalak, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 3750 / 3750
+IS WEAPON: False
+
+NAME : Caresseur du Tanukouï San
+ID : 14764
+TYPE : Objet d'élevage
+LEVEL : 125
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93101.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14682 / Essence de Tanukouï San, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 386 / Groin de Sanglier, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 2509 / Dent de Larve Champêtre, Quantity: 1
+  - ID: 2254 / Feuille de Fourbasse, Quantity: 1
+  - ID: 18363 / String de Pampactus, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Mangeoire de la Dame des eaux
+ID : 14776
+TYPE : Objet d'élevage
+LEVEL : 125
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93029.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 14663 / Essence de Nagate, Quantity: 1
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 11253 / Étoffe de Rat Bougri, Quantity: 1
+  - ID: 2273 / Tissu Pourpre, Quantity: 1
+  - ID: 439 / Canine de Mergranlou, Quantity: 1
+  - ID: 8787 / Cloaque du Poolay, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Mangeoire d'El Piko
+ID : 19931
+TYPE : Objet d'élevage
+LEVEL : 125
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93021.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 19915 / Essence d'El Piko, Quantity: 1
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 16165 / Lamelle de Champa Bleu, Quantity: 2
+  - ID: 11253 / Étoffe de Rat Bougri, Quantity: 1
+  - ID: 3002 / Botte trouée de Mégabwork, Quantity: 1
+  - ID: 438 / Queue du Mulou, Quantity: 1
+  - ID: 8790 / Rembourrage de Meupette, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Dragofesse de la Haute Truche
+ID : 15363
+TYPE : Objet d'élevage
+LEVEL : 125
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 15362 / Essence de la Haute Truche, Quantity: 1
+  - ID: 14466 / Bandeau de Black Wabbit Squelette, Quantity: 2
+  - ID: 8749 / Bulbe Kouraçao, Quantity: 2
+  - ID: 1890 / Poil de Vétauran, Quantity: 1
+  - ID: 1614 / Œil d'Abrakne, Quantity: 1
+  - ID: 8002 / Étoffe de Dok Alako, Quantity: 1
+  - ID: 2513 / Étoffe de Gliglidoudur, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Mangeoire de Shihan et Hanshi
+ID : 14777
+TYPE : Objet d'élevage
+LEVEL : 135
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93021.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 14678 / Essence de Shihan et Hanshi, Quantity: 1
+  - ID: 409 / Poils de Barbe du Bwork Mage, Quantity: 2
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 11250 / Poil de Chachachovage, Quantity: 1
+  - ID: 2647 / Oreille de Médibwork, Quantity: 1
+  - ID: 2578 / Œil de Cocholou, Quantity: 1
+  - ID: 8788 / Croupion du Bitouf aérien, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 7500 / 7500
+IS WEAPON: False
+
+NAME : Dragofesse de Founoroshi
+ID : 14792
+TYPE : Objet d'élevage
+LEVEL : 135
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14683 / Essence de Founoroshi, Quantity: 1
+  - ID: 14457 / Patte de Black Wabbit, Quantity: 2
+  - ID: 8750 / Bulbe Malibout, Quantity: 2
+  - ID: 2528 / Ongle de Kanigrou, Quantity: 1
+  - ID: 1610 / Roue de Tivelo, Quantity: 1
+  - ID: 8060 / Poils de Koalak Coco, Quantity: 1
+  - ID: 1894 / Poil de Gliglitch, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 7500 / 7500
+IS WEAPON: False
+
+NAME : Baffeur du Mansot Royal
+ID : 14737
+TYPE : Objet d'élevage
+LEVEL : 135
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93049.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2486 / Coque Endommagée, Quantity: 2
+  - ID: 2609 / Carapace Verte, Quantity: 2
+  - ID: 2287 / Concombre, Quantity: 1
+  - ID: 8252 / Plume de Corbac Apprivoisé, Quantity: 1
+  - ID: 8780 / Sépale de Nerbe, Quantity: 1
+  - ID: 14686 / Essence du Mansot Royal, Quantity: 1
+  - ID: 18370 / Queue de Fennex, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 3000 / 3000
+IS WEAPON: False
+
+NAME : Dragofesse du Tynril
+ID : 14750
+TYPE : Objet d'élevage
+LEVEL : 135
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14685 / Essence du Tynril, Quantity: 1
+  - ID: 14460 / Branche de Tiwabbit Kiafin, Quantity: 2
+  - ID: 8751 / Bulbe Passaoh, Quantity: 2
+  - ID: 2551 / Oreille de Foufayteur, Quantity: 1
+  - ID: 2316 / Couteau de Roukouto, Quantity: 1
+  - ID: 8059 / Poils de Koalak Griotte, Quantity: 1
+  - ID: 2516 / Défense de Gliglicérin, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Foudroyeur du Chêne Mou
+ID : 14790
+TYPE : Objet d'élevage
+LEVEL : 135
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93065.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2275 / Cuir de Porkass, Quantity: 2
+  - ID: 2315 / Poils de Croc Gland, Quantity: 1
+  - ID: 844 / Œuf de Dragoeuf Ardoise, Quantity: 1
+  - ID: 398 / Fruit de Palme, Quantity: 2
+  - ID: 11238 / Queue d'Écumouth, Quantity: 1
+  - ID: 14684 / Essence du Chêne Mou, Quantity: 1
+  - ID: 18209 / Gratrooll, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 7500 / 7500
+IS WEAPON: False
+
+NAME : Foudroyeur en Orme
+ID : 7779
+TYPE : Objet d'élevage
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93065.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 470 / Bois d'Orme, Quantity: 20
+  - ID: 2150 / Graine de Scorbute, Quantity: 1
+  - ID: 2484 / Trident Cassé, Quantity: 2
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 13731 / Pierre Médicinale, Quantity: 1
+  - ID: 11247 / Oreille percée du Fricochère, Quantity: 1
+  - ID: 18209 / Gratrooll, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 7000 / 7000
+IS WEAPON: False
+
+NAME : Abreuvoir en Orme
+ID : 7599
+TYPE : Objet d'élevage
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93014.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 470 / Bois d'Orme, Quantity: 20
+  - ID: 13502 / Fluide Glacial, Quantity: 1
+  - ID: 14278 / Chaînes Brisées, Quantity: 2
+  - ID: 1775 / Bout de Blop Griotte, Quantity: 1
+  - ID: 8354 / Écaille de Dragoss Calcaire, Quantity: 1
+  - ID: 13718 / Cendres de Tofutoflamme, Quantity: 1
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 3500 / 3500
+IS WEAPON: False
+
+NAME : Baffeur en Orme
+ID : 7756
+TYPE : Objet d'élevage
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93049.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 470 / Bois d'Orme, Quantity: 20
+  - ID: 2481 / Chaîne de Robot Fléau, Quantity: 2
+  - ID: 2613 / Carapace Bleue, Quantity: 2
+  - ID: 7300 / Tête de lance de Fangshu, Quantity: 1
+  - ID: 8249 / Plume de Buveur, Quantity: 1
+  - ID: 8778 / Étamine de Floribonde, Quantity: 1
+  - ID: 18369 / Queue de Scordion Bleu, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 1400 / 1400
+IS WEAPON: False
+
+NAME : Caresseur en Plume du Dernier Poolay
+ID : 7743
+TYPE : Objet d'élevage
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93043.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 1685 / Plume du Dernier Poolay, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 407 / Pic de Prespic, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 2509 / Dent de Larve Champêtre, Quantity: 1
+  - ID: 2253 / Fleur de Gloutovore, Quantity: 1
+EFFECTS:
+  - Efficacité : 30
+  - Objet pour enclos
+  - Utilisations restantes : 1000 / 1000
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Sanglacier
+ID : 14748
+TYPE : Objet d'élevage
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 11243 / Cuir du Sanglacier, Quantity: 1
+  - ID: 14460 / Branche de Tiwabbit Kiafin, Quantity: 2
+  - ID: 8752 / Bulbe Morito, Quantity: 2
+  - ID: 290 / Champignon, Quantity: 1
+  - ID: 1610 / Roue de Tivelo, Quantity: 1
+  - ID: 8083 / Os de Pékeualak, Quantity: 1
+  - ID: 1894 / Poil de Gliglitch, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 7000 / 7000
+IS WEAPON: False
+
+NAME : Mangeoire en Orme
+ID : 7611
+TYPE : Objet d'élevage
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93021.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 470 / Bois d'Orme, Quantity: 20
+  - ID: 391 / Noix de Cajou, Quantity: 2
+  - ID: 16167 / Lamelle de Champa Rouge, Quantity: 2
+  - ID: 11253 / Étoffe de Rat Bougri, Quantity: 1
+  - ID: 2647 / Oreille de Médibwork, Quantity: 1
+  - ID: 291 / Morceau du Ménologium, Quantity: 1
+  - ID: 8787 / Cloaque du Poolay, Quantity: 1
+EFFECTS:
+  - Efficacité : 50
+  - Objet pour enclos
+  - Utilisations restantes : 7000 / 7000
+IS WEAPON: False
+
+NAME : Baffeur du Phossile
+ID : 15277
+TYPE : Objet d'élevage
+LEVEL : 145
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93049.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2611 / Carapace Jaune, Quantity: 2
+  - ID: 6476 / Griffe de Robionicle, Quantity: 2
+  - ID: 8347 / Lame brisée de Lichangoro, Quantity: 1
+  - ID: 8250 / Poil de Renarbo, Quantity: 1
+  - ID: 8781 / Calice de Fécorce, Quantity: 1
+  - ID: 15274 / Essence du Phossile, Quantity: 1
+  - ID: 18370 / Queue de Fennex, Quantity: 1
+EFFECTS:
+  - Efficacité : 120
+  - Objet pour enclos
+  - Utilisations restantes : 1500 / 1500
+IS WEAPON: False
+
+NAME : Foudroyeur de Ben le Ripate
+ID : 14725
+TYPE : Objet d'élevage
+LEVEL : 145
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93065.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 901 / Cuir du Cochon de Lait, Quantity: 2
+  - ID: 2301 / Moustache de Kolérat, Quantity: 1
+  - ID: 2624 / Feuille de Tikoko, Quantity: 2
+  - ID: 844 / Œuf de Dragoeuf Ardoise, Quantity: 1
+  - ID: 8322 / Poil de Troolléolé, Quantity: 1
+  - ID: 11241 / Poils de Smilomouth, Quantity: 1
+  - ID: 14687 / Essence de Ben le Ripate, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Abreuvoir de Sphincter Cell
+ID : 14712
+TYPE : Objet d'élevage
+LEVEL : 145
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93014.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14688 / Essence de Sphincter Cell, Quantity: 1
+  - ID: 13487 / Serviette de Plage, Quantity: 2
+  - ID: 13342 / Tatouage de Mauvais Garçon, Quantity: 2
+  - ID: 1770 / Bout de Blop Coco, Quantity: 1
+  - ID: 8355 / Écaille de Dragoss Argile, Quantity: 1
+  - ID: 13716 / Bec de Vilain Petit Tofu, Quantity: 1
+  - ID: 13699 / Foulard de Koalak Farouche, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 7500 / 7500
+IS WEAPON: False
+
+NAME : Mangeoire d'Hell Mina
+ID : 26805
+TYPE : Objet d'élevage
+LEVEL : 145
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93021.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 26803 / Essence d'Hell Mina, Quantity: 1
+  - ID: 391 / Noix de Cajou, Quantity: 3
+  - ID: 26319 / Pic de Malépik, Quantity: 1
+  - ID: 11309 / Pince du Fancrôme, Quantity: 1
+  - ID: 8311 / Poil de Gamino, Quantity: 1
+  - ID: 14951 / Corne de Scaratos, Quantity: 1
+  - ID: 26316 / Pétale de Malter, Quantity: 2
+  - ID: 15171 / Griffe de Phorrêveur, Quantity: 1
+EFFECTS:
+  - Efficacité : 100
+  - Objet pour enclos
+  - Utilisations restantes : 8000 / 8000
+IS WEAPON: False
+
+NAME : Abreuvoir du Minotot
+ID : 14716
+TYPE : Objet d'élevage
+LEVEL : 145
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93017.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14690 / Essence du Minotot, Quantity: 1
+  - ID: 13502 / Fluide Glacial, Quantity: 1
+  - ID: 14278 / Chaînes Brisées, Quantity: 2
+  - ID: 1773 / Bout de Blop Reinette, Quantity: 1
+  - ID: 8360 / Peau de Draguaindrop, Quantity: 1
+  - ID: 13719 / Plumeau de Tofuzmo, Quantity: 1
+  - ID: 13699 / Foulard de Koalak Farouche, Quantity: 1
+  - ID: 13744 / Bandeau troué d'Air, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Dragofesse du Minotot
+ID : 14752
+TYPE : Objet d'élevage
+LEVEL : 145
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14690 / Essence du Minotot, Quantity: 1
+  - ID: 14462 / Os de Wabbit Squelette, Quantity: 2
+  - ID: 8749 / Bulbe Kouraçao, Quantity: 2
+  - ID: 2551 / Oreille de Foufayteur, Quantity: 1
+  - ID: 1610 / Roue de Tivelo, Quantity: 1
+  - ID: 8083 / Os de Pékeualak, Quantity: 1
+  - ID: 2511 / Cuir de Gliglibido, Quantity: 1
+  - ID: 18563 / Langue de Morsquale, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Caresseur de l'Obsidiantre
+ID : 14766
+TYPE : Objet d'élevage
+LEVEL : 155
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93102.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14691 / Essence de l'Obsidiantre, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 387 / Défense du Sanglier, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 648 / Aile de Bourdard, Quantity: 1
+  - ID: 2607 / Trukikol Mort, Quantity: 1
+  - ID: 18361 / Fleur de Cactiflore, Quantity: 1
+  - ID: 11936 / Poils de Boulglours, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 1800 / 1800
+IS WEAPON: False
+
+NAME : Baffeur de Kanigroula
+ID : 15096
+TYPE : Objet d'élevage
+LEVEL : 155
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2482 / Charnière Cassée, Quantity: 2
+  - ID: 2610 / Carapace Rouge, Quantity: 2
+  - ID: 7301 / Étoffe de Kurookin, Quantity: 1
+  - ID: 8249 / Plume de Buveur, Quantity: 1
+  - ID: 8782 / Bractée de Chiendent, Quantity: 1
+  - ID: 14924 / Masque de la Violence, Quantity: 1
+  - ID: 15095 / Essence de Kanigroula, Quantity: 1
+  - ID: 18369 / Queue de Scordion Bleu, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 1800 / 1800
+IS WEAPON: False
+
+NAME : Dragofesse du Kimbo
+ID : 14754
+TYPE : Objet d'élevage
+LEVEL : 155
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14689 / Essence du Kimbo, Quantity: 1
+  - ID: 14466 / Bandeau de Black Wabbit Squelette, Quantity: 2
+  - ID: 8749 / Bulbe Kouraçao, Quantity: 2
+  - ID: 2551 / Oreille de Foufayteur, Quantity: 1
+  - ID: 2316 / Couteau de Roukouto, Quantity: 1
+  - ID: 8062 / Poils de Koalak Indigo, Quantity: 1
+  - ID: 2511 / Cuir de Gliglibido, Quantity: 1
+  - ID: 18563 / Langue de Morsquale, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Caresseur de Ush
+ID : 17739
+TYPE : Objet d'élevage
+LEVEL : 155
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93102.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 17736 / Essence de Ush, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 407 / Pic de Prespic, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1891 / Peau de serpentin, Quantity: 1
+  - ID: 2254 / Feuille de Fourbasse, Quantity: 1
+  - ID: 18359 / Parchemin de Cactana, Quantity: 1
+  - ID: 11945 / Queue de Meliglours, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 1800 / 1800
+IS WEAPON: False
+
+NAME : Abreuvoir du Kimbo
+ID : 14713
+TYPE : Objet d'élevage
+LEVEL : 155
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93017.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14689 / Essence du Kimbo, Quantity: 1
+  - ID: 13494 / Nageoire de Compétition, Quantity: 2
+  - ID: 13505 / Bourse Suspecte, Quantity: 2
+  - ID: 1777 / Bout de Blop Indigo, Quantity: 1
+  - ID: 8355 / Écaille de Dragoss Argile, Quantity: 1
+  - ID: 13722 / Plume de Tofubine, Quantity: 1
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 1
+  - ID: 13738 / Bandeau troué de Feu, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 4500 / 4500
+IS WEAPON: False
+
+NAME : Foudroyeur de l'Obsidiantre
+ID : 14726
+TYPE : Objet d'élevage
+LEVEL : 155
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2275 / Cuir de Porkass, Quantity: 2
+  - ID: 2317 / Oreilles de Croc Gland, Quantity: 1
+  - ID: 2624 / Feuille de Tikoko, Quantity: 2
+  - ID: 844 / Œuf de Dragoeuf Ardoise, Quantity: 1
+  - ID: 11248 / Oreille de Kaniglou, Quantity: 1
+  - ID: 11521 / Œil de Sapeur, Quantity: 1
+  - ID: 14691 / Essence de l'Obsidiantre, Quantity: 1
+  - ID: 18209 / Gratrooll, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Mangeoire du Shogun Tofugawa
+ID : 24138
+TYPE : Objet d'élevage
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93028.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 2578 / Œil de Cocholou, Quantity: 1
+  - ID: 2647 / Oreille de Médibwork, Quantity: 1
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 7025 / Pierre d'Agathe, Quantity: 1
+  - ID: 8832 / Bave du Kaskargo, Quantity: 1
+  - ID: 11250 / Poil de Chachachovage, Quantity: 1
+  - ID: 16167 / Lamelle de Champa Rouge, Quantity: 2
+  - ID: 24133 / Essence du Shogun Tofugawa, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Foudroyeur de Tengu Givrefoux
+ID : 14728
+TYPE : Objet d'élevage
+LEVEL : 165
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 1889 / Plume de Crowneille, Quantity: 1
+  - ID: 2275 / Cuir de Porkass, Quantity: 2
+  - ID: 2559 / Crinière de Troollaraj, Quantity: 1
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 844 / Œuf de Dragoeuf Ardoise, Quantity: 1
+  - ID: 11238 / Queue d'Écumouth, Quantity: 1
+  - ID: 11527 / Peau d'Ouilleur, Quantity: 1
+  - ID: 14692 / Essence du Tengu Givrefoux, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Caresseur de Tengu Givrefoux
+ID : 14768
+TYPE : Objet d'élevage
+LEVEL : 165
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93102.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14692 / Essence du Tengu Givrefoux, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 394 / Noisette, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1771 / Souris verte, Quantity: 1
+  - ID: 2253 / Fleur de Gloutovore, Quantity: 1
+  - ID: 18363 / String de Pampactus, Quantity: 1
+  - ID: 11942 / Antenne de Gloursaya, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 1800 / 1800
+IS WEAPON: False
+
+NAME : Dragofesse de XLII
+ID : 16290
+TYPE : Objet d'élevage
+LEVEL : 165
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 15735 / Essence de XLII, Quantity: 1
+  - ID: 14460 / Branche de Tiwabbit Kiafin, Quantity: 2
+  - ID: 8750 / Bulbe Malibout, Quantity: 2
+  - ID: 290 / Champignon, Quantity: 1
+  - ID: 1611 / Bourgeon de Pirolienne, Quantity: 1
+  - ID: 8002 / Étoffe de Dok Alako, Quantity: 1
+  - ID: 2516 / Défense de Gliglicérin, Quantity: 1
+  - ID: 18565 / Peau de Trémorse, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Mangeoire de Tengu Givrefoux
+ID : 14780
+TYPE : Objet d'élevage
+LEVEL : 165
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93028.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 2578 / Œil de Cocholou, Quantity: 1
+  - ID: 2647 / Oreille de Médibwork, Quantity: 1
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 7405 / Plastron de Tambouraï, Quantity: 1
+  - ID: 8790 / Rembourrage de Meupette, Quantity: 1
+  - ID: 11257 / Plume de Gélikan, Quantity: 1
+  - ID: 14692 / Essence du Tengu Givrefoux, Quantity: 1
+  - ID: 16167 / Lamelle de Champa Rouge, Quantity: 2
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Abreuvoir du Père Ver
+ID : 19927
+TYPE : Objet d'élevage
+LEVEL : 165
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93017.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 19938 / Essence du Père Ver, Quantity: 1
+  - ID: 13487 / Serviette de Plage, Quantity: 2
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 2
+  - ID: 1777 / Bout de Blop Indigo, Quantity: 1
+  - ID: 8352 / Écaille de Dragoss Charbon, Quantity: 1
+  - ID: 13716 / Bec de Vilain Petit Tofu, Quantity: 1
+  - ID: 13698 / Houpette de Koalak Sanguin, Quantity: 1
+  - ID: 13738 / Bandeau troué de Feu, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 4500 / 4500
+IS WEAPON: False
+
+NAME : Dragofesse de Koumiho
+ID : 24139
+TYPE : Objet d'élevage
+LEVEL : 170
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 24134 / Essence de Koumiho, Quantity: 1
+  - ID: 372 / Bandeau du Black Tiwabbit, Quantity: 2
+  - ID: 8752 / Bulbe Morito, Quantity: 2
+  - ID: 290 / Champignon, Quantity: 1
+  - ID: 1614 / Œil d'Abrakne, Quantity: 1
+  - ID: 13731 / Pierre Médicinale, Quantity: 1
+  - ID: 1894 / Poil de Gliglitch, Quantity: 1
+  - ID: 18564 / Patte de Masticroc, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Mangeoire du Bworker
+ID : 14779
+TYPE : Objet d'élevage
+LEVEL : 175
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93028.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 291 / Morceau du Ménologium, Quantity: 1
+  - ID: 409 / Poils de Barbe du Bwork Mage, Quantity: 2
+  - ID: 2273 / Tissu Pourpre, Quantity: 1
+  - ID: 7408 / Kapokaza, Quantity: 1
+  - ID: 8788 / Croupion du Bitouf aérien, Quantity: 1
+  - ID: 11254 / Pince de Crabe Hijacob, Quantity: 1
+  - ID: 14695 / Essence du Bworker, Quantity: 1
+  - ID: 16165 / Lamelle de Champa Bleu, Quantity: 2
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Baffeur du Kralamoure Géant
+ID : 14740
+TYPE : Objet d'élevage
+LEVEL : 175
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2481 / Chaîne de Robot Fléau, Quantity: 2
+  - ID: 2613 / Carapace Bleue, Quantity: 2
+  - ID: 8347 / Lame brisée de Lichangoro, Quantity: 1
+  - ID: 8252 / Plume de Corbac Apprivoisé, Quantity: 1
+  - ID: 8782 / Bractée de Chiendent, Quantity: 1
+  - ID: 14694 / Essence du Kralamoure Géant, Quantity: 1
+  - ID: 14922 / Masque du Vide, Quantity: 1
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 1800 / 1800
+IS WEAPON: False
+
+NAME : Baffeur d'Ougah
+ID : 14738
+TYPE : Objet d'élevage
+LEVEL : 175
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2060 / Rune Ta Do Neutre, Quantity: 1
+  - ID: 2482 / Charnière Cassée, Quantity: 2
+  - ID: 2609 / Carapace Verte, Quantity: 2
+  - ID: 7300 / Tête de lance de Fangshu, Quantity: 1
+  - ID: 8779 / Carpelle de Brouture, Quantity: 1
+  - ID: 14696 / Essence d'Ougah, Quantity: 1
+  - ID: 14923 / Masque de la Vengeance, Quantity: 1
+  - ID: 18370 / Queue de Fennex, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 1800 / 1800
+IS WEAPON: False
+
+NAME : Caresseur d'Ougah
+ID : 14769
+TYPE : Objet d'élevage
+LEVEL : 175
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93102.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14696 / Essence d'Ougah, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 387 / Défense du Sanglier, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1771 / Souris verte, Quantity: 1
+  - ID: 2605 / Plume de Dostrogo, Quantity: 1
+  - ID: 18361 / Fleur de Cactiflore, Quantity: 1
+  - ID: 11934 / Oreille d'Apériglours, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 3600 / 3600
+IS WEAPON: False
+
+NAME : Baffeur du Korriandre
+ID : 14739
+TYPE : Objet d'élevage
+LEVEL : 175
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2486 / Coque Endommagée, Quantity: 2
+  - ID: 2611 / Carapace Jaune, Quantity: 2
+  - ID: 2287 / Concombre, Quantity: 1
+  - ID: 8249 / Plume de Buveur, Quantity: 1
+  - ID: 8780 / Sépale de Nerbe, Quantity: 1
+  - ID: 14693 / Essence du Korriandre, Quantity: 1
+  - ID: 14924 / Masque de la Violence, Quantity: 1
+  - ID: 18411 / Œil de Léolhyène, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 3600 / 3600
+IS WEAPON: False
+
+NAME : Baffeur du Toxoliath
+ID : 15708
+TYPE : Objet d'élevage
+LEVEL : 175
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2611 / Carapace Jaune, Quantity: 2
+  - ID: 6476 / Griffe de Robionicle, Quantity: 2
+  - ID: 2287 / Concombre, Quantity: 1
+  - ID: 8250 / Poil de Renarbo, Quantity: 1
+  - ID: 8781 / Calice de Fécorce, Quantity: 1
+  - ID: 14925 / Masque de la Vivacité, Quantity: 1
+  - ID: 15703 / Essence du Toxoliath, Quantity: 1
+  - ID: 18369 / Queue de Scordion Bleu, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 3600 / 3600
+IS WEAPON: False
+
+NAME : Baffeur du Bworker
+ID : 14741
+TYPE : Objet d'élevage
+LEVEL : 175
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2486 / Coque Endommagée, Quantity: 2
+  - ID: 2609 / Carapace Verte, Quantity: 2
+  - ID: 2287 / Concombre, Quantity: 1
+  - ID: 8250 / Poil de Renarbo, Quantity: 1
+  - ID: 8779 / Carpelle de Brouture, Quantity: 1
+  - ID: 14695 / Essence du Bworker, Quantity: 1
+  - ID: 14923 / Masque de la Vengeance, Quantity: 1
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 3600 / 3600
+IS WEAPON: False
+
+NAME : Mangeoire du Korriandre
+ID : 14781
+TYPE : Objet d'élevage
+LEVEL : 175
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93028.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 438 / Queue du Mulou, Quantity: 1
+  - ID: 2647 / Oreille de Médibwork, Quantity: 1
+  - ID: 3208 / Slip de Bwork Archer, Quantity: 2
+  - ID: 7381 / Kaokurimono, Quantity: 1
+  - ID: 8797 / Souche de l'Abrakleur clair, Quantity: 1
+  - ID: 11253 / Étoffe de Rat Bougri, Quantity: 1
+  - ID: 14693 / Essence du Korriandre, Quantity: 1
+  - ID: 16166 / Lamelle de Champa Marron, Quantity: 2
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Baffeur en Bambou Sacré
+ID : 7766
+TYPE : Objet d'élevage
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93056.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2481 / Chaîne de Robot Fléau, Quantity: 2
+  - ID: 2610 / Carapace Rouge, Quantity: 2
+  - ID: 7014 / Bois de Bambou Sacré, Quantity: 20
+  - ID: 7301 / Étoffe de Kurookin, Quantity: 1
+  - ID: 8250 / Poil de Renarbo, Quantity: 1
+  - ID: 8778 / Étamine de Floribonde, Quantity: 1
+  - ID: 14922 / Masque du Vide, Quantity: 1
+  - ID: 18370 / Queue de Fennex, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 1800 / 1800
+IS WEAPON: False
+
+NAME : Dragofesse en Cuir de Maho Givrefoux
+ID : 14751
+TYPE : Objet d'élevage
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 11337 / Cuir de Maho Givrefoux, Quantity: 1
+  - ID: 14460 / Branche de Tiwabbit Kiafin, Quantity: 2
+  - ID: 8730 / Coccyx du Corailleur, Quantity: 2
+  - ID: 1890 / Poil de Vétauran, Quantity: 1
+  - ID: 2316 / Couteau de Roukouto, Quantity: 1
+  - ID: 8060 / Poils de Koalak Coco, Quantity: 1
+  - ID: 1894 / Poil de Gliglitch, Quantity: 1
+  - ID: 18562 / Dent de Cycloporth, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Caresseur en Plume de Serpiplume
+ID : 14765
+TYPE : Objet d'élevage
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93102.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 8309 / Plume du Serpiplume, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 1690 / Sève de Frêne, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 2509 / Dent de Larve Champêtre, Quantity: 1
+  - ID: 2605 / Plume de Dostrogo, Quantity: 1
+  - ID: 18359 / Parchemin de Cactana, Quantity: 1
+  - ID: 11934 / Oreille d'Apériglours, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 1800 / 1800
+IS WEAPON: False
+
+NAME : Foudroyeur en Bambou Sacré
+ID : 7789
+TYPE : Objet d'élevage
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2301 / Moustache de Kolérat, Quantity: 1
+  - ID: 2484 / Trident Cassé, Quantity: 2
+  - ID: 7014 / Bois de Bambou Sacré, Quantity: 20
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 14473 / Boulon Wabbit, Quantity: 1
+  - ID: 11247 / Oreille percée du Fricochère, Quantity: 1
+  - ID: 11519 / Oreille de Gobosteur, Quantity: 1
+  - ID: 18209 / Gratrooll, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Mangeoire en Bambou Sacré
+ID : 7621
+TYPE : Objet d'élevage
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93028.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 391 / Noix de Cajou, Quantity: 2
+  - ID: 2578 / Œil de Cocholou, Quantity: 1
+  - ID: 7014 / Bois de Bambou Sacré, Quantity: 20
+  - ID: 7030 / Peau de Krambwork, Quantity: 1
+  - ID: 13746 / Boulon de Cybwork, Quantity: 1
+  - ID: 8787 / Cloaque du Poolay, Quantity: 1
+  - ID: 11253 / Étoffe de Rat Bougri, Quantity: 1
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Abreuvoir en Bambou Sacré
+ID : 7604
+TYPE : Objet d'élevage
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93017.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 7014 / Bois de Bambou Sacré, Quantity: 20
+  - ID: 13726 / Conque Marine, Quantity: 2
+  - ID: 14278 / Chaînes Brisées, Quantity: 2
+  - ID: 1773 / Bout de Blop Reinette, Quantity: 1
+  - ID: 8356 / Peau de Dragueuse, Quantity: 1
+  - ID: 13716 / Bec de Vilain Petit Tofu, Quantity: 1
+  - ID: 13698 / Houpette de Koalak Sanguin, Quantity: 1
+  - ID: 13736 / Furoncle de la Mama Bwork, Quantity: 1
+EFFECTS:
+  - Efficacité : 70
+  - Objet pour enclos
+  - Utilisations restantes : 4500 / 4500
+IS WEAPON: False
+
+NAME : Abreuvoir de Fuji Givrefoux
+ID : 14714
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93017.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14698 / Essence de Fuji Givrefoux, Quantity: 1
+  - ID: 13727 / Crème à bronzer, Quantity: 2
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 2
+  - ID: 1775 / Bout de Blop Griotte, Quantity: 1
+  - ID: 8354 / Écaille de Dragoss Calcaire, Quantity: 1
+  - ID: 13724 / Patte de Tofu Dodu, Quantity: 1
+  - ID: 13697 / Poils de Guerrier Koalak, Quantity: 1
+  - ID: 13742 / Bandeau troué d'Eau, Quantity: 1
+EFFECTS:
+  - Efficacité : 150
+  - Objet pour enclos
+  - Utilisations restantes : 4500 / 4500
+IS WEAPON: False
+
+NAME : Foudroyeur du Kolosso
+ID : 14729
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 901 / Cuir du Cochon de Lait, Quantity: 2
+  - ID: 1889 / Plume de Crowneille, Quantity: 1
+  - ID: 2624 / Feuille de Tikoko, Quantity: 2
+  - ID: 14473 / Boulon Wabbit, Quantity: 1
+  - ID: 11248 / Oreille de Kaniglou, Quantity: 1
+  - ID: 11519 / Oreille de Gobosteur, Quantity: 1
+  - ID: 14697 / Essence du Kolosso, Quantity: 1
+  - ID: 18198 / Gâtrool, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Abreuvoir du Glourséleste
+ID : 14715
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93017.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14700 / Essence du Glourséleste, Quantity: 1
+  - ID: 13487 / Serviette de Plage, Quantity: 2
+  - ID: 13730 / Graine de la Discorde, Quantity: 2
+  - ID: 1770 / Bout de Blop Coco, Quantity: 1
+  - ID: 8362 / Peau de Dragnarok, Quantity: 1
+  - ID: 13718 / Cendres de Tofutoflamme, Quantity: 1
+  - ID: 13700 / Couche usagée de Warko Violet, Quantity: 1
+  - ID: 13740 / Bandeau troué de Terre, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 9000 / 9000
+IS WEAPON: False
+
+NAME : Dragofesse d'Ombre
+ID : 14976
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14975 / Essence d'Ombre, Quantity: 1
+  - ID: 14457 / Patte de Black Wabbit, Quantity: 2
+  - ID: 8752 / Bulbe Morito, Quantity: 2
+  - ID: 290 / Champignon, Quantity: 1
+  - ID: 1614 / Œil d'Abrakne, Quantity: 1
+  - ID: 8059 / Poils de Koalak Griotte, Quantity: 1
+  - ID: 1894 / Poil de Gliglitch, Quantity: 1
+  - ID: 18562 / Dent de Cycloporth, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Foudroyeur de Grolloum
+ID : 14727
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2150 / Graine de Scorbute, Quantity: 1
+  - ID: 2484 / Trident Cassé, Quantity: 2
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+  - ID: 398 / Fruit de Palme, Quantity: 2
+  - ID: 8322 / Poil de Troolléolé, Quantity: 1
+  - ID: 11238 / Queue d'Écumouth, Quantity: 1
+  - ID: 11527 / Peau d'Ouilleur, Quantity: 1
+  - ID: 14699 / Essence de Grolloum, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Caresseur de Barbéryl Clochecuivre
+ID : 27452
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93102.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 27451 / Essence de Barbéryl Clochecuivre, Quantity: 1
+  - ID: 27434 / Armure de Blindur, Quantity: 1
+  - ID: 27433 / Poils de barbe de Marteau-Aigri, Quantity: 2
+  - ID: 18732 / Os de Nemroz, Quantity: 1
+  - ID: 14922 / Masque du Vide, Quantity: 1
+  - ID: 11893 / Lamelle de Mérulette, Quantity: 1
+  - ID: 11232 / Plume du Mansot Royal, Quantity: 1
+  - ID: 11922 / Manubrium de Wolvero, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 3600 / 3600
+IS WEAPON: False
+
+NAME : Foudroyeur du Comte Razof
+ID : 19922
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93072.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 901 / Cuir du Cochon de Lait, Quantity: 2
+  - ID: 2315 / Poils de Croc Gland, Quantity: 1
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 13731 / Pierre Médicinale, Quantity: 1
+  - ID: 11241 / Poils de Smilomouth, Quantity: 1
+  - ID: 11525 / Péroné du Marôdeur, Quantity: 1
+  - ID: 18198 / Gâtrool, Quantity: 1
+  - ID: 19913 / Essence du Comte Razof, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Dragofesse du Glourséleste
+ID : 14753
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14700 / Essence du Glourséleste, Quantity: 1
+  - ID: 14466 / Bandeau de Black Wabbit Squelette, Quantity: 2
+  - ID: 8751 / Bulbe Passaoh, Quantity: 2
+  - ID: 2528 / Ongle de Kanigrou, Quantity: 1
+  - ID: 1610 / Roue de Tivelo, Quantity: 1
+  - ID: 8084 / Peau de Piralak, Quantity: 1
+  - ID: 2513 / Étoffe de Gliglidoudur, Quantity: 1
+  - ID: 18564 / Patte de Masticroc, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Caresseur de Fuji Givrefoux
+ID : 14767
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93102.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14698 / Essence de Fuji Givrefoux, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 386 / Groin de Sanglier, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 2509 / Dent de Larve Champêtre, Quantity: 1
+  - ID: 2607 / Trukikol Mort, Quantity: 1
+  - ID: 18362 / Moustaches de Cactoblongo, Quantity: 1
+  - ID: 11938 / Cuir de Glouragan, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes : 3600 / 3600
+IS WEAPON: False
+
+NAME : Dragofesse de Grolloum
+ID : 14755
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93084.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14699 / Essence de Grolloum, Quantity: 1
+  - ID: 14462 / Os de Wabbit Squelette, Quantity: 2
+  - ID: 8730 / Coccyx du Corailleur, Quantity: 2
+  - ID: 1890 / Poil de Vétauran, Quantity: 1
+  - ID: 1611 / Bourgeon de Pirolienne, Quantity: 1
+  - ID: 8061 / Poils de Koalak Reinette, Quantity: 1
+  - ID: 2516 / Défense de Gliglicérin, Quantity: 1
+  - ID: 18564 / Patte de Masticroc, Quantity: 1
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Mangeoire du Kolosso
+ID : 14782
+TYPE : Objet d'élevage
+LEVEL : 185
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93028.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 391 / Noix de Cajou, Quantity: 2
+  - ID: 439 / Canine de Mergranlou, Quantity: 1
+  - ID: 3002 / Botte trouée de Mégabwork, Quantity: 1
+  - ID: 13736 / Furoncle de la Mama Bwork, Quantity: 1
+  - ID: 8832 / Bave du Kaskargo, Quantity: 1
+  - ID: 11250 / Poil de Chachachovage, Quantity: 1
+  - ID: 14697 / Essence du Kolosso, Quantity: 1
+  - ID: 16167 / Lamelle de Champa Rouge, Quantity: 2
+EFFECTS:
+  - Efficacité : 90
+  - Objet pour enclos
+  - Utilisations restantes :  /
+IS WEAPON: False
+
+NAME : Caresseur de Tal Kasha
+ID : 19930
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93103.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 19916 / Essence de Tal Kasha, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 394 / Noisette, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 2509 / Dent de Larve Champêtre, Quantity: 1
+  - ID: 2607 / Trukikol Mort, Quantity: 1
+  - ID: 18362 / Moustaches de Cactoblongo, Quantity: 1
+  - ID: 11942 / Antenne de Gloursaya, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Foudroyeur de Klime
+ID : 14730
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93076.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2315 / Poils de Croc Gland, Quantity: 1
+  - ID: 2484 / Trident Cassé, Quantity: 2
+  - ID: 2559 / Crinière de Troollaraj, Quantity: 1
+  - ID: 2624 / Feuille de Tikoko, Quantity: 2
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+  - ID: 11247 / Oreille percée du Fricochère, Quantity: 1
+  - ID: 11521 / Œil de Sapeur, Quantity: 1
+  - ID: 14703 / Essence de Klime, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Abreuvoir de Corruption
+ID : 22178
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93090.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 21515 / Essence de Corruption, Quantity: 1
+  - ID: 13726 / Conque Marine, Quantity: 2
+  - ID: 13730 / Graine de la Discorde, Quantity: 2
+  - ID: 1773 / Bout de Blop Reinette, Quantity: 1
+  - ID: 8355 / Écaille de Dragoss Argile, Quantity: 1
+  - ID: 13719 / Plumeau de Tofuzmo, Quantity: 1
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 1
+  - ID: 13742 / Bandeau troué d'Eau, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : 6250 / 6250
+IS WEAPON: False
+
+NAME : Mangeoire d'Anerice la Shushess
+ID : 19932
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93093.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 409 / Poils de Barbe du Bwork Mage, Quantity: 2
+  - ID: 2578 / Œil de Cocholou, Quantity: 1
+  - ID: 3002 / Botte trouée de Mégabwork, Quantity: 1
+  - ID: 18733 / Flèche de Crâmbo, Quantity: 1
+  - ID: 8788 / Croupion du Bitouf aérien, Quantity: 1
+  - ID: 11253 / Étoffe de Rat Bougri, Quantity: 1
+  - ID: 16167 / Lamelle de Champa Rouge, Quantity: 2
+  - ID: 19912 / Essence d'Anerice la Shushess, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Répugnition / Répugnition
+IS WEAPON: False
+
+NAME : Dragofesse d'Ilyzaelle
+ID : 19929
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 19909 / Essence d'Ilyzaelle, Quantity: 1
+  - ID: 14462 / Os de Wabbit Squelette, Quantity: 2
+  - ID: 8751 / Bulbe Passaoh, Quantity: 2
+  - ID: 290 / Champignon, Quantity: 1
+  - ID: 1614 / Œil d'Abrakne, Quantity: 1
+  - ID: 8060 / Poils de Koalak Coco, Quantity: 1
+  - ID: 2511 / Cuir de Gliglibido, Quantity: 1
+  - ID: 18564 / Patte de Masticroc, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Répugnition / Répugnition
+IS WEAPON: False
+
+NAME : Dragofesse de Solar
+ID : 19928
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 19907 / Essence de Solar, Quantity: 1
+  - ID: 14466 / Bandeau de Black Wabbit Squelette, Quantity: 2
+  - ID: 8750 / Bulbe Malibout, Quantity: 2
+  - ID: 290 / Champignon, Quantity: 1
+  - ID: 2316 / Couteau de Roukouto, Quantity: 1
+  - ID: 8083 / Os de Pékeualak, Quantity: 1
+  - ID: 2513 / Étoffe de Gliglidoudur, Quantity: 1
+  - ID: 18565 / Peau de Trémorse, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Baffeur de Guerre
+ID : 22179
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93060.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2610 / Carapace Rouge, Quantity: 2
+  - ID: 6476 / Griffe de Robionicle, Quantity: 2
+  - ID: 2287 / Concombre, Quantity: 1
+  - ID: 8250 / Poil de Renarbo, Quantity: 1
+  - ID: 8780 / Sépale de Nerbe, Quantity: 1
+  - ID: 14924 / Masque de la Violence, Quantity: 1
+  - ID: 18369 / Queue de Scordion Bleu, Quantity: 1
+  - ID: 22128 / Essence de Guerre, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Mangeoire de Belladone
+ID : 27407
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93029.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 27405 / Essence de Belladone, Quantity: 1
+  - ID: 27403 / Fleur des protecteurs, Quantity: 2
+  - ID: 27397 / Liane de Soldalia, Quantity: 1
+  - ID: 26032 / Langue de Diabélial, Quantity: 1
+  - ID: 25176 / Spalière de Krâradia, Quantity: 1
+  - ID: 391 / Noix de Cajou, Quantity: 3
+  - ID: 15178 / Sourcil de Barbétoal, Quantity: 1
+  - ID: 17971 / Pince de Crabe Yoloniste, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Abreuvoir de Missiz Frizz
+ID : 14717
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93090.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14701 / Essence de Missiz Frizz, Quantity: 1
+  - ID: 13726 / Conque Marine, Quantity: 2
+  - ID: 13505 / Bourse Suspecte, Quantity: 2
+  - ID: 1770 / Bout de Blop Coco, Quantity: 1
+  - ID: 8354 / Écaille de Dragoss Calcaire, Quantity: 1
+  - ID: 13719 / Plumeau de Tofuzmo, Quantity: 1
+  - ID: 13698 / Houpette de Koalak Sanguin, Quantity: 1
+  - ID: 13738 / Bandeau troué de Feu, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : 6250 / 6250
+IS WEAPON: False
+
+NAME : Foudroyeur de Servitude
+ID : 22180
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93076.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 901 / Cuir du Cochon de Lait, Quantity: 2
+  - ID: 1889 / Plume de Crowneille, Quantity: 1
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+  - ID: 8322 / Poil de Troolléolé, Quantity: 1
+  - ID: 11241 / Poils de Smilomouth, Quantity: 1
+  - ID: 11521 / Œil de Sapeur, Quantity: 1
+  - ID: 22130 / Essence de Servitude, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Baffeur du Roi Imagami
+ID : 24140
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93060.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 24135 / Essence du Roi Imagami, Quantity: 1
+  - ID: 2486 / Coque Endommagée, Quantity: 2
+  - ID: 2609 / Carapace Verte, Quantity: 2
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+  - ID: 8250 / Poil de Renarbo, Quantity: 1
+  - ID: 7293 / Poils de Founamboul, Quantity: 1
+  - ID: 8779 / Carpelle de Brouture, Quantity: 1
+  - ID: 14923 / Masque de la Vengeance, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Dragofesse de la Reine Amirukam
+ID : 24141
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 24136 / Essence de la Reine Amirukam, Quantity: 1
+  - ID: 14459 / Moustaches de Tiwabbit, Quantity: 2
+  - ID: 8744 / Pince de Crustorail, Quantity: 2
+  - ID: 1890 / Poil de Vétauran, Quantity: 1
+  - ID: 1614 / Œil d'Abrakne, Quantity: 1
+  - ID: 8002 / Étoffe de Dok Alako, Quantity: 1
+  - ID: 2511 / Cuir de Gliglibido, Quantity: 1
+  - ID: 18565 / Peau de Trémorse, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Répugnition / Répugnition
+IS WEAPON: False
+
+NAME : Caresseur de la Reine des Voleurs
+ID : 15707
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93103.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 15704 / Essence de la Reine des Voleurs, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 386 / Groin de Sanglier, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1891 / Peau de serpentin, Quantity: 1
+  - ID: 2605 / Plume de Dostrogo, Quantity: 1
+  - ID: 18361 / Fleur de Cactiflore, Quantity: 1
+  - ID: 11938 / Cuir de Glouragan, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Baffeur de Dantinéa
+ID : 19926
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93060.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2482 / Charnière Cassée, Quantity: 2
+  - ID: 2611 / Carapace Jaune, Quantity: 2
+  - ID: 7301 / Étoffe de Kurookin, Quantity: 1
+  - ID: 8249 / Plume de Buveur, Quantity: 1
+  - ID: 8779 / Carpelle de Brouture, Quantity: 1
+  - ID: 14924 / Masque de la Violence, Quantity: 1
+  - ID: 18369 / Queue de Scordion Bleu, Quantity: 1
+  - ID: 19910 / Essence de Dantinéa, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Abreuvoir de Merkator
+ID : 14718
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93090.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 14706 / Essence de Merkator, Quantity: 1
+  - ID: 13727 / Crème à bronzer, Quantity: 2
+  - ID: 14278 / Chaînes Brisées, Quantity: 2
+  - ID: 1777 / Bout de Blop Indigo, Quantity: 1
+  - ID: 8355 / Écaille de Dragoss Argile, Quantity: 1
+  - ID: 13718 / Cendres de Tofutoflamme, Quantity: 1
+  - ID: 13697 / Poils de Guerrier Koalak, Quantity: 1
+  - ID: 13744 / Bandeau troué d'Air, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Dragofesse du roi Nidas
+ID : 15275
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 15272 / Essence du Roi Nidas, Quantity: 1
+  - ID: 14460 / Branche de Tiwabbit Kiafin, Quantity: 2
+  - ID: 8752 / Bulbe Morito, Quantity: 2
+  - ID: 1890 / Poil de Vétauran, Quantity: 1
+  - ID: 1610 / Roue de Tivelo, Quantity: 1
+  - ID: 8084 / Peau de Piralak, Quantity: 1
+  - ID: 2516 / Défense de Gliglicérin, Quantity: 1
+  - ID: 18562 / Dent de Cycloporth, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Foudroyeur de Larve de Koutoulou
+ID : 19924
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93076.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2301 / Moustache de Kolérat, Quantity: 1
+  - ID: 2484 / Trident Cassé, Quantity: 2
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 844 / Œuf de Dragoeuf Ardoise, Quantity: 1
+  - ID: 11238 / Queue d'Écumouth, Quantity: 1
+  - ID: 11533 / Œuf de Gobus, Quantity: 1
+  - ID: 18198 / Gâtrool, Quantity: 1
+  - ID: 19911 / Essence de la Larve de Koutoulou, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Répugnition / Répugnition
+IS WEAPON: False
+
+NAME : Abreuvoir de Kabahal
+ID : 25319
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93090.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 25318 / Essence de Kabahal, Quantity: 1
+  - ID: 13726 / Conque Marine, Quantity: 1
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 1
+  - ID: 1777 / Bout de Blop Indigo, Quantity: 1
+  - ID: 846 / Œuf de Dragoeuf Charbon, Quantity: 1
+  - ID: 13724 / Patte de Tofu Dodu, Quantity: 1
+  - ID: 8057 / Tibia de Koalak Fossoyeur, Quantity: 1
+  - ID: 13742 / Bandeau troué d'Eau, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Baffeur de Vortex
+ID : 16291
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93060.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2486 / Coque Endommagée, Quantity: 2
+  - ID: 2610 / Carapace Rouge, Quantity: 2
+  - ID: 7300 / Tête de lance de Fangshu, Quantity: 1
+  - ID: 8252 / Plume de Corbac Apprivoisé, Quantity: 1
+  - ID: 8780 / Sépale de Nerbe, Quantity: 1
+  - ID: 14925 / Masque de la Vivacité, Quantity: 1
+  - ID: 15734 / Essence de Vortex, Quantity: 1
+  - ID: 18368 / Écailles d'Ouroboulos, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Mangeoire de Misère
+ID : 22176
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93093.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 409 / Poils de Barbe du Bwork Mage, Quantity: 2
+  - ID: 2578 / Œil de Cocholou, Quantity: 1
+  - ID: 7030 / Peau de Krambwork, Quantity: 1
+  - ID: 18732 / Os de Nemroz, Quantity: 1
+  - ID: 8797 / Souche de l'Abrakleur clair, Quantity: 1
+  - ID: 11257 / Plume de Gélikan, Quantity: 1
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 22129 / Essence de Misère, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Foudroyeur du Comte Harebourg
+ID : 14731
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93076.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2275 / Cuir de Porkass, Quantity: 2
+  - ID: 2317 / Oreilles de Croc Gland, Quantity: 1
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 13731 / Pierre Médicinale, Quantity: 1
+  - ID: 8322 / Poil de Troolléolé, Quantity: 1
+  - ID: 11238 / Queue d'Écumouth, Quantity: 1
+  - ID: 11533 / Œuf de Gobus, Quantity: 1
+  - ID: 14705 / Essence du Comte Harebourg, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Répugnition / Répugnition
+IS WEAPON: False
+
+NAME : Foudroyeur de Dazak Martegel
+ID : 19923
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93076.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 901 / Cuir du Cochon de Lait, Quantity: 2
+  - ID: 1889 / Plume de Crowneille, Quantity: 1
+  - ID: 14473 / Boulon Wabbit, Quantity: 1
+  - ID: 398 / Fruit de Palme, Quantity: 2
+  - ID: 11241 / Poils de Smilomouth, Quantity: 1
+  - ID: 11527 / Peau d'Ouilleur, Quantity: 1
+  - ID: 18209 / Gratrooll, Quantity: 1
+  - ID: 19914 / Essence de Dazak Martegel, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Répugnition / Répugnition
+IS WEAPON: False
+
+NAME : Abreuvoir de Meno
+ID : 19919
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93090.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 19908 / Essence de Meno, Quantity: 1
+  - ID: 13487 / Serviette de Plage, Quantity: 2
+  - ID: 13339 / Sceau Royal Contrefait, Quantity: 2
+  - ID: 1773 / Bout de Blop Reinette, Quantity: 1
+  - ID: 8356 / Peau de Dragueuse, Quantity: 1
+  - ID: 13722 / Plume de Tofubine, Quantity: 1
+  - ID: 13700 / Couche usagée de Warko Violet, Quantity: 1
+  - ID: 13742 / Bandeau troué d'Eau, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : 6250 / 6250
+IS WEAPON: False
+
+NAME : Caresseur de l'Éternel Conflit
+ID : 26109
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93103.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 26041 / Essence de l'Éternel Conflit, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 407 / Pic de Prespic, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 648 / Aile de Bourdard, Quantity: 1
+  - ID: 2254 / Feuille de Fourbasse, Quantity: 1
+  - ID: 18361 / Fleur de Cactiflore, Quantity: 1
+  - ID: 11934 / Oreille d'Apériglours, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Baffeur de Sylargh
+ID : 14742
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93060.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2481 / Chaîne de Robot Fléau, Quantity: 2
+  - ID: 2609 / Carapace Verte, Quantity: 2
+  - ID: 2287 / Concombre, Quantity: 1
+  - ID: 8250 / Poil de Renarbo, Quantity: 1
+  - ID: 8778 / Étamine de Floribonde, Quantity: 1
+  - ID: 14702 / Essence de Sylargh, Quantity: 1
+  - ID: 14923 / Masque de la Vengeance, Quantity: 1
+  - ID: 18411 / Œil de Léolhyène, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Foudroyeur du Protozorreur
+ID : 15706
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93076.png
+DESCRIPTION : Cette terrifiante machine en bois est capable de lancer de petits foudroiements sur les créatures qui s'en approchent trop. À la fois très amusante à regarder en action, cette machine permet surtout d'augmenter l'endurance de vos montures en les obligeant à faire du sport.
+RECIPES:
+  - ID: 2150 / Graine de Scorbute, Quantity: 1
+  - ID: 2275 / Cuir de Porkass, Quantity: 2
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+  - ID: 844 / Œuf de Dragoeuf Ardoise, Quantity: 1
+  - ID: 11248 / Oreille de Kaniglou, Quantity: 1
+  - ID: 11525 / Péroné du Marôdeur, Quantity: 1
+  - ID: 15705 / Essence du Protozorreur, Quantity: 1
+  - ID: 18209 / Gratrooll, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Baffeur de Nileza
+ID : 14743
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93060.png
+DESCRIPTION : Cette machine mécanique est capable de distribuer des baffes bien méritées à vos montures. Elle était autrefois utilisée dans les écoles, lorsqu'il fallait apprendre à compter jusqu'à 5 aux jeunes Iops.
+RECIPES:
+  - ID: 2060 / Rune Ta Do Neutre, Quantity: 1
+  - ID: 2613 / Carapace Bleue, Quantity: 2
+  - ID: 6476 / Griffe de Robionicle, Quantity: 2
+  - ID: 2287 / Concombre, Quantity: 1
+  - ID: 8781 / Calice de Fécorce, Quantity: 1
+  - ID: 14704 / Essence de Nileza, Quantity: 1
+  - ID: 14922 / Masque du Vide, Quantity: 1
+  - ID: 18370 / Queue de Fennex, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Abreuvoir de Bethel Akarna
+ID : 19918
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93090.png
+DESCRIPTION : Cet abreuvoir permettra à votre future monture de se désaltérer ou de faire trempette pendant les saisons chaudes. Rempli d'eau et avec quelques potions magiques, il devrait aider votre monture durant sa croissance.
+RECIPES:
+  - ID: 19906 / Essence de Bethel Akarna, Quantity: 1
+  - ID: 13494 / Nageoire de Compétition, Quantity: 2
+  - ID: 13730 / Graine de la Discorde, Quantity: 2
+  - ID: 1775 / Bout de Blop Griotte, Quantity: 1
+  - ID: 8360 / Peau de Draguaindrop, Quantity: 1
+  - ID: 13716 / Bec de Vilain Petit Tofu, Quantity: 1
+  - ID: 8052 / Peau de Maître Koalak, Quantity: 1
+  - ID: 13740 / Bandeau troué de Terre, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Caresseur de Torkélonia
+ID : 21519
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93103.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 1690 / Sève de Frêne, Quantity: 2
+  - ID: 2509 / Dent de Larve Champêtre, Quantity: 1
+  - ID: 2253 / Fleur de Gloutovore, Quantity: 1
+  - ID: 11945 / Queue de Meliglours, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 21217 / Essence de Torkélonia, Quantity: 1
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 18361 / Fleur de Cactiflore, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+
+NAME : Mangeoire de Sylargh
+ID : 14784
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93093.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 438 / Queue du Mulou, Quantity: 1
+  - ID: 2273 / Tissu Pourpre, Quantity: 1
+  - ID: 3208 / Slip de Bwork Archer, Quantity: 2
+  - ID: 18731 / Bave de Brokouillon, Quantity: 1
+  - ID: 8797 / Souche de l'Abrakleur clair, Quantity: 1
+  - ID: 11254 / Pince de Crabe Hijacob, Quantity: 1
+  - ID: 14702 / Essence de Sylargh, Quantity: 1
+  - ID: 16168 / Lamelle de Champa Vert, Quantity: 2
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Répugnition / Répugnition
+IS WEAPON: False
+
+NAME : Mangeoire du Comte Harebourg
+ID : 14783
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93093.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 391 / Noix de Cajou, Quantity: 2
+  - ID: 439 / Canine de Mergranlou, Quantity: 1
+  - ID: 2647 / Oreille de Médibwork, Quantity: 1
+  - ID: 18730 / Queue de Chevrotine, Quantity: 1
+  - ID: 8787 / Cloaque du Poolay, Quantity: 1
+  - ID: 11257 / Plume de Gélikan, Quantity: 1
+  - ID: 14705 / Essence du Comte Harebourg, Quantity: 1
+  - ID: 16165 / Lamelle de Champa Bleu, Quantity: 2
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Mangeoire du Chalœil
+ID : 17740
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93093.png
+DESCRIPTION : Cette mangeoire devrait permettre à votre monture de ne pas mourir de faim, ou de vomir les friandises que vous lui donnerez. Elle servira à rendre un peu d'énergie à votre monture, lorsque cette dernière montrera quelques signes de faiblesse.
+RECIPES:
+  - ID: 291 / Morceau du Ménologium, Quantity: 1
+  - ID: 3001 / Épaulière de Bwork, Quantity: 2
+  - ID: 7030 / Peau de Krambwork, Quantity: 1
+  - ID: 18732 / Os de Nemroz, Quantity: 1
+  - ID: 8790 / Rembourrage de Meupette, Quantity: 1
+  - ID: 11250 / Poil de Chachachovage, Quantity: 1
+  - ID: 16166 / Lamelle de Champa Marron, Quantity: 2
+  - ID: 17735 / Essence du Chalœil, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Caresseur de Merkator
+ID : 14771
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93103.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14706 / Essence de Merkator, Quantity: 1
+  - ID: 13729 / Papier Charbon, Quantity: 2
+  - ID: 407 / Pic de Prespic, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 648 / Aile de Bourdard, Quantity: 1
+  - ID: 2253 / Fleur de Gloutovore, Quantity: 1
+  - ID: 18363 / String de Pampactus, Quantity: 1
+  - ID: 11945 / Queue de Meliglours, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : 5000 / 5000
+IS WEAPON: False
+
+NAME : Dragofesse de Klime
+ID : 14756
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14703 / Essence de Klime, Quantity: 1
+  - ID: 14460 / Branche de Tiwabbit Kiafin, Quantity: 2
+  - ID: 8749 / Bulbe Kouraçao, Quantity: 2
+  - ID: 2528 / Ongle de Kanigrou, Quantity: 1
+  - ID: 1611 / Bourgeon de Pirolienne, Quantity: 1
+  - ID: 8059 / Poils de Koalak Griotte, Quantity: 1
+  - ID: 1894 / Poil de Gliglitch, Quantity: 1
+  - ID: 18563 / Langue de Morsquale, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : Bienveillance de la Tofoune / Bienveillance de la Tofoune
+IS WEAPON: False
+
+NAME : Dragofesse de Missiz Frizz
+ID : 14757
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93082.png
+DESCRIPTION : Ce postérieur mécanique recouvert de cuir permet d'exciter la plus blasée des montures mâles. Il permet en outre de réveiller certains instincts maternels chez les montures femelles. Il semble également très bien fonctionner avec les Iops.
+RECIPES:
+  - ID: 14701 / Essence de Missiz Frizz, Quantity: 1
+  - ID: 14457 / Patte de Black Wabbit, Quantity: 2
+  - ID: 8730 / Coccyx du Corailleur, Quantity: 2
+  - ID: 2551 / Oreille de Foufayteur, Quantity: 1
+  - ID: 1610 / Roue de Tivelo, Quantity: 1
+  - ID: 8002 / Étoffe de Dok Alako, Quantity: 1
+  - ID: 1894 / Poil de Gliglitch, Quantity: 1
+  - ID: 18562 / Dent de Cycloporth, Quantity: 1
+EFFECTS:
+  - Efficacité : 110
+  - Objet pour enclos
+  - Utilisations restantes : Répugnition / Répugnition
+IS WEAPON: False
+
+NAME : Caresseur de Nileza
+ID : 14770
+TYPE : Objet d'élevage
+LEVEL : 195
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/93103.png
+DESCRIPTION : Cette surprenante machine est capable de caresser dans le sens du poil les montures qui s'en approchent afin de les rendre moins agressives.
+RECIPES:
+  - ID: 14704 / Essence de Nileza, Quantity: 1
+  - ID: 13489 / Miroir de Dopeul, Quantity: 2
+  - ID: 387 / Défense du Sanglier, Quantity: 2
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 1
+  - ID: 1771 / Souris verte, Quantity: 1
+  - ID: 2254 / Feuille de Fourbasse, Quantity: 1
+  - ID: 18359 / Parchemin de Cactana, Quantity: 1
+  - ID: 11936 / Poils de Boulglours, Quantity: 1
+EFFECTS:
+  - Efficacité : 200
+  - Objet pour enclos
+  - Utilisations restantes : 2500 / 2500
+IS WEAPON: False
+

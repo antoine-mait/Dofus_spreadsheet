@@ -1,0 +1,202 @@
+NAME : Sachet de Supers bonbons du Prospecteur
+ID : 21631
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42227.png
+DESCRIPTION : Si vous êtes prêt à prendre le risque de vous casser une dent n'hésitez pas à manger les bonbons qui se trouvent dans ce sachet. Ils sont au nombre de 20 et augmenteront votre prospection et votre vitalité pendant 1 combat.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Sachet de Supers bonbons du Sage
+ID : 21630
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42228.png
+DESCRIPTION : Si vous êtes prêt à prendre le risque de vous casser une dent n'hésitez pas à manger les bonbons qui se trouvent dans ce sachet. Ils sont au nombre de 20 et augmenteront votre sagesse et votre vitalité pendant 1 combat.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Sachet d'Aubergines
+ID : 16819
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180001.png
+DESCRIPTION : Ce sachet contient plusieurs aubergines.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Cendres Éternelles
+ID : 16820
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180002.png
+DESCRIPTION : Ce sachet contient plusieurs cendres éternelles.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Cerises
+ID : 16821
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180003.png
+DESCRIPTION : Ce sachet contient plusieurs cerises.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Citrons
+ID : 16822
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180004.png
+DESCRIPTION : Ce sachet contient plusieurs citrons.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Tonneau de Jus Goûtu
+ID : 16823
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180015.png
+DESCRIPTION : Ce tonneau contient plusieurs jus goûtus.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Tonneau d'Eau Potable
+ID : 16824
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180016.png
+DESCRIPTION : Ce tonneau contient plusieurs eaux potables.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet d'Épices
+ID : 16825
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180005.png
+DESCRIPTION : Ce sachet contient plusieurs épices.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Feuilles de Salace
+ID : 16826
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180006.png
+DESCRIPTION : Ce sachet contient plusieurs feuilles de salace.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Graisse Gélatineuse
+ID : 16827
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180007.png
+DESCRIPTION : Ce sachet contient plusieurs graisses gélatineuses.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Haricots
+ID : 16828
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180008.png
+DESCRIPTION : Ce sachet contient plusieurs haricots.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Tonneau d'Huile à Frire
+ID : 16829
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180017.png
+DESCRIPTION : Ce tonneau contient plusieurs huiles à frire.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Poivre
+ID : 16830
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180009.png
+DESCRIPTION : Ce sachet contient plusieurs mesures de poivre.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Sel
+ID : 16831
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180010.png
+DESCRIPTION : Ce sachet contient plusieurs mesures de sel.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet d'Oignons
+ID : 16832
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180011.png
+DESCRIPTION : Ce sachet contient plusieurs oignons.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Poudre de Perlinpainpain
+ID : 16833
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180012.png
+DESCRIPTION : Ce sachet contient plusieurs poudres de perlinpainpain.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Poudre Temporelle
+ID : 16834
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180013.png
+DESCRIPTION : Ce sachet contient plusieurs poudres temporelles.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sachet de Résine
+ID : 16835
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180014.png
+DESCRIPTION : Ce sachet contient plusieurs résines.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Tonneau de Sang de Scorbute
+ID : 16836
+TYPE : Conteneur
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/180018.png
+DESCRIPTION : Ce tonneau contient plusieurs sangs de Scorbute.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+

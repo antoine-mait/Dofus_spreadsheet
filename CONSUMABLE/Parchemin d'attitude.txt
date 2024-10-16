@@ -1,0 +1,2446 @@
+NAME : Lâcher les gaz
+ID : 1635
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre à lâcher les gaz, mais attention de ne pas trop en abuser... cela peut être dangereux pour votre santé et celle de vos amis. Quant à vos ennemis, un vent de panique va souffler sur eux, ils ne s'en relèveront pas.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Aura Spiritite
+ID : 29286
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25245.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'aura Spiritite.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Héritage du Forgelance
+ID : 28335
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25237.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Héritage du Forgelance.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fureur de Djaul
+ID : 27841
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25236.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Fureur de Djaul.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Maniement de la lance
+ID : 27838
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25235.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Maniement de la lance.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gel de Brumaire
+ID : 27681
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25229.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Gel de Brumaire.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Quiétude de Maïmane
+ID : 27633
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25228.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Quiétude de Maïmane.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Mercenaire
+ID : 27449
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25227.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Mercenaire.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Manifestation de Raval
+ID : 27422
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25226.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Manifestation de Raval.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Maturation de Pouchecot
+ID : 27390
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25225.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Maturation de Pouchecot.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Baiser d'Hécate
+ID : 27380
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25224.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Baiser d'Hécate.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Pointer du doigt
+ID : 7413
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Pointer du doigt, pour indiquer une direction ou dénoncer ouvertement les tricheurs.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Mégaltération
+ID : 27198
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25220.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Mégaltération.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Danse de Barbi Cajob
+ID : 27108
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25221.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Danse de Barbi Cajob.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capture
+ID : 27099
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25219.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Capture.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Team Croquette
+ID : 27098
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25218.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Team Croquette.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Opulence de Sumens
+ID : 27095
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25223.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Opulence de Sumens.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Plante grimpante de Rosal
+ID : 27057
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25217.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Plante grimpante de Rosal.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Tire sur mon doigt
+ID : 26874
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25216.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Tire sur mon doigt.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Souffle dégivrant de Silouate
+ID : 26817
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25215.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Souffle dégivrant de Silouate.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Dragon Ocre
+ID : 26801
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25214.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Dragon Ocre.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shariva
+ID : 26702
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25212.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Shariva.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Tonnerre grondant d'Ulgrude
+ID : 26697
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25213.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Tonnerre grondant d'Ulgrude.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Cycle de Silvosse
+ID : 26307
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25211.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Cycle de Silvosse.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Lance glacée de Jiva
+ID : 26282
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25210.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Lance glacée de Jiva.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Faire du ski
+ID : 26213
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25208.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Faire du ski.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Casse-Noisette
+ID : 26116
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25207.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Casse-Noisette.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Avalanche de quêtes
+ID : 26108
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25206.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Avalanche de quêtes.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter Solary
+ID : 26098
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25205.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter Solary.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter Emperor
+ID : 26097
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25204.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter Emperor.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Étendard du Clan Téa
+ID : 25939
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25202.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Étendard du Clan Téa.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Appel de la pluie
+ID : 25935
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25203.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Appel de la pluie.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Téméraire
+ID : 12248
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24681.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Iop.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sylvestre
+ID : 12250
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24692.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Sadida.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Criminel
+ID : 12252
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24684.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Sram.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Être Frigorifié
+ID : 12283
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Être Frigorifié.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Super Héros
+ID : 12286
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Super Héros.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Se mettre en colère
+ID : 12287
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Se mettre en colère.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Saluer
+ID : 12288
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Saluer.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : S'allonger
+ID : 12289
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude S'allonger.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : S'agenouiller
+ID : 12290
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude S'agenouiller.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Rire
+ID : 12291
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Rire.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Refuser
+ID : 12292
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Refuser.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Pleurer
+ID : 12293
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Pleurer.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Pierre Feuille Ciseaux
+ID : 12294
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre les attitudes Pierre, Feuille et Ciseaux.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+  - Attitude 0
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Offrir un cadeau
+ID : 12295
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Offrir un cadeau.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Montrer son arme
+ID : 12296
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Montrer son arme.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Montrer sa peur
+ID : 12297
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Montrer sa peur.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Manolias
+ID : 12299
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Manolias.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Mains sur les hanches
+ID : 12301
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Mains sur les hanches.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Jouer de la trompette
+ID : 12303
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Jouer de la trompette.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Jouer de la flûte
+ID : 12306
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Jouer de la flûte.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fleurs
+ID : 12308
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Fleurs.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Faire un signe de la main
+ID : 12309
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Faire un signe de la main.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Faire un bisou
+ID : 12310
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Faire un bisou.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Croiser les bras
+ID : 12312
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Croiser les bras.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Applaudir
+ID : 12315
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Applaudir.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Trace de pneu
+ID : 12320
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Trace de pneu.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Joie
+ID : 12322
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24688.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Joie.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Lire un livre
+ID : 12323
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Lire un livre. Vous pourrez ainsi feuilleter avec classe les pages de l'Almanax.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Lever le pouce
+ID : 12324
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Lever le pouce.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Baisser le pouce
+ID : 12326
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Baisser le pouce.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Sautiller
+ID : 12328
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Sautiller.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Jouer du Tambour
+ID : 12329
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Jouer du Tambour.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Bâiller
+ID : 12331
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Bâiller. À chaque fois que vous ouvrirez la bouche, chacun pourra constater votre dévotion envers Ancestrotek, le Méryde de la Fatigue.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Faire coucou
+ID : 12334
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Faire coucou.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Manolias
+ID : 12349
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Manolias.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Trace
+ID : 12353
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : (Double clic pour apprendre cette attitude)
+Ce parchemin vous permet d'apprendre à marcher là où il ne faut pas, à vos dépens. De quoi faire rire votre entourage à moindre frais.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Avoir froid
+ID : 13368
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Avoir froid : vous pourrez rafraîchir l'ambiance grâce au souffle d'Inooni, le Méryde du Givre.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Se prosterner
+ID : 13369
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Se prosterner. Vous pourrez adopter cette position devant les autels du sanctuaire de l'Almanax, ou devant le chef de votre guilde si vous êtes du genre lèche-bottes.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Avoir chaud
+ID : 13370
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Avoir chaud : nul doute que Troyle, Méryde des Bouffées de chaleur, appréciera de vous voir rouge comme une Gelée Fraise.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Gonfler ses muscles
+ID : 13371
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Gonfler ses muscles. Vous allez enfin pouvoir impressionner Eltruteht, le Méryde de la Musculature, et montrer vos biceps aux gringalets d'Astrub.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Lire une carte
+ID : 13372
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Lire une carte. Sad, le Méryde du Sens de l'orientation, vous a montré la voie. Sans lui, vous auriez perdu la boussole.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Poing levé
+ID : 13418
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Poing levé.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Pied de nez
+ID : 13419
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Pied de nez.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Attirer l'attention
+ID : 13420
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Attirer l'attention
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Motus
+ID : 13421
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Motus.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Se frotter les mains
+ID : 13422
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Se frotter les mains.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Halouine
+ID : 13467
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : (Double clic pour apprendre cette attitude)
+Ce parchemin vous permet de la secouer dans le noir pour la faire briller. Ça fonctionne aussi en pleine lumière mais ça a moins d'effet. Nous parlons bien sûr d'une tête de citwouille.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Piou
+ID : 13506
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Piou : les adeptes de Mylka l'utilisent lorsqu'ils s'élancent du haut des falaises, juste avant de s'écraser lamentablement en contrebas.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Encourager
+ID : 13507
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Encourager. Totot, le Méryde de l'enthousiasme, vous invite à manifester votre joie dès que vous en avez l'occasion, alors n'hésitez pas à sauter partout pour motiver les troupes ! Youpiii !
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Écrire
+ID : 13626
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24682.png
+DESCRIPTION : Ce parchemin vous permettra d'apprendre l'attitude Écrire. On n'attend pas de vous le niveau d'Acidrik Fenlapanse, mais essayez d'écrire autre chose que du Bwork, pour une fois.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Longue-Vue
+ID : 14269
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Longue-Vue. En scrutant l'horizon avec votre lunette, vous aurez toujours une longueur d'avance sur vos ennemis, que vous soyez un adepte d'Olvido ou un disciple de Malava.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Snap
+ID : 25794
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25199.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Snap.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Découpage
+ID : 25793
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25200.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Découpage.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Animorphose
+ID : 25792
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25201.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Animorphose.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Météore
+ID : 25771
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25198.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Météore.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Possédé
+ID : 25352
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73045.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal des Possédés.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fête du Slip
+ID : 25253
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25197.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Fête du Slip.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Charmeur de Cooleuvre
+ID : 25247
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25196.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Charmeur de Cooleuvre.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Danse Krosmique
+ID : 25236
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25195.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Danse Krosmique.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Minouki Pudu
+ID : 25231
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73040.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du Minouki Pudu.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Minouki Delukuse
+ID : 25230
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73040.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du Minouki Delukuse.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Minouki Kojite
+ID : 25229
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73040.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du Minouki Kojite.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Minouki Boalatas
+ID : 25228
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73040.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du Minouki Boalatas.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Minouki Neko
+ID : 25227
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73040.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du Minouki Neko.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Roulette
+ID : 25116
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25194.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Roulette.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Jackpot
+ID : 25115
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25193.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Jackpot.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Lancer un dé
+ID : 25114
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25192.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Lancer un dé.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Guerrier
+ID : 24998
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25191.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Guerrier
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Offrir un Gâteau
+ID : 14812
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permettra d'apprendre l'attitude Offrir un Gâteau. Voilà une délicieuse attention qui ravira même la plus aigrie des Mamas Bwork.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Huer
+ID : 14871
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Huer.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Ola
+ID : 14872
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Ola.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Boxer
+ID : 14873
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Boxer.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Agiter le drapeau blanc
+ID : 14875
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Agiter le drapeau blanc.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Cracheur de feu
+ID : 14876
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Cracheur de feu.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Origami
+ID : 24174
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25190.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Origami
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Mains derrière le dos
+ID : 15209
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Mains derrière le dos.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Ouvrir un portail de poche
+ID : 15211
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Ouvrir un portail de poche.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Localiser un portail
+ID : 15214
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Localiser un portail.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Loupe
+ID : 15231
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Loupe.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Supplier
+ID : 15232
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supplier.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Se frapper le front
+ID : 15233
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Se frapper le front.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Chercher un trésor
+ID : 15234
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Chercher un trésor.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Richissime
+ID : 15312
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24683.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Enutrof.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Souffle de Virizeon
+ID : 23808
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Souffle de Virizeon.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Samouraï
+ID : 23718
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25187.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Samouraï.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Yugo
+ID : 23691
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73039.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de Yugo.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Explosif
+ID : 15606
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24685.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Roublard.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Siffler
+ID : 15884
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24687.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Siffler.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Danser
+ID : 15885
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24686.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Danser.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Kamarena
+ID : 15888
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24689.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Kamarena.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Pwâk
+ID : 23092
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73038.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de Pwâk.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Intemporel
+ID : 15987
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24690.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Xélor.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Transcendant
+ID : 16132
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24691.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Eliotrope.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Colère de Bolgrot
+ID : 16242
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Colère de Bolgrot.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Vaporeux
+ID : 16344
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24693.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Steamer.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Disparition
+ID : 22503
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25184.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Disparition.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Balai magique
+ID : 22502
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25185.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Balai magique.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sorti du chapeau
+ID : 22501
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25186.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Sorti du chapeau.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Dernier Espoir
+ID : 22308
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25183.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Dernier Espoir.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Anniversaire
+ID : 21868
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25179.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Anniversaire.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Ankarton
+ID : 21867
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25180.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Ankarton.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Sauvage
+ID : 21795
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25181.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Sauvage.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Rêver
+ID : 21768
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25182.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Rêver.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Moon
+ID : 21484
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73037.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de Moon.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Crocabulia
+ID : 21213
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25178.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Crocabulia.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Aura musicale
+ID : 21182
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25177.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'Aura musicale.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Chanter
+ID : 21179
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25176.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Chanter.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Guitare électromagique
+ID : 21178
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25175.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Guitare électromagique.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Signe du Shushu
+ID : 21177
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25174.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Signe du Shushu.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Agiter ses cheveux
+ID : 21176
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25173.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Agiter ses cheveux.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Danse du trool
+ID : 21175
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25172.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Danse du trool.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Selfie
+ID : 21145
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25171.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Selfie.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coeur brisé
+ID : 20993
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Coeur brisé.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Saut de Wapin
+ID : 20992
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Saut de Wapin.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : J'ai trop mangé
+ID : 20991
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude J'ai trop mangé.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : J'ai faim
+ID : 20990
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude J'ai faim.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Anomalie
+ID : 20988
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25170.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Anomalie.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Insectoïde
+ID : 20798
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25169.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Insectoïde.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Ça cadence
+ID : 20467
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25168.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Ça cadence.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Dragombre
+ID : 20425
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25166.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Dragombre.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Carnaval
+ID : 20386
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25165.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Carnaval.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Ola
+ID : 20384
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25167.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Ola.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Garde-à-vous
+ID : 17020
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Garde-à-vous.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Balistique
+ID : 17063
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24694.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Crâ.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Pêcheur
+ID : 17064
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24695.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de métier Pêcheur.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : S'abriter sous un parasol
+ID : 17087
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24696.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude S'abriter sous un parasol.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter OV S3
+ID : 20018
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24626.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter OV S3.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter Out of Control S3
+ID : 20017
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24620.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter Out of Control S3.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter Batailleurs Glorieux S3
+ID : 20016
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24618.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter Batailleurs Glorieux S3.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter Millenium S3
+ID : 20015
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24616.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter Millenium S3.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter GamersOrigin S3
+ID : 20014
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24617.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter GamersOrigin S3.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Dragosaure
+ID : 19996
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24625.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Dragosaure.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Attitude 0
+IS WEAPON: False
+
+NAME : Supporter Out of Control S2
+ID : 19621
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24620.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter Out of Control.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter Free Bowisse S2
+ID : 19620
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24619.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter Free Bowisse.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter Batailleurs Glorieux S2
+ID : 19619
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24618.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter Batailleurs Glorieux.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter GamersOrigin S2
+ID : 19618
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24617.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter GamersOrigin.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Supporter Millenium S2
+ID : 19617
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24616.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Supporter Millenium.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Pandawa
+ID : 19578
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73035.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de la déesse Pandawa.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Xélor
+ID : 19577
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73034.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du dieu Xélor.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Sram
+ID : 19576
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73033.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du dieu Sram.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Enutrof
+ID : 19575
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73032.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du dieu Enutrof.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Osamodas
+ID : 19574
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73031.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du dieu Osamodas.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Éthylique
+ID : 17420
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24697.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Pandawa.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Sadida
+ID : 19573
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73030.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du dieu Sadida.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Élémentaire
+ID : 17453
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24698.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Huppermage.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Duelliste
+ID : 17526
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24699.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Duelliste.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Sacrieur
+ID : 19572
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73029.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de la déesse Sacrieur.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Féca
+ID : 19571
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73028.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de la déesse Féca.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Déployer les ailes bontariennes
+ID : 17535
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Déployer les ailes bontariennes.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Déployer les ailes brâkmariennes
+ID : 17536
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Déployer les ailes brâkmariennes.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Coup fatal Crâ
+ID : 19570
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73027.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de la déesse Crâ.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Chanceux
+ID : 17661
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24700.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Ecaflip.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sanguinolent
+ID : 17730
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24703.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Sacrieur.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Eniripsa
+ID : 19569
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73026.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de la déesse Eniripsa.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Ecaflip
+ID : 19568
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73025.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du dieu Ecaflip.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Rushu
+ID : 19567
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73024.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de Rushu.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Bienfaisant
+ID : 17859
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24701.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Eniripsa.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Psychotique
+ID : 17999
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24702.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Zobal.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Animal
+ID : 18224
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24704.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Osamodas.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Indestructible
+ID : 18242
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24705.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Féca.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Iop
+ID : 18338
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73036.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal du dieu Iop.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gonfler un ballon
+ID : 18478
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24707.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Gonfler un ballon.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Expérimenter
+ID : 18479
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24710.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Expérimenter.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coucou
+ID : 18480
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24711.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Coucou.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Se boucher les oreilles
+ID : 18481
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24712.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Se boucher les oreilles.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Grougaloragran
+ID : 18491
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73020.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de Grougaloragran.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Joris
+ID : 18492
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73021.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de Joris.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Goultard
+ID : 18493
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73022.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal de Goultard.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coup fatal Otomaï
+ID : 18494
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73023.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre le coup fatal d'Otomaï.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Enragé
+ID : 18649
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24622.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude spéciale de la classe Ouginak.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Guilde victorieuse
+ID : 18655
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24624.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Guilde victorieuse.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Coupe Dofus
+ID : 18796
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24623.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Coupe Dofus.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Magmatique
+ID : 19094
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24976.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Magmatique.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gladiateur
+ID : 19095
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24975.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Gladiateur.
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Zombique
+ID : 19159
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24988.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude Zombique.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Attitude 0
+IS WEAPON: False
+
+NAME : . . . . .
+ID : 19296
+TYPE : Parchemin d'attitude
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous permet d'apprendre l'attitude . . . . ..
+RECIPES: None
+EFFECTS:
+  - Attitude 0
+  - Lié au personnage
+IS WEAPON: False
+

@@ -1,0 +1,2278 @@
+NAME : Perlequin Indigo
+ID : 21085
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42213.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la chance de 50 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Barbapapa
+ID : 30513
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42249.png
+DESCRIPTION : L'idéal pour voir la vie en rose bonbon !
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Shigekax Citron
+ID : 989
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42023.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon au citron préparé de façon traditionnelle.
+RECIPES: None
+EFFECTS:
+  - Rend 40 points d'énergie
+IS WEAPON: False
+
+NAME : Shigekax Fraise
+ID : 990
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42025.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon à la fraise préparé de façon traditionnelle.
+RECIPES: None
+EFFECTS:
+  - Rend 30 points d'énergie
+IS WEAPON: False
+
+NAME : Shigekax Menthe
+ID : 991
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42024.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon à la menthe préparé de façon traditionnelle.
+RECIPES: None
+EFFECTS:
+  - Rend 80 points d'énergie
+IS WEAPON: False
+
+NAME : Shigekax Cerise
+ID : 992
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42019.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon à la cerise préparé de façon traditionnelle.
+RECIPES: None
+EFFECTS:
+  - Rend 20 points d'énergie
+IS WEAPON: False
+
+NAME : Part de gâteau d'anniversaire
+ID : 30113
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136136.png
+DESCRIPTION : Joooyeux aaanniversaiiire, jooooyeux aaanniversaiiire, jooooyeux aaanniversaiiire Dofuuus, jooooyeux aaanniversaiiiiire !
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Bonbon de Consolation
+ID : 2332
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42135.png
+DESCRIPTION : Ce bonbon vous a permis de ne pas pleurer.
+RECIPES: None
+EFFECTS:
+  - 5 Vie
+IS WEAPON: False
+
+NAME : Bonbon Rouge Surpuissant
+ID : 2333
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42136.png
+DESCRIPTION : Ce bonbon augmentera votre attention lors des combats. Pas de chance, il a vraiment un goût immonde. (DOUBLE CLIC POUR UTILISER, bonus de 20 en sagesse et de 10 en Prospection pour les 30 prochains combats).
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Médaille en Chocolat
+ID : 29386
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42248.png
+DESCRIPTION : Après toutes vos aventures, vous avez bien mérité une pause ! Faites une trêve, et croquez dans cette succulente médaille pour arborer un teint chocodoré du plus bel effet.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Perlequin Idolâtré à la Praline
+ID : 28509
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42219.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la sagesse de 50 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Idolâtré à la Pomme
+ID : 28503
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42218.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la prospection de 25 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Idolâtré à la Mirabelle
+ID : 28502
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42215.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la prospection de 100 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Idolâtré à la Banane
+ID : 28501
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42208.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la sagesse de 25 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Idolâtré à l'Amande
+ID : 28500
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42207.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la prospection de 50 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Idolâtré Acidulé
+ID : 28499
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42206.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la sagesse de 100 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Booden glace
+ID : 6643
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42143.png
+DESCRIPTION : Cette délicieuse glace est fabriquée artisanalement par la petite ferme Booden qui essaye d'imposer la boo dans tous les desserts glacés.
+RECIPES: None
+EFFECTS:
+  - 30 Vie
+IS WEAPON: False
+
+NAME : Cône Wayal
+ID : 6644
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42144.png
+DESCRIPTION : Cette glace s'inspire du très célèbre chapeau du Wa pour sa partie supérieure, ce qui donne un effet assez réussi.
+RECIPES: None
+EFFECTS:
+  - 25 Vie
+IS WEAPON: False
+
+NAME : Glace Bontarienne
+ID : 6646
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42145.png
+DESCRIPTION : Cette glace, subtil mélange de deux parfums fruités, montre « tout le savoir-faire des anges »... Enfin, si l'on en croit la boîte.
+RECIPES: None
+EFFECTS:
+  - 20 Vie
+IS WEAPON: False
+
+NAME : Magma Brâkmarien
+ID : 6647
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42146.png
+DESCRIPTION : Cette glace associant le croquant à la douceur montre « encore une fois la supériorité de Brâkmar »... Enfin, si l'on en croit la boîte.
+RECIPES: None
+EFFECTS:
+  - 15 Vie
+IS WEAPON: False
+
+NAME : Sucette Tofu
+ID : 6666
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42147.png
+DESCRIPTION : Cette délicieuse sucette est aromatisée aux extraits de Tofus. Un régal pour vos papilles, un cataclysme pour votre haleine.
+RECIPES: None
+EFFECTS:
+  - 4 à 6 Vie
+IS WEAPON: False
+
+NAME : Sucette Trool
+ID : 6667
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42148.png
+DESCRIPTION : Une sucette qui a vraiment du goût et qui est surtout interminable. À consommer entre amis de préférence.
+RECIPES: None
+EFFECTS:
+  - 31 à 60 Vie
+IS WEAPON: False
+
+NAME : Frites de Tournesol Sauvage
+ID : 6670
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42151.png
+DESCRIPTION : Ces frites sont découpées dans des tiges de Tournesol Sauvage, puis elles sont cuites dans l'huile de Tournesol Sauvage bouillante, histoire qu'elles se sentent un peu comme chez elles, lorsqu'elles sont en train de frire.
+RECIPES: None
+EFFECTS:
+  - Rend 31 à 60 points d'énergie
+IS WEAPON: False
+
+NAME : Boules du Minotoboule
+ID : 6963
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/12143.png
+DESCRIPTION : Ces énormes boules sont vraiment délicieuses. Vous n'en verrez pas le bout tout de suite, mais qu'importe.
+RECIPES: None
+EFFECTS:
+  - Rend 1500 points d'énergie
+  - 15 Vie
+IS WEAPON: False
+
+NAME : Dofus au lait
+ID : 7124
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42027.png
+DESCRIPTION : Cet œuf de Dofus possède un pouvoir hors-pair, celui de vous faire saliver de bonheur.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Dofus au chocolat blanc
+ID : 7125
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42028.png
+DESCRIPTION : Cet œuf ressemblant à un Dofus possède un pouvoir hors-pair, celui de vous faire saliver de bonheur.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Panda au chocolat
+ID : 7129
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42031.png
+DESCRIPTION : Vous croyez que c'est la saveur du chocolat qui fait tout le charme de cette friandise ? Goûtez une ouassingue au chocolat, vous comprendrez la différence.
+RECIPES: None
+EFFECTS:
+  - 1 à 2000 Vie
+IS WEAPON: False
+
+NAME : Carré de Chocolat au Lait
+ID : 7147
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42032.png
+DESCRIPTION : Ce chocolat au lait de bambou est un délice pour les enfants, les parents, les grands-parents, et même les beaux-parents.
+RECIPES: None
+EFFECTS:
+  - Rend 10 points d'énergie
+  - 10 Vie
+IS WEAPON: False
+
+NAME : Carré de Chocolat Blanc
+ID : 7148
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42033.png
+DESCRIPTION : Si blanc, si bon. Oummm... à croquer avec modération pour garder des dents en bonne santé.
+RECIPES: None
+EFFECTS:
+  - Rend 10 points d'énergie
+  - 10 Vie
+IS WEAPON: False
+
+NAME : Carré de Chocolat Noir
+ID : 7149
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42034.png
+DESCRIPTION : Extrait du cacao brut, ce carré de chocolat en sublime la saveur. Attention à ne pas en abuser sous peine de problème de digestion.
+RECIPES: None
+EFFECTS:
+  - Rend 10 points d'énergie
+  - 10 Vie
+IS WEAPON: False
+
+NAME : Flan à la morve
+ID : 27200
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69768.png
+DESCRIPTION : Un délicieux dessert cuisiné à la main et au nez coulant, d'après la recette traditionnelle du père Dukrass améliorée par le chef Gobuchon.
+À consommer sans modération, surtout si vous voulez avoir une tête de Gobichon et terroriser vos petits camarades afin de piquer leur goûter à la récré.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Bonbon du Sage
+ID : 7802
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42136.png
+DESCRIPTION : Ce bonbon permet d'augmenter la sagesse de 100 points pendant 30 combats.
+(Attention, vous ne pouvez utiliser qu'un seul bonbon en même temps, si votre personnage en consomme plusieurs, leurs effets ne seront pas cumulés)
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Bonbon du Chanceux
+ID : 7803
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42135.png
+DESCRIPTION : Ce bonbon permet d'augmenter la prospection de 100 points pendant 30 combats.
+(Attention, vous ne pouvez utiliser qu'un seul bonbon en même temps, si votre personnage en consomme plusieurs, leurs effets ne seront pas cumulés)
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Bonbon Energétique
+ID : 7804
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42137.png
+DESCRIPTION : Ce bonbon permet de regagner une grande quantité d'énergie après un effort important.
+RECIPES: None
+EFFECTS:
+  - Rend 5000 points d'énergie
+IS WEAPON: False
+
+NAME : Super Sablé Yé
+ID : 27091
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42241.png
+DESCRIPTION : Ce super sablé intemporel fera le bonheur des aventuriers possédant l'attracteur correspondant. À consommer sans modération.
+RECIPES: None
+EFFECTS:
+  - 100 Vie
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Tofukwâp éphémère
+ID : 26811
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42147.png
+DESCRIPTION : Après avoir dégusté cette friandise, vous serez suivi par un petit tofu au mauvais caractère. N'ayez crainte, il prendra la fuite au premier combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Œuf de piou
+ID : 8525
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69038.png
+DESCRIPTION : Les œufs de pious sont un vrai régal pour les amateurs de friandises. Cependant, ils éclosent très vite lorsqu'ils sont proches d'une source de chaleur. C'est pourquoi, il faut éviter de les laisser traîner dans sa poche ou dans sa bouche car au bout de quelques minutes un mini piou peut sortir de sa coquille. Avoir un piou affamé coincé entre vos dents ou se faufilant dans vos vêtements peut vous chatouiller le palais ou d'autres parties plus intimes de votre anatomie.
+RECIPES: None
+EFFECTS:
+  - 1 à 3 Vie
+IS WEAPON: False
+
+NAME : Piment confit
+ID : 8694
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42111.png
+DESCRIPTION : Ce piment confit est enrobé de bonbon rouge surpuissant fondu. Ce mélange explosif entre la confiserie et le piment a permis à la dragodinde Bruyère Blonde, de gagner une des plus célèbres courses de Dragokart. Vous pouvez l'utiliser comme suppositoire si vous voulez avoir le feu aux fesses ou comme dragée si vous recherchez une haleine chargée.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Caramel
+ID : 8948
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42023.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon au caramel préparé de façon traditionnelle.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Banane
+ID : 8949
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42023.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon à la banane préparé de façon traditionnelle.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Orange
+ID : 8950
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42023.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon à l'orange préparé de façon traditionnelle.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Poire
+ID : 8951
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42024.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon à la poire préparé de façon traditionnelle.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Pomme
+ID : 8952
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42019.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon à la pomme préparé de façon traditionnelle.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Chocolat
+ID : 8953
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42023.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon au chocolat préparé de façon traditionnelle.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Vanille
+ID : 8954
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42023.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon à la vanille préparé de façon traditionnelle. Hmm... Ce Shigekax vous parait particulièrement fondant sous la langue.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Melon
+ID : 8955
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42019.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan... avec ce bonbon au melon préparé de façon traditionnelle. Wow ! Ce Shigekax est certainement le meilleur que vous ayez goûté de votre vie.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Ballotin de chocolat
+ID : 9379
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42003.png
+DESCRIPTION : Ce petit paquet est à offrir à celle ou celui que vous aimez. Si vous n'aimez personne, vous êtes autorisé à le manger.
+RECIPES: None
+EFFECTS:
+  - 100 Vie
+  - Rend 100 points d'énergie
+IS WEAPON: False
+
+NAME : Shigekax Passion
+ID : 9472
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42004.png
+DESCRIPTION : Réputé pour ses vertus aphrodisiaques, ce bonbon doux et sucré est idéal comme cadeau à offrir à l'être aimé.
+RECIPES: None
+EFFECTS:
+  - 11 à 20 Vie
+IS WEAPON: False
+
+NAME : Shigekax Amande
+ID : 9635
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42036.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan, avec ce bonbon préparé de façon traditionnelle
+(Ce bonbon augmente la prospection de 30 points pendant 30 combats).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Reinette
+ID : 9636
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42037.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan, avec ce bonbon préparé de façon traditionnelle
+(Ce bonbon augmente la force de 50 points pendant 30 combats).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Griotte
+ID : 9637
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42038.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan, avec ce bonbon préparé de façon traditionnelle
+(Ce bonbon augmente l'intelligence de 50 points pendant 30 combats).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Indigo
+ID : 9638
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42039.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan, avec ce bonbon préparé de façon traditionnelle
+(Ce bonbon augmente la chance de 50 points pendant 30 combats).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Coco
+ID : 9639
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42040.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan, avec ce bonbon préparé de façon traditionnelle
+(Ce bonbon augmente l'agilité de 50 points pendant 30 combats).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Prune
+ID : 9640
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42041.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan, avec ce bonbon préparé de façon traditionnelle
+(Ce bonbon augmente la vitalité de 150 points pendant 30 combats).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Praline
+ID : 9641
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42042.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan, avec ce bonbon préparé de façon traditionnelle
+(Ce bonbon augmente la sagesse de 30 points pendant 30 combats).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Mirabelle
+ID : 9642
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42043.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan, avec ce bonbon préparé de façon traditionnelle
+(Ce bonbon augmente la prospection de 100 points pendant 30 combats).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Acidulé
+ID : 9643
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42044.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan, avec ce bonbon préparé de façon traditionnelle
+(Ce bonbon augmente la sagesse de 100 points pendant 30 combats).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Shigekax Kill Coos
+ID : 10677
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42024.png
+DESCRIPTION : Retrouvez la saveur et tout le charme des sucreries d'antan, avec ce bonbon préparé de façon traditionnelle
+(Ce bonbon augmente la prospection et la sagesse de 100 points pendant 20 combats).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Bonbon à la Menthe du Petit Prospecteur
+ID : 11687
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42153.png
+DESCRIPTION : Avant la glaciation, Laurent Gebleuh était souvent accompagné par son YeCh'Ti Georges. Georges était doux, Georges était frais, mais depuis la glaciation, Georges est surtout devenu encombrant. C'est pour cette raison que Laurent Gebleuh lui préfère les bonbons à la menthe.
+Ce bonbon augmente votre Prospection de 25 pendant 10 combats.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Bonbon à la Menthe du Prospecteur
+ID : 11688
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42152.png
+DESCRIPTION : Avant la glaciation, Laurent Gebleuh était souvent accompagné par son YeCh'Ti Georges. Georges était doux, Georges était frais, mais depuis la glaciation, Georges est surtout devenu encombrant. C'est pour cette raison que Laurent Gebleuh lui préfère les bonbons à la menthe.
+Ce bonbon augmente votre Prospection de 50 pendant 15 combats.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Bonbon à la Menthe du Petit Apprenti
+ID : 11689
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42155.png
+DESCRIPTION : Avant la glaciation, Laurent Gebleuh était souvent accompagné par son YeCh'Ti Georges. Georges était doux, Georges était frais, mais depuis la glaciation, Georges est surtout devenu encombrant. C'est pour cette raison que Laurent Gebleuh lui préfère les bonbons à la menthe.
+Ce bonbon augmente votre Sagesse de 25 pendant 10 combats.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Bonbon à la Menthe de l'Apprenti
+ID : 11690
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42154.png
+DESCRIPTION : Avant la glaciation, Laurent Gebleuh était souvent accompagné par son YeCh'Ti Georges. Georges était doux, Georges était frais, mais depuis la glaciation, Georges est surtout devenu encombrant. C'est pour cette raison que Laurent Gebleuh lui préfère les bonbons à la menthe.
+Ce bonbon augmente votre Sagesse de 50 pendant 15 combats.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Bûche de Nowel rassie
+ID : 12186
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42156.png
+DESCRIPTION : Cette bûche sera facilement consumée par le feu qui brûle dans votre estomac.
+RECIPES: None
+EFFECTS:
+  - 76 à 150 Vie
+IS WEAPON: False
+
+NAME : Bonbon de Renaissance du Sage
+ID : 12194
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42136.png
+DESCRIPTION : Ce bonbon permet d'augmenter la sagesse de 100 points pendant 10 combats.
+(Attention, vous ne pouvez utiliser qu'un seul bonbon en même temps, si votre personnage en consomme plusieurs, leurs effets ne seront pas cumulés)
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Bonbon de Renaissance du Chanceux
+ID : 12196
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42136.png
+DESCRIPTION : Ce bonbon permet d'augmenter la prospection de 100 points pendant 10 combats.
+(Attention, vous ne pouvez utiliser qu'un seul bonbon en même temps, si votre personnage en consomme plusieurs, leurs effets ne seront pas cumulés)
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Bonbon de Nowel
+ID : 12205
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42136.png
+DESCRIPTION : Ce bonbon, gorgé de la magie de Nowel, augmente votre Prospection et votre Sagesse de 30 pendant 20 combats.
+(Attention, vous ne pouvez utiliser qu'un seul bonbon en même temps, si votre personnage en consomme plusieurs, leurs effets ne seront pas cumulés)
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Pique-nique Vulkain
+ID : 12609
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24882.png
+DESCRIPTION : Un panier-repas qui contient tout ce qu'il faut pour un pique-nique réussi dans la forêt : un fond de soupe au Plimok, plusieurs sandwichs au pâté de sable, une salade de saison touristique et un assortiment de fruits déconfits. Après un tel festin, vous pourrez faire une petite sieste à l'ombre des palmiers ! Prenez tout de même garde aux légions de fourmis sanguinaires qui pourraient passer par là.
+RECIPES: None
+EFFECTS:
+  - 1 à 10 Vie
+  - Rend 1 à 10 points d'énergie
+IS WEAPON: False
+
+NAME : Rations de Survie en Milieu Touristique
+ID : 12610
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33006.png
+DESCRIPTION : Ces rations au goût inimitable sont en fait de vieux morceaux de pain trempés dans l'huile de coude, puis roulés sous les aisselles. Elles se conservent très longtemps : il n'est pas rare qu'elles survivent à ceux qui les consomment.
+RECIPES: None
+EFFECTS:
+  - 1 à 5 Vie
+  - Rend 1 à 5 points d'énergie
+IS WEAPON: False
+
+NAME : Soupe au Plimok
+ID : 12611
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24824.png
+DESCRIPTION : Cette soupe typiquement vulkaine est préparée à partir d'un mélange d'épices, de cristaux de sels et de légumes pourris. Considérée comme immonde par le commun des mortels, elle est particulièrement revigorante pour l'organisme. Sa saveur est tellement prononcée qu'elle se consomme en toutes petites quantités : un fond de cuillère suffit pour un repas. En avaler davantage risque de provoquer des spasmes incontrôlables appelés plimokets.
+RECIPES: None
+EFFECTS:
+  - 1 à 5 Vie
+  - Rend 1 à 5 points d'énergie
+IS WEAPON: False
+
+NAME : Kipik en Chocolat
+ID : 12814
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42157.png
+DESCRIPTION : Vous avez toujours rêvé de vous dresser fièrement contre le vent d'hiver, le corps enduit de résine et d'épines ? En mangeant ce chocolat, vous en aurez enfin l'occasion.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Paquet Cadeau en Chocolat
+ID : 12817
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42158.png
+DESCRIPTION : Vous avez toujours rêvé de surgir d'un paquet géant au milieu d'une réception, vêtu d'un simple string du mulou ? En mangeant ce chocolat, vous en aurez enfin l'occasion.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Peluche en Chocolat
+ID : 12819
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42159.png
+DESCRIPTION : Vous avez toujours rêvé d'être câliné et cajolé comme la peluche de votre petite amie, la peau couverte de poils frisés ? En mangeant ce chocolat, vous en aurez enfin l'occasion.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Bonhomme de Neige en Sucre Glace
+ID : 12821
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42160.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Bonhomme de Neige. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Kanigrou Hivernal en Sucre Glace
+ID : 12823
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42161.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Kanigrou Hivernal. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Yiti des Neiges en Sucre Glace
+ID : 12825
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42162.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Yiti des Neiges. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Mini Nuit' en Sucre Glace
+ID : 12827
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42163.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Mini Nuit'. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Traîneau en Pain d'Épices
+ID : 12844
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42164.png
+DESCRIPTION : Dévorer cette friandise permet de profiter pleinement de la magie de Nowel : vous êtes transporté au milieu de la neige, vous prenez de l'embonpoint et vous devenez diabétique.
+Ne fonctionne que si vous possédez une Carte de Joyeux Nowel récente.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Bûche de Nowel
+ID : 12896
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42156.png
+DESCRIPTION : Cette bûche sera facilement consumée par le feu qui brûle dans votre estomac, mais la rumeur dit que le Wa Mage Balt Azaw en est très friand.
+RECIPES: None
+EFFECTS:
+  - 76 à 150 Vie
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Racines de Jean Gimbre
+ID : 13009
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24887.png
+DESCRIPTION : Passer ses journées à discuter avec des aventuriers tous plus bêtes les uns que les autres peut ramollir même le plus endurci des maris. Zézette utilise donc une recette à base de ces racines découvertes par le célèbre biologiste Jean Gimbre pour aider Félix à garder la forme lorsqu'il a un petit coup de mou.
+RECIPES: None
+EFFECTS:
+  - 51 à 100 Vie
+IS WEAPON: False
+
+NAME : Krokillage Rouge
+ID : 13222
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42165.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez l'apparence d'une dragoune rose jusqu'à ce que vous entriez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Krokillage Jaune
+ID : 13223
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42166.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez l'apparence d'une dragoune dorée jusqu'à ce que vous entriez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Bonbon d'Halouine
+ID : 13436
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42012.png
+DESCRIPTION : Ce bonbon était caché dans une boîte surprise de Trikortritt. Son goût unique (un savant mélange de citwouille, de cawotte et de jus de larve orange) en fait le délice des enfants, des parents et des dentistes.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sukette à la Fraise
+ID : 13444
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42011.png
+DESCRIPTION : Rien de tel qu'une bonne Sukette d'Halouine pour avoir les mêmes dents que ce dernier.
+Cette friandise augmentera votre intelligence en échange de vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sukette à la Pomme
+ID : 13446
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42010.png
+DESCRIPTION : Rien de tel qu'une bonne Sukette d'Halouine pour avoir les mêmes dents que ce dernier.
+Cette friandise augmentera votre force en échange de vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sukette au Citron
+ID : 13448
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42009.png
+DESCRIPTION : Rien de tel qu'une bonne Sukette d'Halouine pour avoir les mêmes dents que ce dernier.
+Cette friandise augmentera votre agilité en échange de vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Sukette à la Prune
+ID : 13450
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42008.png
+DESCRIPTION : Rien de tel qu'une bonne Sukette d'Halouine pour avoir les mêmes dents que ce dernier.
+Cette friandise augmentera votre chance en échange de vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Gumizes
+ID : 13452
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42007.png
+DESCRIPTION : Halouine gave son Dévhorreur de Gumizes pour le rendre plus puissant. Non seulement ça fonctionne, mais en plus sa gueule est tellement saturée en sucre et en bactéries cariogènes que la moindre de ses morsures peut faire tomber toutes vos dents d'un coup. Cette friandise augmentera grandement votre puissance en échange de vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Bonbon Zaï Planant
+ID : 13454
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42006.png
+DESCRIPTION : Ce Bonbon, interdit à la vente, est plein de psychotropes qui vous feront croire qu'une Chauffe-Soutrille vous suit. Idéal pour se faire une frayeur à chaque fois que l'on se retourne.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Bonbon Zaï Hallucinogène
+ID : 13456
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42005.png
+DESCRIPTION : Ce Bonbon, interdit à la vente, est plein de psychotropes qui vous feront croire qu'un Champêtrouille vous suit. Idéal pour se faire une frayeur à chaque fois que l'on se retourne.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Bonbon du Prospecteur
+ID : 13473
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42135.png
+DESCRIPTION : Ce bonbon vous donnera un bonus de 100 Prospection lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Bonbon du Formateur
+ID : 13475
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42136.png
+DESCRIPTION : Ce bonbon vous donnera un bonus de 100 Sagesse lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Beignet de Karnaval
+ID : 13509
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/10147.png
+DESCRIPTION : Vous avez trouvé ce beignet dans une Pochette-Surprise. Il a l'air délicieux. Soyez fou, oubliez votre régime et faites-vous plaisir ! Vous perdrez vos kilopods superflus lors du prochain Brak'Marathon.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Barre Rabmarac au Caramel
+ID : 13521
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42167.png
+DESCRIPTION : La légende dit que la recette de cette barre serait un secret gardé par le dieu Rabmarac lui-même. Nul ne résiste à son goût authentique, ni à l'humour ravageur de la blague qui figure à l'intérieur de l'emballage.
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+  - 10 Vie
+IS WEAPON: False
+
+NAME : Barre Rabmarac à la Fraise
+ID : 13522
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42168.png
+DESCRIPTION : Cette friandise fait rougir les joues des jeunes filles et semble très appréciée des garçons. Allez savoir pourquoi. Peut-être est-ce dû à la Rabmablague inscrite à l'intérieur de l'emballage, mais rien n'est moins sûr.
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+  - 10 Vie
+IS WEAPON: False
+
+NAME : Barre Rabmarac au Citron
+ID : 13523
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42169.png
+DESCRIPTION : À consommer sans modération quand on est pressé. Prenez tout de même le temps de lire la blague à l'intérieur de l'emballage, ce serait dommage de rater ça.
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+  - 10 Vie
+IS WEAPON: False
+
+NAME : Barre Rabmarac à l'Orange
+ID : 13524
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42170.png
+DESCRIPTION : On dit que ce savoureux bonbon est très apprécié du dieu Nitsougnal. Cet intérêt s'explique davantage à cause de sa couleur plutôt qu'à la présence d'une Rabmablague sur l'emballage.
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+  - 10 Vie
+IS WEAPON: False
+
+NAME : Barre Rabmarac au Kola
+ID : 13525
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42171.png
+DESCRIPTION : John Jemperson se serait inspiré de cette divine friandise pour concevoir le goût très particulier de son Cocalane. Le dieu Rabmarac n'est sans doute pas étranger au fait que la boisson soi-disant miraculeuse inventée par l'alchimiste n'était en fait qu'une mauvaise blague. Quoi qu'il en soit, si le goût de la barre au Kola a été imité, la Rabmablague qui figure à l'intérieur de l'emballage reste inimitable.
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+  - 10 Vie
+IS WEAPON: False
+
+NAME : Barre Rabmarac au Nougat
+ID : 13526
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42172.png
+DESCRIPTION : Ce bonbon est strictement réservé aux gardiens de donjon. Tout monstre ordinaire qui sera pris à en gober un sera abandonné dans l'arène à la merci d'aventuriers cruels et avides. Avant de trépasser, l'insouciante créature sera autorisée à lire la Rabmablague écrite à l'intérieur de l'emballage, histoire de rire un bon coup une dernière fois.
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+  - 20 Vie
+IS WEAPON: False
+
+NAME : Bouboule de Neige en Sucre Glace
+ID : 13613
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42173.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'une Bouboule de Neige. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Craqueleur des Glaces en Sucre Glace
+ID : 13614
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42174.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Craqueleur des Glaces. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Sakai Firefoux en Sucre Glace
+ID : 13615
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42175.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Sakai Firefoux. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Bouf'gomme au Goût Sauvage
+ID : 14014
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42176.png
+DESCRIPTION : Les adeptes de Kroketh mastiquent cette Bouf'gomme avant les matchs de Boufbowl afin d'augmenter leurs chances de gagner. Fabriquée à partir de viande séchée, de plantes aromatiques ainsi que de poils de fauve, cette friandise permet de mordre la vie et les fesses de vos adversaires à pleines dents. Accessoirement, elle donne également un bonus en Prospection.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Bouf'gomme à la Pêche
+ID : 14015
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42177.png
+DESCRIPTION : Les fidèles de Totot mâchent avec enthousiasme cette Bouf'gomme pendant les matchs de Boufbowl, car elle leur donne une pêche incroyable. Fabriquée à partir des meilleurs fruits, elle est garantie sans morceaux de noyaux. Elle donne également un bonus en Vitalité.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Bouf'gomme Fraîcheur Lavande
+ID : 14016
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42178.png
+DESCRIPTION : Les disciples de Khâm mâchouillent consciencieusement cette Bouf'gomme avant un match de Boufbowl afin de garder une haleine fraîche durant toute la durée de la rencontre. Une bouche saine et une hygiène irréprochable sont les moteurs du succès. De plus, cette friandise donne un bonus en Puissance.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Caillou d'Enutrof
+ID : 15355
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/51001.png
+DESCRIPTION : Trempé dans une bonne soupe, ce divin caillou fera de vous un divin prospecteur... temporairement du moins.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Phalange de Sram
+ID : 15580
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/47465.png
+DESCRIPTION : Dissous dans du vinaigre ou du mauvais vin, ce doigt osseux vous rendra encore plus fourbe que vous ne l'êtes déjà... temporairement du moins.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Sable de Xélor
+ID : 15965
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48292.png
+DESCRIPTION : Une pincée de sable de Xélor dans votre café du matin ne vous empêchera pas d'être en retard, mais elle vous rendra plus sage... temporairement du moins.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Sablé Yé
+ID : 23025
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42241.png
+DESCRIPTION : Ce petit sablé intemporel fera le bonheur des aventuriers possédant l'attracteur correspondant. À consommer sans modération.
+RECIPES: None
+EFFECTS:
+  - 50 Vie
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Sharivarise Caramel
+ID : 22554
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42240.png
+DESCRIPTION : Pour obtenir cette sucrerie, vous avez dû avoir un avant-goût du Tumulte, le vrai. Vous pouvez donc légitimement croiser les doigts pour que ce bonbon ait vraiment un goût de caramel.
+Cette friandise vous sharivera les papilles et vous donnera un bonus de 100 en Initiative lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sharivarise Prune
+ID : 22553
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42239.png
+DESCRIPTION : Pour obtenir cette sucrerie, vous avez dû avoir un avant-goût du Tumulte, le vrai. Vous pouvez donc légitimement croiser les doigts pour que ce bonbon ait vraiment un goût de prune.
+Cette friandise vous sharivera les papilles et vous donnera un bonus de 50 en Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sharivarise Griotte
+ID : 22552
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42238.png
+DESCRIPTION : Pour obtenir cette sucrerie, vous avez dû avoir un avant-goût du Tumulte, le vrai. Vous pouvez donc légitimement croiser les doigts pour que ce bonbon ait vraiment un goût de griotte.
+Cette friandise vous sharivera les papilles et vous donnera un bonus de 30 en Intelligence lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sharivarise Reinette
+ID : 22551
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42237.png
+DESCRIPTION : Pour obtenir cette sucrerie, vous avez dû avoir un avant-goût du Tumulte, le vrai. Vous pouvez donc légitimement croiser les doigts pour que ce bonbon ait vraiment un goût de reinette.
+Cette friandise vous sharivera les papilles et vous donnera un bonus de 30 en Force lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sharivarise Indigo
+ID : 22550
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42236.png
+DESCRIPTION : Pour obtenir cette sucrerie, vous avez dû avoir un avant-goût du Tumulte, le vrai. Vous pouvez donc légitimement croiser les doigts pour que ce bonbon ait vraiment un goût d'indigo.
+Cette friandise vous sharivera les papilles et vous donnera un bonus de 30 en Chance lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sharivarise Coco
+ID : 22549
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42235.png
+DESCRIPTION : Pour obtenir cette sucrerie, vous avez dû avoir un avant-goût du Tumulte, le vrai. Vous pouvez donc légitimement croiser les doigts pour que ce bonbon ait vraiment un goût de coco.
+Cette friandise vous sharivera les papilles et vous donnera un bonus de 30 en Agilité lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sharivarise Poire
+ID : 22548
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42234.png
+DESCRIPTION : Pour obtenir cette sucrerie, vous avez dû avoir un avant-goût du Tumulte, le vrai. Vous pouvez donc légitimement croiser les doigts pour que ce bonbon ait vraiment un goût de poire.
+Cette friandise vous sharivera les papilles et vous donnera un bonus de 25 en Puissance lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sharivarise Banane
+ID : 22547
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42233.png
+DESCRIPTION : Pour obtenir cette sucrerie, vous avez dû avoir un avant-goût du Tumulte, le vrai. Vous pouvez donc légitimement croiser les doigts pour que ce bonbon ait vraiment un goût de banane.
+Cette friandise vous sharivera les papilles et vous donnera un bonus de 20 en Sagesse lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Sharivarise Pomme
+ID : 22546
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42232.png
+DESCRIPTION : Pour obtenir cette sucrerie, vous avez dû avoir un avant-goût du Tumulte, le vrai. Vous pouvez donc légitimement croiser les doigts pour que ce bonbon ait vraiment un goût de pomme.
+Cette friandise vous sharivera les papilles et vous donnera un bonus de 20 en Prospection lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Super bonbon du Sage
+ID : 21627
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42226.png
+DESCRIPTION : Ce bonbon vous donnera un bonus de 100 Sagesse et de 150 Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Super bonbon du Prospecteur
+ID : 21626
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42197.png
+DESCRIPTION : Ce bonbon vous donnera un bonus de 100 Prospection et de 150 Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Gaufres
+ID : 21502
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/176022.png
+DESCRIPTION : Ch'est bon mais ch'est chaud !
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Flamiche au maroilles
+ID : 21498
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/176018.png
+DESCRIPTION : Ne vous fiez pas à l'odeur, ce plat est délicieux !
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Welch
+ID : 21489
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/176016.png
+DESCRIPTION : Ce mets simple remplira sa fonction première : vous remplir le ventre.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Perlequin Mangue
+ID : 21339
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42225.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la sagesse et la prospection de 100 points pendant 24 heures).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Pastèque
+ID : 21338
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42224.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la prospection de 100 points pendant 24 heures).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Ananas
+ID : 21337
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42223.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la sagesse de 100 points pendant 24 heures).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Vanille
+ID : 21094
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42222.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente les coups critiques de 5 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Reinette
+ID : 21093
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42221.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la force de 50 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Prune
+ID : 21092
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42220.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la vitalité de 150 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Praline
+ID : 21091
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42219.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la sagesse de 50 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Pomme
+ID : 21090
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42218.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la prospection de 25 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Poire
+ID : 21089
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42217.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente les dommages de 5 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Orange
+ID : 21088
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42216.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente les soins de 5 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Mirabelle
+ID : 21087
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42215.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la prospection de 100 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Melon
+ID : 21086
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42214.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente les points d'action de 1 point pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Pomme
+ID : 281
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42001.png
+DESCRIPTION : Cette pomme restaure quelques points de vie perdus. Posée sur la tête d'un ami, elle pourra vous servir de cible.
+RECIPES: None
+EFFECTS:
+  - 30 Vie
+IS WEAPON: False
+
+NAME : Perlequin Griotte
+ID : 21084
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42212.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente l'intelligence de 50 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Coco
+ID : 21083
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42211.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente l'agilité de 50 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Chocolat
+ID : 21082
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42210.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente les caractéristiques primaires de 15 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Caramel
+ID : 21081
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42209.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente l'initiative de 500 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Banane
+ID : 21080
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42208.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la sagesse de 25 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Amande
+ID : 21079
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42207.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la prospection de 50 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Perlequin Acidulé
+ID : 21078
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42206.png
+DESCRIPTION : Retrouvez la saveur et le charme des sucreries d'antan, avec cette perle sucrée préparée de façon traditionnelle.
+(Ce bonbon augmente la sagesse de 100 points pendant 60 minutes).
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Friandise Pralicienne
+ID : 21057
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42204.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Pralicienne. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Friandise Torréfactueur
+ID : 21056
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42203.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Torréfactueur. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Friandise Kwakao
+ID : 21055
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42202.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Kwakao. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Friandise Chocoskargo
+ID : 21054
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42201.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Chocoskargo. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Friandise Warkaïk
+ID : 21053
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42200.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Warkaïk. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Friandise Wadnozéam
+ID : 21052
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42199.png
+DESCRIPTION : En mangeant cette friandise, vous prendrez temporairement l'apparence d'un Wadnozéam. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Clochette ailée en chocolat
+ID : 21042
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42205.png
+DESCRIPTION : Dévorer cette friandise permet de profiter pleinement de la magie du chocolat : vous êtes transporté sur l'île de Pwâk.
+RECIPES: None
+EFFECTS:
+  - Téléporte
+IS WEAPON: False
+
+NAME : Bonbon béni de la Prêtresse des Douze
+ID : 20857
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24858.png
+DESCRIPTION : En avalant ce bonbon offert par la Prêtresse des douze en remerciement de vos services, vous serez sur un petit nuage.
+
+Ce bonbon augmentera votre puissance et votre Vitalité lors de vos cinq prochains combats.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Koukawa
+ID : 20796
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : Ce petit biscuit traditionnel de l'île de Pandala contient peut-être un message providentiel. Curieux comme vous l'êtes, vous décidez de le lécher pour identifier son goût.
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+IS WEAPON: False
+
+NAME : Koukawabi Prune Citron
+ID : 20782
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : À travers la coquille insipide de ce biscuit Pandawa, vous parvenez à lire les mots suivants : « La valeur d'un Roublard réside dans sa stratégie et non dans son courage. ».
+
+Goûter à ce biscuit augmentera votre Chance et votre Agilité en échange de Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Koukawabi Pomme Prune
+ID : 20781
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : À travers la coquille insipide de ce biscuit Pandawa, vous parvenez à lire les mots suivants : « Quand les ténèbres déçoivent, la lumière se rappelle. ». Vous sentez qu'on essaye de vous faire passer un message.
+
+Goûter à ce biscuit augmentera votre Force et votre Chance en échange de Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Koukawabi Pomme Citron
+ID : 20780
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : À travers la coquille insipide de ce biscuit Pandawa, vous parvenez à lire les mots suivants : « Le Krosmoz comprend un monde, que le monde ne saurait comprendre. ».
+
+Goûter à ce biscuit augmentera votre Force et votre Agilité en échange de Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Koukawabi Prune Fraise
+ID : 20779
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : À travers la coquille insipide de ce biscuit Pandawa, vous parvenez à lire les mots suivants : « Quand on combat aux côtés d'un disciple Iop, on apprend la bravoure ; quand on combat aux côtés d'un disciple Sram, on se sent bien seul. ».
+
+Goûter à ce biscuit augmentera votre Chance et votre Intelligence en échange de Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Koukawabi Pomme Fraise
+ID : 20778
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : À travers la coquille insipide de ce biscuit Pandawa, vous parvenez à lire les mots suivants : « Ceci n'est pas un proverbe. ». Ce message vous laisse perplexe.
+
+Goûter à ce biscuit augmentera votre Force et votre Intelligence en échange de Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Koukawabi Fraise Citron
+ID : 20777
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : À travers la coquille insipide de ce biscuit Pandawa, vous parvenez à lire les mots suivants : « Le héros qui lit ce message est un Iop ! ». Enfin quelqu'un qui vous estime à votre juste valeur.
+
+Goûter à ce biscuit augmentera votre Intelligence et votre Agilité en échange de Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Koukawa Prune
+ID : 20776
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : À travers la coquille insipide de ce biscuit Pandawa, vous parvenez à lire les mots suivants : « Qui sale sa plume, noircit sa page. ».
+
+Goûter à ce biscuit augmentera votre Chance en échange de Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Koukawa Pomme
+ID : 20775
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : À travers la coquille insipide de ce biscuit Pandawa, vous parvenez à lire les mots suivants : « Dofus plantus, nerfus sadidus. ». Ce biscuit a le goût des larmes de son auteur.
+
+Goûter à ce biscuit augmentera votre Force en échange de Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Koukawa Fraise
+ID : 20774
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : À travers la coquille insipide de ce biscuit Pandawa, vous parvenez à lire les mots suivants : « L'équilibre, c'est la classe. La réciproque n'est pas toujours vraie. ».
+
+Goûter à ce biscuit augmentera votre Intelligence en échange de Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Koukawa Citron
+ID : 20773
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164085.png
+DESCRIPTION : À travers la coquille insipide de ce biscuit Pandawa, vous parvenez à lire les mots suivants : « Un Kwak blanc sur un lac, c'est un signe ! ».
+
+Goûter à ce biscuit augmentera votre Agilité en échange de Vitalité lors de votre prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Mini part de bonheur
+ID : 19320
+TYPE : Friandise
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24978.png
+DESCRIPTION : En mangeant cette petite part de tarte dégoulinante de bonheur, vous prendrez temporairement l'apparence d'une minikrone. Ses effets disparaissent si vous entrez en combat.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Bûche de Frêne
+ID : 16927
+TYPE : Friandise
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42179.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16909 / Sève de Frêne, Quantity: 1
+EFFECTS:
+  - 20 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche de Châtaignier
+ID : 16928
+TYPE : Friandise
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42180.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16910 / Sève de Châtaignier, Quantity: 1
+  - ID: 400 / Orge, Quantity: 1
+EFFECTS:
+  - 30 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Sucre d'Orge
+ID : 2034
+TYPE : Friandise
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42128.png
+DESCRIPTION : En extrayant le sucre de la farine d'orge sucré on parvient à créer ce bonbon unique au goût magique.
+RECIPES:
+  - ID: 2032 / Orge en Sucre, Quantity: 1
+  - ID: 421 / Ortie, Quantity: 1
+EFFECTS:
+  - 30 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Plat d'accompagnement
+ID : 28353
+TYPE : Friandise
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69748.png
+DESCRIPTION : Il vaut mieux se nourrir seul que mal accompagné, d'où l'utilité de ce plat.
+RECIPES: None
+EFFECTS:
+  - 11 à 20 Vie
+IS WEAPON: False
+
+NAME : Bûche de Noyer
+ID : 16929
+TYPE : Friandise
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42181.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16911 / Sève de Noyer, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 400 / Orge, Quantity: 1
+EFFECTS:
+  - 50 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Blugely
+ID : 995
+TYPE : Friandise
+LEVEL : 54
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42022.png
+DESCRIPTION : Préparé à base de gelée bleue, même s'il a rebuté plus d'un végétarien, il n'en reste pas moins une des spécialités d'Amakna.
+RECIPES:
+  - ID: 757 / Gelée Bleuet, Quantity: 2
+EFFECTS:
+  - 11 à 20 Vie
+IS WEAPON: False
+
+NAME : Vertgely
+ID : 993
+TYPE : Friandise
+LEVEL : 56
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42021.png
+DESCRIPTION : Préparé à base de gelée menthe, même si il a rebuté plus d'un végétarien, il n'en reste pas moins une des spécialités d'Amakna.
+RECIPES:
+  - ID: 369 / Gelée à la Menthe, Quantity: 2
+EFFECTS:
+  - 16 à 25 Vie
+IS WEAPON: False
+
+NAME : Rougely
+ID : 994
+TYPE : Friandise
+LEVEL : 58
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42020.png
+DESCRIPTION : Préparé à base de gelée à la fraise, même si il a rebuté plus d'un végétarien, il n'en reste pas moins une des spécialités d'Amakna.
+RECIPES:
+  - ID: 368 / Gelée à la Fraise, Quantity: 2
+EFFECTS:
+  - 21 à 30 Vie
+IS WEAPON: False
+
+NAME : Multygely
+ID : 996
+TYPE : Friandise
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42026.png
+DESCRIPTION : La multygely a été interdite à la vente, car elle a provoqué la disparition de nombreux enfants.
+Il parait qu'elle envoie la personne qui la mange dans ses pires cauchemars.
+RECIPES:
+  - ID: 995 / Pierre de souillure bleue impure, Quantity: 4
+  - ID: 994 / Pâte à Tra Khben, Quantity: 2
+  - ID: 993 / Corde d'escalade, Quantity: 3
+EFFECTS:
+  - Téléporte
+IS WEAPON: False
+
+NAME : Bûche de Chêne
+ID : 16930
+TYPE : Friandise
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42182.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16912 / Sève de Chêne, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 533 / Avoine, Quantity: 1
+EFFECTS:
+  - 70 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche de Bombu
+ID : 16931
+TYPE : Friandise
+LEVEL : 70
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42183.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16913 / Sève de Bombu, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 533 / Avoine, Quantity: 1
+EFFECTS:
+  - 80 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche d'Érable
+ID : 16932
+TYPE : Friandise
+LEVEL : 80
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42184.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16914 / Sève d'Érable, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 401 / Houblon, Quantity: 1
+EFFECTS:
+  - 90 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche d'Oliviolet
+ID : 16933
+TYPE : Friandise
+LEVEL : 90
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42185.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16915 / Sève d'Oliviolet, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 401 / Houblon, Quantity: 1
+EFFECTS:
+  - 100 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bonbon Snik
+ID : 17534
+TYPE : Friandise
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42198.png
+DESCRIPTION : Ce bonbon à l'effigie de l'illustre Sniikzy a remporté tous les suffrages lors d'un concours de popularité.
+Cependant, la compagnie des artisans créateurs de bonbons acidulés, caustiques, aigrelets, piquants, corrosifs, brûlants, mordants et sardoniques (la fameuse CACBACAPCBMS) étant très attachée aux noms faciles à prononcer a souhaité faire preuve de bon goût jusqu'au bout et le renommer.
+RECIPES:
+  - ID: 311 / Eau Potable, Quantity: 1
+  - ID: 532 / Seigle, Quantity: 5
+  - ID: 1801 / Perche, Quantity: 1
+EFFECTS:
+  - 110 Vie
+IS WEAPON: False
+
+NAME : Bûche d'If
+ID : 16934
+TYPE : Friandise
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42186.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16916 / Sève d'If, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 423 / Lin, Quantity: 1
+EFFECTS:
+  - 110 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche de Bambou
+ID : 16935
+TYPE : Friandise
+LEVEL : 110
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42187.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16917 / Sève de Bambou, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 423 / Lin, Quantity: 1
+EFFECTS:
+  - 120 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche de Merisier
+ID : 16936
+TYPE : Friandise
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42188.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16918 / Sève de Merisier, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 532 / Seigle, Quantity: 1
+EFFECTS:
+  - 130 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche de Noisetier
+ID : 16937
+TYPE : Friandise
+LEVEL : 130
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42189.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16919 / Sève de Noisetier, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 532 / Seigle, Quantity: 1
+EFFECTS:
+  - 140 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche d'Ébène
+ID : 16938
+TYPE : Friandise
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42190.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16920 / Sève d'Ébène, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 405 / Malt, Quantity: 1
+EFFECTS:
+  - 150 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche de Kaliptus
+ID : 16939
+TYPE : Friandise
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42191.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16921 / Sève de Kaliptus, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 405 / Malt, Quantity: 1
+EFFECTS:
+  - 160 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Chiquette fortifiante du mercenaire
+ID : 27471
+TYPE : Friandise
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42245.png
+DESCRIPTION : Mâcher cette chiquette vous donnera un bon coup de fouet pendant quelque temps.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Chiquette vivifiante du mercenaire
+ID : 27470
+TYPE : Friandise
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42244.png
+DESCRIPTION : Mâcher cette chiquette vous donnera un bon coup de fouet pendant quelque temps.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Chiquette exaltante du mercenaire
+ID : 27469
+TYPE : Friandise
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42243.png
+DESCRIPTION : Mâcher cette chiquette vous donnera un bon coup de fouet pendant quelque temps.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Bûche de Charme
+ID : 16940
+TYPE : Friandise
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42192.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16922 / Sève de Charme, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 425 / Chanvre, Quantity: 2
+EFFECTS:
+  - 170 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche de Bambou Sombre
+ID : 16941
+TYPE : Friandise
+LEVEL : 170
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42193.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16923 / Sève de Bambou Sombre, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 425 / Chanvre, Quantity: 2
+EFFECTS:
+  - 180 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche d'Orme
+ID : 16942
+TYPE : Friandise
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42194.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16924 / Sève d'Orme, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 16454 / Maïs, Quantity: 2
+EFFECTS:
+  - 190 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche de Bambou Sacré
+ID : 16943
+TYPE : Friandise
+LEVEL : 190
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42195.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16925 / Sève de Bambou Sacré, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 16454 / Maïs, Quantity: 2
+EFFECTS:
+  - 200 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Bûche de Tremble
+ID : 16944
+TYPE : Friandise
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42196.png
+DESCRIPTION : Contrairement à l'élu de votre cœur, cette bûche est à la fois agréablement parfumée et bonne à déguster. Dommage que vous n'en fassiez qu'une bouchée. L'habitude, sans doute.
+RECIPES:
+  - ID: 16926 / Sève de Tremble, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 16456 / Millet, Quantity: 2
+EFFECTS:
+  - 210 Vie
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Sucre glace
+ID : 19952
+TYPE : Friandise
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/48292.png
+DESCRIPTION : Plus léger qu'un flocon de neige, le sucre glace est la preuve que l'hiver peut être doux et faire la joie des enfants.
+RECIPES: None
+EFFECTS:
+  - 30 Vie
+IS WEAPON: False
+
+NAME : Bonbon céleste
+ID : 24002
+TYPE : Friandise
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164862.png
+DESCRIPTION : Il n'y a pas de mots pour décrire le goût exquis de ce bonbon.
+RECIPES:
+  - ID: 23903 / Cristal pliable, Quantity: 5
+  - ID: 23902 / Cristal liquide, Quantity: 5
+  - ID: 23824 / Tulipe en papier, Quantity: 5
+  - ID: 23825 / Pichon d'encre, Quantity: 5
+EFFECTS:
+  - 301 à 500 Vie
+  - Rend 301 à 500 points d'énergie
+IS WEAPON: False
+

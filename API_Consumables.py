@@ -1,41 +1,39 @@
 import requests
+import os
 import sys
-import os 
 
-class DofusItemFetcher:
+class DofusConsumableFetcher:
     def __init__(self, base_url):
         self.base_url = base_url
 
-    def get_item(self, item_type, level_min, level_max):
+    def get_item(self, level_min, level_max):
         params = {
             "sort[level]": "asc",
-            "filter[type_enum]": item_type,
             "filter[min_level]": level_min,
             "filter[max_level]": level_max,
         }
-        
-        response = requests.get(f"{self.base_url}/dofus2/fr/items/equipment/all", params=params)
+        response = requests.get(f"{self.base_url}/dofus2/fr/items/consumables/all", params=params)
         if response.status_code == 200:
-            return response.json().get("items", [])
+            return (response.json().get("items", []))
+        
         else:
-            print(f"Error fetching items of type {item_type}: {response.status_code}, {response.text}")
+            print(f"Error fetching items of type: {response.status_code}, {response.text}")
             return []
 
-    def write_items_to_file(self, items, item_type):
+    def write_items_to_file(self, items, consumable_type):
         if not items:
-            print(f"No items to process for type {item_type}")
+            print(f"No items to process for type {consumable_type}")
             return
         
-        if not os.path.exists("ITEMS"):
-                os.makedirs("ITEMS")
-                print(f"Directory {"ITEMS"} created.")
-
-        item_titles = [item['type']['name'] for item in items]
-        item_title = item_titles[0].upper()
+        if not os.path.exists("CONSUMABLE"):
+                os.makedirs("CONSUMABLE")
+                print(f"Directory {"CONSUMABLE"} created.")
         
+        filtered_items = [item for item in items if item['type']['name'] == consumable_type]
+
         try:
-            with open(f"ITEMS/{item_title}_Item.txt", "w", encoding="utf-8") as file:
-                for item in items:
+            with open(f"CONSUMABLE/{consumable_type}.txt", "w", encoding="utf-8") as file:
+                for item in filtered_items:
                     self.write_item_details(file, item)
         except Exception as e:
             print(f"Error writing items to file: {e}")
@@ -51,12 +49,6 @@ class DofusItemFetcher:
         self.write_recipes(file, item.get("recipe", []))
         self.write_effects(file, item.get("effects", []))
         file.write(f"IS WEAPON: {item.get('is_weapon', False)}\n")
-
-        if "parent_set" in item:
-            file.write(f"PARENT SET ID: {item['parent_set']['id']}\n")
-            file.write(f"PARENT SET NAME: {item['parent_set']['name']}\n")
-        else:
-            file.write("PARENT SET: None\n")
 
         file.write("\n")
 
@@ -95,35 +87,11 @@ class DofusItemFetcher:
         else:
             file.write("EFFECTS: None\n")
 
-def main_item():
+def main_consumable():
     base_url = "https://api.dofusdu.de"
     filter_check = False
-    while not filter_check:
-        user_filter = input("""Choose the filter:
-hat
-cloak
-ring
-amulet
-sword
-staff
-wand
-boots
-shield
-belt
-trophy
-prysmaradite
-Dofus
-pet
-petsmount
-or type 'all': """)
-        if user_filter not in ["hat", "cloak", "ring", "amulet", "sword", "staff", 
-                                "wand", "boots", "shield", "belt", "trophy", 
-                                "prysmaradite", "Dofus", "pet", "petsmount", "all" ]:
-            print("Wrong Filter")
-        else:
-            filter_check = True
-    fetcher = DofusItemFetcher(base_url)
-    if user_filter.lower() != "all":
+    user_filter = input("Specific level or 'all' ? ")
+    if user_filter != "all":
         try:
             level_min = int(input('Choose min level (1-199): '))
             level_max = int(input('Choose max level (2-200): '))
@@ -133,22 +101,31 @@ or type 'all': """)
             if not (1 <= level_min <= 199) or not (2 <= level_max <= 200):
                 sys.exit("Level Min must be between 1 and 199, and Level Max must be between 2 and 200.")
         except ValueError:
-            sys.exit("Please enter valid integers for levels.")   
-
+            sys.exit("Please enter valid integers for levels.")
+    
     elif user_filter.lower() == "all":
         level_min = 1
         level_max = 200
-        item_types = [
-                    "Amulet", "Ring", "Boots", "Shield", 
-                    "Cloak", "Belt", "Hat", "Dofus", 
-                    "Trophy", "Prysmaradite", "Pet", "Petsmount"
-                     ]
-        for item_type in item_types:
-            items = fetcher.get_item(item_type, level_min, level_max)
-            fetcher.write_items_to_file(items, item_type)
-    else:
-        items = fetcher.get_item(user_filter, level_min, level_max)
-        fetcher.write_items_to_file(items, user_filter)
 
+    consumable_types = ['Bouataklône', "Pierre d'âme", 'Cadeau', 'Document', 
+                        'Figurine', 'Sac de ressources', 'Filet de capture', 
+                        "Parchemin d'ornement", 'Objet utilisable de Temporis', 
+                        "Pierre d'âme pleine", 'Bourse', "Parchemin d'attitude", 
+                        'Viande primitive', 'Tatouage de la Foire du Trool', 
+                        'Parchemin de sortilège', 'Potion', 'Mots de haïku', 
+                        'Potion de téléportation', 'Boîte de fragments', 'Ballon', 
+                        'Pierre magique', 'Friandise', 'Pain', 'Parchemin de caractéristique', 
+                        'Conteneur', 'Objet de dons', 'Poisson comestible', 'Parchemin de titre', 
+                        'Viande comestible', "Objet d'élevage", 'Prisme', "Fée d'artifice", "Potion d'attitude", 
+                        'Potion de monture', 'Popoche de Havre-Sac', "Parchemin d'émoticônes", 
+                        'Objet utilisable', 'Objet de mission', "Parchemin d'expérience", 'Mimibiote', 
+                        'Ressources obsolètes', 'Boisson', "Relique d'Incarnation", 'Bière', 'Coffre', 
+                        'Potion de conquête', 'Monture domptée']
+
+    fetcher = DofusConsumableFetcher(base_url)
+    items = fetcher.get_item(level_min, level_max)  # Fetch items only once
+    for consumable_type in consumable_types:  
+        fetcher.write_items_to_file(items, consumable_type)
+        
 if __name__ == "__main__":
-    main_item()
+    main_consumable()

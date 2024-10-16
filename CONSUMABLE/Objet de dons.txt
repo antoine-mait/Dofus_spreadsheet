@@ -1,0 +1,539 @@
+NAME : Parchemin de Courage
+ID : 2159
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14002.png
+DESCRIPTION : Ce parchemin vous permet d'améliorer votre Force, ce qui peut servir quand un Kanigrou enragé vous fonce dessus.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Parchemin Décourageant
+ID : 2160
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14004.png
+DESCRIPTION : Ce parchemin vous permet de réduire la Force d'une cible unique, ce qui peut servir quand un Kanigrou enragé fonce sur votre ennemi juré.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Parchemin de Souplesse
+ID : 2161
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14006.png
+DESCRIPTION : Ce parchemin vous permet d'améliorer votre Agilité, ce qui peut servir quand l'esquive du Meulou est impérative.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Parchemin de Raideur
+ID : 2162
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14005.png
+DESCRIPTION : Ce parchemin vous permet de réduire l'Agilité d'une cible unique, ce qui peut servir quand votre ennemi ne doit pas s'enfuir à l'approche du Meulou.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : La Force Divorce
+ID : 2197
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14013.png
+DESCRIPTION : Ces anneaux permettent de briser les liens sacrés du mariage.
+RECIPES: None
+EFFECTS:
+  - Divorcer le couple
+IS WEAPON: False
+
+NAME : Parchemin de Connaissance
+ID : 2198
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14007.png
+DESCRIPTION : Ce parchemin vous permet d'améliorer votre Intelligence, ce qui peut servir pour garder son calme face à deux Bworks.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Parchemin de Stupidité
+ID : 2199
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14008.png
+DESCRIPTION : Ce parchemin vous permet de réduire l'Intelligence d'une cible unique, ce qui peut servir quand votre ennemi est prêt à paniquer à l'approche de deux Bworks.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Parchemin de Modération
+ID : 2203
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14009.png
+DESCRIPTION : Ce parchemin vous permet d'améliorer votre Sagesse, ce qui peut servir pour arriver plus rapidement à la cheville de Dark Vlad.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Parchemin de Sénilité
+ID : 2204
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14010.png
+DESCRIPTION : Ce parchemin vous permet de réduire la Sagesse d'une cible unique, ce qui peut servir quand votre ennemi essaye d'arriver plus rapidement à la cheville de Dark Vlad.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Parchemin d'Aubaine
+ID : 2209
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14011.png
+DESCRIPTION : Ce parchemin vous permet d'améliorer votre Chance, ce qui peut servir pour trouver plus facilement un tofu dans une botte de foin.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Parchemin de Guigne
+ID : 2210
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14012.png
+DESCRIPTION : Ce parchemin vous permet de réduire la Chance d'une cible unique, ce qui peut servir quand votre ennemi tente de faire fortune.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Parchemin de Reflexes Surhumain
+ID : 2569
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14028.png
+DESCRIPTION : Ce Parchemin permet d'être plus vif pour le prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Parchemin de Reflexes Soushumains
+ID : 2570
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14029.png
+DESCRIPTION : Ce Parchemin permet d'être un brin inerte pour le prochain combat.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de résurrection de masse
+ID : 7496
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14060.png
+DESCRIPTION : Cette potion permet de ressusciter tous les alliés présents autour de vous.
+RECIPES: None
+EFFECTS:
+  - Ressuscite les alliés présents sur la carte
+IS WEAPON: False
+
+NAME : Potion de libération de masse
+ID : 7497
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14059.png
+DESCRIPTION : Cette potion permet de libérer les âmes de vos ennemis pour les renvoyer directement dans leur cimetière, sans leur permettre de pouvoir se faire ressusciter.
+RECIPES: None
+EFFECTS:
+  - Libère les âmes des ennemis
+IS WEAPON: False
+
+NAME : Petite potion de soin de masse
+ID : 7498
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14058.png
+DESCRIPTION : Cette potion permet de soigner tous les alliés présents sur la carte.
+RECIPES: None
+EFFECTS:
+  - 100 (PV rendus)
+IS WEAPON: False
+
+NAME : Potion de découverte
+ID : 9037
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14059.png
+DESCRIPTION : Cette potion permet de dévoiler les personnages invisibles de votre entourage.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Petite potion d'agression
+ID : 9038
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14032.png
+DESCRIPTION : Cette potion vous permet d'entrer dans une telle rage que vous attaquez automatiquement les ennemis qui s'approcheront trop près de vous.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion d'agression Moyenne
+ID : 9040
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14033.png
+DESCRIPTION : Cette potion vous permet d'entrer dans une telle rage que vous attaquez automatiquement les ennemis qui s'approcheront trop près de vous.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Grande potion d'agression
+ID : 9041
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14034.png
+DESCRIPTION : Cette potion vous permet d'entrer dans une telle rage que vous attaquez automatiquement les ennemis qui s'approcheront trop près de vous.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Puissante potion d'agression
+ID : 9042
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14036.png
+DESCRIPTION : Cette potion vous permet d'entrer dans une telle rage que vous attaquez automatiquement les ennemis qui s'approcheront trop près de vous.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Impressionnante potion d'agression
+ID : 9043
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14035.png
+DESCRIPTION : Cette potion vous permet d'entrer dans une telle rage que vous attaquez automatiquement les ennemis qui s'approcheront trop près de vous.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Iop
+ID : 9044
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14043.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Xélor
+ID : 9045
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14044.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Sadida
+ID : 9046
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14045.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Enutrof
+ID : 9047
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14046.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Eniripsa
+ID : 9048
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14047.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Féca
+ID : 9049
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14048.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Sram
+ID : 9050
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14049.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Osamodas
+ID : 9051
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14050.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Sacrieur
+ID : 9052
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14051.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Crâ
+ID : 9053
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14052.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Ecaflip
+ID : 9054
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14053.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Pandawa
+ID : 9055
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14054.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Brâkmarien
+ID : 9056
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14057.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de déguisement Bontarien
+ID : 9057
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14055.png
+DESCRIPTION : Avec cette potion vous pourrez prendre l'apparence de votre choix, même votre mère aura du mal à vous reconnaître.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de remouflage
+ID : 9558
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14073.png
+DESCRIPTION : Cette potion vous permet de révéler tous les personnages invisibles présents autour de vous.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Potion de camouflage total
+ID : 9869
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14074.png
+DESCRIPTION : Cette potion vous permet d'être invisible et de vous déplacer sans perdre votre invisibilité.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Potion de Pouflage
+ID : 9870
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14072.png
+DESCRIPTION : Cette potion magique vous transforme en poubelle. Si vous bougez, vous reprendrez votre apparence normale.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Potion de Toflage
+ID : 9882
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14061.png
+DESCRIPTION : Cette potion magique vous transforme en tonneau. Si vous bougez, vous reprendrez votre apparence normale.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Potion de Tombeflage
+ID : 9883
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14062.png
+DESCRIPTION : Cette potion magique vous transforme en tombe. Si vous bougez, vous reprendrez votre apparence normale.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Potion de Rocheflage
+ID : 9884
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14063.png
+DESCRIPTION : Cette potion magique vous transforme en rocher. Si vous bougez, vous reprendrez votre apparence normale.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Potion de Tabouflage
+ID : 9885
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14064.png
+DESCRIPTION : Cette potion magique vous transforme en tabouret. Si vous bougez, vous reprendrez votre apparence normale.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Potion de souflage
+ID : 9886
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14065.png
+DESCRIPTION : Cette potion magique vous transforme en souche. Si vous bougez, vous reprendrez votre apparence normale.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Potion de camouflage immobile
+ID : 9888
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14067.png
+DESCRIPTION : Cette potion vous rend invisible, mais vous perdrez votre invisibilité si vous vous déplacez.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Potion de libération
+ID : 9897
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14068.png
+DESCRIPTION : Cette potion permet de libérer l'âme d'un ennemi pour le renvoyer directement dans son cimetière, sans lui permettre de pouvoir se faire ressusciter.
+RECIPES: None
+EFFECTS:
+  - Libère une âme ennemie
+IS WEAPON: False
+
+NAME : Potion de soin de masse
+ID : 9898
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14071.png
+DESCRIPTION : Cette potion permet de soigner tous les alliés présents sur la carte.
+RECIPES: None
+EFFECTS:
+  - 200 (PV rendus)
+IS WEAPON: False
+
+NAME : Grande potion de soin de masse
+ID : 9899
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14069.png
+DESCRIPTION : Cette potion permet de soigner tous les alliés présents sur la carte.
+RECIPES: None
+EFFECTS:
+  - 400 (PV rendus)
+IS WEAPON: False
+
+NAME : Incroyable potion de soin de masse
+ID : 9900
+TYPE : Objet de dons
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14070.png
+DESCRIPTION : Cette potion permet de soigner tous les alliés présents sur la carte.
+RECIPES: None
+EFFECTS:
+  - 800 (PV rendus)
+IS WEAPON: False
+
+NAME : Parchemin de Camouflage
+ID : 2064
+TYPE : Objet de dons
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14001.png
+DESCRIPTION : Ce parchemin vous permet de vous camoufler au sein du décor, jusqu'à ce que vous rentriez en combat. Évitez les mouvements brusques et les bruits suspects si vous ne voulez pas être découvert...
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Sang de Phénix
+ID : 1741
+TYPE : Objet de dons
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14003.png
+DESCRIPTION : Ce sang de phénix permet de ramener un fantôme à la vie et de lui rendre quelques points d'énergie.
+RECIPES: None
+EFFECTS:
+  - Ressuscite la cible
+IS WEAPON: False
+
+NAME : Sang de Phénix de Grand Cru
+ID : 1742
+TYPE : Objet de dons
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14003.png
+DESCRIPTION : Ce sang de phénix permet de ramener un fantôme à la vie et de lui rendre une grande quantité d'énergie.
+RECIPES: None
+EFFECTS:
+  - Ressuscite la cible
+IS WEAPON: False
+

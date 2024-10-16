@@ -1,4 +1,5 @@
 import requests
+import os
 
 class DofusMountfetcher:
     def __init__(self, base_url):
@@ -23,6 +24,9 @@ class DofusMountfetcher:
             return
         
         mount_title = mount_type.upper()
+        if not os.path.exists("MOUNTS"):
+                os.makedirs("MOUNTS")
+                print(f"Directory {"MOUNTS"} created.")
         try:
             with open(f"MOUNTS/{mount_title}.txt", "w", encoding='utf-8') as file:
                 for mount in mounts:

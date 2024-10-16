@@ -1,0 +1,928 @@
+NAME : Pierre d'âme pleine
+ID : 7010
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85001.png
+DESCRIPTION : Cette pierre d'âme contient les âmes d'un groupe de monstres qui ne demandent qu'à revenir à la vie pour se venger de vous. Elle n'est cependant utilisable que dans les arènes prévues à cet effet, situées dans les grandes cités.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Mob l'Eponge
+ID : 10227
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 926 ()
+  - 928 ()
+  - 927 ()
+  - 924 ()
+  - 923 ()
+  - 922 ()
+  - 921 ()
+  - 920 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Bouftou Royal
+ID : 10228
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 147 ()
+  - 148 ()
+  - 148 ()
+  - 148 ()
+  - 101 ()
+  - 101 ()
+  - 101 ()
+  - 101 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Tournesol Affamé
+ID : 10229
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 31 ()
+  - 34 ()
+  - 46 ()
+  - 48 ()
+  - 78 ()
+  - 79 ()
+  - 799 ()
+  - 59 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Gelée Royale Bleue
+ID : 10230
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 58 ()
+  - 55 ()
+  - 55 ()
+  - 55 ()
+  - 429 ()
+  - 57 ()
+  - 56 ()
+  - 55 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Shin Larve
+ID : 10231
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 457 ()
+  - 412 ()
+  - 412 ()
+  - 414 ()
+  - 414 ()
+  - 413 ()
+  - 413 ()
+  - 456 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Scarabosse Doré
+ID : 10233
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 797 ()
+  - 795 ()
+  - 241 ()
+  - 240 ()
+  - 198 ()
+  - 194 ()
+  - 795 ()
+  - 795 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Bworkette
+ID : 10234
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 792 ()
+  - 53 ()
+  - 53 ()
+  - 74 ()
+  - 74 ()
+  - 53 ()
+  - 876 ()
+  - 876 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Dragon Cochon
+ID : 10235
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 113 ()
+  - 600 ()
+  - 600 ()
+  - 601 ()
+  - 601 ()
+  - 603 ()
+  - 603 ()
+  - 123 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Gelée Royale Menthe
+ID : 10236
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 85 ()
+  - 56 ()
+  - 56 ()
+  - 56 ()
+  - 429 ()
+  - 57 ()
+  - 56 ()
+  - 55 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Tofu Royal
+ID : 10237
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 382 ()
+  - 804 ()
+  - 808 ()
+  - 796 ()
+  - 796 ()
+  - 806 ()
+  - 808 ()
+  - 804 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Blop Coco Royal
+ID : 10238
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1184 ()
+  - 273 ()
+  - 1182 ()
+  - 1182 ()
+  - 1183 ()
+  - 1183 ()
+  - 1182 ()
+  - 1183 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Blop Griotte Royal
+ID : 10239
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1185 ()
+  - 275 ()
+  - 1182 ()
+  - 1182 ()
+  - 1183 ()
+  - 1183 ()
+  - 1182 ()
+  - 1183 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Blop Indigo Royal
+ID : 10240
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1186 ()
+  - 274 ()
+  - 1182 ()
+  - 1182 ()
+  - 1183 ()
+  - 1183 ()
+  - 1182 ()
+  - 1183 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Blop Reinette Royal
+ID : 10241
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1187 ()
+  - 276 ()
+  - 1182 ()
+  - 1182 ()
+  - 1183 ()
+  - 1183 ()
+  - 1182 ()
+  - 1183 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Rat Noir
+ID : 10242
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 447 ()
+  - 939 ()
+  - 936 ()
+  - 935 ()
+  - 935 ()
+  - 935 ()
+  - 937 ()
+  - 442 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Minotoror
+ID : 10244
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 121 ()
+  - 831 ()
+  - 832 ()
+  - 668 ()
+  - 668 ()
+  - 830 ()
+  - 830 ()
+  - 829 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle d'Hell Mina
+ID : 10245
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 107 ()
+  - 110 ()
+  - 54 ()
+  - 291 ()
+  - 110 ()
+  - 291 ()
+  - 54 ()
+  - 110 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Craqueleur Légendaire
+ID : 10247
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 669 ()
+  - 293 ()
+  - 293 ()
+  - 293 ()
+  - 293 ()
+  - 483 ()
+  - 483 ()
+  - 483 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Gardienne des Egouts
+ID : 10248
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 450 ()
+  - 447 ()
+  - 447 ()
+  - 442 ()
+  - 442 ()
+  - 449 ()
+  - 449 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Gelée Royale Fraise
+ID : 10249
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 86 ()
+  - 57 ()
+  - 57 ()
+  - 57 ()
+  - 429 ()
+  - 57 ()
+  - 56 ()
+  - 55 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Maître Corbac
+ID : 10250
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 289 ()
+  - 823 ()
+  - 824 ()
+  - 825 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Blop Multicolore Royal
+ID : 10251
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1188 ()
+  - 1187 ()
+  - 1186 ()
+  - 1185 ()
+  - 1184 ()
+  - 1182 ()
+  - 1183 ()
+  - 1183 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Corailleur Magistral
+ID : 10252
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1027 ()
+  - 1064 ()
+  - 1065 ()
+  - 1066 ()
+  - 1067 ()
+  - 1022 ()
+  - 1060 ()
+  - 1061 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Gourlo le Terrible
+ID : 10253
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1051 ()
+  - 1048 ()
+  - 1048 ()
+  - 1049 ()
+  - 1049 ()
+  - 1050 ()
+  - 1050 ()
+  - 1048 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle du Meulou
+ID : 10254
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 232 ()
+  - 159 ()
+  - 102 ()
+  - 287 ()
+  - 287 ()
+  - 301 ()
+  - 102 ()
+  - 159 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Wa Wabbit
+ID : 10255
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 180 ()
+  - 181 ()
+  - 181 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Moon
+ID : 10256
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 226 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Koulosse
+ID : 10257
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 670 ()
+  - 671 ()
+  - 671 ()
+  - 671 ()
+  - 671 ()
+  - 671 ()
+  - 671 ()
+  - 671 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Skeunk
+ID : 10258
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 673 ()
+  - 675 ()
+  - 677 ()
+  - 681 ()
+  - 780 ()
+  - 676 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle d'Abraknyde Ancestral
+ID : 10259
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 173 ()
+  - 917 ()
+  - 917 ()
+  - 917 ()
+  - 917 ()
+  - 650 ()
+  - 650 ()
+  - 650 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Tynril
+ID : 10261
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1072 ()
+  - 1085 ()
+  - 1086 ()
+  - 1087 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Gelée Royale Citron
+ID : 10262
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 430 ()
+  - 429 ()
+  - 429 ()
+  - 429 ()
+  - 429 ()
+  - 57 ()
+  - 56 ()
+  - 55 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Bworker
+ID : 10263
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 478 ()
+  - 488 ()
+  - 488 ()
+  - 488 ()
+  - 479 ()
+  - 479 ()
+  - 484 ()
+  - 486 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Sphincter Cell
+ID : 10264
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 943 ()
+  - 939 ()
+  - 940 ()
+  - 941 ()
+  - 936 ()
+  - 935 ()
+  - 942 ()
+  - 937 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Minotot
+ID : 10265
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 827 ()
+  - 121 ()
+  - 831 ()
+  - 832 ()
+  - 668 ()
+  - 668 ()
+  - 830 ()
+  - 830 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Silf le Rasboul Majeur
+ID : 10266
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1071 ()
+  - 1019 ()
+  - 1019 ()
+  - 1068 ()
+  - 1025 ()
+  - 1069 ()
+  - 1070 ()
+  - 1070 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Chêne Mou
+ID : 10268
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 257 ()
+  - 258 ()
+  - 260 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Ougah
+ID : 10269
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1159 ()
+  - 1158 ()
+  - 1157 ()
+  - 1156 ()
+  - 1155 ()
+  - 1154 ()
+  - 1153 ()
+  - 1153 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Kimbo
+ID : 10270
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 1045 ()
+  - 1020 ()
+  - 1020 ()
+  - 1046 ()
+  - 1047 ()
+  - 1043 ()
+  - 1044 ()
+  - 1044 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Crocabulia
+ID : 10278
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 854 ()
+  - 862 ()
+  - 862 ()
+  - 855 ()
+  - 905 ()
+  - 879 ()
+  - 878 ()
+  - 858 ()
+IS WEAPON: False
+
+NAME : Pierre d'âme de gardien de donjon
+ID : 10417
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85004.png
+DESCRIPTION : Cette pierre contient les âmes d'un groupe de monstres qui ne demandent qu'à revenir à la vie pour se venger de vous. Elle n'est cependant utilisable que dans les arènes prévues à cet effet, situées dans les grandes cités.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Pierre d'âme d'Archi-monstre
+ID : 10418
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85003.png
+DESCRIPTION : Cette pierre contient les âmes d'un groupe de monstres comprenant au moins un Archi-monstre qui ne demandent qu'à revenir à la vie pour se venger de vous. Elle n'est cependant utilisable que dans les arènes prévues à cet effet, situées dans les grandes cités.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Rat Blanc
+ID : 10606
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 940 ()
+  - 941 ()
+  - 942 ()
+  - 942 ()
+  - 942 ()
+  - 938 ()
+  - 442 ()
+  - 447 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Royalmouth
+ID : 11512
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 2854 ()
+  - 2852 ()
+  - 2852 ()
+  - 2851 ()
+  - 2851 ()
+  - 2850 ()
+  - 2850 ()
+  - 2853 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Mansot Royal
+ID : 11513
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 2848 ()
+  - 2858 ()
+  - 2858 ()
+  - 2855 ()
+  - 2857 ()
+  - 2857 ()
+  - 2856 ()
+  - 2849 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Ben le Ripate
+ID : 11668
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 2877 ()
+  - 2876 ()
+  - 2878 ()
+  - 2880 ()
+  - 2881 ()
+  - 2950 ()
+  - 2875 ()
+  - 2874 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle d'Obsidiantre
+ID : 11669
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 2924 ()
+  - 2869 ()
+  - 2866 ()
+  - 2865 ()
+  - 2868 ()
+  - 2867 ()
+  - 2867 ()
+  - 2868 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Tengu Givrefoux
+ID : 12199
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 2967 ()
+  - 2888 ()
+  - 2891 ()
+  - 2891 ()
+  - 2890 ()
+  - 2889 ()
+  - 2982 ()
+  - 2982 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Korriandre
+ID : 12200
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 2968 ()
+  - 2900 ()
+  - 2900 ()
+  - 2898 ()
+  - 2897 ()
+  - 2897 ()
+  - 2896 ()
+  - 2895 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Kolosso
+ID : 12201
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 2986 ()
+  - 2992 ()
+  - 2884 ()
+  - 2966 ()
+  - 2886 ()
+  - 2883 ()
+  - 2885 ()
+  - 2965 ()
+IS WEAPON: False
+
+NAME : Gemme Spirituelle de Glourséleste
+ID : 12202
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Gagnée en récompense de vos victoires en duel, cette gemme renferme l'âme d'un monstre. À conserver à l'abri de la lumière dans un endroit sec. Secouer avant usage.
+RECIPES: None
+EFFECTS:
+  - 2864 ()
+  - 2987 ()
+  - 2989 ()
+  - 2988 ()
+  - 2862 ()
+  - 2861 ()
+  - 2861 ()
+  - 2863 ()
+IS WEAPON: False
+
+NAME : Gemme spirituelle de Prysmaradoth Chimérique (200)
+ID : 20471
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Cette gemme renferme une infime parcelle d'un rêve de dragon. Il est possible de libérer ses occupants pour les affronter dans l'arène la plus proche.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Gemme spirituelle de Prysmaradoth Chimérique (150)
+ID : 20470
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Cette gemme renferme une infime parcelle d'un rêve de dragon. Il est possible de libérer ses occupants pour les affronter dans l'arène la plus proche.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Gemme spirituelle de Prysmaradoth Chimérique (100)
+ID : 20469
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Cette gemme renferme une infime parcelle d'un rêve de dragon. Il est possible de libérer ses occupants pour les affronter dans l'arène la plus proche.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Gemme spirituelle de Prysmaradoth Chimérique (50)
+ID : 20468
+TYPE : Pierre d'âme pleine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/85002.png
+DESCRIPTION : Cette gemme renferme une infime parcelle d'un rêve de dragon. Il est possible de libérer ses occupants pour les affronter dans l'arène la plus proche.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+

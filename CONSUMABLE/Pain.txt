@@ -1,0 +1,678 @@
+NAME : Pain d'Incarnam
+ID : 468
+TYPE : Pain
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33013.png
+DESCRIPTION : Ce petit pain tout chaud à la mie bien molle et à la croûte dorée permet de regagner des points de vie perdus au combat. C'est le pain le plus populaire, car généralement le moins cher.
+RECIPES:
+  - ID: 289 / Blé, Quantity: 4
+EFFECTS:
+  - 12 Vie
+IS WEAPON: False
+
+NAME : Pain au curry sans curry
+ID : 760
+TYPE : Pain
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33012.png
+DESCRIPTION : Un prototype de Kwaker Vans, son goût et son efficacité sont toujours une surprise, malheureusement l'odeur, elle, est toujours la même.
+RECIPES: None
+EFFECTS:
+  - 1 à 10 Vie
+IS WEAPON: False
+
+NAME : Pain du Pinchaut
+ID : 2351
+TYPE : Pain
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33020.png
+DESCRIPTION : Dans ce pain, il y a à boire et à manger, en l'essorant bien, il est possible de remplir une chopine de bière.
+RECIPES: None
+EFFECTS:
+  - 6 Vie
+IS WEAPON: False
+
+NAME : Pain du débutant
+ID : 10793
+TYPE : Pain
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33006.png
+DESCRIPTION : Il est sec, il fait mal aux dents, il sent le slip de Bwork, mais il permet de regagner des points de vie. Arrêtez de faire la fine bouche.
+RECIPES: None
+EFFECTS:
+  - 10 Vie
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Chapain
+ID : 10833
+TYPE : Pain
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33004.png
+DESCRIPTION : Ce pain est étonnant, quand on mord dedans, il miaule !
+RECIPES:
+  - ID: 2024, Quantity: 1
+  - ID: 1978 / Mesure de Poivre, Quantity: 1
+  - ID: 1730 / Mesure de sel, Quantity: 1
+  - ID: 1728, Quantity: 1
+EFFECTS:
+  - 130 Vie
+IS WEAPON: False
+
+NAME : Monstre Pain
+ID : 10839
+TYPE : Pain
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33012.png
+DESCRIPTION : On peut parfois se briser les dents sur du pain trop dur. Mangez celui-ci et vous recevrez un pain à vous faire tomber toutes les dents.
+Ce pain magique ne peut être consommé que dans la Baie de Sufokia.
+RECIPES:
+  - ID: 289 / Blé, Quantity: 2
+  - ID: 311 / Eau Potable, Quantity: 1
+  - ID: 2462 / Cervelle de Bouftou Noir, Quantity: 1
+  - ID: 2466 / Langue de Gargrouille, Quantity: 1
+EFFECTS:
+  - Lance un combat contre 2787
+IS WEAPON: False
+
+NAME : Monstre Pain consommable
+ID : 10840
+TYPE : Pain
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33012.png
+DESCRIPTION : Celui-ci est plus tendre, bon appétit.
+RECIPES: None
+EFFECTS:
+  - 50 Vie
+IS WEAPON: False
+
+NAME : Brioche de Nowel
+ID : 13616
+TYPE : Pain
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33008.png
+DESCRIPTION : Cette brioche est bien meilleure quand elle ne se défend plus, régalez-vous ! Mais gare aux effets secondaires...
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Monstre Brioche de Nowel
+ID : 13617
+TYPE : Pain
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33023.png
+DESCRIPTION : On peut parfois prendre de la brioche à force d'en manger. Goûtez celle-ci, vous allez faire de l'exercice.
+Cette brioche ne peut être consommée que sur l'île de Nowel.
+RECIPES: None
+EFFECTS:
+  - Lance un combat contre 3360
+IS WEAPON: False
+
+NAME : Pain Doré
+ID : 2020
+TYPE : Pain
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33019.png
+DESCRIPTION : Ce pain fut pétri à la farine de blé magique. Celui qui en vend le plus se retrouve plus riche qu'auparavant.
+RECIPES:
+  - ID: 2018 / Blé d'Or, Quantity: 1
+EFFECTS:
+  - 1 Vitalité
+  - 20 Vie
+IS WEAPON: False
+
+NAME : Michette
+ID : 521
+TYPE : Pain
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33011.png
+DESCRIPTION : Les Kwaks les plus audacieux n'hésitent pas à se déguiser en boulanger pour picorer des miettes de michettes en toute impunité, mais cette supercherie ne fonctionne jamais sauf chez les Iops boulangers.
+RECIPES:
+  - ID: 289 / Blé, Quantity: 5
+EFFECTS:
+  - Rend 30 points d'énergie
+IS WEAPON: False
+
+NAME : Carasau
+ID : 528
+TYPE : Pain
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33007.png
+DESCRIPTION : Ce pain est enrichi en orge complète, ce qui en fait un pain de qualité pour les gens exigeants.
+RECIPES:
+  - ID: 400 / Orge, Quantity: 4
+  - ID: 421 / Ortie, Quantity: 1
+EFFECTS:
+  - 30 Vie
+IS WEAPON: False
+
+NAME : Brioche à la viande de bouftou
+ID : 10663
+TYPE : Pain
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33071.png
+DESCRIPTION : Il faut avoir l'estomac bien accroché pour avaler cette brioche. La viande de bouftou utilisée, pas toujours de première fraîcheur, donne une saveur proche des huîtres au chocolat. Un délice pour Bwork.
+RECIPES:
+  - ID: 1730 / Mesure de sel, Quantity: 1
+  - ID: 2024, Quantity: 1
+  - ID: 1978 / Mesure de Poivre, Quantity: 1
+  - ID: 17124 / Viande Faisandée, Quantity: 1
+EFFECTS:
+  - 70 Vie
+IS WEAPON: False
+
+NAME : Blopisier empoisonné
+ID : 2151
+TYPE : Pain
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33406.png
+DESCRIPTION : Ce gâteau est délicieux, mais il peut être un peu lourd à digérer, surtout quand on y a ajouté des graines de scorbute...
+RECIPES:
+  - ID: 2150 / Graine de Scorbute, Quantity: 10
+  - ID: 1732 / Bol, Quantity: 1
+  - ID: 1773 / Bout de Blop Reinette, Quantity: 5
+  - ID: 1734 / Cerise, Quantity: 3
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Fougasse
+ID : 524
+TYPE : Pain
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33018.png
+DESCRIPTION : Ce pain au goût subtil est garanti sans colorants, ni conservateurs, tout le contraire de la Gelée Royale.
+RECIPES:
+  - ID: 400 / Orge, Quantity: 5
+  - ID: 421 / Ortie, Quantity: 1
+EFFECTS:
+  - Rend 90 points d'énergie
+IS WEAPON: False
+
+NAME : Pain aux Flocons d'Avoine Aurifère
+ID : 2038
+TYPE : Pain
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33005.png
+DESCRIPTION : Ce pain à la mie ultra légère est tout simplement parfait.
+RECIPES:
+  - ID: 2036 / Avoine Aurifère, Quantity: 1
+  - ID: 2331 / Aubergine, Quantity: 1
+  - ID: 428 / Sauge, Quantity: 1
+EFFECTS:
+  - 50 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Pain aux Flocons d'Avoine
+ID : 536
+TYPE : Pain
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33005.png
+DESCRIPTION : Ce pain à la mie particulièrement légère est parfait pour les personnes qui n'ont pas été gâtées par Mère Nature, et qui n'ont qu'un tout petit estomac.
+RECIPES:
+  - ID: 533 / Avoine, Quantity: 5
+  - ID: 2331 / Aubergine, Quantity: 1
+  - ID: 428 / Sauge, Quantity: 1
+EFFECTS:
+  - 50 Vie
+IS WEAPON: False
+
+NAME : Pain de Mie
+ID : 16431
+TYPE : Pain
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33074.png
+DESCRIPTION : Le ménestrel Danioule a créé ce pain pour les gens qui, comme lui, ne mâchent pas leurs mots.
+RECIPES:
+  - ID: 533 / Avoine, Quantity: 5
+  - ID: 6671 / Haricot, Quantity: 1
+  - ID: 428 / Sauge, Quantity: 1
+EFFECTS:
+  - Rend 150 points d'énergie
+IS WEAPON: False
+
+NAME : Briochette magique
+ID : 2025
+TYPE : Pain
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33008.png
+DESCRIPTION : Cette petite brioche est fabriquée à partir de houblon magique. Ce qui explique l'impression d'un énorme afflux d'énergie quand on la mange
+RECIPES:
+  - ID: 2021 / Houblon Brillant, Quantity: 1
+  - ID: 1984 / Cendres Éternelles, Quantity: 1
+  - ID: 395 / Trèfle à 5 feuilles, Quantity: 1
+EFFECTS:
+  - 70 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Briochette
+ID : 2024
+TYPE : Pain
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33015.png
+DESCRIPTION : Cette petite brioche est fabriquée à partir de houblon. Ce qui explique l'impression d'afflux d'énergie quand on la mange.
+RECIPES:
+  - ID: 401 / Houblon, Quantity: 5
+  - ID: 1984 / Cendres Éternelles, Quantity: 1
+  - ID: 395 / Trèfle à 5 feuilles, Quantity: 1
+EFFECTS:
+  - 70 Vie
+IS WEAPON: False
+
+NAME : Pain Consistant
+ID : 692
+TYPE : Pain
+LEVEL : 70
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33012.png
+DESCRIPTION : Ce pain est fait à partir de Farine de Lin, ce qui explique pourquoi il est si gras, et pourquoi sa mie est brune. Très riche en huiles essentielles, il faut cependant avouer qu'il a très mauvais goût.
+RECIPES:
+  - ID: 401 / Houblon, Quantity: 5
+  - ID: 1734 / Cerise, Quantity: 1
+  - ID: 395 / Trèfle à 5 feuilles, Quantity: 1
+EFFECTS:
+  - Rend 210 points d'énergie
+IS WEAPON: False
+
+NAME : Biscotte
+ID : 522
+TYPE : Pain
+LEVEL : 80
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33012.png
+DESCRIPTION : Ce pain est riche en protéines, mais pauvre en goût. Et oui, la vie est toujours une question de choix.
+RECIPES:
+  - ID: 423 / Lin, Quantity: 5
+  - ID: 2012 / Croquette enrichie, Quantity: 1
+  - ID: 380 / Menthe Sauvage, Quantity: 1
+EFFECTS:
+  - 90 Vie
+IS WEAPON: False
+
+NAME : Pain Gouin
+ID : 2028
+TYPE : Pain
+LEVEL : 80
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33012.png
+DESCRIPTION : Ce pain est fait à partir de Farine de Lin Tempête, ce qui explique pourquoi il n'est pas gras et a bon goût.
+RECIPES:
+  - ID: 2026 / Lin Tempête, Quantity: 1
+  - ID: 2012 / Croquette enrichie, Quantity: 1
+  - ID: 380 / Menthe Sauvage, Quantity: 1
+EFFECTS:
+  - 90 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Pain d'Épices
+ID : 16432
+TYPE : Pain
+LEVEL : 90
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33075.png
+DESCRIPTION : Autrefois produit à proximité des latrines publiques, la recette et l'orthographe du pain d'épices ont été modifiées pour qu'on ne se pose plus de question sur ses origines.
+RECIPES:
+  - ID: 423 / Lin, Quantity: 5
+  - ID: 1977 / Épices, Quantity: 1
+  - ID: 380 / Menthe Sauvage, Quantity: 1
+EFFECTS:
+  - Rend 270 points d'énergie
+IS WEAPON: False
+
+NAME : Pain de Seigle Résistant
+ID : 2031
+TYPE : Pain
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33009.png
+DESCRIPTION : Ce pain est fait à partir de farine de Seigle Résistant, ce qui lui donne une saveur exécrable, mais possède des qualités nutritionnelles uniques.
+RECIPES:
+  - ID: 2029 / Reflet oublié, Quantity: 1
+  - ID: 311 / Eau Potable, Quantity: 1
+  - ID: 593 / Orchidée Freyesque, Quantity: 1
+EFFECTS:
+  - 110 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Pain de Seigle
+ID : 539
+TYPE : Pain
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33009.png
+DESCRIPTION : Ce pain est fait à partir de farine de Seigle, ce qui lui donne à la mie, une couleur brune particulière, mais surtout un léger goût sucré.
+RECIPES:
+  - ID: 532 / Seigle, Quantity: 6
+  - ID: 311 / Eau Potable, Quantity: 1
+  - ID: 593 / Orchidée Freyesque, Quantity: 1
+EFFECTS:
+  - 110 Vie
+IS WEAPON: False
+
+NAME : Gaufre
+ID : 16433
+TYPE : Pain
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33078.png
+DESCRIPTION : Très apprécié des négociants, ce gâteau n'a d'intérêt que par la garniture qui l'accompagne.
+RECIPES:
+  - ID: 7018 / Riz, Quantity: 6
+  - ID: 311 / Eau Potable, Quantity: 1
+  - ID: 593 / Orchidée Freyesque, Quantity: 1
+EFFECTS:
+  - 110 Vie
+IS WEAPON: False
+
+NAME : Gaufre en or
+ID : 16434
+TYPE : Pain
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33077.png
+DESCRIPTION : Ce gâteau est apparu pour la première fois à Astrub. Depuis, il s'est popularisé et on le retrouve à proximité des zaaps et des hôtels de vente de nombreuses cités.
+RECIPES:
+  - ID: 16452 / Riz Cola, Quantity: 1
+  - ID: 311 / Eau Potable, Quantity: 1
+  - ID: 593 / Orchidée Freyesque, Quantity: 1
+EFFECTS:
+  - 110 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Pain des Villes
+ID : 1738
+TYPE : Pain
+LEVEL : 110
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33069.png
+DESCRIPTION : Sans hésitation, on peut dire que ce pain donne envie de se bricoler un graillou. Il procure aussi une sensation de satiété assez rapidement.
+RECIPES:
+  - ID: 532 / Seigle, Quantity: 6
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+  - ID: 593 / Orchidée Freyesque, Quantity: 1
+EFFECTS:
+  - Rend 330 points d'énergie
+IS WEAPON: False
+
+NAME : Pain aux Céréales
+ID : 526
+TYPE : Pain
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33006.png
+DESCRIPTION : Ce pain composé d'une variété de céréales sans précédent, est suffisamment riche en protéines pour rendre la vie à un Chafer.
+RECIPES:
+  - ID: 405 / Malt, Quantity: 6
+  - ID: 1986 / Poudre Temporelle, Quantity: 1
+  - ID: 594 / Edelweiss, Quantity: 1
+EFFECTS:
+  - 130 Vie
+IS WEAPON: False
+
+NAME : Faluche
+ID : 16435
+TYPE : Pain
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33079.png
+DESCRIPTION : Les Troolls ont tendance à confondre faluche et paluche car les deux sont comestibles. Pourtant, le fait que le propriétaire de la première hurle avant et celui de la deuxième pendant la mastication devrait leur mettre la puce à l'oreille.
+RECIPES:
+  - ID: 16453 / Malt Husse, Quantity: 1
+  - ID: 1986 / Poudre Temporelle, Quantity: 1
+  - ID: 594 / Edelweiss, Quantity: 1
+EFFECTS:
+  - 130 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Borodinski
+ID : 520
+TYPE : Pain
+LEVEL : 130
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33010.png
+DESCRIPTION : La confection de ce pain est délicate, car les boulangers qui en respirent les fumées lors de la cuisson, sont victimes de symptômes étranges et se mettent à danser autour de leur boulangerie.
+RECIPES:
+  - ID: 405 / Malt, Quantity: 6
+  - ID: 1985 / Résine, Quantity: 1
+  - ID: 594 / Edelweiss, Quantity: 1
+EFFECTS:
+  - Rend 390 points d'énergie
+IS WEAPON: False
+
+NAME : Pain Prenelle
+ID : 16436
+TYPE : Pain
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33076.png
+DESCRIPTION : L'homme Ours aurait lui-même mis au point la recette de ce pain après une indigestion de petit Nicolas avarié.
+RECIPES:
+  - ID: 2035 / Chanvre Euphorique, Quantity: 1
+  - ID: 1730 / Mesure de sel, Quantity: 1
+  - ID: 7059 / Graine de Pandouille, Quantity: 1
+EFFECTS:
+  - 150 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Pain Gre
+ID : 2635
+TYPE : Pain
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33013.png
+DESCRIPTION : Cette recette a été élaborée par un rival de Xavier le Boulanger, à savoir Danioul Garnioul le Boulanger. Son nom était si stupide que ses clients ne cessaient de se moquer de lui, il se vengeait en pétrissant avec ses pieds.
+RECIPES:
+  - ID: 425 / Chanvre, Quantity: 6
+  - ID: 1730 / Mesure de sel, Quantity: 1
+  - ID: 7059 / Graine de Pandouille, Quantity: 1
+EFFECTS:
+  - 150 Vie
+IS WEAPON: False
+
+NAME : Pain Trépide
+ID : 10079
+TYPE : Pain
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33017.png
+DESCRIPTION : Très prisé par les Iops, ce pain rend courageux et téméraire à la fois, ce qui a déjà provoqué la mort prématurée de nombreux aventuriers. Xavier le Boulanger cessa d'en préparer lorsqu'une compagnie entière de troubadours chargea une meute de mulous enragés.
+RECIPES:
+  - ID: 405 / Malt, Quantity: 6
+  - ID: 399 / Huile de Sésame, Quantity: 1
+  - ID: 7046, Quantity: 1
+  - ID: 286 / Levure de Boulanger, Quantity: 1
+  - ID: 17136 / Viande Sanguinolente, Quantity: 1
+  - ID: 594 / Edelweiss, Quantity: 2
+  - ID: 425 / Chanvre, Quantity: 12
+  - ID: 537 / Pomme de Terre, Quantity: 8
+EFFECTS:
+  - 150 Vie
+IS WEAPON: False
+
+NAME : Mantou
+ID : 527
+TYPE : Pain
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33014.png
+DESCRIPTION : Ce pain individuel sans croûte est apprécié des Enutrofs ayant perdu leur dentier.
+RECIPES:
+  - ID: 425 / Chanvre, Quantity: 6
+  - ID: 1978 / Mesure de Poivre, Quantity: 1
+  - ID: 7059 / Graine de Pandouille, Quantity: 1
+EFFECTS:
+  - Rend 450 points d'énergie
+IS WEAPON: False
+
+NAME : Pain Phecte
+ID : 9983
+TYPE : Pain
+LEVEL : 158
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33021.png
+DESCRIPTION : Servi lors des funérailles du célèbre ménestrel Francisque Kabroule, le goût et l'odeur de ce pain sont si infects qu'ils réveilleraient un mort, ou tueraient un vivant. Ceci pourrait expliquer les nombreux retours à la vie du ménestrel Francisque Kabroule.
+RECIPES:
+  - ID: 9981 / Farine Humée, Quantity: 2
+  - ID: 311 / Eau Potable, Quantity: 5
+  - ID: 286 / Levure de Boulanger, Quantity: 2
+EFFECTS:
+  - 10 Vie
+  - Rend 30 points d'énergie
+IS WEAPON: False
+
+NAME : Pain bourratif du mercenaire
+ID : 27473
+TYPE : Pain
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33408.png
+DESCRIPTION : Ce pain à la mie extrêmement compacte est certes lourd à digérer, mais c'est un allié de poids pour les missions de longue durée.
+RECIPES: None
+EFFECTS:
+  - 420 Vie
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Pain fortifiant du mercenaire
+ID : 27472
+TYPE : Pain
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33407.png
+DESCRIPTION : Une simple bouchée de ce pain et vous voilà reparti pour un tour.
+RECIPES: None
+EFFECTS:
+  - Rend 5000 points d'énergie
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Burrito
+ID : 16438
+TYPE : Pain
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33081.png
+DESCRIPTION : Ce plat faisait autrefois fureur lors des soirées arrosées sur la plage de corail.
+RECIPES:
+  - ID: 16455 / Maïssého, Quantity: 1
+  - ID: 1736 / Citron, Quantity: 1
+  - ID: 16385 / Ginseng, Quantity: 2
+EFFECTS:
+  - 170 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Tortilla
+ID : 16437
+TYPE : Pain
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33080.png
+DESCRIPTION : Il n'y a pas à tortiller du popotin : les tortillas, c'est comme les Amandines, on les préfère fourrées.
+RECIPES:
+  - ID: 16454 / Maïs, Quantity: 7
+  - ID: 1736 / Citron, Quantity: 1
+  - ID: 16385 / Ginseng, Quantity: 2
+EFFECTS:
+  - 170 Vie
+IS WEAPON: False
+
+NAME : Pain des Champs
+ID : 1737
+TYPE : Pain
+LEVEL : 170
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33068.png
+DESCRIPTION : Dans la poche ou dans le gosier, ce pain des champs s'avère un pain très lourd. Mais il faut avouer que son goût a le côté rustique que l'on attend d'un bon pain.
+RECIPES:
+  - ID: 16454 / Maïs, Quantity: 7
+  - ID: 1974 / Feuille de Salace, Quantity: 1
+  - ID: 16385 / Ginseng, Quantity: 2
+EFFECTS:
+  - Rend 510 points d'énergie
+IS WEAPON: False
+
+NAME : Fouée
+ID : 16439
+TYPE : Pain
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33082.png
+DESCRIPTION : Ce terme ne désigne pas un de vos ustensiles préférés mais un pain, bien qu'il reste possible de vous en donner des coups si vous insistez.
+RECIPES:
+  - ID: 16457 / Millet Zime, Quantity: 1
+  - ID: 1973 / Huile à frire, Quantity: 1
+  - ID: 16387 / Belladone, Quantity: 2
+EFFECTS:
+  - 190 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Pain Tahde
+ID : 2636
+TYPE : Pain
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33022.png
+DESCRIPTION : Ce pain renferme de délicieuses lichettes de viande, qui ont la saveur et l'apparence de volaille, mais méfiance il n'en n'est rien. En y regardant de plus près, on peut sentir une légère odeur de Tofu.
+RECIPES:
+  - ID: 16456 / Millet, Quantity: 7
+  - ID: 1973 / Huile à frire, Quantity: 1
+  - ID: 16387 / Belladone, Quantity: 2
+EFFECTS:
+  - 190 Vie
+IS WEAPON: False
+
+NAME : Brioche Dorée
+ID : 743
+TYPE : Pain
+LEVEL : 190
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33008.png
+DESCRIPTION : La recette de cette Brioche a été élaborée par Xavier le Boulanger en personne qui voulait en faire une brioche délicieuse et légère à la fois. On peut sans se tromper, dire qu'il a réussi.
+RECIPES:
+  - ID: 16456 / Millet, Quantity: 7
+  - ID: 1975 / Oignon, Quantity: 1
+  - ID: 16387 / Belladone, Quantity: 2
+EFFECTS:
+  - Rend 570 points d'énergie
+IS WEAPON: False
+
+NAME : Pain de Frostiz
+ID : 11503
+TYPE : Pain
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33072.png
+DESCRIPTION : Ce pain constitue l'alimentation de base des Frigostiens. On comprend mieux comment ils ont résisté à la famine pendant près d'un siècle.
+RECIPES:
+  - ID: 11109 / Frostiz, Quantity: 1
+  - ID: 11475 / Eau calme, Quantity: 1
+  - ID: 16389 / Mandragore, Quantity: 2
+EFFECTS:
+  - 210 Vie
+IS WEAPON: False
+
+NAME : Pain de Frostiz soufflé
+ID : 11504
+TYPE : Pain
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33073.png
+DESCRIPTION : Ce pain constitue l'alimentation de base des aristocrates Frigostiens. On comprend mieux pourquoi ils évacuent plus haut que leur noble postérieur.
+RECIPES:
+  - ID: 11499 / Frostiz soufflé, Quantity: 1
+  - ID: 11475 / Eau calme, Quantity: 1
+  - ID: 16389 / Mandragore, Quantity: 2
+EFFECTS:
+  - 210 Vie
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Pain Ture
+ID : 24001
+TYPE : Pain
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164846.png
+DESCRIPTION : Sa couleur n'est certes pas très appétissante mais vous aurez à coup sûr un regain d'énergie en mangeant ce pain.
+RECIPES:
+  - ID: 23902 / Cristal liquide, Quantity: 2
+  - ID: 23825 / Pichon d'encre, Quantity: 2
+  - ID: 1984 / Cendres Éternelles, Quantity: 2
+EFFECTS:
+  - Rend 600 points d'énergie
+IS WEAPON: False
+
+NAME : Boule de painpier mâché
+ID : 24000
+TYPE : Pain
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164845.png
+DESCRIPTION : Rassurez-vous, personne n'a croqué dans cette boule de pain avant vous !
+RECIPES:
+  - ID: 23903 / Cristal pliable, Quantity: 2
+  - ID: 1986 / Poudre Temporelle, Quantity: 2
+  - ID: 23824 / Tulipe en papier, Quantity: 2
+EFFECTS:
+  - 210 Vie
+IS WEAPON: False
+

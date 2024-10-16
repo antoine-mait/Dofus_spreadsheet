@@ -1,0 +1,257 @@
+NAME : Prisme de conquête
+ID : 8990
+TYPE : Prisme
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112001.png
+DESCRIPTION : Cet objet magique en pierre rayonne dans toute la zone dans laquelle il est posé. Il permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant. Attention, vous ne pouvez poser un prisme de conquête que si vous affichez clairement votre grade (mode joueur contre joueur activé), et si vous êtes dans une zone ne contenant aucun prisme. La zone dans laquelle vous voulez poser un prisme de conquête doit en outre être mitoyenne d'une zone devenue alliée depuis au moins cinq minutes.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Prisme d'alliance
+ID : 27913
+TYPE : Prisme
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112002.png
+DESCRIPTION : Cet objet magique permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 1
+  - ID: 300 / Liquide mauve, Quantity: 9
+EFFECTS:
+  - Pose un prisme
+IS WEAPON: False
+
+NAME : Prisme d'alliance Basique
+ID : 27914
+TYPE : Prisme
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112002.png
+DESCRIPTION : Cet objet magique permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant.
+RECIPES:
+  - ID: 27367 / Croc de Trankilou, Quantity: 5
+  - ID: 13365 / Galet Saisonnier, Quantity: 1
+  - ID: 2539 / Substrat de Buisson, Quantity: 1
+  - ID: 544 / Pierre d'Émeraude, Quantity: 4
+EFFECTS:
+  - Pose un prisme
+IS WEAPON: False
+
+NAME : Recycleur Kokoko
+ID : 17207
+TYPE : Prisme
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112003.png
+DESCRIPTION : Ce module s'installe sur un prisme d'alliance et permet d'extraire l'essence magique de n'importe quel bidule pour fabriquer d'autres trucs que vous revendrez dix fois le prix d'un machin.
+Il a été configuré pour répartir la majorité des gains en faveur de l'alliance qui se chargera ensuite de la répartition équitable des gains dans l'intérêt du peuple (10% pour le personnage et 130% pour l'alliance).
+RECIPES:
+  - ID: 14649 / Essence de Batofu, Quantity: 1
+  - ID: 1893 / Queue de scorbute, Quantity: 13
+  - ID: 2484 / Trident Cassé, Quantity: 12
+  - ID: 417 / Boue du Boo, Quantity: 14
+  - ID: 997 / Manche du Grattoir, Quantity: 4
+  - ID: 12745 / Substrat de Bocage, Quantity: 2
+  - ID: 28279 / Pièces de module, Quantity: 1
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Prisme d'alliance Utile
+ID : 27915
+TYPE : Prisme
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112002.png
+DESCRIPTION : Cet objet magique permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant.
+RECIPES:
+  - ID: 2549 / Boîte de Vétauran, Quantity: 5
+  - ID: 12737 / Galet cramoisi, Quantity: 1
+  - ID: 748 / Magnésite, Quantity: 1
+  - ID: 2266 / Lait de Cochon de Lait, Quantity: 7
+  - ID: 1684 / Sac à Patates Sombre, Quantity: 11
+EFFECTS:
+  - Pose un prisme
+IS WEAPON: False
+
+NAME : Prisme d'alliance Nécessaire
+ID : 14293
+TYPE : Prisme
+LEVEL : 80
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112002.png
+DESCRIPTION : Cet objet magique permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant.
+RECIPES:
+  - ID: 18411 / Œil de Léolhyène, Quantity: 5
+  - ID: 13365 / Galet Saisonnier, Quantity: 1
+  - ID: 2540 / Substrat de Futaie, Quantity: 1
+  - ID: 8050 / Peau de Koalak Immature, Quantity: 7
+  - ID: 2487 / Carapace de Scorbute, Quantity: 11
+  - ID: 424 / Fibre criminelle, Quantity: 9
+EFFECTS:
+  - Pose un prisme
+IS WEAPON: False
+
+NAME : Recycleur collectiviste
+ID : 17167
+TYPE : Prisme
+LEVEL : 80
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112004.png
+DESCRIPTION : Ce module s'installe sur un prisme d'alliance et permet d'extraire l'essence magique de n'importe quel bidule pour fabriquer d'autres trucs que vous revendrez dix fois le prix d'un machin.
+Il a été configuré pour répartir les gains en faveur de l'alliance (30% pour le personnage et 90% pour l'alliance).
+RECIPES:
+  - ID: 2543 / Substrat de Fascine, Quantity: 2
+  - ID: 2503 / Étoffe de Croc Gland, Quantity: 2
+  - ID: 2321 / Babines de Macien, Quantity: 20
+  - ID: 8740 / Chicot du Flib, Quantity: 20
+  - ID: 14660 / Essence de Nelween, Quantity: 1
+  - ID: 14662 / Essence du Craqueleur Légendaire, Quantity: 1
+  - ID: 18371 / Carapace du Mantiscore, Quantity: 2
+  - ID: 28279 / Pièces de module, Quantity: 1
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Prisme d'alliance Essentiel
+ID : 27916
+TYPE : Prisme
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112002.png
+DESCRIPTION : Cet objet magique permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant.
+RECIPES:
+  - ID: 7270 / Langue de Grenufar, Quantity: 5
+  - ID: 12737 / Galet cramoisi, Quantity: 1
+  - ID: 750 / Kouartz, Quantity: 1
+  - ID: 11256 / Bec de Gélikan, Quantity: 7
+  - ID: 16215 / Glande d'Arak-haï, Quantity: 11
+  - ID: 7907 / Cuir du Boufcoul, Quantity: 9
+  - ID: 14946 / Cuir de Porsalu, Quantity: 13
+EFFECTS:
+  - Pose un prisme
+IS WEAPON: False
+
+NAME : Prisme d'alliance Capital
+ID : 27917
+TYPE : Prisme
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112002.png
+DESCRIPTION : Cet objet magique permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant.
+RECIPES:
+  - ID: 13733 / Boulier Zoth, Quantity: 5
+  - ID: 13365 / Galet Saisonnier, Quantity: 1
+  - ID: 16212 / Substrat de Fourré, Quantity: 1
+  - ID: 13698 / Houpette de Koalak Sanguin, Quantity: 7
+  - ID: 8571 / Poil de Rat Brâkmarien, Quantity: 11
+  - ID: 11240 / Dent de Smilomouth, Quantity: 9
+  - ID: 2058 / Rune Ta Ré Cri, Quantity: 13
+EFFECTS:
+  - Pose un prisme
+IS WEAPON: False
+
+NAME : Prisme d'alliance Fondamental
+ID : 27918
+TYPE : Prisme
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112002.png
+DESCRIPTION : Cet objet magique permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant.
+RECIPES:
+  - ID: 7278 / Poing rocheux d'Ishigro Pake, Quantity: 5
+  - ID: 12738 / Galet rutilant, Quantity: 1
+  - ID: 6458 / Kobalite, Quantity: 1
+  - ID: 18357 / Jus de Cacterre, Quantity: 7
+  - ID: 15461 / Bandelette de Tromblion, Quantity: 11
+  - ID: 7259 / Poterie cassée de Lolojiki, Quantity: 9
+  - ID: 7343 / Bracelet de Ino-Naru, Quantity: 13
+  - ID: 11249 / Étoffe de Kaniglou, Quantity: 12
+EFFECTS:
+  - Pose un prisme
+IS WEAPON: False
+
+NAME : Prisme d'alliance Incontournable
+ID : 27919
+TYPE : Prisme
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112002.png
+DESCRIPTION : Cet objet magique permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant.
+RECIPES:
+  - ID: 26317 / Pousse de Malzerb, Quantity: 5
+  - ID: 13366 / Galet Lunaire, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 1
+  - ID: 2510 / Estomac de Gliglidoudur, Quantity: 12
+  - ID: 15173 / Corne de Père Phorreur, Quantity: 11
+  - ID: 7025 / Pierre d'Agathe, Quantity: 4
+  - ID: 11319 / Étoffe de Vigie Pirate, Quantity: 13
+  - ID: 7407 / Croissant de Tsukinochi, Quantity: 12
+EFFECTS:
+  - Pose un prisme
+IS WEAPON: False
+
+NAME : Recycleur équitable
+ID : 17166
+TYPE : Prisme
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112005.png
+DESCRIPTION : Ce module s'installe sur un prisme d'alliance et permet d'extraire l'essence magique de n'importe quel bidule pour fabriquer d'autres trucs que vous revendrez dix fois le prix d'un machin.
+Il a été configuré pour répartir de façon équitable les gains entre l'alliance et celui qui recycle (50% pour le personnage et 50% pour l'alliance).
+RECIPES:
+  - ID: 15095 / Essence de Kanigroula, Quantity: 1
+  - ID: 14689 / Essence du Kimbo, Quantity: 1
+  - ID: 14691 / Essence de l'Obsidiantre, Quantity: 1
+  - ID: 11318 / Écaille de Harpirate, Quantity: 30
+  - ID: 15051 / Crinière d'Orfélin, Quantity: 30
+  - ID: 11319 / Étoffe de Vigie Pirate, Quantity: 30
+  - ID: 28279 / Pièces de module, Quantity: 1
+  - ID: 16458 / Substrat de Forêt primaire, Quantity: 2
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Prisme d'alliance Indispensable
+ID : 27920
+TYPE : Prisme
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112002.png
+DESCRIPTION : Cet objet magique permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant.
+RECIPES:
+  - ID: 11336 / Oreille de Soryo Givrefoux, Quantity: 5
+  - ID: 12738 / Galet rutilant, Quantity: 1
+  - ID: 7036 / Rutile, Quantity: 1
+  - ID: 13739 / Caleçon Rouge, Quantity: 10
+  - ID: 11519 / Oreille de Gobosteur, Quantity: 11
+  - ID: 7381 / Kaokurimono, Quantity: 9
+  - ID: 15454 / Pince de Lucrane, Quantity: 13
+  - ID: 18564 / Patte de Masticroc, Quantity: 12
+EFFECTS:
+  - Pose un prisme
+IS WEAPON: False
+
+NAME : Prisme d'alliance Primordial
+ID : 27921
+TYPE : Prisme
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/112002.png
+DESCRIPTION : Cet objet magique permet de marquer votre territoire sans avoir besoin de gâcher votre urine. À utiliser sans modération si vous avez l'âme d'un conquérant.
+RECIPES:
+  - ID: 14860 / Cuir d'Eskoglyphe, Quantity: 5
+  - ID: 13366 / Galet Lunaire, Quantity: 1
+  - ID: 16460 / Substrat de Sylve, Quantity: 1
+  - ID: 22208 / Peau pourrie de Dolid, Quantity: 10
+  - ID: 22051 / Œil de Dawaj, Quantity: 7
+  - ID: 17988 / Pierre Angulaire, Quantity: 9
+  - ID: 22251 / Linothorax, Quantity: 8
+  - ID: 22223 / Boulet lesté, Quantity: 9
+EFFECTS:
+  - Pose un prisme
+IS WEAPON: False
+
+NAME : Module de téléportation
+ID : 14552
+TYPE : Prisme
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164024.png
+DESCRIPTION : Ce module permet d'améliorer le fonctionnement d'un prisme d'alliance en lui permettant de téléporter des personnages vers les autres prismes contrôlés ou les Zaaps.
+RECIPES:
+  - ID: 28279 / Pièces de module, Quantity: 2
+  - ID: 11890 / Volve de Fongeur, Quantity: 20
+  - ID: 8323 / Cuir de Déminoboule, Quantity: 11
+  - ID: 11521 / Œil de Sapeur, Quantity: 15
+  - ID: 11519 / Oreille de Gobosteur, Quantity: 12
+  - ID: 15362 / Essence de la Haute Truche, Quantity: 1
+  - ID: 13498 / Dent de Bourbassingue, Quantity: 10
+  - ID: 12733 / Substrat de Forêt, Quantity: 1
+EFFECTS: None
+IS WEAPON: False
+

@@ -1,0 +1,52 @@
+NAME : Filet de capture de Dragodinde
+ID : 597
+TYPE : Filet de capture
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/99001.png
+DESCRIPTION : Ce filet très résistant permet de capturer la plus sauvage des montures, à condition d'avoir réussi à l'hypnotiser ou à la distraire un peu avant.
+RECIPES:
+  - ID: 11253 / Étoffe de Rat Bougri, Quantity: 1
+  - ID: 8140 / Antennes de Scarafeuille Noir, Quantity: 2
+  - ID: 14946 / Cuir de Porsalu, Quantity: 1
+  - ID: 14278 / Chaînes Brisées, Quantity: 2
+  - ID: 2492 / Chaîne de l'Ouginak, Quantity: 1
+  - ID: 2449 / Armée de Tiques, Quantity: 3
+EFFECTS:
+  - 1% de chances de capturer une monture
+IS WEAPON: False
+
+NAME : Filet de capture de Muldo
+ID : 17953
+TYPE : Filet de capture
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/99002.png
+DESCRIPTION : Ce filet très résistant permet de capturer la plus sauvage des montures, à condition d'avoir réussi à l'hypnotiser ou à la distraire un peu avant.
+RECIPES:
+  - ID: 17991 / Bois d'Aquajou, Quantity: 5
+  - ID: 17992 / Salikrone, Quantity: 5
+  - ID: 17993 / Quisnoa, Quantity: 5
+  - ID: 17995 / Écume de mer, Quantity: 5
+  - ID: 17981 / Peau de Trithon, Quantity: 1
+  - ID: 17974 / Parasite Aquatique, Quantity: 1
+  - ID: 17988 / Pierre Angulaire, Quantity: 1
+  - ID: 17994 / Patelle, Quantity: 5
+EFFECTS:
+  - 5% de chances de capturer une monture
+IS WEAPON: False
+
+NAME : Filet de capture de Volkorne
+ID : 19933
+TYPE : Filet de capture
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/99003.png
+DESCRIPTION : Ce filet très résistant permet de capturer la plus sauvage des montures, à condition d'avoir réussi à l'hypnotiser ou à la distraire un peu avant.
+RECIPES:
+  - ID: 14635 / Pépite, Quantity: 1000
+  - ID: 15263 / Rose des sables, Quantity: 1000
+  - ID: 16460 / Substrat de Sylve, Quantity: 5
+  - ID: 12728 / Ardonite, Quantity: 5
+EFFECTS:
+  - 6% de chances de capturer une monture
+  - 
+IS WEAPON: False
+

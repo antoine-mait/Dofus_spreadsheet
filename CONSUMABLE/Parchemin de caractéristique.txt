@@ -1,0 +1,300 @@
+NAME : Petit Parchemin de Force
+ID : 683
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76021.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Force.
+Vous ne pourrez l'utiliser que si vos points additionnels de Force sont inférieurs à 25.
+RECIPES: None
+EFFECTS:
+  - 1 Force
+IS WEAPON: False
+
+NAME : Parchemin de Kolizétons
+ID : 684
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76044.png
+DESCRIPTION : Ce parchemin permet de gagner 1000 Kolizétons.
+
+(Double clic pour utiliser)
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Petit Parchemin d'Intelligence
+ID : 686
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76023.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels d'Intelligence.
+Vous ne pourrez l'utiliser que si vos points additionnels d'Intelligence sont inférieurs à 25.
+RECIPES: None
+EFFECTS:
+  - 1 Intelligence
+IS WEAPON: False
+
+NAME : Parchemin de Force
+ID : 795
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76029.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Force.
+Vous ne pourrez l'utiliser que si vos points additionnels de Force sont inférieurs à 50.
+RECIPES: None
+EFFECTS:
+  - 1 Force
+IS WEAPON: False
+
+NAME : Grand Parchemin de Force
+ID : 796
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76030.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Force.
+Vous ne pourrez l'utiliser que si vos points additionnels de Force sont inférieurs à 80.
+RECIPES: None
+EFFECTS:
+  - 1 Force
+IS WEAPON: False
+
+NAME : Puissant Parchemin de Force
+ID : 797
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76031.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Force.
+Vous ne pourrez l'utiliser que si vos points additionnels de Force sont inférieurs à 100.
+RECIPES: None
+EFFECTS:
+  - 2 Force
+IS WEAPON: False
+
+NAME : Petit Parchemin d'Agilité
+ID : 798
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76020.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels d'Agilité.
+Vous ne pourrez l'utiliser que si vos points additionnels d'Agilité sont inférieurs à 25.
+RECIPES: None
+EFFECTS:
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Parchemin d'Agilité
+ID : 799
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76026.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels d'Agilité.
+Vous ne pourrez l'utiliser que si vos points additionnels d'Agilité sont inférieurs à 50.
+RECIPES: None
+EFFECTS:
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Grand Parchemin d'Agilité
+ID : 800
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76027.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels d'Agilité.
+Vous ne pourrez l'utiliser que si vos points additionnels d'Agilité sont inférieurs à 80.
+RECIPES: None
+EFFECTS:
+  - 1 Agilité
+IS WEAPON: False
+
+NAME : Puissant Parchemin d'Agilité
+ID : 801
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76028.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels d'Agilité.
+Vous ne pourrez l'utiliser que si vos points additionnels d'Agilité sont inférieurs à 100.
+RECIPES: None
+EFFECTS:
+  - 2 Agilité
+IS WEAPON: False
+
+NAME : Petit Parchemin de Sagesse
+ID : 802
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76024.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Sagesse.
+Vous ne pourrez l'utiliser que si vos points additionnels de Sagesse sont inférieurs à 25.
+RECIPES: None
+EFFECTS:
+  - 1 Sagesse
+IS WEAPON: False
+
+NAME : Parchemin de Sagesse
+ID : 803
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76038.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Sagesse.
+Vous ne pourrez l'utiliser que si vos points additionnels de Sagesse sont inférieurs à 50.
+RECIPES: None
+EFFECTS:
+  - 1 Sagesse
+IS WEAPON: False
+
+NAME : Grand Parchemin de Sagesse
+ID : 804
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76039.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Sagesse.
+Vous ne pourrez l'utiliser que si vos points additionnels de Sagesse sont inférieurs à 80.
+RECIPES: None
+EFFECTS:
+  - 1 Sagesse
+IS WEAPON: False
+
+NAME : Puissant Parchemin de Sagesse
+ID : 805
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76040.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Sagesse.
+Vous ne pourrez l'utiliser que si vos points additionnels de Sagesse sont inférieurs à 100.
+RECIPES: None
+EFFECTS:
+  - 2 Sagesse
+IS WEAPON: False
+
+NAME : Petit Parchemin de Vitalité
+ID : 806
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76025.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Vitalité.
+Vous ne pourrez l'utiliser que si vos points additionnels de Vitalité sont inférieurs à 25.
+RECIPES: None
+EFFECTS:
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Parchemin de Vitalité
+ID : 807
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76041.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Vitalité.
+Vous ne pourrez l'utiliser que si vos points additionnels de Vitalité sont inférieurs à 50.
+RECIPES: None
+EFFECTS:
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Grand Parchemin de Vitalité
+ID : 808
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76042.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Vitalité.
+Vous ne pourrez l'utiliser que si vos points additionnels de Vitalité sont inférieurs à 80.
+RECIPES: None
+EFFECTS:
+  - 1 Vitalité
+IS WEAPON: False
+
+NAME : Petit Parchemin de Chance
+ID : 809
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76022.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Chance.
+Vous ne pourrez l'utiliser que si vos points additionnels de Chance sont inférieurs à 25.
+RECIPES: None
+EFFECTS:
+  - 1 Chance
+IS WEAPON: False
+
+NAME : Puissant Parchemin de Vitalité
+ID : 810
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76043.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Vitalité.
+Vous ne pourrez l'utiliser que si vos points additionnels de Vitalité sont inférieurs à 100.
+RECIPES: None
+EFFECTS:
+  - 2 Vitalité
+IS WEAPON: False
+
+NAME : Parchemin de Chance
+ID : 811
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76032.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Chance.
+Vous ne pourrez l'utiliser que si vos points additionnels de Chance sont inférieurs à 50.
+RECIPES: None
+EFFECTS:
+  - 1 Chance
+IS WEAPON: False
+
+NAME : Grand Parchemin de Chance
+ID : 812
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76033.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Chance.
+Vous ne pourrez l'utiliser que si vos points additionnels de Chance sont inférieurs à 80.
+RECIPES: None
+EFFECTS:
+  - 1 Chance
+IS WEAPON: False
+
+NAME : Puissant Parchemin de Chance
+ID : 814
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76034.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels de Chance.
+Vous ne pourrez l'utiliser que si vos points additionnels de Chance sont inférieurs à 100.
+RECIPES: None
+EFFECTS:
+  - 2 Chance
+IS WEAPON: False
+
+NAME : Parchemin d'Intelligence
+ID : 815
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76035.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels d'Intelligence.
+Vous ne pourrez l'utiliser que si vos points additionnels d'Intelligence sont inférieurs à 50.
+RECIPES: None
+EFFECTS:
+  - 1 Intelligence
+IS WEAPON: False
+
+NAME : Grand Parchemin d'Intelligence
+ID : 816
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76036.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels d'Intelligence.
+Vous ne pourrez l'utiliser que si vos points additionnels d'Intelligence sont inférieurs à 80.
+RECIPES: None
+EFFECTS:
+  - 1 Intelligence
+IS WEAPON: False
+
+NAME : Puissant Parchemin d'Intelligence
+ID : 817
+TYPE : Parchemin de caractéristique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76037.png
+DESCRIPTION : Ce parchemin permet de gagner des points additionnels d'Intelligence.
+Vous ne pourrez l'utiliser que si vos points additionnels d'Intelligence sont inférieurs à 100.
+RECIPES: None
+EFFECTS:
+  - 2 Intelligence
+IS WEAPON: False
+

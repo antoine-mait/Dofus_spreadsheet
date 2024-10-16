@@ -1,0 +1,154 @@
+NAME : Pain au Blé Complet
+ID : 29670
+TYPE : Pierre d'âme
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/33007.png
+DESCRIPTION : ...
+RECIPES: None
+EFFECTS:
+  - 1 PA
+  - 1 PM
+  - 1 Portée
+  - 100 Vitalité
+  - 100 Sagesse
+  - 100 Force
+  - 100 Intelligence
+  - 100 Chance
+  - 100 Agilité
+IS WEAPON: False
+
+NAME : Pierre d'âme démoniaque
+ID : 29100
+TYPE : Pierre d'âme
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/83025.png
+DESCRIPTION : Équiper cette pierre vous permettra d'enchaîner les âmes des Possédés qui ont préféré quitter le navire - ou plutôt la galère - plutôt que de continuer à servir Brâkmar. Ils auraient dû déserter plus discrètement.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Énorme pierre d'âme parfaite
+ID : 9689
+TYPE : Pierre d'âme
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/83022.png
+DESCRIPTION : Conçues par Otomaï, ces pierres sont sans défaut. Elles permettent la capture systématique de l'âme des monstres tués en combat.
+RECIPES: None
+EFFECTS:
+  - 100% capture d'âme de puissance 250
+  - 
+IS WEAPON: False
+
+NAME : Gargantuesque pierre d'âme parfaite
+ID : 9718
+TYPE : Pierre d'âme
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/83024.png
+DESCRIPTION : Unique en son genre, cette pierre a été conçue dans un seul but : capturer l'âme du Kralamoure. Son aspect s'en ressent, son odeur aussi.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+  - 
+IS WEAPON: False
+
+NAME : Pierre d'âme parfaite renforcée
+ID : 23324
+TYPE : Pierre d'âme
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/83015.png
+DESCRIPTION : Unique en son genre, cette pierre permet de capturer les âmes les plus récalcitrantes.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+  - 
+IS WEAPON: False
+
+NAME : Pierre d'âme élémentale
+ID : 18241
+TYPE : Pierre d'âme
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/83023.png
+DESCRIPTION : Cette pierre d'âme très particulière est capable de contenir l'âme d'Ombre.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Petite pierre d'âme parfaite
+ID : 9686
+TYPE : Pierre d'âme
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/83019.png
+DESCRIPTION : Conçues par Otomaï, ces pierres sont sans défaut. Elles permettent la capture systématique de l'âme des monstres tués en combat.
+RECIPES:
+  - ID: 12737 / Galet cramoisi, Quantity: 1
+  - ID: 7222 / Artefact Pandawushu Eau, Quantity: 1
+  - ID: 7223 / Artefact Pandawushu Vent, Quantity: 1
+  - ID: 7225 / Artefact Pandawushu Feu, Quantity: 1
+  - ID: 7224 / Artefact Pandawushu Roc, Quantity: 1
+  - ID: 23311 / Artefact Pandawushu Bois, Quantity: 1
+EFFECTS:
+  - 100% capture d'âme de puissance 50
+  - 
+IS WEAPON: False
+
+NAME : Moyenne pierre d'âme parfaite
+ID : 9687
+TYPE : Pierre d'âme
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/83020.png
+DESCRIPTION : Conçues par Otomaï, ces pierres sont sans défaut. Elles permettent la capture systématique de l'âme des monstres tués en combat.
+RECIPES:
+  - ID: 7224 / Artefact Pandawushu Roc, Quantity: 1
+  - ID: 7225 / Artefact Pandawushu Feu, Quantity: 1
+  - ID: 7223 / Artefact Pandawushu Vent, Quantity: 1
+  - ID: 7222 / Artefact Pandawushu Eau, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 2
+  - ID: 12743 / Potion minérale, Quantity: 1
+  - ID: 23311 / Artefact Pandawushu Bois, Quantity: 1
+EFFECTS:
+  - 100% capture d'âme de puissance 100
+  - 
+IS WEAPON: False
+
+NAME : Grande pierre d'âme parfaite
+ID : 9688
+TYPE : Pierre d'âme
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/83021.png
+DESCRIPTION : Conçues par Otomaï, ces pierres sont sans défaut. Elles permettent la capture systématique de l'âme des monstres tués en combat.
+RECIPES:
+  - ID: 12743 / Potion minérale, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 3
+  - ID: 7222 / Artefact Pandawushu Eau, Quantity: 1
+  - ID: 7223 / Artefact Pandawushu Vent, Quantity: 1
+  - ID: 7225 / Artefact Pandawushu Feu, Quantity: 1
+  - ID: 7224 / Artefact Pandawushu Roc, Quantity: 1
+  - ID: 2305 / Fragment de Pierre Pointue, Quantity: 1
+  - ID: 23311 / Artefact Pandawushu Bois, Quantity: 1
+EFFECTS:
+  - 100% capture d'âme de puissance 150
+  - 
+IS WEAPON: False
+
+NAME : Gigantesque pierre d'âme parfaite
+ID : 9690
+TYPE : Pierre d'âme
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/83023.png
+DESCRIPTION : Conçues par Otomaï, ces pierres sont sans défaut. Elles permettent la capture systématique de l'âme des monstres tués en combat.
+RECIPES:
+  - ID: 12734 / Potion d'altération, Quantity: 1
+  - ID: 7224 / Artefact Pandawushu Roc, Quantity: 1
+  - ID: 7225 / Artefact Pandawushu Feu, Quantity: 1
+  - ID: 7223 / Artefact Pandawushu Vent, Quantity: 1
+  - ID: 7222 / Artefact Pandawushu Eau, Quantity: 1
+  - ID: 12737 / Galet cramoisi, Quantity: 4
+  - ID: 12743 / Potion minérale, Quantity: 1
+  - ID: 23311 / Artefact Pandawushu Bois, Quantity: 1
+EFFECTS:
+  - 100% capture d'âme de puissance 1000
+  - 
+IS WEAPON: False
+

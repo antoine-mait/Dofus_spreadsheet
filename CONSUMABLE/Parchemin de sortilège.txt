@@ -1,0 +1,146 @@
+NAME : Parchemin de Libération
+ID : 719
+TYPE : Parchemin de sortilège
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort Libération.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort 1838
+IS WEAPON: False
+
+NAME : Parchemin d'Invocation de l'Arakne
+ID : 721
+TYPE : Parchemin de sortilège
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort d'Invocation de l'Arakne.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort 1848
+IS WEAPON: False
+
+NAME : Parchemin du Kannibulle
+ID : 27416
+TYPE : Parchemin de sortilège
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort Kannibulle.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Parchemin du Mantiscroc
+ID : 27415
+TYPE : Parchemin de sortilège
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort Mantiscroc.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Pawchemin de la Cawotte
+ID : 9201
+TYPE : Parchemin de sortilège
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce pawchemin décwit une méthode simple en 101 leçons, qui vous pewmettwa d'appwendwe en autodidacte les bases de la fameuse, mais pas si secwète que ça, technique du Wa Wabbit.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort 1833
+IS WEAPON: False
+
+NAME : Parchemin de l'Apprivoisement de monture
+ID : 10602
+TYPE : Parchemin de sortilège
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort Apprivoisement de monture.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort 2068
+IS WEAPON: False
+
+NAME : Parchemin de la Capture d'âmes
+ID : 10603
+TYPE : Parchemin de sortilège
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort Capture d'âmes.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort 2063
+IS WEAPON: False
+
+NAME : Parchemin d'Invocation du Chaferfu
+ID : 9200
+TYPE : Parchemin de sortilège
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce parchemin vous permettra d'apprendre le sort Invocation du Chaferfu.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort 1863
+IS WEAPON: False
+
+NAME : Parchemin du Foudroiement de Grunob
+ID : 720
+TYPE : Parchemin de sortilège
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort Foudroiement de Grunob.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort 1843
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Parchemin de la Flamèche
+ID : 718
+TYPE : Parchemin de sortilège
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75001.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort Flamèche.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort Impact Grognon
+IS WEAPON: False
+
+NAME : Parchemin de la Maîtrise d'Arme
+ID : 14048
+TYPE : Parchemin de sortilège
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/73019.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort Maîtrise d'Arme.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort Aimantation
+IS WEAPON: False
+
+NAME : Parchemin du Marteau de Moon
+ID : 10604
+TYPE : Parchemin de sortilège
+LEVEL : 80
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort Marteau de Moon.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort 1828
+IS WEAPON: False
+
+NAME : Parchemin du Boomerang perfide
+ID : 10605
+TYPE : Parchemin de sortilège
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/75003.png
+DESCRIPTION : Ce parchemin permet d'apprendre le sort Boomerang perfide.
+RECIPES: None
+EFFECTS:
+  - Apprend le niveau de sort 1818
+IS WEAPON: False
+

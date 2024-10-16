@@ -1,0 +1,65 @@
+NAME : Parchemin du Vétéran
+ID : 27450
+TYPE : Parchemin d'ornement
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/222005.png
+DESCRIPTION : Ce parchemin vous donnera accès à l'ornement et au titre Vétéran.
+RECIPES: None
+EFFECTS:
+  - Ornement : 162
+  - Échangeable : 0
+  - Titre : Vétéran
+IS WEAPON: False
+
+NAME : Ornement de Corruption
+ID : 22240
+TYPE : Parchemin d'ornement
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/222002.png
+DESCRIPTION : Ce parchemin vous donnera accès à l'ornement Marque de la Corruption.
+L'objet Influence de Corruption sera nécessaire pour afficher cet ornement. L'Influence de Corruption peut être obtenue auprès de l'Influence des Cavaliers, dans le sanctuaire de l'Eliocalypse.
+RECIPES: None
+EFFECTS:
+  - Ornement : 153
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Ornement de Misère
+ID : 22239
+TYPE : Parchemin d'ornement
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/222003.png
+DESCRIPTION : Ce parchemin vous donnera accès à l'ornement Marque de la Misère.
+L'objet Influence de Misère sera nécessaire pour afficher cet ornement. L'Influence de Misère peut être obtenue auprès de l'Influence des Cavaliers, dans le sanctuaire de l'Eliocalypse.
+RECIPES: None
+EFFECTS:
+  - Ornement : 155
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Ornement de Guerre
+ID : 22238
+TYPE : Parchemin d'ornement
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/222001.png
+DESCRIPTION : Ce parchemin vous donnera accès à l'ornement Marque de la Guerre.
+L'objet Influence de Guerre sera nécessaire pour afficher cet ornement. L'Influence de Guerre peut être obtenue auprès de l'Influence des Cavaliers, dans le sanctuaire de l'Eliocalypse.
+RECIPES: None
+EFFECTS:
+  - Ornement : 152
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Ornement de Servitude
+ID : 22237
+TYPE : Parchemin d'ornement
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/222000.png
+DESCRIPTION : Ce parchemin vous donnera accès à l'ornement Marque de la Servitude.
+L'objet Influence de Servitude sera nécessaire pour afficher cet ornement. L'Influence de Servitude peut être obtenue auprès de l'Influence des Cavaliers, dans le sanctuaire de l'Eliocalypse.
+RECIPES: None
+EFFECTS:
+  - Ornement : 154
+  - Lié au personnage
+IS WEAPON: False
+

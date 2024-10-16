@@ -1,0 +1,60 @@
+NAME : Mots éclairés
+ID : 23893
+TYPE : Mots de haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164796.png
+DESCRIPTION : En dépliant ces mots, vous obtiendrez un haïku du Wukang.
+(Double-cliquez pour utiliser l'objet)
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+IS WEAPON: False
+
+NAME : Mots obscurs
+ID : 23892
+TYPE : Mots de haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164795.png
+DESCRIPTION : En dépliant ces mots, vous obtiendrez un haïku du Wukin.
+(Double-cliquez pour utiliser l'objet)
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+IS WEAPON: False
+
+NAME : Mots récoltés
+ID : 23891
+TYPE : Mots de haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164794.png
+DESCRIPTION : En dépliant ces mots, vous obtiendrez un haïku des deux Royaumes.
+(Double-cliquez pour utiliser l'objet)
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+IS WEAPON: False
+
+NAME : Mots noircis
+ID : 23890
+TYPE : Mots de haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164793.png
+DESCRIPTION : En dépliant ces mots, vous obtiendrez un haïku d'encre.
+(Double-cliquez pour utiliser l'objet)
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+IS WEAPON: False
+
+NAME : Mots pliés
+ID : 23889
+TYPE : Mots de haïku
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/164792.png
+DESCRIPTION : En dépliant ces mots, vous obtiendrez un haïku de papier.
+(Double-cliquez pour utiliser l'objet)
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+IS WEAPON: False
+

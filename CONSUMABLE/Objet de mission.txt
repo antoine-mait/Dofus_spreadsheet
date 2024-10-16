@@ -1,0 +1,81 @@
+NAME : Formulaire d'enquête n°36
+ID : 2178
+TYPE : Objet de mission
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/80006.png
+DESCRIPTION : Ce formulaire permet d'identifier d'éventuels suspects dans des actes criminels.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Formulaire d'enquête n°33
+ID : 2190
+TYPE : Objet de mission
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/80006.png
+DESCRIPTION : Ce formulaire permet habituellement de faire avouer un suspect dans des affaires criminelles. Il ne reste plus qu'à le remplir vous-même pour créer un faux interrogatoire d'Oni Tnec.
+(Utilisez le document sur vous pour le remplir)
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Bâton renifleur de Sang
+ID : 2263
+TYPE : Objet de mission
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/80025.png
+DESCRIPTION : Ce bâton est possédé par un esprit renifleur. On peut libérer cet esprit qui foncera alors tout droit jusqu'à croiser un objet possédant l'odeur qu'il aime. Il hantera alors cette personne quelque temps avant de repartir au pays des esprits.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Paire de ciseaux abîmée
+ID : 6690
+TYPE : Objet de mission
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/80033.png
+DESCRIPTION : Une paire de ciseaux abîmée, tout ce qu'il y a de plus classique.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Fiche remplie valide
+ID : 6787
+TYPE : Objet de mission
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/80006.png
+DESCRIPTION : Cette petite fiche possède le nom d'un potentiel candidat pour être livreur du boulanger
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Fiche à remplir
+ID : 6790
+TYPE : Objet de mission
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/80006.png
+DESCRIPTION : Cette fiche ressemble à une feuille toute simple, cependant au contact de la peau d'un individu celle ci affiche tout de suite si la personne convient aux critères fournis dans l'entête.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Fiche remplie mais non valide
+ID : 6858
+TYPE : Objet de mission
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/80006.png
+DESCRIPTION : Cette petite fiche possède, hélas, le nom d'un candidat non valide pour être livreur du boulanger. La petite tâche rouge en bas indiquant qu'il ne possédait soit pas assez de force, soit pas assez d'agilité pour ce métier.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Fiche du Bricoleur à remplir
+ID : 8915
+TYPE : Objet de mission
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/80006.png
+DESCRIPTION : Cette fiche est faite pour y remplir toutes les informations nécessaires pour identifier un Bricoleur.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+

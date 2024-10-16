@@ -1,0 +1,1488 @@
+NAME : Diplôme de Trooliste
+ID : 30535
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Trooliste ».
+RECIPES: None
+EFFECTS:
+  - Titre : Trooliste
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Larve de course
+ID : 30534
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Larve de course ».
+RECIPES: None
+EFFECTS:
+  - Titre : Larve de course
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Couteaux tirés
+ID : 30533
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « À couteaux tirés ».
+RECIPES: None
+EFFECTS:
+  - Titre : À couteaux tirés
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Paf le tofu
+ID : 30532
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Paf le tofu ! ».
+RECIPES: None
+EFFECTS:
+  - Titre : Paf le tofu
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Mémoire de blop
+ID : 30531
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Mémoire de blop ».
+RECIPES: None
+EFFECTS:
+  - Titre : Mémoire de blop
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Pêcheur de koinkoins
+ID : 30530
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Pêcheur de koinkoins ».
+RECIPES: None
+EFFECTS:
+  - Titre : Pêcheur de koinkoins
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme à l'ancienne
+ID : 30357
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « À l'ancienne ».
+RECIPES: None
+EFFECTS:
+  - Titre : À l'ancienne
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Pot de vingt
+ID : 30346
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Pot de vingt ».
+RECIPES: None
+EFFECTS:
+  - Titre : Pot de vingt
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Chasseur assidu
+ID : 30335
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Chasseur assidu ».
+RECIPES: None
+EFFECTS:
+  - Titre : Chasseur assidu
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Mélomane en puissance
+ID : 30219
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Mélomane en puissance ».
+RECIPES: None
+EFFECTS:
+  - Titre : Mélomane en puissance
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Droupik
+ID : 30171
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Heureux comme Droupik ».
+RECIPES: None
+EFFECTS:
+  - Titre : Heureux comme Droupik
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Dofusien
+ID : 30147
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Dofusien ».
+RECIPES: None
+EFFECTS:
+  - Titre : Dofusien
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Nostalgique
+ID : 30065
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Nostalgique ».
+RECIPES: None
+EFFECTS:
+  - Titre : Nostalgique
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Simple Mortel
+ID : 29740
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Simple Mortel ».
+RECIPES: None
+EFFECTS:
+  - Titre : Simple Mortel
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme d'Aventurier Immuable
+ID : 29739
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Aventurier Immuable ».
+RECIPES: None
+EFFECTS:
+  - Titre : Aventurier Immuable
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme d'Illustre Poursuivant
+ID : 29738
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Illustre Poursuivant ».
+RECIPES: None
+EFFECTS:
+  - Titre : Illustre Poursuivant
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Champion Immortel
+ID : 29737
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Champion Immortel ».
+RECIPES: None
+EFFECTS:
+  - Titre : Champion Immortel
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme d'Ambassadeur de charme
+ID : 29736
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Ambassadeur de charme ».
+RECIPES: None
+EFFECTS:
+  - Titre : Ambassadeur de charme
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme d'Archiviste de l'Almanax
+ID : 29697
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Archiviste de l'Almanax ».
+RECIPES: None
+EFFECTS:
+  - Titre : Archiviste de l'Almanax
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Templier du calendrier
+ID : 29696
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Templier du calendrier ».
+RECIPES: None
+EFFECTS:
+  - Titre : Templier du calendrier
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Chevalier du Doziak
+ID : 29695
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Chevalier du Doziak ».
+RECIPES: None
+EFFECTS:
+  - Titre : Chevalier du Doziak
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Victime des Mérydes
+ID : 29694
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Victime des Mérydes ».
+RECIPES: None
+EFFECTS:
+  - Titre : Victime des Mérydes
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme d'Employé du mois
+ID : 29693
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Employé du mois ».
+RECIPES: None
+EFFECTS:
+  - Titre : Employé du mois
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme d'Offrande Ambulante
+ID : 29692
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Offrande ambulante ».
+RECIPES: None
+EFFECTS:
+  - Titre : Offrande ambulante
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Mascotte de Théodoran
+ID : 29691
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Mascotte de Théodoran ».
+RECIPES: None
+EFFECTS:
+  - Titre : Mascotte de Théodoran
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Sobriété
+ID : 29678
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « J'suis pas bourré ».
+RECIPES: None
+EFFECTS:
+  - Titre : J'suis pas bourré
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Videur de Chopes
+ID : 29677
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Videur de Chopes ».
+RECIPES: None
+EFFECTS:
+  - Titre : Videur de Chopes
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Chevalier de l'Ordre du Mérite
+ID : 29658
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Chevalier de l'Ordre du Mérite ».
+RECIPES: None
+EFFECTS:
+  - Titre : Chevalier de l'Ordre du Mérite
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Wa d'un jour 654
+ID : 29501
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Wa d'un jour 654 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Wa d'un jour 654
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de l'Épi fané 654
+ID : 29500
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Épi fané 654 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Épi fané 654
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Fabophile 654
+ID : 29499
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Fabophile 654 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Fabophile 654
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme d'Étoile des neiges
+ID : 29478
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Étoile des neiges ».
+RECIPES: None
+EFFECTS:
+  - Titre : Étoile des neiges
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Glouton du réveillon
+ID : 29477
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Glouton du réveillon » ou « Gloutonne qui réveillonne ».
+RECIPES: None
+EFFECTS:
+  - Titre : Glouton du réveillon
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme d'Enguirlandeur
+ID : 29476
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Enguirlandeur ».
+RECIPES: None
+EFFECTS:
+  - Titre : Enguirlandeur
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Challenger du Goultarminator 653
+ID : 29317
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Challenger du Goultarminator 653 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Challenger du Goultarminator 653
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Dégénéré
+ID : 29285
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Dégénéré ».
+RECIPES: None
+EFFECTS:
+  - Titre : Dégénéré
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme d'Accro'Matique
+ID : 29284
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Accro'Matique ».
+RECIPES: None
+EFFECTS:
+  - Titre : Accro'Matique
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : ...
+ID : 29230
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : ...
+RECIPES: None
+EFFECTS:
+  - Titre : ...
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Krosplayeur Intemporel
+ID : 28687
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Krosplayeur Intemporel ».
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Titre : Krosplayeur Intemporel
+IS WEAPON: False
+
+NAME : Diplôme de Miss/Mister Monde des Douze 653
+ID : 28487
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Miss (ou Mister) Monde des Douze 653».
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Titre : Mister Monde des Douze 653
+IS WEAPON: False
+
+NAME : Diplôme de la Classe Incarnée 653
+ID : 28486
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Classe Incarnée 653 ».
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Titre : Classe Incarnée 653
+IS WEAPON: False
+
+NAME : Diplôme de Manitum Premium
+ID : 28352
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Manitum Premium ».
+RECIPES: None
+EFFECTS:
+  - Titre : Manitum Premium
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Suzerain des tourmentés
+ID : 28351
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Suzerain des tourmentés ».
+RECIPES: None
+EFFECTS:
+  - Titre : Suzerain des tourmentés
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Fan du Magik Riktus
+ID : 28350
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Fan du Magik Riktus ».
+RECIPES: None
+EFFECTS:
+  - Titre : Fan du Magik Riktus
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Collectionneur d'incarnations
+ID : 28349
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Collectionneur d'incarnations ».
+RECIPES: None
+EFFECTS:
+  - Titre : Collectionneur d'incarnations
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Wa d'un jour 653
+ID : 27847
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Wa d'un jour 653 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Wa d'un jour 653
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Fabophile 653
+ID : 27846
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Fabophile 653 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Fabophile 653
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de l'Épi fané 653
+ID : 27845
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Épi fané 653 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Épi fané 653
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Témoin d'un autre temps
+ID : 27578
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Témoin d'un autre temps ».
+RECIPES: None
+EFFECTS:
+  - Titre : Témoin d'un autre temps
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Mercenaire
+ID : 27461
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Mercenaire ».
+RECIPES: None
+EFFECTS:
+  - Titre : Mercenaire
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Trappeur
+ID : 27460
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Trappeur ».
+RECIPES: None
+EFFECTS:
+  - Titre : Trappeur
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Combattant Élémentaire
+ID : 27288
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Combattant Élémentaire ».
+RECIPES: None
+EFFECTS:
+  - Titre : Combattant Élémentaire
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Fédéré de la Confédération
+ID : 27275
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Fédéré de la Confédération ».
+RECIPES: None
+EFFECTS:
+  - Titre : Fédéré de la Confédération
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme d'Opportuniste
+ID : 27203
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Opportuniste ».
+RECIPES: None
+EFFECTS:
+  - Titre : Opportuniste
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme d'Osatopien
+ID : 27191
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Osatopien ».
+RECIPES: None
+EFFECTS:
+  - Titre : Osatopien
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme d'Altérophile
+ID : 27190
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Altérophile ».
+RECIPES: None
+EFFECTS:
+  - Titre : Altérophile
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Collectionneur
+ID : 27189
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Collectionneur ».
+RECIPES: None
+EFFECTS:
+  - Titre : Collectionneur
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Maître d'Osatopia
+ID : 27188
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Maître d'Osatopia ».
+RECIPES: None
+EFFECTS:
+  - Titre : Maître d'Osatopia
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Wa d'un jour 652
+ID : 26259
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Wa d'un jour 652 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Wa d'un jour 652
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Fabophile 652
+ID : 26258
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Fabophile 652 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Fabophile 652
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de l'Épi fané 652
+ID : 26257
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Épi fané 652 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Épi fané 652
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme du Compagnon Éphémère
+ID : 26255
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Compagnon Éphémère ».
+RECIPES: None
+EFFECTS:
+  - Titre : Compagnon Éphémère
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Valeureux Parchomancien
+ID : 25971
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Valeureux Parchomancien ».
+RECIPES: None
+EFFECTS:
+  - Titre : Valeureux Parchomancien
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme du Recommancien
+ID : 25808
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Recommancien ».
+RECIPES: None
+EFFECTS:
+  - Titre : Recommancien
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Voyageur Spectral
+ID : 25791
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Voyageur Spectral ».
+RECIPES: None
+EFFECTS:
+  - Titre : Voyageur Spectral
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme du Disciple de la Chtigresse
+ID : 25790
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Disciple de la Chtigresse ».
+RECIPES: None
+EFFECTS:
+  - Titre : Disciple de la Chtigresse
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Victorus aut Morti
+ID : 25772
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Victorus aut Morti ».
+RECIPES: None
+EFFECTS:
+  - Titre : Victorus aut Mortis
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme du Fou de la gâchette
+ID : 25278
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Fou de la gâchette ».
+RECIPES: None
+EFFECTS:
+  - Titre : Fou de la gâchette
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme du Bordé de Nouilles
+ID : 25101
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Bordé de Nouilles ».
+RECIPES: None
+EFFECTS:
+  - Titre : Bordé de Nouilles
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme du Plein aux As
+ID : 25100
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Plein aux As ».
+RECIPES: None
+EFFECTS:
+  - Titre : Plein aux As
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Forgeur de Minouki
+ID : 25099
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Forgeur de Minouki ».
+RECIPES: None
+EFFECTS:
+  - Titre : Forgeur de Minouki
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Bip Bop
+ID : 25098
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Bip Bop ».
+RECIPES: None
+EFFECTS:
+  - Titre : Bip Bop
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Gardien des Arts
+ID : 25004
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Gardien des Arts ».
+RECIPES: None
+EFFECTS:
+  - Titre : Gardien des Arts
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Wakficionado
+ID : 24940
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Wakficionado ».
+RECIPES: None
+EFFECTS:
+  - Titre : Wakficionado
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Wa d'un jour 651
+ID : 24187
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Wa d'un jour 651 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Wa d'un jour 651
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Fabophile 651
+ID : 24186
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Fabophile 651 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Fabophile 651
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de l'Épi fané 651
+ID : 24185
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Épi fané 651 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Épi fané 651
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Confinuum Exodus
+ID : 24066
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Confinuum Exodus ».
+RECIPES: None
+EFFECTS:
+  - Titre : Confinuum Exodus
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Poète
+ID : 23942
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Âme de poète ».
+RECIPES: None
+EFFECTS:
+  - Titre : Âme de poète
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Bêta-Major
+ID : 23558
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Bêta-Major ».
+RECIPES: None
+EFFECTS:
+  - Titre : Bêta-Major
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Maître des voies martiales
+ID : 23309
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Maître des voies martiales ».
+RECIPES: None
+EFFECTS:
+  - Titre : Maître des voies martiales
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme d'Apprenti Pandawushuka
+ID : 23308
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Apprenti Pandawushuka ».
+RECIPES: None
+EFFECTS:
+  - Titre : Apprenti Pandawushuka
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme spirituel
+ID : 23307
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Esprit d"équipe ».
+RECIPES: None
+EFFECTS:
+  - Titre : Esprit d'équipe
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Guerrier saisonnier 650
+ID : 23306
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Guerrier saisonnier 650 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Guerrier saisonnier 650
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Parchomancien Finaliste
+ID : 23087
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Parchomancien Finaliste ».
+RECIPES: None
+EFFECTS:
+  - Titre : Parchomancien Finaliste
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Prophète Éphémère
+ID : 23056
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Prophète Éphémère ».
+RECIPES: None
+EFFECTS:
+  - Titre : Prophète Éphémère
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de maîtrise des parchemins
+ID : 22504
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Maître des Parchemins ».
+RECIPES: None
+EFFECTS:
+  - Titre : Maître de la Parchomancie
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Parchomancie
+ID : 22496
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Parchomancien ».
+RECIPES: None
+EFFECTS:
+  - Titre : Parchomancien
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Wa d'un jour 650
+ID : 22321
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Wa d'un jour 650 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Wa d'un jour 650
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Fabophile 650
+ID : 22320
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Fabophile 650 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Fabophile 650
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de l'Épi fané 650
+ID : 22319
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Épi fané 650 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Épi fané 650
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Souffleur de bougies
+ID : 21866
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Souffleur de bougies ».
+RECIPES: None
+EFFECTS:
+  - Titre : Souffleur de bougies
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme d'Ankaventurier
+ID : 21865
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Ankaventurier ».
+RECIPES: None
+EFFECTS:
+  - Titre : Ankaventurier
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Créateur de rêve
+ID : 21864
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Créateur de rêve ».
+RECIPES: None
+EFFECTS:
+  - Titre : Créateur de rêve
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Vide-ordures
+ID : 21719
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Vide-ordures ».
+RECIPES: None
+EFFECTS:
+  - Titre : Vide-ordures
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Maitre de guerre
+ID : 21426
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Maître de guerre ».
+RECIPES: None
+EFFECTS:
+  - Titre : Maître de guerre
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Casus Belli Temporis III
+ID : 21396
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Casus Belli Temporis II ».
+RECIPES: None
+EFFECTS:
+  - Titre : Casus Belli Temporis III
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Guitariste survolté
+ID : 21184
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Guitariste survolté ».
+RECIPES: None
+EFFECTS:
+  - Titre : Guitariste survolté
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Métalleux
+ID : 21183
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Métalleux ».
+RECIPES: None
+EFFECTS:
+  - Titre : Métalleux
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme des cloches
+ID : 21045
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Roi/Reine des cloches ».
+RECIPES: None
+EFFECTS:
+  - Titre : Roi des cloches
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Croqueur
+ID : 21044
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Croqueur de chocolat ».
+RECIPES: None
+EFFECTS:
+  - Titre : Croqueur de chocolat
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Waddictateur
+ID : 21043
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Waddictateur ».
+RECIPES: None
+EFFECTS:
+  - Titre : Waddictateur
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Vainqueur de la Dofus Cup 649
+ID : 21021
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Vainqueur de la Dofus Cup 649 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Vainqueur de la Dofus Cup 649
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Guerrier saisonnier 649
+ID : 21020
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Guerrier saisonnier 649 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Guerrier saisonnier 649
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de l'Épi fané
+ID : 20802
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Épi fané 649 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Épi fané 649
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Fabophile
+ID : 20801
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Fabophile 649 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Fabophile 649
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Wa d'un jour
+ID : 20800
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Wa d'un jour 649 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Wa d'un jour 649
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Prospectus temporis II
+ID : 20795
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Prospectus temporis II ».
+RECIPES: None
+EFFECTS:
+  - Titre : Prospectus Temporis II
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme des douze travaux d'Hyrkul
+ID : 20772
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Force Hyrkuléenne ».
+RECIPES: None
+EFFECTS:
+  - Titre : Force Hyrkuléenne
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de la Classe Incarnée 649
+ID : 20254
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Classe Incarnée 649 ».
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Titre : Classe Incarnée 649
+IS WEAPON: False
+
+NAME : Diplôme de Miss/Mister Monde des Douze 649
+ID : 20253
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Miss (ou Mister) Monde des Douze 649».
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Titre : Mister Monde des Douze 649
+IS WEAPON: False
+
+NAME : Diplôme de Magister Temporis I
+ID : 19995
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Magister Temporis I ».
+RECIPES: None
+EFFECTS:
+  - Titre : Magister Temporis I
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Champion de Furye 648
+ID : 19779
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Champion de Furye 648 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Champion de Furye 648
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Guerrier de l'hiver 648
+ID : 19632
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Guerrier de l'hiver 648 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Guerrier de l'hiver 648
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Guerrier de l'été 648
+ID : 19631
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Guerrier de l'été 648 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Guerrier de l'été 648
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de la Classe Incarnée 648
+ID : 19530
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Classe Incarnée 648 ».
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Titre : Classe Incarnée 648
+IS WEAPON: False
+
+NAME : Diplôme de Miss/Mister Monde des Douze 648
+ID : 19528
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Miss (ou Mister) Monde des Douze 648 ».
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Titre : Mister Monde des Douze 648
+IS WEAPON: False
+
+NAME : Diplôme d'ivoire
+ID : 19508
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « De cendre et d'ivoire ».
+RECIPES: None
+EFFECTS:
+  - Titre : De cendre et d'ivoire
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de Guerrier de l'été 647
+ID : 19343
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Guerrier de l'été 647 ».
+RECIPES: None
+EFFECTS:
+  - Titre : Guerrier de l'été 647
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de plongée
+ID : 18111
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Roi de la Plonge ».
+RECIPES: None
+EFFECTS:
+  - Titre : Roi de la Plonge
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme de R'lyugluglu
+ID : 18116
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Koutoulou Fhtagn ».
+RECIPES: None
+EFFECTS:
+  - Titre : Koutoulou Fhtagn
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme des Trithons
+ID : 18117
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76045.png
+DESCRIPTION : Ce diplôme confère le titre « Trithonite ».
+RECIPES: None
+EFFECTS:
+  - Titre : Trithonite
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Diplôme d'Allié émérite
+ID : 18603
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Allié émérite ».
+RECIPES: None
+EFFECTS:
+  - Titre : Allié émérite
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Diplôme de Vainqueur de la Dofus Cup
+ID : 18797
+TYPE : Parchemin de titre
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/76046.png
+DESCRIPTION : Ce diplôme confère le titre « Vainqueur de la Dofus Cup ».
+RECIPES: None
+EFFECTS:
+  - Titre : Vainqueur de la Dofus Cup
+  - Échangeable : 0
+IS WEAPON: False
+

@@ -1,0 +1,792 @@
+NAME : Planche de charcuterie
+ID : 30167
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/136141.png
+DESCRIPTION : Pour accompagner la bière après le travail, rien ne vaut la cochonnaille.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Hot Dog de Tofu
+ID : 6668
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42150.png
+DESCRIPTION : Cette saucisse bien grasse vous permettra de reprendre des forces pour pouvoir digérer les autres saucisses que vous venez de consommer.
+RECIPES: None
+EFFECTS:
+  - Rend 16 à 30 points d'énergie
+  - 16 à 30 Vie
+IS WEAPON: False
+
+NAME : Burger de Trool
+ID : 6669
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42149.png
+DESCRIPTION : Cet impressionnant burger pourrait remettre sur pied une armée de Chafers affamés. À consommer avec modération, l'abus de Trool est dangereux pour la santé.
+RECIPES: None
+EFFECTS:
+  - Rend 31 à 60 points d'énergie
+  - 31 à 60 Vie
+IS WEAPON: False
+
+NAME : Mexicanos du débutant
+ID : 10796
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69113.png
+DESCRIPTION : Cette boulette de viande hachée épicée concentre tout ce qu'il y a de plus indigeste dans la contrée d'Amakna, mais c'est trop bon et votre petit corps en redemande.
+RECIPES: None
+EFFECTS:
+  - 10 Vie
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Cervelle de larve
+ID : 10967
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69113.png
+DESCRIPTION : Il faut vraiment être désespéré pour manger ça. Non, ne faites pas ça !
+RECIPES: None
+EFFECTS:
+  - 10 Vie
+IS WEAPON: False
+
+NAME : Saucisson de Porkania
+ID : 25305
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/126065.png
+DESCRIPTION : Le gras, c'est la vie, et celui qui parsème ce saucisson au goût sauvage pourrait bien changer la vôtre.
+Grouik ?
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+IS WEAPON: False
+
+NAME : Bouillon de Chair
+ID : 16670
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69741.png
+DESCRIPTION : Ce plat au goût insipide fait partie de la cuisine traditionnelle d'Incarnam.
+RECIPES:
+  - ID: 16663 / Viande Intangible, Quantity: 1
+EFFECTS:
+  - 11 Vie
+IS WEAPON: False
+
+NAME : Fricadelle
+ID : 21501
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/176021.png
+DESCRIPTION : Sans sauce, ce plat est aussi sec que du carton.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Potjevleesch
+ID : 21499
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/176019.png
+DESCRIPTION : Inutile de batailler pour essayer de prononcer le nom de ce plat, contentez-vous de le déguster.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Carbonade flamande
+ID : 21497
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/176017.png
+DESCRIPTION : Ce plat typique du Nord vous donnera un regain de créativité.
+RECIPES: None
+EFFECTS:
+  - Monter/Descendre d'une monture
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Burgreg
+ID : 20799
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42149.png
+DESCRIPTION : Inventé par le célèbre Greg, ce burger ne se consomme à l'origine que le jeudi. Heureusement que la semaine des quatre jeudis arrive bientôt, sinon vous risqueriez d'être en manque de gras.
+RECIPES: None
+EFFECTS:
+  - Rend 11 à 20 points d'énergie
+  - 11 à 20 Vie
+IS WEAPON: False
+
+NAME : Pâtée d'Ecaflip
+ID : 17667
+TYPE : Viande comestible
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/24045.png
+DESCRIPTION : Après avoir dégusté cette délicieuse pâtée en conserve, vous pourrez vous faire les griffes sur la boîte... temporairement du moins.
+RECIPES: None
+EFFECTS:
+  - Lié au personnage
+IS WEAPON: False
+
+NAME : Gâtrool Industriel
+ID : 8519
+TYPE : Viande comestible
+LEVEL : 5
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69149.png
+DESCRIPTION : Cette galette rituelle fourrée aux krottes de Trooll est une vieille recette bwork. Seul un Bwork qui a vaincu un Trooll à mains nues a le droit d'en manger. S'il a survécu à ce combat, il est prêt à avaler n'importe quoi !
+RECIPES: None
+EFFECTS:
+  - Rend 10 points d'énergie
+  - 10 XP
+IS WEAPON: False
+
+NAME : Bouillon de Chair Fortifiant
+ID : 17422
+TYPE : Viande comestible
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69803.png
+DESCRIPTION : Ce bouillon n'est ni trop chaud, ni trop froid, ni trop épicé, ni pas assez. En fait, vous avez l'impression de manger un nuage.
+RECIPES:
+  - ID: 17421 / Bidoche Intangible, Quantity: 1
+EFFECTS:
+  - 20 Vie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Boulette de Viande
+ID : 17168
+TYPE : Viande comestible
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69750.png
+DESCRIPTION : Si les cuisiniers gardent secrète la recette de leurs boulettes, ce n'est pas par peur d'être copiés mais par crainte d'un procès.
+RECIPES:
+  - ID: 17123 / Viande Hachée, Quantity: 1
+EFFECTS:
+  - Rend 30 points d'énergie
+IS WEAPON: False
+
+NAME : Beignet Astrubien
+ID : 17169
+TYPE : Viande comestible
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69115.png
+DESCRIPTION : Populaire chez les enfants, ce beignet est également apprécié des adultes qui détestent savoir ce qu'ils mangent.
+RECIPES:
+  - ID: 17124 / Viande Faisandée, Quantity: 1
+  - ID: 289 / Blé, Quantity: 1
+EFFECTS:
+  - 30 Vie
+IS WEAPON: False
+
+NAME : Beignet Astrubien Fortifiant
+ID : 17170
+TYPE : Viande comestible
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69747.png
+DESCRIPTION : Aussi insipide que son homologue, ce beignet est recommandé dans l'alimentation des Iops.
+RECIPES:
+  - ID: 17125 / Bidoche Faisandée, Quantity: 1
+  - ID: 289 / Blé, Quantity: 1
+EFFECTS:
+  - 30 Vie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Roulade de Carne Fortifiante
+ID : 17172
+TYPE : Viande comestible
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69826.png
+DESCRIPTION : Le redoutable Ronan le Barbare les roule lui-même sous les aisselles de ses ennemis vaincus.
+RECIPES:
+  - ID: 17127 / Bidoche Frelatée, Quantity: 1
+  - ID: 289 / Blé, Quantity: 1
+EFFECTS:
+  - Rend 90 points d'énergie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Roulade de Carne
+ID : 17171
+TYPE : Viande comestible
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69825.png
+DESCRIPTION : C'est le mets préféré des croque-morts et des marchands gobelins.
+RECIPES:
+  - ID: 17126 / Viande Frelatée, Quantity: 1
+  - ID: 289 / Blé, Quantity: 1
+EFFECTS:
+  - Rend 90 points d'énergie
+IS WEAPON: False
+
+NAME : Steak sauce chasseur
+ID : 28360
+TYPE : Viande comestible
+LEVEL : 30
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69823.png
+DESCRIPTION : Un bon steak à savourer avant de partir à la chasse aux monstres : eux aussi vont déguster !
+RECIPES: None
+EFFECTS:
+  - 11 à 20 Vie
+  - Rend 11 à 20 points d'énergie
+IS WEAPON: False
+
+NAME : Papillote au Citron
+ID : 17173
+TYPE : Viande comestible
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69744.png
+DESCRIPTION : L'acidité du citron neutralise efficacement les bactéries mortelles qui se développent dans cette viande.
+RECIPES:
+  - ID: 17128 / Viande Minérale, Quantity: 1
+  - ID: 400 / Orge, Quantity: 1
+  - ID: 1736 / Citron, Quantity: 1
+EFFECTS:
+  - 50 Vie
+IS WEAPON: False
+
+NAME : Papillote Fortifiante au Citron
+ID : 17174
+TYPE : Viande comestible
+LEVEL : 40
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69745.png
+DESCRIPTION : Si ce plat ne vous tue pas, il vous rendra plus fort, c'est certain.
+RECIPES:
+  - ID: 17129 / Bidoche Minérale, Quantity: 1
+  - ID: 400 / Orge, Quantity: 1
+  - ID: 1736 / Citron, Quantity: 1
+EFFECTS:
+  - 50 Vie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Salade Sufokienne Fortifiante
+ID : 17176
+TYPE : Viande comestible
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69817.png
+DESCRIPTION : Les Sufokiens se sont vite aperçus que manger des fruits de mer stimulait leur cervelle mais pas leurs muscles. C'est pourquoi ils ont créés cette recette.
+RECIPES:
+  - ID: 17131 / Bidoche Tendre, Quantity: 1
+  - ID: 400 / Orge, Quantity: 1
+  - ID: 1974 / Feuille de Salace, Quantity: 1
+EFFECTS:
+  - Rend 150 points d'énergie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Menu spécial de chez Maxims
+ID : 30512
+TYPE : Viande comestible
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/42250.png
+DESCRIPTION : Un menu particulièrement riche, cuisiné et concocté pour les aventuriers qui ont sauvé la Foire du Trool.
+RECIPES: None
+EFFECTS:
+  - Rend 41 à 60 points d'énergie
+  - 41 à 60 Vie
+IS WEAPON: False
+
+NAME : Salade Sufokienne
+ID : 17175
+TYPE : Viande comestible
+LEVEL : 50
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69816.png
+DESCRIPTION : Lorsque la pêche est mauvaise, les Sufokiens se rabattent sur cette salade qui contient toutes les protéines dont ils ont besoin.
+RECIPES:
+  - ID: 17130 / Viande Tendre, Quantity: 1
+  - ID: 400 / Orge, Quantity: 1
+  - ID: 1974 / Feuille de Salace, Quantity: 1
+EFFECTS:
+  - Rend 150 points d'énergie
+IS WEAPON: False
+
+NAME : Friture Amaknéenne Fortifiante
+ID : 17178
+TYPE : Viande comestible
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69753.png
+DESCRIPTION : Ce plat, hors de portée du commun des mortels, est surtout consommé par les notables lors des fêtes amaknéennes.
+RECIPES:
+  - ID: 17133 / Bidoche Ladre, Quantity: 1
+  - ID: 533 / Avoine, Quantity: 1
+  - ID: 1973 / Huile à frire, Quantity: 1
+EFFECTS:
+  - 70 Vie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Friture Amaknéenne
+ID : 17177
+TYPE : Viande comestible
+LEVEL : 60
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69752.png
+DESCRIPTION : Bol Pokuz a inventé ce plat qui est vite devenu un incontournable des fêtes amaknéennes.
+RECIPES:
+  - ID: 17132 / Viande Ladre, Quantity: 1
+  - ID: 533 / Avoine, Quantity: 1
+  - ID: 1973 / Huile à frire, Quantity: 1
+EFFECTS:
+  - 70 Vie
+IS WEAPON: False
+
+NAME : Parmentier Fortifiant à l'Oignon
+ID : 17180
+TYPE : Viande comestible
+LEVEL : 70
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69759.png
+DESCRIPTION : Votre haleine va elle aussi être fortifiée après une bouchée de ce parmentier.
+RECIPES:
+  - ID: 17135 / Bidoche Avariée, Quantity: 1
+  - ID: 533 / Avoine, Quantity: 1
+  - ID: 1975 / Oignon, Quantity: 1
+EFFECTS:
+  - Rend 210 points d'énergie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Parmentier à l'Oignon
+ID : 17179
+TYPE : Viande comestible
+LEVEL : 70
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69758.png
+DESCRIPTION : Pour garder une haleine de tueur, il est recommandé d'en consommer à chaque repas.
+RECIPES:
+  - ID: 17134 / Viande Avariée, Quantity: 1
+  - ID: 533 / Avoine, Quantity: 1
+  - ID: 1975 / Oignon, Quantity: 1
+EFFECTS:
+  - Rend 210 points d'énergie
+IS WEAPON: False
+
+NAME : Terrine Bontarienne Fortifiante
+ID : 17182
+TYPE : Viande comestible
+LEVEL : 80
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69841.png
+DESCRIPTION : Cette terrine est prisée des officiers bontariens qui sont souvent sur le terrain.
+RECIPES:
+  - ID: 17137 / Bidoche Sanguinolente, Quantity: 1
+  - ID: 401 / Houblon, Quantity: 1
+  - ID: 1983 / Graisse Gélatineuse, Quantity: 1
+EFFECTS:
+  - 90 Vie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Terrine Bontarienne
+ID : 17181
+TYPE : Viande comestible
+LEVEL : 80
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69840.png
+DESCRIPTION : À Brâkmar, la recette de cette terrine a été adaptée pour inclure de vrais morceaux de miliciens bontariens.
+RECIPES:
+  - ID: 17136 / Viande Sanguinolente, Quantity: 1
+  - ID: 401 / Houblon, Quantity: 1
+  - ID: 1983 / Graisse Gélatineuse, Quantity: 1
+EFFECTS:
+  - 90 Vie
+IS WEAPON: False
+
+NAME : Pot-au-feu Goûteux
+ID : 17183
+TYPE : Viande comestible
+LEVEL : 90
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69806.png
+DESCRIPTION : Plat du peuple, ce pot-au-feu peut être préparé avec toutes sortes de viandes bon marché.
+RECIPES:
+  - ID: 17138 / Viande Rassie, Quantity: 1
+  - ID: 401 / Houblon, Quantity: 1
+  - ID: 1731 / Dose de jus goûtu, Quantity: 1
+EFFECTS:
+  - Rend 270 points d'énergie
+IS WEAPON: False
+
+NAME : Pot-au-feu Goûteux Fortifiant
+ID : 17184
+TYPE : Viande comestible
+LEVEL : 90
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69807.png
+DESCRIPTION : Ce pot-au-feu n'est préparé qu'avec les viandes les plus rares.
+RECIPES:
+  - ID: 17139 / Bidoche Rassie, Quantity: 1
+  - ID: 401 / Houblon, Quantity: 1
+  - ID: 1731 / Dose de jus goûtu, Quantity: 1
+EFFECTS:
+  - Rend 270 points d'énergie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Plat de Filtounga
+ID : 8507
+TYPE : Viande comestible
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69136.png
+DESCRIPTION : La Filtounga est un plat unique. Grâce aux ingrédients qui le composent, il garde une saveur elle aussi unique. Servir tiède.
+RECIPES: None
+EFFECTS:
+  - 51 à 250 Vie
+  - Rend 2000 points d'énergie
+  - 1 Vitalité
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Poêlée Paysanne
+ID : 17185
+TYPE : Viande comestible
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69804.png
+DESCRIPTION : Seules les femmes sont habilitées à cuisiner ce plat, ce qui ne manque pas de faire réagir les organisations anti-sexisme.
+RECIPES:
+  - ID: 17140 / Viande Exsudative, Quantity: 1
+  - ID: 423 / Lin, Quantity: 1
+  - ID: 2331 / Aubergine, Quantity: 1
+EFFECTS:
+  - 110 Vie
+IS WEAPON: False
+
+NAME : Poêlée Paysanne Fortifiante
+ID : 17186
+TYPE : Viande comestible
+LEVEL : 100
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69805.png
+DESCRIPTION : Seules les femmes sont autorisées à manger ce plat, ce qui ne manque pas de faire réagir les associations de défense des droits de l'homme.
+RECIPES:
+  - ID: 17141 / Bidoche Exsudative, Quantity: 1
+  - ID: 423 / Lin, Quantity: 1
+  - ID: 2331 / Aubergine, Quantity: 1
+EFFECTS:
+  - 110 Vie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Pemmican Fortifiant aux Haricots
+ID : 17188
+TYPE : Viande comestible
+LEVEL : 110
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69797.png
+DESCRIPTION : Les fuites gastriques provoquées par la digestion de ce plat sont particulièrement explosives.
+RECIPES:
+  - ID: 17143 / Bidoche Séchée, Quantity: 1
+  - ID: 423 / Lin, Quantity: 1
+  - ID: 6671 / Haricot, Quantity: 1
+EFFECTS:
+  - Rend 330 points d'énergie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Pemmican aux Haricots
+ID : 17187
+TYPE : Viande comestible
+LEVEL : 110
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69796.png
+DESCRIPTION : Les Brâkmariens ont détourné l'usage de ce plat afin de créer des bombes vivantes.
+RECIPES:
+  - ID: 17142 / Viande Séchée, Quantity: 1
+  - ID: 423 / Lin, Quantity: 1
+  - ID: 6671 / Haricot, Quantity: 1
+EFFECTS:
+  - Rend 330 points d'énergie
+IS WEAPON: False
+
+NAME : Grillade Brâkmarienne Fortifiante
+ID : 17190
+TYPE : Viande comestible
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69786.png
+DESCRIPTION : Cette grillade est difficile à réaliser car les prisonniers ne réagissent pas tous de la même manière au bain de lave.
+RECIPES:
+  - ID: 17145 / Bidoche Saignante, Quantity: 1
+  - ID: 532 / Seigle, Quantity: 1
+  - ID: 1984 / Cendres Éternelles, Quantity: 1
+EFFECTS:
+  - 130 Vie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Grillade Brâkmarienne
+ID : 17189
+TYPE : Viande comestible
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69785.png
+DESCRIPTION : Les Brâkmariens ont adapté leur cuisine à leur environnement, ce qui explique la coutume locale de faire griller à peu près n'importe quoi.
+RECIPES:
+  - ID: 17144 / Viande Saignante, Quantity: 1
+  - ID: 532 / Seigle, Quantity: 1
+  - ID: 1984 / Cendres Éternelles, Quantity: 1
+EFFECTS:
+  - 130 Vie
+IS WEAPON: False
+
+NAME : Délice des Kitsous
+ID : 26753
+TYPE : Viande comestible
+LEVEL : 120
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69115.png
+DESCRIPTION : Ces beignets de tofu fourrés au riz vous permettront de faire le plein d'énergie. Ils sont très appréciés des esprits de Pandala, et en particulier des messagers de la déesse Inali. Ne soyez donc pas étonné si vous entendez des voix ensorcelantes ou des rires malicieux après en avoir consommé.
+RECIPES:
+  - ID: 7018 / Riz, Quantity: 1
+  - ID: 1977 / Épices, Quantity: 1
+  - ID: 17144 / Viande Saignante, Quantity: 1
+EFFECTS:
+  - Rend 360 points d'énergie
+IS WEAPON: False
+
+NAME : Marinade Sucrée-Salée
+ID : 17191
+TYPE : Viande comestible
+LEVEL : 130
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69789.png
+DESCRIPTION : Ce plat est très prisé des aventuriers qui n'ont pas le temps de cuisiner une entrée, un plat et un dessert.
+RECIPES:
+  - ID: 17146 / Viande Persillée, Quantity: 1
+  - ID: 532 / Seigle, Quantity: 1
+  - ID: 1734 / Cerise, Quantity: 1
+EFFECTS:
+  - Rend 390 points d'énergie
+IS WEAPON: False
+
+NAME : Marinade Sucrée-Salée Fortifiante
+ID : 17192
+TYPE : Viande comestible
+LEVEL : 130
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69790.png
+DESCRIPTION : Ce plat tout en un fait une concurrence non-négligeable aux barres énergétiques.
+RECIPES:
+  - ID: 17147 / Bidoche Persillée, Quantity: 1
+  - ID: 532 / Seigle, Quantity: 1
+  - ID: 1734 / Cerise, Quantity: 1
+EFFECTS:
+  - Rend 390 points d'énergie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Boudin Noir
+ID : 17193
+TYPE : Viande comestible
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69809.png
+DESCRIPTION : Le boudin noir a la réputation d'être plus gros et d'avoir un goût plus prononcé que le boudin blanc.
+RECIPES:
+  - ID: 17148 / Viande Macérée, Quantity: 1
+  - ID: 405 / Malt, Quantity: 1
+  - ID: 2012 / Croquette enrichie, Quantity: 1
+EFFECTS:
+  - 150 Vie
+IS WEAPON: False
+
+NAME : Boudin Noir Fortifiant
+ID : 17194
+TYPE : Viande comestible
+LEVEL : 140
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69810.png
+DESCRIPTION : La rumeur dit que le boudin noir serait plus fort que le boudin blanc, mais personne ne les a jamais vus s'affronter au bras de fer.
+RECIPES:
+  - ID: 17149 / Bidoche Macérée, Quantity: 1
+  - ID: 405 / Malt, Quantity: 1
+  - ID: 2012 / Croquette enrichie, Quantity: 1
+EFFECTS:
+  - 150 Vie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Daube Fortifiante aux Épices
+ID : 17196
+TYPE : Viande comestible
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69802.png
+DESCRIPTION : Faire allusion à une belle grosse daube, c'est ne pas rendre justice à ce plat.
+RECIPES:
+  - ID: 17151 / Bidoche de Brousse, Quantity: 1
+  - ID: 405 / Malt, Quantity: 1
+  - ID: 1977 / Épices, Quantity: 1
+EFFECTS:
+  - Rend 450 points d'énergie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Daube aux Épices
+ID : 17195
+TYPE : Viande comestible
+LEVEL : 150
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69801.png
+DESCRIPTION : Si vous êtes une daube en combat, vous risquez de finir en chair à canon.
+RECIPES:
+  - ID: 17150 / Viande de Brousse, Quantity: 1
+  - ID: 405 / Malt, Quantity: 1
+  - ID: 1977 / Épices, Quantity: 1
+EFFECTS:
+  - Rend 450 points d'énergie
+IS WEAPON: False
+
+NAME : Salade Houbée
+ID : 9982
+TYPE : Viande comestible
+LEVEL : 158
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69129.png
+DESCRIPTION : Le nom de cette salade est un hommage au jour de sa conception. En effet, elle fut servie pour la première fois lors de la cérémonie d'adoubement du chevalier Kacador. Comme toute nourriture destinée au chevalier, cette salade est déconseillée aux végétariens.
+RECIPES:
+  - ID: 17195, Quantity: 5
+  - ID: 2556 / Pollen de Blopignon, Quantity: 2
+  - ID: 437 / Bourgeon d'Abraknyde, Quantity: 10
+EFFECTS:
+  - 201 à 250 Vie
+IS WEAPON: False
+
+NAME : Mijoté Récréatif Fortifiant
+ID : 17198
+TYPE : Viande comestible
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69774.png
+DESCRIPTION : À l'instar d'une visite prolongée de votre belle-mère, une consommation excessive de ce plat peut entraîner des hallucinations, un état dépressif et des troubles de la mémoire.
+RECIPES:
+  - ID: 17153 / Bidoche Fraîche, Quantity: 1
+  - ID: 425 / Chanvre, Quantity: 2
+  - ID: 311 / Eau Potable, Quantity: 1
+EFFECTS:
+  - 170 Vie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Mijoté Récréatif
+ID : 17197
+TYPE : Viande comestible
+LEVEL : 160
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69773.png
+DESCRIPTION : Ce plat est distribué dans les cantines militaires pour maintenir le moral des troupes.
+RECIPES:
+  - ID: 17152 / Viande Fraîche, Quantity: 1
+  - ID: 425 / Chanvre, Quantity: 2
+  - ID: 311 / Eau Potable, Quantity: 1
+EFFECTS:
+  - 170 Vie
+IS WEAPON: False
+
+NAME : Filet Mignon Fortifiant
+ID : 17200
+TYPE : Viande comestible
+LEVEL : 170
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69734.png
+DESCRIPTION : On peut être à la fois tendre et ferme, comme le prouve ce filet mignon.
+RECIPES:
+  - ID: 17155 / Bidoche Maigre, Quantity: 1
+  - ID: 425 / Chanvre, Quantity: 2
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Rend 510 points d'énergie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Filet Mignon
+ID : 17199
+TYPE : Viande comestible
+LEVEL : 170
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69733.png
+DESCRIPTION : N'ayant de mignon que le nom, ce filet est surtout bon.
+RECIPES:
+  - ID: 17154 / Viande Maigre, Quantity: 1
+  - ID: 425 / Chanvre, Quantity: 2
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Rend 510 points d'énergie
+IS WEAPON: False
+
+NAME : Quenelle Tijan Fortifiante
+ID : 17202
+TYPE : Viande comestible
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69868.png
+DESCRIPTION : À défaut d'être bonne, cette quenelle vous rendra plus fort si votre estomac parvient à la digérer sans la recracher.
+RECIPES:
+  - ID: 17157 / Bidoche Gâtée, Quantity: 1
+  - ID: 16454 / Maïs, Quantity: 2
+  - ID: 1986 / Poudre Temporelle, Quantity: 1
+EFFECTS:
+  - 190 Vie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Quenelle Tijan
+ID : 17201
+TYPE : Viande comestible
+LEVEL : 180
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69867.png
+DESCRIPTION : Les quenelles Tijan, c'est bon, mangez-en.
+RECIPES:
+  - ID: 17156 / Viande Gâtée, Quantity: 1
+  - ID: 16454 / Maïs, Quantity: 2
+  - ID: 1986 / Poudre Temporelle, Quantity: 1
+EFFECTS:
+  - 190 Vie
+IS WEAPON: False
+
+NAME : Andouillette de Gibier
+ID : 17203
+TYPE : Viande comestible
+LEVEL : 190
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69771.png
+DESCRIPTION : Mangez cette andouillette avec respect car c'est peut-être vous qui vous retrouverez à sa place après la prochaine chasse à l'homme.
+RECIPES:
+  - ID: 17158 / Viande Noire, Quantity: 1
+  - ID: 16454 / Maïs, Quantity: 2
+  - ID: 1985 / Résine, Quantity: 1
+EFFECTS:
+  - Rend 570 points d'énergie
+IS WEAPON: False
+
+NAME : Andouillette de Gibier Fortifiante
+ID : 17204
+TYPE : Viande comestible
+LEVEL : 190
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69772.png
+DESCRIPTION : Ne pas laver les tripes avant la cuisson donne à cette andouillette des propriétés très recherchées par les aventuriers et les culturistes.
+RECIPES:
+  - ID: 17159 / Bidoche Noire, Quantity: 1
+  - ID: 16454 / Maïs, Quantity: 2
+  - ID: 1985 / Résine, Quantity: 1
+EFFECTS:
+  - Rend 570 points d'énergie
+  - 1 Force
+IS WEAPON: False
+
+NAME : Saucisse Fumée
+ID : 17205
+TYPE : Viande comestible
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/69820.png
+DESCRIPTION : Bien que moins populaire que la glace à la saucisse, la saucisse fumée reste appréciée pour le goût unique de sa dernière bouchée.
+RECIPES:
+  - ID: 17160 / Viande Goûtue, Quantity: 1
+  - ID: 16456 / Millet, Quantity: 2
+  - ID: 11475 / Eau calme, Quantity: 1
+EFFECTS:
+  - 210 Vie
+IS WEAPON: False
+
+NAME : Saucisse Fumée Fortifiante
+ID : 17206
+TYPE : Viande comestible
+LEVEL : 200
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/126065.png
+DESCRIPTION : C'est notamment à cause de cette saucisse élastique à mémoire de forme qu'on reproche encore à des adultes de jouer avec la nourriture.
+RECIPES:
+  - ID: 17161 / Bidoche Goûtue, Quantity: 1
+  - ID: 16456 / Millet, Quantity: 2
+  - ID: 11475 / Eau calme, Quantity: 1
+EFFECTS:
+  - 210 Vie
+  - 1 Force
+IS WEAPON: False
+

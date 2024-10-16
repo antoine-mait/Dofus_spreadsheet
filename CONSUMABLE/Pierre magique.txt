@@ -1,0 +1,228 @@
+NAME : Gemme de l'Alchimiste
+ID : 16691
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88003.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier d'alchimiste.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Bijoutier
+ID : 16693
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88010.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de bijoutier.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Bricoleur
+ID : 16694
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88012.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Bricoleur.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Bûcheron
+ID : 16695
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88021.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Bûcheron.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Chasseur
+ID : 16696
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88008.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Chasseur.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Cordomage
+ID : 16697
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88029.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Cordomage.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Cordonnier
+ID : 16698
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88011.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Cordonnier.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Costumage
+ID : 16699
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88031.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Costumage.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Façonneur
+ID : 16700
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88025.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Façonneur.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Forgemage
+ID : 16701
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88023.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Forgemage.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Forgeron
+ID : 16703
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88012.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Forgeron.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Joaillomage
+ID : 16704
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88030.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Joaillomage.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Mineur
+ID : 16705
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88006.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Mineur.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Paysan
+ID : 16706
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88007.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Paysan.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Pêcheur
+ID : 16708
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88004.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Pêcheur.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Sculptemage
+ID : 16709
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88027.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Sculptemage.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Sculpteur
+ID : 16710
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88018.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Sculpteur.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Tailleur
+ID : 16711
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88002.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Tailleur.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Gemme du Façomage
+ID : 18728
+TYPE : Pierre magique
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/88023.png
+DESCRIPTION : Cette gemme vous procurera de l'expérience dans votre métier de Façomage.
+RECIPES: None
+EFFECTS:
+  - 0 XP
+  - Échangeable : 0
+IS WEAPON: False
+

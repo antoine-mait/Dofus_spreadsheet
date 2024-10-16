@@ -1,0 +1,77 @@
+NAME : Émoticônes Trappeur
+ID : 27503
+TYPE : Parchemin d'émoticônes
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous donnera accès aux émoticônes Trappeur.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Émoticônes Mercenaire
+ID : 27502
+TYPE : Parchemin d'émoticônes
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous donnera accès aux émoticônes Mercenaire.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Émoticônes Chacha
+ID : 17216
+TYPE : Parchemin d'émoticônes
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous donnera accès aux émoticônes Chacha.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Émoticônes Chienchien
+ID : 17217
+TYPE : Parchemin d'émoticônes
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous donnera accès aux émoticônes Chienchien.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Émoticônes Bilby
+ID : 17218
+TYPE : Parchemin d'émoticônes
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous donnera accès aux émoticônes Bilby.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Émoticônes Halouine
+ID : 17219
+TYPE : Parchemin d'émoticônes
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous donnera accès aux émoticônes Halouine.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Émoticônes Joris
+ID : 17532
+TYPE : Parchemin d'émoticônes
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/25009.png
+DESCRIPTION : Ce parchemin vous donnera accès aux émoticônes Joris.
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+

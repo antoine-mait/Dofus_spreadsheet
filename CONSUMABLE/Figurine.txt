@@ -1,0 +1,647 @@
+NAME : Evangelyne
+ID : 13373
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157003.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Guy Yomtella
+ID : 13374
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157008.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Jems Blond
+ID : 13375
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157016.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Luk Ylook
+ID : 13377
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157017.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Dany Osheun
+ID : 13378
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157018.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Naz Rael
+ID : 13379
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157019.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Quentin Flush
+ID : 13380
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157020.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Opée Tissoin
+ID : 13381
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157009.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Alie Zèle
+ID : 13382
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157021.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Daïe Guéri
+ID : 13383
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157022.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Ruel Stroud
+ID : 13384
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157005.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Tristepin
+ID : 13385
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157006.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Goultard
+ID : 13386
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157023.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Goultard le Barbare
+ID : 13387
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157042.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Reine des Tofus
+ID : 13388
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157014.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Roi des Bouftous
+ID : 13389
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157015.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Bad Aboum
+ID : 13390
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157010.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Remington Smisse
+ID : 13391
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157024.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Tony N Truhan
+ID : 13392
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157025.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Anna Tommy
+ID : 13393
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157011.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Coa Gulay
+ID : 13394
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157026.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Globule la Crapule
+ID : 13395
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157027.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Amalia
+ID : 13396
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157002.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Klor Ofil
+ID : 13397
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157028.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Liane Zolie
+ID : 13398
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157029.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Makum Bah
+ID : 13399
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157030.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Oscar Nak
+ID : 13400
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157012.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Srammy
+ID : 13401
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157031.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Morora
+ID : 13402
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157032.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Gaspard Fay
+ID : 13403
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157001.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Nox
+ID : 13404
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157004.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Kreol Panikon
+ID : 13405
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157013.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Zoubo l'Amiche
+ID : 13406
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157033.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Dofka Talys
+ID : 13407
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157034.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Yugo
+ID : 13408
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157007.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Percimol
+ID : 13409
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157035.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Shak Shaka
+ID : 13410
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157036.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Chevalier Ténèbre
+ID : 13411
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157037.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Chevalier Nuage
+ID : 13412
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157038.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Chevalier Goutte
+ID : 13413
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157039.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Chevalier Flamme
+ID : 13414
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157040.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Chevalier Feuille
+ID : 13415
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157041.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Krosbouate
+ID : 13416
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/89057.png
+DESCRIPTION : Cette boîte renferme une surprise, une figurine Krosmaster !
+RECIPES: None
+EFFECTS:
+  - Qu'y a-t-il là-dedans ?
+IS WEAPON: False
+
+NAME : Krospack Gaspard Fay
+ID : 13691
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/89057.png
+DESCRIPTION : Ce Krospack contient une figurine Krosmaster Gaspard Fay. Ouvrez-le vite !
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Krospack Goultard le Barbare
+ID : 13692
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/89057.png
+DESCRIPTION : Ce Krospack contient une figurine Krosmaster Goultard le Barbare. Ouvrez-le vite !
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Krospack de la Confrérie
+ID : 13693
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/89057.png
+DESCRIPTION : Ce Krospack contient une figurine Krosmaster aléatoire de la Confrérie du Tofu. Ouvrez-le vite !
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Qu'y a-t-il là-dedans ?
+IS WEAPON: False
+
+NAME : Krospack Krosmaster
+ID : 13694
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/89057.png
+DESCRIPTION : Ce Krospack contient une figurine Krosmaster aléatoire. Ouvrez-le vite !
+RECIPES: None
+EFFECTS:
+  - Échangeable : 0
+  - Qu'y a-t-il là-dedans ?
+IS WEAPON: False
+
+NAME : Comte Harebourg
+ID : 14440
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157043.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Comte Frigost
+ID : 14441
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157044.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Captain Amakna
+ID : 14866
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157046.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Merkator
+ID : 14867
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157045.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Korbax
+ID : 15026
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157047.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Scoreur
+ID : 15027
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157048.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Skale
+ID : 15028
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157049.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Masse
+ID : 15029
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157050.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Lumino
+ID : 15030
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157051.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Ombre
+ID : 15031
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157052.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Terminatot Wakfu
+ID : 15032
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157053.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Terminatot Stasis
+ID : 15033
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157054.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Terminatot Gaulde
+ID : 15034
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157055.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Papycha
+ID : 15035
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157056.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Joris
+ID : 15036
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157057.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Kerubim Crépin
+ID : 15037
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157058.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Lou
+ID : 15038
+TYPE : Figurine
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/157059.png
+DESCRIPTION : En utilisant cette figurine, vous l'enverrez directement dans votre collection Krosmaster.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+

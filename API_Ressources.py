@@ -1,5 +1,5 @@
 import requests
-import sys
+import os
 
 class DofusResourcesFetcher:
 
@@ -21,7 +21,10 @@ class DofusResourcesFetcher:
             return []
               
     def write_resources(self, resources):
-           if resources:
+        if not os.path.exists("RESOURCES"):
+                os.makedirs("RESOURCES")
+                print(f"Directory {"RESOURCES"} created.")
+        if resources:
             with open("RESOURCES/RESOURCES_Item.txt", "w", encoding='utf-8') as file:
                 for resource in resources:
                     file.write(f"NAME : {resource['name']}\n")

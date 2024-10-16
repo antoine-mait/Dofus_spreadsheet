@@ -1,0 +1,1578 @@
+NAME : Petite Fée d'Artifice Rouge
+ID : 2240
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 428 / Sauge, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'artifice Brigandine
+ID : 29454
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74059.png
+DESCRIPTION : L'orage n'est pas toujours synonyme de désespoir ni de vieillesse ennemie : il peut aussi être source d'amusement. Ce ne sont pas les Brigandins qui diront le contraire ! Quand il s'agit de chasser les éclairs, rien ne vaut une bonne fée et un patatonnerre !
+RECIPES:
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 12
+  - ID: 2330 / Capsule Explosive, Quantity: 12
+  - ID: 6601 / Poudre d'Artifice, Quantity: 12
+  - ID: 17973 / Queue de Mantaze, Quantity: 1
+  - ID: 26870 / Fragment d'anomalie, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Verte
+ID : 6555
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 395 / Trèfle à 5 feuilles, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Bleue
+ID : 6570
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 421 / Ortie, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Jaune
+ID : 6585
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 289 / Blé, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Invocatrice de Tofu
+ID : 6600
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74031.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+  - ID: 301 / Peluche du Nomoon, Quantity: 10
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Multicolore
+ID : 6627
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Lanceur d'effet Magique
+ID : 8522
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74031.png
+DESCRIPTION : Cet objet surprenant renferme un concentré de magie obscure plutôt instable. Personne ne peut prédire ce qu'il renferme, mais il est déconseillé de trop attendre avant de l'utiliser.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'artifice invocatrice de cœurs
+ID : 9380
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74032.png
+DESCRIPTION : Cette Fée d'artifice originale vous permettra de répandre un peu d'amour dans ce monde de brutes, et un peu de rut dans ce monde d'amour.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée lanceuse de Griffe Joueuse
+ID : 10036
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Alors qu'elle vivait dans la Tour Enfer Mâle, Mylaise avait commandé à un fameux artisan un grand nombre de fées d'artifices pour animer ses soirées. Aujourd'hui encore, elle en distribue parfois quand elle est de bon poil.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée lanceuse de Langue Rapeuse
+ID : 10042
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74032.png
+DESCRIPTION : Alors qu'elle vivait dans la Tour Enfer Mâle, Mylaise avait commandé à un fameux artisan un grand nombre de fées d'artifices pour animer ses soirées. Aujourd'hui encore, elle en distribue parfois quand elle est de bon poil.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'artifice festive
+ID : 10974
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74032.png
+DESCRIPTION : C'est la fêêêêteuuuh, la fêêêêteuhh !
+RECIPES:
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+  - ID: 393 / Gland, Quantity: 1
+  - ID: 301 / Peluche du Nomoon, Quantity: 1
+  - ID: 387 / Défense du Sanglier, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'artifice Térik
+ID : 11263
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74033.png
+DESCRIPTION : Cette fée d'artifice produit un agréable effet pyrotechnique pendant quelques secondes et vous brûle la rétine pour le restant de votre vie.
+RECIPES:
+  - ID: 2462 / Cervelle de Bouftou Noir, Quantity: 1
+  - ID: 2455 / Sang de Bouftou, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fantaisie Eliatrope
+ID : 11805
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74034.png
+DESCRIPTION : Il ne reste quasiment rien de la civilisation Eliatrope. Quelques ruines, des pétroglyphes, des souvenirs. Depuis la nuit des temps, les cérémonies importantes furent célébrées par une pluie de pétales. Selon Lyrad le Silencieux, ce rite remonterait aux premiers Eliatropes qui ouvraient leur Initiation par une pluie de Wakfu.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Boole de neige
+ID : 12846
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74035.png
+DESCRIPTION : La boole de neige qui fait plaisir, ou pas. 
+Attention à ne pas attraper de pneumonie.
+RECIPES:
+  - ID: 12845 / Flocon de Neige, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée Érie de Nowel
+ID : 12847
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74036.png
+DESCRIPTION : C'est la fée d'artifice idéale pour jeter un froid lors des soirées où vous vous êtes invité.
+RECIPES:
+  - ID: 12845 / Flocon de Neige, Quantity: 3
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'artifice blanche de Pwâk
+ID : 13173
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74041.png
+DESCRIPTION : Objet indispensable pour s'amuser lors des mariages rébarbatifs et couvrir les gloussements de la mariée.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'artifice bleue de Pwâk
+ID : 13178
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74040.png
+DESCRIPTION : Objet indispensable pour s'amuser lors des mariages rébarbatifs et couvrir les gloussements de la mariée.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'artifice jaune de Pwâk
+ID : 13179
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74037.png
+DESCRIPTION : Objet indispensable pour s'amuser lors des mariages rébarbatifs et couvrir les gloussements de la mariée.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'artifice verte de Pwâk
+ID : 13180
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74038.png
+DESCRIPTION : Objet indispensable pour s'amuser lors des mariages rébarbatifs et couvrir les gloussements de la mariée.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'artifice rouge de Pwâk
+ID : 13181
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74039.png
+DESCRIPTION : Objet indispensable pour s'amuser lors des mariages rébarbatifs et couvrir les gloussements de la mariée.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Pyrofuego
+ID : 13589
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74042.png
+DESCRIPTION : On dit que les premiers Pyrofuegos étaient particulièrement spectaculaires. Comme les incendies qu'ils déclenchaient étaient eux aussi spectaculaires, les artificiers ont revu leurs ambitions à la baisse. Désormais, les spectateurs peuvent s'émerveiller devant toutes ces jolies lumières sans danger.
+RECIPES:
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+  - ID: 13608 / Poils de Kerubim, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'artifice Invocatrice de Boufton Noir
+ID : 14397
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74043.png
+DESCRIPTION : Lorsque la fête est à son apogée, faire exploser cette fée d'artifice est un excellent moyen de signifier que vous êtes prêt pour une partie de saute-boufton.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Invocatrice de Boufton Blanc
+ID : 14398
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74044.png
+DESCRIPTION : Lorsque la fête est à son apogée, faire exploser cette fée d'artifice est un excellent moyen de signifier que vous êtes prêt pour une partie de saute-boufton.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Invocatrice de Moucherons
+ID : 14399
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74045.png
+DESCRIPTION : Parfaite pour se croire dans un enclos de bouftous, sans les bouftous.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Etoilée
+ID : 14400
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74046.png
+DESCRIPTION : Cette Fée d'artifice ne vous aidera pas à garder les pieds sur terre.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Glandiose
+ID : 14401
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74047.png
+DESCRIPTION : Cette fée d'artifice a été commandée par un Lenald qui voyait les choses en grand, mais il a eu du mal à se faire comprendre.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Culottée
+ID : 14402
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74048.png
+DESCRIPTION : Il n'est pas de fée d'artifice plus appropriée pour célébrer la Fête du Slip du Captain Chafer comme il se doit.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Feignante
+ID : 14403
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74049.png
+DESCRIPTION : Cette fée d'artifice rend hommage à la nuit où Sadida a éteint toutes les étoiles du ciel afin de trouver le sommeil.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice de Kamas
+ID : 14404
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74050.png
+DESCRIPTION : À utiliser avec précaution : dans certains quartiers difficiles, cela pourrait être perçu comme un signe de provocation.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Musicale
+ID : 14405
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74051.png
+DESCRIPTION : Très appréciée lors de la fête de la fanfon, le son émis au moment de l'explosion de cette fée d'artifice n'est pas loin d'être supportable.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Champouf
+ID : 14406
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74052.png
+DESCRIPTION : Cette fée d'artifice est peu utilisée à cause de l'odeur qu'elle dégage. Mais elle peut toujours servir de diversion lors de moments... gênants.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Cawotte
+ID : 14407
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74053.png
+DESCRIPTION : Cette fée d'artifice mettra des étoiles dans les yeux de votre entourage... à condition qu'il soit composé exclusivement de wabbits.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Fleurie
+ID : 14408
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74054.png
+DESCRIPTION : Une rose démoniaque explose dans les airs. C'est joli, mais ça pique.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Invocatrice d'Arakne
+ID : 14449
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74056.png
+DESCRIPTION : Voilà une Fée d'artifice qui apaisera plus d'un araknophobe : quoi de plus relaxant que de voir exploser votre pire cauchemar dans les airs ?
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Nuageuse
+ID : 14450
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74055.png
+DESCRIPTION : Ce sont les Roublards qui font le meilleur usage de cette Fée d'Artifice, elle est parfaite pour les disparitions théâtrales !
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'Artifice Colorée
+ID : 16304
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74057.png
+DESCRIPTION : Cette fée est généralement utilisée lors des fêtes à l'approche du printemps. Il est déconseillé d'en renifler la poudre sous peine d'hallucinations hautes en couleur.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Capsule de sort : Traversée
+ID : 22528
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Camouflet
+ID : 22527
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Flèche Absorbante
+ID : 22526
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Stratagème
+ID : 22525
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Flasque Explosive
+ID : 22524
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Appel de la Meute
+ID : 22523
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Ronces Agressives
+ID : 22522
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Toison Bouffante
+ID : 22521
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Coupe-gorge
+ID : 22520
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Blindage
+ID : 22519
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Transfert de Vie
+ID : 22518
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Mot de Reconstitution
+ID : 22517
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Désinvocation
+ID : 22516
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Miaouch
+ID : 22515
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Ronda
+ID : 22514
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Retour du Bâton
+ID : 22512
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Vol du Temps
+ID : 22511
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Capsule de sort : Colère de Iop
+ID : 22509
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/14102.png
+DESCRIPTION : Un grand pouvoir implique de grandes irresponsabilités.
+Cette étincelle de magie divine ravira les enfants et fera fuir vos ennemis, ou peut-être l'inverse. Dans tous les cas, elle fera son petit effet.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+  - Échangeable : 0
+IS WEAPON: False
+
+NAME : Fée d'artifice Trèfle
+ID : 19679
+TYPE : Fée d'artifice
+LEVEL : 1
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74058.png
+DESCRIPTION : Du vert, des vers, et surtout beaucoup de verres. Voilà ce qui vous attend pour la fête de la Fin Patraque.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Verte
+ID : 6556
+TYPE : Fée d'artifice
+LEVEL : 2
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6555, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Multicolore
+ID : 6628
+TYPE : Fée d'artifice
+LEVEL : 2
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Rouge
+ID : 6541
+TYPE : Fée d'artifice
+LEVEL : 2
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 2240 / Clef de la Tempête de l'Eliocalypse, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Jaune
+ID : 6586
+TYPE : Fée d'artifice
+LEVEL : 2
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6585, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Bleue
+ID : 6571
+TYPE : Fée d'artifice
+LEVEL : 2
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6570, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Jaune
+ID : 6587
+TYPE : Fée d'artifice
+LEVEL : 3
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6586, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Verte
+ID : 6557
+TYPE : Fée d'artifice
+LEVEL : 3
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6556, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Bleue
+ID : 6572
+TYPE : Fée d'artifice
+LEVEL : 3
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6571, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Rouge
+ID : 6542
+TYPE : Fée d'artifice
+LEVEL : 3
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6541, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Multicolore
+ID : 6629
+TYPE : Fée d'artifice
+LEVEL : 3
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Verte Tournoyante
+ID : 6558
+TYPE : Fée d'artifice
+LEVEL : 4
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1466 / Antennes de Scarafeuille Vert, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Rouge Tournoyante
+ID : 6543
+TYPE : Fée d'artifice
+LEVEL : 4
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1465 / Antennes de Scarafeuille Rouge, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Bleue Tournoyante
+ID : 6573
+TYPE : Fée d'artifice
+LEVEL : 4
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1464 / Essence de Mob l'Éponge, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Multicolore Tournoyante
+ID : 6630
+TYPE : Fée d'artifice
+LEVEL : 4
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Jaune Tournoyante
+ID : 6588
+TYPE : Fée d'artifice
+LEVEL : 4
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1467 / Antennes de Scarafeuille Blanc, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Jaune Tournoyante
+ID : 6589
+TYPE : Fée d'artifice
+LEVEL : 5
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6588, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Rouge Tournoyante
+ID : 6544
+TYPE : Fée d'artifice
+LEVEL : 5
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6543, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Bleue Tournoyante
+ID : 6574
+TYPE : Fée d'artifice
+LEVEL : 5
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6573, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Verte Tournoyante
+ID : 6559
+TYPE : Fée d'artifice
+LEVEL : 5
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6558, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Multicolore Tournoyante
+ID : 6631
+TYPE : Fée d'artifice
+LEVEL : 5
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Jaune Tournoyante
+ID : 6590
+TYPE : Fée d'artifice
+LEVEL : 6
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6589, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Bleue Tournoyante
+ID : 6575
+TYPE : Fée d'artifice
+LEVEL : 6
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6574, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Multicolore Tournoyante
+ID : 6632
+TYPE : Fée d'artifice
+LEVEL : 6
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Verte Tournoyante
+ID : 6560
+TYPE : Fée d'artifice
+LEVEL : 6
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6559, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Rouge Tournoyante
+ID : 6545
+TYPE : Fée d'artifice
+LEVEL : 6
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6544, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Verte Fontaine
+ID : 6561
+TYPE : Fée d'artifice
+LEVEL : 7
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1458 / Ailes de Scarafeuille Vert, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Bleue Fontaine
+ID : 6576
+TYPE : Fée d'artifice
+LEVEL : 7
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1455 / Ailes de Scarafeuille Bleu, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Multicolore Fontaine
+ID : 6633
+TYPE : Fée d'artifice
+LEVEL : 7
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Jaune Fontaine
+ID : 6591
+TYPE : Fée d'artifice
+LEVEL : 7
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1456 / Ailes de Scarafeuille Blanc, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Rouge Fontaine
+ID : 6546
+TYPE : Fée d'artifice
+LEVEL : 7
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1457 / Ailes de Scarafeuille Rouge, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Rouge Fontaine
+ID : 6547
+TYPE : Fée d'artifice
+LEVEL : 8
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6546, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Bleue Fontaine
+ID : 6577
+TYPE : Fée d'artifice
+LEVEL : 8
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6576, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Jaune Fontaine
+ID : 6592
+TYPE : Fée d'artifice
+LEVEL : 8
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6591, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Multicolore Fontaine
+ID : 6634
+TYPE : Fée d'artifice
+LEVEL : 8
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Verte Fontaine
+ID : 6562
+TYPE : Fée d'artifice
+LEVEL : 8
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6561, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Bleue Fontaine
+ID : 6578
+TYPE : Fée d'artifice
+LEVEL : 9
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+  - ID: 6577, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Rouge Fontaine
+ID : 6548
+TYPE : Fée d'artifice
+LEVEL : 9
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6547, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Jaune Fontaine
+ID : 6593
+TYPE : Fée d'artifice
+LEVEL : 9
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6592, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Verte Fontaine
+ID : 6563
+TYPE : Fée d'artifice
+LEVEL : 9
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6562, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Multicolore Fontaine
+ID : 6635
+TYPE : Fée d'artifice
+LEVEL : 9
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Verte Crépitante
+ID : 6564
+TYPE : Fée d'artifice
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1773 / Bout de Blop Reinette, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Jaune Crépitante
+ID : 6594
+TYPE : Fée d'artifice
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1770 / Bout de Blop Coco, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Rouge Crépitante
+ID : 6549
+TYPE : Fée d'artifice
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1775 / Bout de Blop Griotte, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Multicolore Crépitante
+ID : 6636
+TYPE : Fée d'artifice
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Bleue Crépitante
+ID : 6579
+TYPE : Fée d'artifice
+LEVEL : 10
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 1777 / Bout de Blop Indigo, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Bleue Crépitante
+ID : 6580
+TYPE : Fée d'artifice
+LEVEL : 11
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6579, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Rouge Crépitante
+ID : 6550
+TYPE : Fée d'artifice
+LEVEL : 11
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6549, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Multicolore Crépitante
+ID : 6637
+TYPE : Fée d'artifice
+LEVEL : 11
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Jaune Crépitante
+ID : 6595
+TYPE : Fée d'artifice
+LEVEL : 11
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6594, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Verte Crépitante
+ID : 6565
+TYPE : Fée d'artifice
+LEVEL : 11
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6564, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Bleue Crépitante
+ID : 6581
+TYPE : Fée d'artifice
+LEVEL : 12
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6580, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Jaune Crépitante
+ID : 6596
+TYPE : Fée d'artifice
+LEVEL : 12
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6595, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Rouge Crépitante
+ID : 6551
+TYPE : Fée d'artifice
+LEVEL : 12
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6550, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Multicolore Crépitante
+ID : 6638
+TYPE : Fée d'artifice
+LEVEL : 12
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Verte Crépitante
+ID : 6566
+TYPE : Fée d'artifice
+LEVEL : 12
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6565, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Bleue  Virevoltante
+ID : 6582
+TYPE : Fée d'artifice
+LEVEL : 13
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 362 / Peau de Larve Bleue, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Jaune Virevoltante
+ID : 6597
+TYPE : Fée d'artifice
+LEVEL : 13
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 2588 / Aile de Dragodinde, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Verte Virevoltante
+ID : 6567
+TYPE : Fée d'artifice
+LEVEL : 13
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 364 / Peau de Larve Verte, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Multicolore Virevoltante
+ID : 6639
+TYPE : Fée d'artifice
+LEVEL : 13
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Petite Fée d'Artifice Rouge Virevoltante
+ID : 6552
+TYPE : Fée d'artifice
+LEVEL : 13
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6601 / Poudre d'Artifice, Quantity: 1
+  - ID: 363 / Peau de Larve Orange, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Rouge Virevoltante
+ID : 6553
+TYPE : Fée d'artifice
+LEVEL : 14
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6552, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Jaune Virevoltante
+ID : 6598
+TYPE : Fée d'artifice
+LEVEL : 14
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6597, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Verte Virevoltante
+ID : 6568
+TYPE : Fée d'artifice
+LEVEL : 14
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6567, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Multicolore Virevoltante
+ID : 6640
+TYPE : Fée d'artifice
+LEVEL : 14
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Fée d'Artifice Bleue Virevoltante
+ID : 6583
+TYPE : Fée d'artifice
+LEVEL : 14
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6582, Quantity: 1
+  - ID: 519 / Poudre de Perlinpainpain, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Rouge Virevoltante
+ID : 6554
+TYPE : Fée d'artifice
+LEVEL : 15
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74028.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6553, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Multicolore Virevoltante
+ID : 6641
+TYPE : Fée d'artifice
+LEVEL : 15
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74030.png
+DESCRIPTION : Cette Fée d'artifice éblouira et étonnera vos amis les plus blasés. Très utile pour fêter le départ de votre guilde.
+RECIPES: None
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Bleue Virevoltante
+ID : 6584
+TYPE : Fée d'artifice
+LEVEL : 15
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74029.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6583, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Jaune Virevoltante
+ID : 6599
+TYPE : Fée d'artifice
+LEVEL : 15
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74027.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6598, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+
+NAME : Grande Fée d'Artifice Verte Virevoltante
+ID : 6569
+TYPE : Fée d'artifice
+LEVEL : 15
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/74026.png
+DESCRIPTION : Idéal pour les petites fêtes de mariage, parfait pour la fête du Slip du Captain Chafer.
+RECIPES:
+  - ID: 6568, Quantity: 1
+  - ID: 2330 / Capsule Explosive, Quantity: 1
+EFFECTS:
+  - Occasionne des dommages Neutre.
+IS WEAPON: False
+

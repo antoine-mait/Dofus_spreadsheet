@@ -1,0 +1,198 @@
+NAME : Simple tatouage éphémère de Tankr
+ID : 30470
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78275.png
+DESCRIPTION : Le capitaine Tankr était une force de la nature, un colosse d'une vitalité débordante. Son navire semblait partout à la fois, de la Mer Kantil à la Mer d'Asse, de la Baie de Cania à la côte des Dents de Pierre. Sa carrière de flibustier s'est achevée tragiquement : une sombre histoire d'ancre, d'encre et de kralamoure géant.
+Ce tatouage vous apportera une infime fraction de la vitalité de Tankr.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Simple tatouage temporaire de Looth
+ID : 30480
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78280.png
+DESCRIPTION : Looth n'avait pas d'égale quand il s'agissait d'explorer méthodiquement un endroit ou de fouiller le corps d'un ennemi vaincu pour s'approprier ses maigres possessions. Rejetant toute appartenance à un clan ou à une bande comme les ruffians de Cania, elle n'était motivée que par l'appât du gain. Sa mort fut à l'image de sa vie : violente et expéditive.
+Ce tatouage vous apportera une infime fraction des talents de prospection de Looth.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Simple tatouage temporaire de Brett
+ID : 30478
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78286.png
+DESCRIPTION : Brett était un spadassin redouté dans toutes les Plaines de Cania. Il attaquait les voyageurs qui croisaient son chemin, soi-disant pour leur faire une démonstration de ses talents à l'épée. On dit qu'il a fini par se pourfendre lui-même dans un élan d'enthousiasme.
+Ce tatouage vous apportera une infime fraction de la puissance de Brett.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Superbe tatouage éphémère de Looth
+ID : 30477
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78285.png
+DESCRIPTION : Looth n'avait pas d'égale quand il s'agissait d'explorer méthodiquement un endroit ou de fouiller le corps d'un ennemi vaincu pour s'approprier ses maigres possessions. Rejetant toute appartenance à un clan ou à une bande comme les ruffians de Cania, elle n'était motivée que par l'appât du gain. Sa mort fut à l'image de sa vie : violente et expéditive.
+Ce tatouage vous apportera une infime fraction des talents de prospection de Looth.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Beau tatouage éphémère de Looth
+ID : 30474
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78283.png
+DESCRIPTION : Looth n'avait pas d'égale quand il s'agissait d'explorer méthodiquement un endroit ou de fouiller le corps d'un ennemi vaincu pour s'approprier ses maigres possessions. Rejetant toute appartenance à un clan ou à une bande comme les ruffians de Cania, elle n'était motivée que par l'appât du gain. Sa mort fut à l'image de sa vie : violente et expéditive.
+Ce tatouage vous apportera une infime fraction des talents de prospection de Looth.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Superbe tatouage éphémère de Tankr
+ID : 30476
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78279.png
+DESCRIPTION : Le capitaine Tankr était une force de la nature, un colosse d'une vitalité débordante. Son navire semblait partout à la fois, de la Mer Kantil à la Mer d'Asse, de la Baie de Cania à la côte des Dents de Pierre. Sa carrière de flibustier s'est achevée tragiquement : une sombre histoire d'ancre, d'encre et de kralamoure géant.
+Ce tatouage vous apportera une infime fraction de la vitalité de Tankr.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Beau tatouage temporaire de Brett
+ID : 30481
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78288.png
+DESCRIPTION : Brett était un spadassin redouté dans toutes les Plaines de Cania. Il attaquait les voyageurs qui croisaient son chemin, soi-disant pour leur faire une démonstration de ses talents à l'épée. On dit qu'il a fini par se pourfendre lui-même dans un élan d'enthousiasme.
+Ce tatouage vous apportera une infime fraction de la puissance de Brett.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Superbe tatouage éphémère de Brett
+ID : 30475
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78291.png
+DESCRIPTION : Brett était un spadassin redouté dans toutes les Plaines de Cania. Il attaquait les voyageurs qui croisaient son chemin, soi-disant pour leur faire une démonstration de ses talents à l'épée. On dit qu'il a fini par se pourfendre lui-même dans un élan d'enthousiasme.
+Ce tatouage vous apportera une infime fraction de la puissance de Brett.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Beau tatouage temporaire de Tankr
+ID : 30482
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78276.png
+DESCRIPTION : Le capitaine Tankr était une force de la nature, un colosse d'une vitalité débordante. Son navire semblait partout à la fois, de la Mer Kantil à la Mer d'Asse, de la Baie de Cania à la côte des Dents de Pierre. Sa carrière de flibustier s'est achevée tragiquement : une sombre histoire d'ancre, d'encre et de kralamoure géant.
+Ce tatouage vous apportera une infime fraction de la vitalité de Tankr.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Beau tatouage éphémère de Tankr
+ID : 30473
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78277.png
+DESCRIPTION : Le capitaine Tankr était une force de la nature, un colosse d'une vitalité débordante. Son navire semblait partout à la fois, de la Mer Kantil à la Mer d'Asse, de la Baie de Cania à la côte des Dents de Pierre. Sa carrière de flibustier s'est achevée tragiquement : une sombre histoire d'ancre, d'encre et de kralamoure géant.
+Ce tatouage vous apportera une infime fraction de la vitalité de Tankr.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Beau tatouage éphémère de Brett
+ID : 30472
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78289.png
+DESCRIPTION : Brett était un spadassin redouté dans toutes les Plaines de Cania. Il attaquait les voyageurs qui croisaient son chemin, soi-disant pour leur faire une démonstration de ses talents à l'épée. On dit qu'il a fini par se pourfendre lui-même dans un élan d'enthousiasme.
+Ce tatouage vous apportera une infime fraction de la puissance de Brett.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Beau tatouage temporaire de Looth
+ID : 30483
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78282.png
+DESCRIPTION : Looth n'avait pas d'égale quand il s'agissait d'explorer méthodiquement un endroit ou de fouiller le corps d'un ennemi vaincu pour s'approprier ses maigres possessions. Rejetant toute appartenance à un clan ou à une bande comme les ruffians de Cania, elle n'était motivée que par l'appât du gain. Sa mort fut à l'image de sa vie : violente et expéditive.
+Ce tatouage vous apportera une infime fraction des talents de prospection de Looth.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Simple tatouage éphémère de Looth
+ID : 30471
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78281.png
+DESCRIPTION : Looth n'avait pas d'égale quand il s'agissait d'explorer méthodiquement un endroit ou de fouiller le corps d'un ennemi vaincu pour s'approprier ses maigres possessions. Rejetant toute appartenance à un clan ou à une bande comme les ruffians de Cania, elle n'était motivée que par l'appât du gain. Sa mort fut à l'image de sa vie : violente et expéditive.
+Ce tatouage vous apportera une infime fraction des talents de prospection de Looth.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Simple tatouage temporaire de Tankr
+ID : 30479
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78274.png
+DESCRIPTION : Le capitaine Tankr était une force de la nature, un colosse d'une vitalité débordante. Son navire semblait partout à la fois, de la Mer Kantil à la Mer d'Asse, de la Baie de Cania à la côte des Dents de Pierre. Sa carrière de flibustier s'est achevée tragiquement : une sombre histoire d'ancre, d'encre et de kralamoure géant.
+Ce tatouage vous apportera une infime fraction de la vitalité de Tankr.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Superbe tatouage temporaire de Brett
+ID : 30484
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78290.png
+DESCRIPTION : Brett était un spadassin redouté dans toutes les Plaines de Cania. Il attaquait les voyageurs qui croisaient son chemin, soi-disant pour leur faire une démonstration de ses talents à l'épée. On dit qu'il a fini par se pourfendre lui-même dans un élan d'enthousiasme.
+Ce tatouage vous apportera une infime fraction de la puissance de Brett.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Simple tatouage éphémère de Brett
+ID : 30469
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78287.png
+DESCRIPTION : Brett était un spadassin redouté dans toutes les Plaines de Cania. Il attaquait les voyageurs qui croisaient son chemin, soi-disant pour leur faire une démonstration de ses talents à l'épée. On dit qu'il a fini par se pourfendre lui-même dans un élan d'enthousiasme.
+Ce tatouage vous apportera une infime fraction de la puissance de Brett.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Superbe tatouage temporaire de Looth
+ID : 30486
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78284.png
+DESCRIPTION : Looth n'avait pas d'égale quand il s'agissait d'explorer méthodiquement un endroit ou de fouiller le corps d'un ennemi vaincu pour s'approprier ses maigres possessions. Rejetant toute appartenance à un clan ou à une bande comme les ruffians de Cania, elle n'était motivée que par l'appât du gain. Sa mort fut à l'image de sa vie : violente et expéditive.
+Ce tatouage vous apportera une infime fraction des talents de prospection de Looth.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
+NAME : Superbe tatouage temporaire de Tankr
+ID : 30485
+TYPE : Tatouage de la Foire du Trool
+LEVEL : 20
+IMAGE URL : https://api.dofusdu.de/dofus2/img/item/78278.png
+DESCRIPTION : Le capitaine Tankr était une force de la nature, un colosse d'une vitalité débordante. Son navire semblait partout à la fois, de la Mer Kantil à la Mer d'Asse, de la Baie de Cania à la côte des Dents de Pierre. Sa carrière de flibustier s'est achevée tragiquement : une sombre histoire d'ancre, d'encre et de kralamoure géant.
+Ce tatouage vous apportera une infime fraction de la vitalité de Tankr.
+RECIPES: None
+EFFECTS: None
+IS WEAPON: False
+
