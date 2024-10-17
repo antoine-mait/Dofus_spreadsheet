@@ -1,6 +1,7 @@
 import requests
 import sys
 import os 
+import re
 
 class DofusItemFetcher:
     def __init__(self, base_url):
@@ -34,13 +35,13 @@ class DofusItemFetcher:
         item_title = item_titles[0].upper()
         
         try:
-            with open(f"ITEMS/{item_title}_Item.txt", "w", encoding="utf-8") as file:
+            with open(f"ITEMS/{item_title}.txt", "w", encoding="utf-8") as file:
                 for item in items:
                     self.write_item_details(file, item)
         except Exception as e:
             print(f"Error writing items to file: {e}")
 
-    def write_item_details(self, file, item):
+    def write_item_details(self, file, item, ):
         file.write(f"NAME : {item['name']}\n")
         file.write(f"ID : {item['ankama_id']}\n")
         file.write(f"TYPE : {item['type']['name']}\n")
@@ -59,6 +60,31 @@ class DofusItemFetcher:
             file.write("PARENT SET: None\n")
 
         file.write("\n")
+        self.download_item_image(item)
+
+    def download_item_image(self, item):
+
+        item_type = item['type']['name'].upper()
+        directory_path = f"ITEMS/IMAGES/{item_type}"
+
+        if not os.path.exists(directory_path):
+                os.makedirs(directory_path)
+                print(f"Directory {directory_path} created.")
+        name = item['name']
+        id = item['ankama_id']
+        name_id = f"{name}_{id}"
+        name_id = re.sub(r'[<>:"/\\|?*]', '_', name_id)
+        image_path = f"{directory_path}/{name_id}.png"
+
+        if not os.path.exists(image_path):
+            try: 
+                image_url = item['image_urls']['sd']
+                response = requests.get(image_url)
+                response.raise_for_status()
+                with open(f"{directory_path}/{name_id}.png", "wb") as image_file:
+                    image_file.write(response.content)
+            except requests.exceptions.RequestException as e:
+                print(f"Error downloading image: {e}")
 
     def write_recipes(self, file, recipes):
         if recipes:
@@ -95,11 +121,13 @@ class DofusItemFetcher:
         else:
             file.write("EFFECTS: None\n")
 
-def main_item():
+def main_item(filter_check=False):
     base_url = "https://api.dofusdu.de"
-    filter_check = False
-    while not filter_check:
-        user_filter = input("""Choose the filter:
+    fetcher = DofusItemFetcher(base_url)
+
+    if not filter_check:
+        while True:
+            user_filter = input("""Choose the filter:
 hat
 cloak
 ring
@@ -116,14 +144,17 @@ Dofus
 pet
 petsmount
 or type 'all': """)
-        if user_filter not in ["hat", "cloak", "ring", "amulet", "sword", "staff", 
+            if user_filter not in ["hat", "cloak", "ring", "amulet", "sword", "staff", 
                                 "wand", "boots", "shield", "belt", "trophy", 
                                 "prysmaradite", "Dofus", "pet", "petsmount", "all" ]:
-            print("Wrong Filter")
-        else:
-            filter_check = True
-    fetcher = DofusItemFetcher(base_url)
-    if user_filter.lower() != "all":
+                print("Wrong Filter")
+            else:
+                filter_check = True
+                break
+
+    if filter_check == True:
+        user_filter = "all"
+    if filter_check and user_filter.lower() != "all":
         try:
             level_min = int(input('Choose min level (1-199): '))
             level_max = int(input('Choose max level (2-200): '))
@@ -135,7 +166,7 @@ or type 'all': """)
         except ValueError:
             sys.exit("Please enter valid integers for levels.")   
 
-    elif user_filter.lower() == "all":
+    elif filter_check or user_filter.lower() == "all":
         level_min = 1
         level_max = 200
         item_types = [

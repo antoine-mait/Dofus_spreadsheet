@@ -1,5 +1,6 @@
 import requests
 import os
+import re
 import sys
 
 class DofusConsumableFetcher:
@@ -51,6 +52,33 @@ class DofusConsumableFetcher:
         file.write(f"IS WEAPON: {item.get('is_weapon', False)}\n")
 
         file.write("\n")
+        self.download_item_image(item)
+
+    def download_item_image(self, item):
+
+        item_type = item['type']['name'].upper()
+        directory_path = f"CONSUMABLE/IMAGES/{item_type}"
+
+        if not os.path.exists(directory_path):
+                os.makedirs(directory_path)
+                print(f"Directory {directory_path} created.")
+
+        name = item['name']
+        id = item['ankama_id']
+        name_id = f"{name}_{id}"
+        name_id = re.sub(r'[<>:"/\\|?*]', '_', name_id)
+        image_path = f"{directory_path}/{name_id}.png"
+
+        if not os.path.exists(image_path):
+            try: 
+                image_url = item['image_urls']['sd']
+                response = requests.get(image_url)
+                response.raise_for_status()
+                with open(f"{directory_path}/{name_id}.png", "wb") as image_file:
+                    image_file.write(response.content)
+                    print(f"Download Image : {directory_path}/{name_id}.png")
+            except requests.exceptions.RequestException as e:
+                print(f"Error downloading image: {e}")
 
     def write_recipes(self, file, recipes):
         if recipes:
@@ -87,10 +115,11 @@ class DofusConsumableFetcher:
         else:
             file.write("EFFECTS: None\n")
 
-def main_consumable():
+def main_consumable(filter_check=False):
     base_url = "https://api.dofusdu.de"
-    filter_check = False
-    user_filter = input("Specific level or 'all' ? ")
+    if not filter_check:
+        user_filter = input("Specific level or 'all' ? ")
+
     if user_filter != "all":
         try:
             level_min = int(input('Choose min level (1-199): '))
@@ -102,8 +131,8 @@ def main_consumable():
                 sys.exit("Level Min must be between 1 and 199, and Level Max must be between 2 and 200.")
         except ValueError:
             sys.exit("Please enter valid integers for levels.")
-    
-    elif user_filter.lower() == "all":
+
+    else:
         level_min = 1
         level_max = 200
 

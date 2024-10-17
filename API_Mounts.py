@@ -1,5 +1,6 @@
 import requests
 import os
+import re
 
 class DofusMountfetcher:
     def __init__(self, base_url):
@@ -41,6 +42,31 @@ class DofusMountfetcher:
             file.write(f"IMAGE URL : {mount['image_urls']['icon']}\n")
             self.write_effects(file, mount.get("effects", ))
             file.write("\n")
+            
+            self.download_item_image(mount)
+
+    def download_item_image(self, mount):
+        
+        item_type = mount['family_name'].upper()
+        directory_path = f"MOUNTS/IMAGES/{item_type}"
+        if not os.path.exists(directory_path):
+                os.makedirs(directory_path)
+                print(f"Directory {directory_path} created.")
+        name = mount['name']
+        id = mount['ankama_id']
+        name_id = f"{name}_{id}"
+        name_id = re.sub(r'[<>:"/\\|?*]', '_', name_id)
+        image_path = f"{directory_path}/{name_id}.png"
+
+        if not os.path.exists(image_path):
+            try: 
+                image_url = mount['image_urls']['sd']
+                response = requests.get(image_url)
+                response.raise_for_status()
+                with open(f"{directory_path}/{name_id}.png", "wb") as image_file:
+                    image_file.write(response.content)
+            except requests.exceptions.RequestException as e:
+                print(f"Error downloading image: {e}")
 
     def write_effects(self, file, effects):
         if effects:
@@ -51,22 +77,25 @@ class DofusMountfetcher:
             file.write("EFFECTS: None\n")
         
 
-def main_mount():
+def main_mount(filter_check=False):
     base_url = "https://api.dofusdu.de" 
-    filter_check = False
-    while not filter_check:
-        user_filter = input("""Choose the filter:
+    fetcher = DofusMountfetcher(base_url)
+
+    if not filter_check:
+        while True:
+            user_filter = input("""Choose the filter:
 dragodinde
 muldo
 volkorne
 or type 'all': """)
-        if user_filter not in ["dragodinde", "muldo", "volkorne", "all"]:
-            print("Wrong Filter")
-        else:
-            filter_check = True
-            
-    fetcher = DofusMountfetcher(base_url)
+            if user_filter not in ["dragodinde", "muldo", "volkorne", "all"]:
+                print("Wrong Filter")
+            else:
+                filter_check = True
+                break
 
+    if filter_check == True :
+        user_filter = "all"
     if user_filter == "all":
         mounts_types = [
             "dragodinde",
