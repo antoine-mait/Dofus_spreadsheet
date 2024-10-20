@@ -4,3 +4,7 @@ CONSUMABLE/IMAGES/
 ITEMS/IMAGES/
 MOUNTS/IMAGES/
 RESOURCES/IMAGES/
+credentials.json
+token.json
+gsheet.py
+test.txt
