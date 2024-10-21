@@ -14,35 +14,41 @@ SCOPES = eval(os.environ.get("SCOPES"))
 SAMPLE_SPREADSHEET_ID = os.environ.get("SAMPLE_SPREADSHEET_ID")
 SAMPLE_RANGE_NAME = "API_Resources!B2"
 
-"""def readText():
-    items = []
-    with open('test.txt', 'r') as f:
-        lines = f.readlines()
-        for item in lines:
-            items.append([item.replace("\n", "")])
-        f.close()
-        return items"""
-    
 def getApiData():
-    params = {
-            "sort[level]": "asc",
-            "filter[min_level]": 1,
-            "filter[max_level]": 200,
-        }
     url = "https://api.dofusdu.de"
     scope_api = "/dofus2/fr/items/resources/all"
-    payload = {}
-    headers = {}
-    response = requests.get(f"{url}{scope_api}", params=params, headers=headers, data=payload)
+
+    item_types_response = requests.get(f"{url}{scope_api}")
+    item_types = item_types_response.json().get("items", [])
     myValues = []
-    data = response.json().get("items", [])
-    for item in data:
-        myValues.append([item['type']['name'],
-                         item['ankama_id'],
-                         item['name'],
-                         item['level'],
-                         item['image_urls']['sd'],
-                         ])
+    type_of_resource = set()
+    for resource_type in item_types:
+        type_name = resource_type['type']['name']
+        type_of_resource.add(type_name)
+    
+    type_of_resource = list(type_of_resource)
+    
+    for resource in type_of_resource:
+        params = {
+                "sort[level]": "asc",
+                "filter[type_name]" : resource,
+                "filter[min_level]": 1,
+                "filter[max_level]": 200,
+            }
+
+        
+        payload = {}
+        headers = {}
+        response = requests.get(f"{url}{scope_api}", params=params, headers=headers, data=payload)
+        
+        data = response.json().get("items", [])
+        for item in data:
+            myValues.append([item['type']['name'],
+                            item['ankama_id'],
+                            item['name'],
+                            item['level'],
+                            item['image_urls']['sd'],
+                            ])
     return myValues
 
 def main():

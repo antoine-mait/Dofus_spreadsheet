@@ -12,28 +12,34 @@ from dotenv import load_dotenv
 load_dotenv()
 SCOPES = eval(os.environ.get("SCOPES"))
 SAMPLE_SPREADSHEET_ID = os.environ.get("SAMPLE_SPREADSHEET_ID")
-SAMPLE_RANGE_NAME = "API_Item_recipe!B2"  # Update this line with the correct sheet name
-    
+SAMPLE_RANGE_NAME = "API_Consumable!B2"  # Update this line with the correct sheet name
+
 def getApiData():
-    item_types = [
-            "Amulet", "Ring", "Boots", "Shield", 
-            "Cloak", "Belt", "Hat", "Dofus", 
-            "Trophy", "Prysmaradite", "Pet", "Petsmount"
-                ]
+    url = "https://api.dofusdu.de"
+    scope_api = "/dofus2/fr/items/consumables/all"
+    item_types_response = requests.get(f"{url}{scope_api}")
+    item_types = item_types_response.json().get("items", [])
     myValues = []
-    for item_type in item_types :
+    type_of_consumable = set()
+
+    for resource_type in item_types:
+        type_name = resource_type['type']['name']
+        type_of_consumable.add(type_name)
+    
+    type_of_consumable = list(type_of_consumable)
+    
+    for consumable in type_of_consumable:
         params = {
                 "sort[level]": "asc",
-                "filter[type_enum]": item_type,
+                "filter[type_name]" : consumable,
                 "filter[min_level]": 1,
                 "filter[max_level]": 200,
             }
-        url = "https://api.dofusdu.de"
-        scope_api = "/dofus2/fr/items/equipment/all"
         payload = {}
         headers = {}
         response = requests.get(f"{url}{scope_api}", params=params, headers=headers, data=payload)
         data = response.json().get("items", [])
+        
         
         for item in data:
             item_details= [
