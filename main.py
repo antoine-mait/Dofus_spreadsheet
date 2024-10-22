@@ -1,7 +1,7 @@
-from API_Items import main_item
-from API_Mounts import main_mount
-from API_Ressources import main_resources
-from API_Consumables import main_consumable
+from TXT_Items import main_item
+from TXT_Mounts import main_mount
+from TXT_Ressources import main_resources
+from TXT_Consumables import main_consumable
 
 def main():
     user_choice = input("""What do you want to do ?

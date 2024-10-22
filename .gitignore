@@ -8,3 +8,4 @@ credentials.json
 token.json
 test.txt
 .env
+myenv/
