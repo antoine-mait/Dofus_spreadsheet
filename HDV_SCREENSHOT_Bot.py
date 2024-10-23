@@ -21,10 +21,10 @@ def move_with_jitter(start_pos, end_pos, steps=10):
         pyautogui.moveTo(x + jitter_x, y + jitter_y, duration=0.01)
         time.sleep(0.01)
 
-def find_and_click_image(image_path, scale_range=np.linspace(0.25, 2, 8)):# Value add / Value MAX / Steps
+def find_and_click_image(image_path, folder_dir,map_name, scale_range=np.linspace(0.25, 2, 8)):# Value add / Value MAX / Steps
     # transform in grey value for compute power
     img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-    img_lf = image_path.replace("D:\\Coding\\Dofus\\HDV_IMG\\HDV_ITEM\\", "")
+    img_lf = image_path.replace(folder_dir, "")
     print(f"Looking for {img_lf}")
     if img is None:
         print(f"Image {image_path} not found.")
@@ -37,6 +37,7 @@ def find_and_click_image(image_path, scale_range=np.linspace(0.25, 2, 8)):# Valu
     screenshot_gray = cv2.cvtColor(screenshot_np, cv2.COLOR_BGR2GRAY)
     screenshot_blurred = cv2.GaussianBlur(screenshot_gray, (5, 5), 0)
 
+
     for scale in scale_range:
         resized_template = cv2.resize(img_blurred, (0, 0), fx=scale, fy=scale)
         result = cv2.matchTemplate(screenshot_blurred, resized_template, cv2.TM_CCOEFF_NORMED)
@@ -44,7 +45,7 @@ def find_and_click_image(image_path, scale_range=np.linspace(0.25, 2, 8)):# Valu
         min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
 
         if max_val >= 0.85:  # Adjust threshold as needed
-            img_strip = image_path.replace("D:\\Coding\\Dofus\\HDV_IMG\\HDV_ITEM\\", "")
+            img_strip = image_path.replace(folder_dir, "")
             print(f"Match found for {img_strip}")
             
             h, w = resized_template.shape
@@ -52,65 +53,169 @@ def find_and_click_image(image_path, scale_range=np.linspace(0.25, 2, 8)):# Valu
             center_y = max_loc[1] + h // 2
             start_pos = pyautogui.position()
             end_pos = (center_x, center_y)
+
+            if image_path == fr"{folder_dir}{map_name}.jpg": 
+                return True
             
-            if image_path != r"D:\Coding\Dofus\HDV_IMG\HDV_ITEM\STOP.jpg" :
+            if image_path != fr"{folder_dir}STOP.jpg" :
                 # Move in an arc to the detected position
                 move_with_jitter(start_pos, end_pos, steps=5)
                 pyautogui.click()
                 print(f"Clicked at {end_pos}")
-                print("wait")
+                if image_path == fr"{folder_dir}CONTENEUR.jpg" or image_path == fr"{folder_dir}PARCHEMIN_Titre.jpg":
+                    time.sleep(random.uniform(0, 0.5))
+                    for i in range(4):
+                        time.sleep(random.uniform(0, 0.5))
+                        pyautogui.scroll(-125)
+                        if i == 4 or i == 8 :
+                            time.sleep(random.uniform(0.5, 1))
+
                 time.sleep(random.uniform(0.5, 1.5))
                 return False
 
-            elif image_path == r"D:\Coding\Dofus\HDV_IMG\HDV_ITEM\STOP.jpg" : 
+            elif image_path == fr"{folder_dir}STOP.jpg" : 
                 print("All Item Screenshot")
                 return True
+            
 
-def screen_shot_items(img_stop):
-    Folder_name = "ITEM_PRICE_IMG"
-    save_path = os.path.join(r"D:\Coding\Dofus\HDV_IMG\HDV_ITEM", Folder_name)
+
+def screen_shot_items(img_stop,folder_dir,HDV_name):
+    Folder_name = f"{HDV_name}_PRICE_IMG"
+    save_path = os.path.join(fr"{folder_dir}", Folder_name)
     os.makedirs(save_path, exist_ok=True)
 
     for i in range(1000):
         i += 1
-        stopscreenshot = find_and_click_image(img_stop)
+        stopscreenshot = find_and_click_image(img_stop, folder_dir, HDV_name)
         if stopscreenshot:
-            print("Last Screenshot for ITEM")
+            print(f"Last Screenshot for {HDV_name}")
             pyautogui.moveTo(469, 647 , duration= random.uniform(0.2, 0.5))
             screenshot = pyautogui.screenshot(region=(510, 575, 820, 960))
-            screenshot.save(os.path.join(save_path, f"HDV_ITEM_{i}.png"))
+            screenshot.save(os.path.join(save_path, f"{HDV_name}_{i}.png"))
             return True
         else:
             pyautogui.moveTo(469, 647 , duration= random.uniform(0.2, 0.5))
             screenshot = pyautogui.screenshot(region=(510, 575, 820, 960))
-            screenshot.save(os.path.join(save_path, f"HDV_ITEM_{i}.png"))
-            print(f"Screenshot HDV_ITEM_{i}")
+            screenshot.save(os.path.join(save_path, f"{HDV_name}_{i}.png"))
+            print(f"Screenshot {HDV_name}_{i}")
             for _ in range(4):
                 time.sleep(random.uniform(0.2, 0.5))
                 pyautogui.scroll(-125)
 
-def main():
+def item(map_name):
+    main_folder_dir = "D:\\Coding\\Dofus\\HDV_IMG\\"
+    if map_name == "POS_HDV_RUNES":
+        img_name = ['HDV_RUNES',
+                    'GRAVURE_Forgemagie',
+                    'ORBE_Forgemagie' ,
+                    'POTION_Forgemagie' ,
+                    'RUNE_Astral',
+                    'RUNE_Forgemagie' ,
+                    'RUNE_Transcendance' ,
+                     ]
+        folder_dir = f"{main_folder_dir}HDV_RUNES\\"
+        HDV_name = "HDV_RUNES"
+    if map_name == "POS_HDV_ITEM":
+        img_name = ['HDV_ITEM',
+                    'ICON_AMULETTE',
+                    'ICON_SWORD',
+                     'ICON_RING',
+                     'ICON_BELT',
+                     'ICON_BOOTS',
+                     'ICON_SHIELD',
+                     'ICON_HAT',
+                     'ICON_CLOAK',
+                     'ICON_DOFUS'
+                     ]
+        folder_dir = f"{main_folder_dir}HDV_ITEM\\"
+        HDV_name = "HDV_ITEM"
+    if map_name == "POS_HDV_CONSUMABLE":
+        img_name = ['HDV_CONSUMABLE',
+                    'BALLON',
+                    'BIERE',
+                    'BOISSON',
+                    'BOITE_Fragments',
+                    'CADEAU',
+                    'COFFRE',
+                    'CONTENEUR',
+                    'DOCUMENT',
+                    'FEE_Artifice',
+                    'FRIANDISE',
+                    'HDV_CONSUMABLE',
+                    'MIMIBIOTE',
+                    'MOT_Haiku',
+                    'OBJET_Temporis',
+                    'PAIN',
+                    'PARCHEMIN_Attitude',
+                    'PARCHEMIN_Caracteristique',
+                    'PARCHEMIN_Sortilege',
+                    'PARCHEMIN_Titre',
+                    'PARCHEMIN_Emoticones',
+                    'PARCHEMIN_Experience',
+                    'POISSON_Comestible',
+                    'POPOCHE_Havre_sac',
+                    'POTION',
+                    'POTION_Attitude',
+                    'POTION_Conquete',
+                    'POTION_Teleportation',
+                    'PRISME',
+                    'SAC_Ressources',
+                    'TATOUAGE_Foire',
+                    'VIANDE_Comestible',
+                     ]
+        # for consumable , scroll4 , 6 check , scroll 4 , check rest
+        folder_dir = f"{main_folder_dir}HDV_CONSUMABLE\\"
+        HDV_name = "HDV_CONSUMABLE"
 
-    img_name = ['HDV_ITEM','ICON_AMULETTE','ICON_SWORD', 'ICON_RING','ICON_BELT','ICON_BOOTS','ICON_SHIELD','ICON_HAT','ICON_CLOAK','ICON_DOFUS']
     nb_img = (len(img_name))
     i = 0
-    img_stop = r"D:\Coding\Dofus\HDV_IMG\HDV_ITEM\STOP.jpg"
+    img_stop = f"{folder_dir}STOP.jpg"
     for name in img_name :
         i += 1
-        image_paths = [fr"D:\Coding\Dofus\HDV_IMG\HDV_ITEM\{name}.jpg"]
+        image_paths = [f"{folder_dir}{name}.jpg"]
         for img_path in image_paths:
-            find_and_click_image(img_path)
+            find_and_click_image(img_path, folder_dir,map_name)
             if i >= nb_img:
                 print("All type activated")
                 break
   
-    if image_paths != "D:\Coding\Dofus\HDV_IMG\HDV_ITEM\HDV_ITEM.jpg" :
+    if image_paths !=  f"{folder_dir}{HDV_name}.jpg" :
         time.sleep(random.uniform(0.5, 1.5))
-        all_item = screen_shot_items(img_stop)
+        all_item = screen_shot_items(img_stop, folder_dir, HDV_name)
         if all_item:
             return
     else:
         print(f"Skipping to next image after {name}")
-        
+"""        
+def resources():
+
+def consumable():
+
+def runes():
+"""
+
+def map():
+    img_name = ["POS_HDV_CONSUMABLE",
+                "POS_HDV_ITEM",
+                "POS_HDV_RESOURCES",
+                "POS_HDV_RUNES",
+                ]
+
+    folder_dir = "D:\\Coding\\Dofus\\HDV_IMG\\MAPS\\"
+    for name in img_name:
+        image_paths = [f"{folder_dir}{name}.jpg"]
+        map_name = name
+        for img_path in image_paths:
+            map = find_and_click_image(img_path, folder_dir,map_name)
+            if map:
+                print(f"Proceed for the map : {name}")
+                item(map_name)
+            else:
+                #ce deplacer vers map suivante
+                print("Wrong Map")
+            # Ajouter option, une fois la map fini de save photo
+def main():
+
+    map()
 
 main()
