@@ -5,8 +5,10 @@ import os
 # RUN with PYTHON 3.10 in myenv ! 
 
 # Read image
-IMAGES_Path = r"D:\Coding\Dofus\tmp\images"
-IMAGE1 = os.path.join(IMAGES_Path, "AMULETTE_200.jpg")
+IMAGES_Path = "D:\\Coding\\Dofus\\HDV_IMG\\HDV_ITEM\\ITEM_PRICE_IMG\\"
+for i in range(500):
+    i += 1
+    IMAGE1 = os.path.join(IMAGES_Path, "HDV_ITEM_{i}.jpg")
 
 img = cv2.imread(IMAGE1)
 
