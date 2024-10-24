@@ -2,8 +2,10 @@ import pyautogui
 import random
 import time
 import cv2
+import easyocr
 import numpy as np
 import os
+import sys
 
 def move_with_jitter(start_pos, end_pos, steps=10):
     start_x, start_y = start_pos
@@ -30,13 +32,12 @@ def find_and_click_image(image_path, folder_dir,map_name, scale_range=np.linspac
         print(f"Image {image_path} not found.")
         return False
 
-    # As it compare pixel , light blur to help found some picture 
+    # As it compare pixel , light blur to reduce the noise and to help find some picture 
     img_blurred = cv2.GaussianBlur(img, (5, 5), 0)
     screenshot = pyautogui.screenshot()
     screenshot_np = np.array(screenshot)
     screenshot_gray = cv2.cvtColor(screenshot_np, cv2.COLOR_BGR2GRAY)
     screenshot_blurred = cv2.GaussianBlur(screenshot_gray, (5, 5), 0)
-
 
     for scale in scale_range:
         resized_template = cv2.resize(img_blurred, (0, 0), fx=scale, fy=scale)
@@ -62,7 +63,13 @@ def find_and_click_image(image_path, folder_dir,map_name, scale_range=np.linspac
                 move_with_jitter(start_pos, end_pos, steps=5)
                 pyautogui.click()
                 print(f"Clicked at {end_pos}")
-                if image_path == fr"{folder_dir}CONTENEUR.jpg" or image_path == fr"{folder_dir}PARCHEMIN_Titre.jpg":
+                if (image_path == fr"{folder_dir}CONTENEUR.jpg" or 
+                    image_path == fr"{folder_dir}PARCHEMIN_Titre.jpg" or
+                    image_path == fr"{folder_dir}FLEUR.jpg" or 
+                    image_path == fr"{folder_dir}METARIA.jpg" or 
+                    image_path == fr"{folder_dir}PLANCHE.jpg" or 
+                    image_path == fr"{folder_dir}RACINE.jpg"
+                ):
                     time.sleep(random.uniform(0, 0.5))
                     for i in range(4):
                         time.sleep(random.uniform(0, 0.5))
@@ -77,8 +84,6 @@ def find_and_click_image(image_path, folder_dir,map_name, scale_range=np.linspac
                 print("All Item Screenshot")
                 return True
             
-
-
 def screen_shot_items(img_stop,folder_dir,HDV_name):
     Folder_name = f"{HDV_name}_PRICE_IMG"
     save_path = os.path.join(fr"{folder_dir}", Folder_name)
@@ -86,25 +91,23 @@ def screen_shot_items(img_stop,folder_dir,HDV_name):
 
     for i in range(1000):
         i += 1
+        pyautogui.moveTo(469, 647 , duration= random.uniform(0.2, 0.5))
+        screenshot = pyautogui.screenshot(region=(510, 575, 820, 960))
+        screenshot.save(os.path.join(save_path, f"{HDV_name}_{i}.png"))
+
         stopscreenshot = find_and_click_image(img_stop, folder_dir, HDV_name)
         if stopscreenshot:
             print(f"Last Screenshot for {HDV_name}")
-            pyautogui.moveTo(469, 647 , duration= random.uniform(0.2, 0.5))
-            screenshot = pyautogui.screenshot(region=(510, 575, 820, 960))
-            screenshot.save(os.path.join(save_path, f"{HDV_name}_{i}.png"))
             return True
         else:
-            pyautogui.moveTo(469, 647 , duration= random.uniform(0.2, 0.5))
-            screenshot = pyautogui.screenshot(region=(510, 575, 820, 960))
-            screenshot.save(os.path.join(save_path, f"{HDV_name}_{i}.png"))
             print(f"Screenshot {HDV_name}_{i}")
             for _ in range(4):
                 time.sleep(random.uniform(0.2, 0.5))
                 pyautogui.scroll(-125)
 
-def item(map_name):
-    main_folder_dir = "D:\\Coding\\Dofus\\HDV_IMG\\"
-    if map_name == "POS_HDV_RUNES":
+def item(map_name, main_folder_dir):
+    
+    if map_name == "COORDINATE_HDV_RUNES":
         img_name = ['HDV_RUNES',
                     'GRAVURE_Forgemagie',
                     'ORBE_Forgemagie' ,
@@ -115,7 +118,7 @@ def item(map_name):
                      ]
         folder_dir = f"{main_folder_dir}HDV_RUNES\\"
         HDV_name = "HDV_RUNES"
-    if map_name == "POS_HDV_ITEM":
+    if map_name == "COORDINATE_HDV_ITEM":
         img_name = ['HDV_ITEM',
                     'ICON_AMULETTE',
                     'ICON_SWORD',
@@ -129,7 +132,7 @@ def item(map_name):
                      ]
         folder_dir = f"{main_folder_dir}HDV_ITEM\\"
         HDV_name = "HDV_ITEM"
-    if map_name == "POS_HDV_CONSUMABLE":
+    if map_name == "COORDINATE_HDV_CONSUMABLE":
         img_name = ['HDV_CONSUMABLE',
                     'BALLON',
                     'BIERE',
@@ -141,7 +144,6 @@ def item(map_name):
                     'DOCUMENT',
                     'FEE_Artifice',
                     'FRIANDISE',
-                    'HDV_CONSUMABLE',
                     'MIMIBIOTE',
                     'MOT_Haiku',
                     'OBJET_Temporis',
@@ -163,10 +165,71 @@ def item(map_name):
                     'TATOUAGE_Foire',
                     'VIANDE_Comestible',
                      ]
-        # for consumable , scroll4 , 6 check , scroll 4 , check rest
         folder_dir = f"{main_folder_dir}HDV_CONSUMABLE\\"
         HDV_name = "HDV_CONSUMABLE"
-
+    if map_name == "COORDINATE_HDV_RESOURCES":
+        img_name = ['HDV_RESOURCES',
+                    'AILE',
+                    'ALLIAGE',
+                    'BOIS',
+                    'BOURGEON',
+                    'CARAPACE',
+                    'CARTE',
+                    'CEREALE',
+                    'CHAMPIGNON',
+                    'CLEF',
+                    'COQUILLE',
+                    'CUIR',
+                    'ECORCE',
+                    'ESSENCE_GARDIEN_DONJON',
+                    'ETOFFE',
+                    'FLEUR',
+                    'FRAGMENT_CARTE',
+                    'FRUIT',
+                    'GALET',
+                    'GELEE',
+                    'GRAINE',
+                    'HAIKU',
+                    'HUILE',
+                    'LAINE',
+                    'LEGUME',
+                    'LIQUIDE',
+                    'MATERIEL_ALCHIMIE',
+                    'MATERIEL_EXPLORATION',
+                    'METARIA',
+                    'MINERAI',
+                    'NOWEL',
+                    'OEIL',
+                    'OEUF',
+                    'OREILLE',
+                    'OS',
+                    'PATTE',
+                    'PEAU',
+                    'PIERRE_BRUTE',
+                    'PIERRE_PRECIEUSE',
+                    'PLANCHE',
+                    'PLANTE',
+                    'PLUME',
+                    'POIL',
+                    'POISSON',
+                    'POUDRE',
+                    'PREPARATION',
+                    'QUEUE',
+                    'RABMABLAGUE',
+                    'RACINE',
+                    'RESSOURCE_COMBAT',
+                    'RESSOURCE_TEMPORIS',
+                    'RESSOURCE_ANOMALIE',
+                    'RESSOURCE_SONGE',
+                    'RESSOURCE_DIVERSE',
+                    'SEVE',
+                    'SUBSTRAT',
+                    'TEINTURE',
+                    'VETEMENT',
+                    'VIANDE',
+                     ]
+        folder_dir = f"{main_folder_dir}HDV_RESOURCES\\"
+        HDV_name = "HDV_RESOURCES"
     nb_img = (len(img_name))
     i = 0
     img_stop = f"{folder_dir}STOP.jpg"
@@ -183,39 +246,143 @@ def item(map_name):
         time.sleep(random.uniform(0.5, 1.5))
         all_item = screen_shot_items(img_stop, folder_dir, HDV_name)
         if all_item:
-            return
+            return True
     else:
         print(f"Skipping to next image after {name}")
-"""        
-def resources():
 
-def consumable():
-
-def runes():
-"""
-
-def map():
-    img_name = ["POS_HDV_CONSUMABLE",
-                "POS_HDV_ITEM",
-                "POS_HDV_RESOURCES",
-                "POS_HDV_RUNES",
+def map(main_folder_dir,folder_dir_tmp,map_name_tmp, starting_map=None):
+    img_name = ["COORDINATE_HDV_RUNES",
+                "COORDINATE_HDV_ITEM",
+                "COORDINATE_HDV_CONSUMABLE",
+                "COORDINATE_HDV_RESOURCES",
                 ]
-
-    folder_dir = "D:\\Coding\\Dofus\\HDV_IMG\\MAPS\\"
+    folder_dir = f"{main_folder_dir}MAPS\\"
     for name in img_name:
         image_paths = [f"{folder_dir}{name}.jpg"]
         map_name = name
-        for img_path in image_paths:
-            map = find_and_click_image(img_path, folder_dir,map_name)
+        
+        for _ in image_paths:
+            map = coordinate(map_name,folder_dir_tmp,map_name_tmp)
             if map:
-                print(f"Proceed for the map : {name}")
-                item(map_name)
+                print(f"Proceed for the map : {name.replace('COORDINATE_','')}")
+                HDV_done = item(map_name, main_folder_dir)
+                if HDV_done:
+                    print(f"{map_name.replace('COORDINATE_','')} done, proceed to next HDV")
+                    if starting_map is None:
+                        starting_map = start_map(map_name)
+                        map_switch(main_folder_dir,folder_dir_tmp,map_name_tmp,map_name, starting_map)
+                    else : 
+                        map_switch(main_folder_dir,folder_dir_tmp,map_name_tmp,map_name, starting_map)
             else:
-                #ce deplacer vers map suivante
                 print("Wrong Map")
-            # Ajouter option, une fois la map fini de save photo
+
+def coordinate(map_name,folder_dir_tmp,map_name_tmp):
+
+    if map_name == "COORDINATE_HDV_CONSUMABLE":
+        map_coord = ['21,-29,']
+    if map_name == "COORDINATE_HDV_ITEM":
+        map_coord = ['19,-29,']
+    if map_name == "COORDINATE_HDV_RESOURCES":
+        map_coord = ['21,-28,']
+    if map_name == "COORDINATE_HDV_RUNES":
+        map_coord = ['17,-29,']
+
+    # Take actual map coordinate
+    screenshot = pyautogui.screenshot(region=(20, 115, 120, 45))
+    screenshot.save(os.path.join(folder_dir_tmp, f"{map_name_tmp}.jpg"))
+    try:
+        IMAGE1 = os.path.join(folder_dir_tmp, f"{map_name_tmp}.jpg")
+        if not os.path.isfile(IMAGE1):
+            raise FileNotFoundError(f"File not found: {IMAGE1}")
+        img = cv2.imread(IMAGE1)
+        if img is None:
+            raise ValueError(f"Unable to read the image file: {IMAGE1}")
+        # Instance Text Detector
+        reader = easyocr.Reader(['fr'], gpu=False)
+        # Detect text on image
+        data = reader.readtext(img)
+        for item in data:
+        # Take only the elements that are not np.int32 or np.float64
+            img_coordinate = [element for element in item if isinstance(element, str)]
+        if img_coordinate == map_coord:
+            print(f"You are on the {map_name.replace('COORDINATE_','')} map")
+            return True
+    except FileNotFoundError as e:
+        print(e)
+    except ValueError as e:
+        print(e)
+
+def start_map(map_name):
+    starting_map = f"{map_name.replace('COORDINATE_','')}"
+    print(f"Starting map set to: {starting_map}")
+    return starting_map
+
+def map_switch(main_folder_dir,folder_dir_tmp,map_name_tmp,map_name, starting_map):
+    pyautogui.press("escape")
+    hdv_type = map_name.replace('COORDINATE_','')
+    if starting_map == "HDV_RUNES":
+        if hdv_type == "HDV_RUNES" or hdv_type == "HDV_ITEM":
+            click_right()
+            time.sleep(random.uniform(4, 5))
+            click_right()
+            time.sleep(random.uniform(4, 5))
+            loop_main(main_folder_dir,folder_dir_tmp,map_name_tmp, starting_map)
+        if hdv_type == "HDV_CONSUMABLE":
+            click_bottom()
+            time.sleep(random.uniform(4, 5)) 
+            loop_main(main_folder_dir,folder_dir_tmp,map_name_tmp, starting_map)
+        if hdv_type == "HDV_RESOURCES":
+            pyautogui.press("escape")
+            sys.exit("All 4 HDV screenshot")
+    if starting_map == "HDV_RESOURCES":
+        if hdv_type == "HDV_RESOURCES":
+            click_top()
+            time.sleep(random.uniform(4, 5)) 
+            loop_main(main_folder_dir,folder_dir_tmp,map_name_tmp, starting_map)
+        if hdv_type == "HDV_CONSUMABLE" or hdv_type == "HDV_ITEM":
+            click_left()
+            time.sleep(random.uniform(4, 5))
+            click_left()
+            time.sleep(random.uniform(4, 5))
+            loop_main(main_folder_dir,folder_dir_tmp,map_name_tmp, starting_map)
+        if hdv_type == "HDV_RUNES":
+            pyautogui.press("escape")
+            sys.exit("All 4 HDV screenshot")
+
+def click_right():
+    start_pos = pyautogui.position()
+    end_pos = (1900 , random.uniform(700,1655))
+    move_with_jitter(start_pos, end_pos)
+    pyautogui.click()
+
+def click_left():
+    start_pos = pyautogui.position()
+    end_pos = (20, random.uniform(300,1600))
+    move_with_jitter(start_pos, end_pos)
+    pyautogui.click()
+
+def click_top():
+    start_pos = pyautogui.position()
+    end_pos = (random.uniform(0,1900) , 315)
+    move_with_jitter(start_pos, end_pos)
+    pyautogui.click()
+
+def click_bottom():
+    start_pos = pyautogui.position()
+    end_pos = (random.uniform(120,1900) , 1650)
+    move_with_jitter(start_pos, end_pos)
+    pyautogui.click()
+
+def loop_main(main_folder_dir,folder_dir_tmp,map_name_tmp,starting_map):
+
+    map(main_folder_dir,folder_dir_tmp,map_name_tmp,starting_map)
+
 def main():
 
-    map()
+    main_folder_dir = "D:\\Coding\\Dofus\\HDV_IMG\\"
+    folder_dir_tmp = "D:\\Coding\\Dofus\\tmp\images\\tmp_screenshot\\"
+    map_name_tmp = "coordinate_tmp"
+    map(main_folder_dir,folder_dir_tmp,map_name_tmp)
 
-main()
+if __name__ == "__main__":
+    main()
