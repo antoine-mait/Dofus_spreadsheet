@@ -2,8 +2,6 @@ import cv2
 import easyocr
 import os
 
-# RUN with PYTHON 3.10 in myenv ! 
-
 # Read image
 IMAGES_Path = "D:\\Coding\\Dofus\\HDV_IMG\\HDV_ITEM\\ITEM_PRICE_IMG\\"
 for i in range(500):
