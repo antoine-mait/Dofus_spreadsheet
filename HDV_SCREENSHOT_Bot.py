@@ -23,7 +23,6 @@ def move_with_jitter(start_pos, end_pos, steps=5):
 
         pyautogui.moveTo(x + jitter_x, y + jitter_y, duration=0.01)
 
-
 def find_and_click_image(image_path, folder_dir, map_name, scale_range=np.linspace(0.25, 2, 8)):  # Value add / Value MAX / Steps
     # transform in grey value for compute power
     img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
@@ -43,10 +42,11 @@ def find_and_click_image(image_path, folder_dir, map_name, scale_range=np.linspa
     for scale in scale_range:
         resized_template = cv2.resize(img_blurred, (0, 0), fx=scale, fy=scale)
         result = cv2.matchTemplate(screenshot_blurred, resized_template, cv2.TM_CCOEFF_NORMED)
-
+        # Compare multiple size of the given img to the screen. 
+        # Here it will compare from 0.25 scale to 2 scale in 8 step ( scale_range)
         min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
 
-        if max_val >= 0.85:  # Adjust threshold as needed
+        if max_val >= 0.85:  # Adjust threshold of resemblance allowed 1 = pixel perfect match
             img_strip = image_path.replace(folder_dir, "")
             print(f"Match found for {img_strip}")
 
@@ -58,7 +58,7 @@ def find_and_click_image(image_path, folder_dir, map_name, scale_range=np.linspa
 
             if image_path == rf"{folder_dir}{map_name}.jpg":
                 return True
-
+            
             if image_path != rf"{folder_dir}STOP.jpg":
                 # Move in random way to the end pos
                 move_with_jitter(start_pos, end_pos, steps=2)
@@ -87,7 +87,6 @@ def find_and_click_image(image_path, folder_dir, map_name, scale_range=np.linspa
             elif image_path == rf"{folder_dir}STOP.jpg":
                 print("All Item Screenshot")
                 return True
-
 
 def screen_shot_items(img_stop, folder_dir, HDV_name):
     Folder_name = f"{HDV_name}_PRICE_IMG"
@@ -125,7 +124,6 @@ def scroll():
         pyautogui.scroll(-125)
 
     return True
-
 
 def item_type(map_name, main_folder_dir):
 
@@ -276,7 +274,6 @@ def item_type(map_name, main_folder_dir):
     else:
         print(f"Skipping to next image after {name}")
 
-
 def map(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map=None):
     img_name = [
         "COORDINATE_HDV_RUNES",
@@ -303,7 +300,6 @@ def map(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map=None):
                         map_switch(main_folder_dir,folder_dir_tmp,map_name_tmp,map_name,starting_map,)
             else:
                 print("Wrong Map")
-
 
 def coordinate(map_name, folder_dir_tmp, map_name_tmp):
 
@@ -341,12 +337,10 @@ def coordinate(map_name, folder_dir_tmp, map_name_tmp):
     except ValueError as e:
         print(e)
 
-
 def start_map(map_name):
     starting_map = f"{map_name.replace('COORDINATE_','')}"
     print(f"Starting map set to: {starting_map}")
     return starting_map
-
 
 def map_switch(main_folder_dir, folder_dir_tmp, map_name_tmp, map_name, starting_map):
     pyautogui.press("escape")
@@ -383,13 +377,11 @@ def map_switch(main_folder_dir, folder_dir_tmp, map_name_tmp, map_name, starting
             pyautogui.press("escape")
             sys.exit("All 4 HDV screenshot")
 
-
 def click_right():
     start_pos = pyautogui.position()
     end_pos = (1900, random.uniform(700, 1655))
     move_with_jitter(start_pos, end_pos)
     pyautogui.click()
-
 
 def click_left():
     start_pos = pyautogui.position()
@@ -397,13 +389,11 @@ def click_left():
     move_with_jitter(start_pos, end_pos)
     pyautogui.click()
 
-
 def click_top():
     start_pos = pyautogui.position()
     end_pos = (random.uniform(0, 1900), 315)
     move_with_jitter(start_pos, end_pos)
     pyautogui.click()
-
 
 def click_bottom():
     start_pos = pyautogui.position()
@@ -411,22 +401,22 @@ def click_bottom():
     move_with_jitter(start_pos, end_pos)
     pyautogui.click()
 
-
 def loop_main(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map):
 
     map(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map)
 
-
-def main():
-
+def folder_dir():
     main_folder_dir = "D:\\Coding\\Dofus\\HDV_IMG\\"
+    return main_folder_dir
+    
+def main_bot():
+    main_folder_dir = folder_dir()
     folder_dir_tmp = "D:\\Coding\\Dofus\\tmp\images\\tmp_screenshot\\"
     map_name_tmp = "coordinate_tmp"
     map(main_folder_dir, folder_dir_tmp, map_name_tmp)
 
-
 if __name__ == "__main__":
     try:
-        main()
+        main_bot()
     except KeyboardInterrupt:
         print("\nScript stopped with Ctrl + C.")

@@ -2,9 +2,30 @@ from TXT_Items import main_item
 from TXT_Mounts import main_mount
 from TXT_Ressources import main_resources
 from TXT_Consumables import main_consumable
+from API_TO_GSHEET import main_API
+from HDV_SCREENSHOT_Bot import main_bot
+from HDV_Reader import  main_Data_to_Gsheet
 
 def main():
-    user_choice = input("""What do you want to do ?
+    user_choice = ("""What do you want to actualize ?
+1: TEXT file 
+2: IN GAME HDV Screenshot for price
+3: API TO GSHEET
+4: GAME TO GSHEET
+                   """)
+    if user_choice == "1":
+        text_file()
+    elif user_choice == "2":
+        main_bot()
+    elif user_choice == "3":
+        main_API()
+    elif user_choice == "4":
+        main_Data_to_Gsheet()
+
+def text_file():
+
+    user_choice = input("""TEXT FILE 
+What do you want to do ?
 1: actualize_item/recipes
 2: actualize_mounts
 3: actualize_ressources
