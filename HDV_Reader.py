@@ -1,84 +1,106 @@
-import cv2
-import easyocr
 import os
-from HDV_SCREENSHOT_Bot import folder_dir
+import re
+import numpy as np
+import pytesseract as tess
+from PIL import Image, ImageDraw
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from dotenv import load_dotenv
 
-def  screenshot_reader():
-    # Read image
-    try:
-        main_folder = folder_dir()# "D:\\Coding\\Dofus\\HDV_IMG\\"
-        user_input = input("Do you want to Blackout the IMAGES(y/n)")
-        for directory in ["HDV_CONSUMABLE", "HDV_ITEM", "HDV_RESOURCES" , "HDV_RUNES"]:
-            print(f"Processing img in {directory} folder")
+load_dotenv()
+main_folder= os.environ.get("MAIN_IMG_FOLDER")
 
-            path = os.path.join(main_folder,f"{directory}", f"{directory}_PRICE_IMG")  # Construct the full path
-
-            image_files = [f for f in os.listdir(path) if f.endswith('.png')]
-            IMAGES_Path = path
-            for i, image_files in enumerate(image_files, start=1):
-
-                IMAGE1 = os.path.join(IMAGES_Path, f"{directory}_{i}.png")
-                blackout_folder = os.path.join(IMAGES_Path, "BLACKOUT_PRICE")
-                check_blackout_img = os.path.join(blackout_folder, f"BLACKOUT_{os.path.basename(IMAGE1)}")
-                if check_blackout_img is not None :
-                    if user_input == "y" :
-                        blackout_img = blackout(IMAGE1,blackout_folder)
-                        img = cv2.imread(blackout_img)
-                        if img is None:
-                            print(f"Failed to load image: {blackout_img}")
-                            continue                
-                    else :
-                        img = cv2.imread(check_blackout_img)
-                # Instance Text Detector
-                reader = easyocr.Reader(['fr'], gpu=False)
-                 # Detect text on image
-                data = reader.readtext(img)
-                cleaned_data = []
-                # Extract relevant details
-                for item in data:
-                    # Take only the elements that are not np.int32 or np.float64
-                    # Here we are only interested in strings (item names)
-                    filtered_item = [element for element in item if isinstance(element, str)]            
-                    cleaned_data.extend(filtered_item)
-
-                # Group the cleaned_data by 2 entries and print
-                for j in range(0, len(cleaned_data), 2):
-                    group1 = cleaned_data[j]
-                    group2 = cleaned_data[j + 1] if j + 1 < len(cleaned_data) else ''
-                    print(f"{group1} - {group2}")
-
-    except KeyboardInterrupt:
-        print("\nScript stopped with Ctrl + C.")
-
-#def main_Data_to_Gsheet():
-def blackout(IMAGE1,blackout_folder):
-
-    region1 =(350, 0, 260, 1000)
-    region2 = (775, 0, 50, 1000)
-    try:
-        img = cv2.imread(IMAGE1)
-        if img is None : 
-            print(f"Failed to load image for {IMAGE1}")
+def process_image(IMAGE1, user_input, blackout_folder):
+    """Process a single image: blackout if needed, extract text."""
+    if user_input == "y":
+        blackout_img = blackout(IMAGE1, blackout_folder)
+        img = Image.open(blackout_img)
+        if img is None:
+            print(f"Failed to load image: {blackout_img}")
             return None
-        if img is not None:
-            cv2.imshow("Blackout Image", img)
+    else:
+        check_blackout_img = os.path.join(blackout_folder, f"BLACKOUT_{os.path.basename(IMAGE1)}")
+        img = Image.open(check_blackout_img)
+    
+    # Instance Text Detector
+    img = img.convert('L')  # Convert to grayscale
+    img = img.point(lambda x: 0 if x < 128 else 255, '1') 
+    custom_config = r'--oem 3 --psm 6'
+    text = tess.image_to_string(img, config=custom_config)
+    
+    results = []
+    words = text.splitlines()
+    for line in words:
+        # Find all letters and numbers
+        letters = re.findall(r'[^\d]+', line)  # Extract all non-digit characters
+        numbers = re.findall(r'\d+', line)  # Extract all digit sequences
 
-        x1, y1, w1, h1 = region1  # First region to blackout
-        x2, y2, w2, h2 = region2  # Second region to blackout
-        img[y1:y1+h1, x1:x1+w1] = (0, 0, 0)  # Black out first region
-        img[y2:y2+h2, x2:x2+w2] = (0, 0, 0)  # Black out second region
+        # Join letters and numbers into a formatted string
+        letter_part = ''.join(letters).strip()
+        number_part = ' '.join(numbers).replace(" ", "")
+
+        if letter_part and number_part:  # Only print if both parts exist
+            results.append(f"{letter_part} : {number_part}")
+    
+    return results
+
+def screenshot_reader(user_input):
+    """Read images and extract text using multithreading."""
+    all_results = []
+
+    for directory in ["HDV_CONSUMABLE", "HDV_ITEM", "HDV_RESOURCES", "HDV_RUNES"]:
+        print(f"Processing img in {directory} folder")
+        path = os.path.join(main_folder, f"{directory}", f"{directory}_PRICE_IMG")  # Construct the full path
+
+        image_files = [f for f in os.listdir(path) if f.endswith('.png')]
+        IMAGES_Path = path
+        blackout_folder = os.path.join(IMAGES_Path, "BLACKOUT_PRICE")
+
+        with ThreadPoolExecutor() as executor:
+            future_to_image = {}
+            future_to_image = {executor.submit(process_image, os.path.join(IMAGES_Path, f"{directory}_{i}.png"), user_input, blackout_folder): i for i in range(1, len(image_files) + 1)}
+            for future in as_completed(future_to_image):
+                try:
+                    results = future.result()
+                    if results:
+                        all_results.extend(results)
+                except Exception as e:
+                    print(f"Error processing image: {e}")
+
+    # Print all results after processing
+    for result in all_results:
+        print(result)
+
+def blackout(IMAGE1, blackout_folder):
+    """Blackout specific regions of the image."""
+    region1 = (350, 0, 610, 1000)
+    region2 = (775, 0, 825, 1000)
+
+    try:
+        img = Image.open(IMAGE1)
+        
+        # Convert image to an array for faster pixel manipulation
+        img_array = np.array(img)
+
+        # Apply blackouts using numpy slicing
+        img_array[region1[1]:region1[3], region1[0]:region1[2]] = 0  # Blackout first region
+        img_array[region2[1]:region2[3], region2[0]:region2[2]] = 0  # Blackout second region
+
         os.makedirs(blackout_folder, exist_ok=True)
-
         blackout_path = os.path.join(blackout_folder, f"BLACKOUT_{os.path.basename(IMAGE1)}")
-        if cv2.imwrite(blackout_path, img):
-            print(f"Image saved to {blackout_path}")
-            return blackout_path
-        else:
-            print("Failed to save blackout image.")
-            return None
+        
+        # Convert back to an Image object and save
+        Image.fromarray(img_array).save(blackout_path)
+        print(f"Image saved to {blackout_path}")
+        return blackout_path
+
     except KeyboardInterrupt:
         print("\nScript stopped with Ctrl + C.")
+    except Exception as e:
+        print(f"Error processing image: {e}")
 
+def main_screenshot_reader():
+    user_input = input("Do you want to Blackout the IMAGES(y/n): ")
+    screenshot_reader(user_input)
 
 if __name__ == "__main__":
-     screenshot_reader()
+    main_screenshot_reader()

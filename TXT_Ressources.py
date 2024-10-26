@@ -16,6 +16,7 @@ class DofusResourcesFetcher:
                 }
 
         response = requests.get(f"{self.base_url}/dofus2/fr/items/resources/all", params=params)
+        input(response)
         if response.status_code == 200:
             return response.json().get("items", [])
         else:
@@ -25,7 +26,7 @@ class DofusResourcesFetcher:
     def write_resources(self, resources):
         if not os.path.exists("RESOURCES"):
                 os.makedirs("RESOURCES")
-                print(f"Directory {"RESOURCES"} created.")
+                print("Directory 'RESOURCES' created.")
 
         if resources:
             with open("RESOURCES/RESOURCES_Item.txt", "w", encoding='utf-8') as file:

@@ -6,7 +6,11 @@ import easyocr
 import numpy as np
 import os
 import sys
+from dotenv import load_dotenv
 
+load_dotenv()
+main_folder= os.environ.get("MAIN_IMG_FOLDER")
+tmp_folder= os.environ.get("folder_dir_tmp")
 
 def move_with_jitter(start_pos, end_pos, steps=5):
     start_x, start_y = start_pos
@@ -405,13 +409,9 @@ def loop_main(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map):
 
     map(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map)
 
-def folder_dir():
-    main_folder_dir = "D:\\Coding\\Dofus\\HDV_IMG\\"
-    return main_folder_dir
-    
 def main_bot():
-    main_folder_dir = folder_dir()
-    folder_dir_tmp = "D:\\Coding\\Dofus\\tmp\images\\tmp_screenshot\\"
+    main_folder_dir = main_folder
+    folder_dir_tmp = tmp_folder
     map_name_tmp = "coordinate_tmp"
     map(main_folder_dir, folder_dir_tmp, map_name_tmp)
 
