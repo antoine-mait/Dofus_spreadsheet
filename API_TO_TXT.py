@@ -85,8 +85,10 @@ class DofusItemFetcher:
                 with open(image_path, "wb") as image_file:
                     image_file.write(response.content)
                 print(f"Image '{name_id}' saved.")
+                time.sleep(0.05)
             except requests.RequestException as e:
                 print(f"Error downloading image for {name}: {e}")
+                
     
     def write_item_details(self,categorie, file, item):
         file.write("\n")
@@ -152,7 +154,7 @@ class DofusItemFetcher:
         else:
             file.write("EFFECTS: None\n")
 
-def main_item():
+def api_to_txt():
     base_url = DOFUS_API
     if DOFUS_API is None:
         print("DOFUS_API environment variable not set!")
@@ -202,12 +204,13 @@ def fetch_and_write(categorie, item_type, level_min, level_max, fetcher):
 
     items = fetcher.get_item(categorie,item_type, level_min, level_max)
     fetcher.write_items_to_file(categorie,items, item_type)
-    fetcher.download_images(categorie, items)
+    for item in items:
+        fetcher.download_item_image(categorie, item)
 
     time.sleep(1)
 
 if __name__ == "__main__":
     try:
-        main_item()
+        api_to_txt()
     except KeyboardInterrupt:
         print("\nScript stopped with Ctrl + C.")
