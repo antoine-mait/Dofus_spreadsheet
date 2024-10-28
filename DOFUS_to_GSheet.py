@@ -1,6 +1,6 @@
 from API_TO_TXT import api_to_txt
-from API_TO_GSHEET import main_API
-from HDV_SCREENSHOT_Bot import HDV_Screenshot,HDV_Reader
+from DATA_TO_GSHEET import main_API,hdv_price
+from HDV_SCREENSHOT_Bot import HDV_Screenshot
 
 
 def main():
@@ -11,25 +11,13 @@ def main():
 4: GAME TO GSHEET
                    """)
     if user_choice == "1":
-        text_file()
+        api_to_txt()
     elif user_choice == "2":
-        ingame()
+        HDV_Screenshot()
     elif user_choice == "3":
-        to_gsheet()
+        main_API()
     elif user_choice == "4":
-        main_screenshot_reader()
-
-def text_file():
-
-    api_to_txt()
-
-def ingame():
-
-    HDV_Screenshot()
-
-def to_gsheet():
-
-    main_API()
-
+        hdv_price()
+   
 if __name__ == "__main__":
     main()

@@ -10,7 +10,7 @@ import re
 import pytesseract as tess
 from PIL import Image
 from concurrent.futures import ThreadPoolExecutor, as_completed
-
+from tmp.correction import correction_dict
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -34,12 +34,14 @@ def HDV_Reader():
         # Instance Text Detector
         img = img.convert('L')  # Convert to grayscale
         img = img.point(lambda x: 0 if x < 128 else 255, '1') 
-        custom_config = r'--oem 3 --psm 6'
+        custom_config = r'--oem 3 --psm 6 -l fra'
         text = tess.image_to_string(img, config=custom_config)
         
         results = []
         words = text.splitlines()
         for line in words:
+            for wrong, correct in correction_dict.items():
+                line = line.replace(wrong, correct)
             # Find all letters and numbers
             letters = re.findall(r'[^\d]+', line)  # Extract all non-digit characters
             numbers = re.findall(r'\d+', line)  # Extract all digit sequences
@@ -116,7 +118,7 @@ def HDV_Reader():
             print(f"Error processing image: {e}")
 
     def main_screenshot_reader():
-        user_input = input("Do you want to Blackout the screenshot ? (y/n)")
+        user_input = "y" #input("Do you want to Blackout the screenshot ? (y/n)")
         screenshot_reader(user_input)
 
     main_screenshot_reader()
@@ -200,8 +202,12 @@ def HDV_Screenshot():
                     return False
 
                 elif image_path == rf"{folder_dir}STOP.jpg":
-                    print("All Item Screenshot")
-                    return True
+                    if not getattr(find_and_click_image, 'stop_clicked', False):
+                        print("All Item Screenshot")
+                        find_and_click_image.stop_clicked = True  # Set the attribute to indicate STOP was clicked
+                        return False
+                    else:
+                        return True  # This will only run after STOP was clicked
 
     def screen_shot_items(img_stop, folder_dir, HDV_name):
         Folder_name = f"{HDV_name}_PRICE_IMG"
@@ -532,8 +538,8 @@ def HDV_Screenshot():
 
 if __name__ == "__main__":
     try:
-        # HDV_Screenshot()
+        HDV_Screenshot()
         # print("All screenshot done , start post process")
-        HDV_Reader()
+        # HDV_Reader()
     except KeyboardInterrupt:
         print("\nScript stopped with Ctrl + C.")
