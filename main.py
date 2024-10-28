@@ -1,7 +1,7 @@
 from API_TO_TXT import api_to_txt
 from API_TO_GSHEET import main_API
-from HDV_SCREENSHOT_Bot import main_bot
-from HDV_Reader import  main_screenshot_reader
+from HDV_SCREENSHOT_Bot import HDV_Screenshot,HDV_Reader
+
 
 def main():
     user_choice = input("""What do you want to actualize ?
@@ -25,7 +25,7 @@ def text_file():
 
 def ingame():
 
-    main_bot()
+    HDV_Screenshot()
 
 def to_gsheet():
 
