@@ -482,7 +482,8 @@ def HDV_Screenshot():
                 loop_main(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map)
             if hdv_type == "HDV_RESOURCES":
                 pyautogui.press("escape")
-                sys.exit("All 4 HDV screenshot")
+                print("All 4 HDV screenshot")
+                HDV_Reader()                
         if starting_map == "HDV_RESOURCES":
             if hdv_type == "HDV_RESOURCES":
                 click_top()
@@ -496,7 +497,8 @@ def HDV_Screenshot():
                 loop_main(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map)
             if hdv_type == "HDV_RUNES":
                 pyautogui.press("escape")
-                sys.exit("All 4 HDV screenshot")
+                print("All 4 HDV screenshot")
+                HDV_Reader()
 
     def click_right():
         start_pos = pyautogui.position()
@@ -533,13 +535,13 @@ def HDV_Screenshot():
         map(main_folder_dir, folder_dir_tmp, map_name_tmp)
 
     main_bot()
-    HDV_Reader()
+    
 
 
 if __name__ == "__main__":
     try:
-        HDV_Screenshot()
+        #HDV_Screenshot()
         # print("All screenshot done , start post process")
-        # HDV_Reader()
+        HDV_Reader()
     except KeyboardInterrupt:
         print("\nScript stopped with Ctrl + C.")
