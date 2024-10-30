@@ -1,20 +1,61 @@
-import requests
 import os
 import re
 import sys
 import time
+import logging
+import requests
 import concurrent.futures
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from dotenv import load_dotenv
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+logging.getLogger("urllib3").setLevel(logging.DEBUG)  # To capture urllib3 retry logs
 
 load_dotenv()
 DOFUS_API = os.environ.get("DOFUS_API")
 
 class DofusItemFetcher:
+    '''Fetches and processes item data from the Dofus API.
+
+    This class provides methods for retrieving items of specified categories 
+    and types, writing them to files, and downloading their images. 
+    Multithreading is utilized for efficiency, especially in writing and 
+    downloading operations.
+    '''
     def __init__(self, base_url):
         self.base_url = base_url
+        self.session = requests.Session()
+        # Retry strategy with logging for each retry event
+        retry_strategy = Retry(
+            total=10,                    # Total number of retries
+            backoff_factor=1,         # Delay factor for retries
+            status_forcelist=[429, 500, 502, 503, 504],  # Retry on these HTTP codes
+            allowed_methods=["GET"],     # Retry only for GET requests
+            raise_on_status=False
+        )
+        
+        # Create session and mount it with the retry adapter
+        self.session = requests.Session()
+        adapter = HTTPAdapter(max_retries=retry_strategy, pool_connections=50, pool_maxsize=50)
+        self.session.mount("http://", adapter)
+        self.session.mount("https://", adapter)
 
     def get_item(self,categorie, item_type, level_min, level_max):
-
+        """
+        Fetch items of a specific category and type from the Dofus API.
+        
+        Parameters:
+            categorie (str): The category of items to fetch (e.g., 'equipment', 'mounts').
+            item_type (str): The specific type of item within the category (e.g., 'Amulet').
+            level_min (int): The minimum level of items to fetch.
+            level_max (int): The maximum level of items to fetch.
+            
+        Returns:
+            list: List of items if the request is successful, empty list otherwise.
+            None: If the API request fails (logs an error message).
+        """
         params = {
                 "sort[level]": "asc",
                 "filter[min_level]": level_min,
@@ -22,22 +63,23 @@ class DofusItemFetcher:
                 }   
         if categorie in ["equipment", "mounts"]:
             params["filter[type_enum]"] = item_type
-        if categorie == "mounts":
-            response = requests.get(f"{self.base_url}/dofus2/fr/{categorie}/all", params=params)
-        else:
-            response = requests.get(f"{self.base_url}/dofus2/fr/items/{categorie}/all", params=params)
-        
-        if response.status_code == 200:
+        url = (f"{self.base_url}/dofus2/fr/{categorie}/all" 
+               if categorie == "mounts" 
+               else f"{self.base_url}/dofus2/fr/items/{categorie}/all")
+        try :
+            response = self.session.get(url, params=params)
+            response.raise_for_status()  # Raises HTTPError if the status is 4xx or 5xx
+             # Return the appropriate data
             if categorie == "mounts":
                 return response.json().get("mounts", [])
             else : 
                 return response.json().get("items", [])
-        else:
-            print(f"Error fetching items of type {item_type}: {response.status_code}, {response.text}")
-            return
+        except requests.RequestException as e:
+            print(f"Error fetching items of type {item_type}: {e}")
+            return None
 
     def write_items_to_file(self,categorie, items, item_type):
-        
+        '''Writes the obtained data into a text file'''
         if not items:
             print(f"No items found for {categorie} type '{item_type}'. Skipping...")
             return
@@ -57,9 +99,11 @@ class DofusItemFetcher:
             print(f"Error writing items to file for {categorie}: {e}")
 
     def download_item_image(self, categorie, item):
+        '''Download all the img from the API here, the SD quality is downloaded'''
         dir_path = os.path.join("API_TO_TXT", categorie.upper(), "IMAGES")
         os.makedirs(dir_path, exist_ok=True)
 
+        # Directory path setup
         if categorie == "mounts":
             item_type = item['family_name'].upper()
         elif categorie == "equipment":
@@ -71,26 +115,33 @@ class DofusItemFetcher:
             directory_path = os.path.join(dir_path, item_type)
         os.makedirs(directory_path, exist_ok=True)
 
-        name = item['name']
-        id = item['ankama_id']
-        name_id = f"{name}_{id}"
-        name_id = re.sub(r'[<>:"/\\|?*]', '_', name_id)
+        # Setup image name
+        name_id = re.sub(r'[<>:"/\\|?*]', '_', f"{item['name']}_{item['ankama_id']}")
         image_path = os.path.join(directory_path, f"{name_id}.png")
 
         if not os.path.exists(image_path):
             try:
+                # Download SD quality , can be change for ICON (200pixel), HQ or HD (600/800pixel)
                 image_url = item['image_urls']['sd']
+
+                # Log each attempt and add delay
+                if categorie in ["mounts","equipment"]:
+                    time.sleep(0.5) 
+
                 response = requests.get(image_url)
                 response.raise_for_status()
+
                 with open(image_path, "wb") as image_file:
                     image_file.write(response.content)
                 print(f"Image '{name_id}' saved.")
-                time.sleep(0.05)
+                
+
             except requests.RequestException as e:
-                print(f"Error downloading image for {name}: {e}")
+                print(f"Error downloading image for {item['name']}: {e}")
                 
     
     def write_item_details(self,categorie, file, item):
+        '''Format the writing in the Text file'''
         file.write("\n")
         if categorie == "mounts":
             file.write(f"NAME : {item['name']}\n")
@@ -122,6 +173,7 @@ class DofusItemFetcher:
                 file.write("PARENT SET: None\n")
 
     def write_recipes(self, file, recipes):
+        '''Write the resources name'''
         if recipes:
             file.write("RECIPES:\n")
             for recipe in recipes:
@@ -137,6 +189,7 @@ class DofusItemFetcher:
 
 
     def find_resource_name(self, recipe_id):
+        '''Get the resources name from their ID'''
         with open("API_TO_TXT/RESOURCES/RESOURCES.txt", "r", encoding='utf-8') as resource_file:
             previous_line = None
             for line in resource_file:
@@ -147,6 +200,7 @@ class DofusItemFetcher:
         return None
 
     def write_effects(self, file, effects):
+        '''Write the object effect'''
         if effects:
             file.write("EFFECTS:\n")
             for effect in effects:
@@ -155,6 +209,7 @@ class DofusItemFetcher:
             file.write("EFFECTS: None\n")
 
 def api_to_txt():
+    '''Set a .env file with the API ( follow the README file )'''
     base_url = DOFUS_API
     if DOFUS_API is None:
         print("DOFUS_API environment variable not set!")
@@ -169,6 +224,7 @@ def api_to_txt():
                 continue
             level_min = 1
             level_max = 200
+            # Set up the Item Type. Look into the API or IN Game for the correct Item type name and add/remove it
             if categorie == "equipment":
                 types = [
                             "Amulet", "Ring", "Boots", "Shield", 
@@ -185,7 +241,7 @@ def api_to_txt():
                 types = ["consumables"]
             if categorie == "resources":
                 types = ["resources"]
-
+            '''MultiThreading the Class for faster writing and downloading process'''
             with concurrent.futures.ThreadPoolExecutor() as executor:
                 futures = [
                     executor.submit(fetch_and_write, categorie, item_type, level_min, level_max, fetcher)
@@ -206,7 +262,7 @@ def fetch_and_write(categorie, item_type, level_min, level_max, fetcher):
     fetcher.write_items_to_file(categorie,items, item_type)
     for item in items:
         fetcher.download_item_image(categorie, item)
-
+    # Slowdown to not overflow the API wih request
     time.sleep(1)
 
 if __name__ == "__main__":

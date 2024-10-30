@@ -5,7 +5,6 @@ import cv2
 import easyocr
 import numpy as np
 import os
-import sys
 import re
 import pytesseract as tess
 from PIL import Image
@@ -18,7 +17,20 @@ main_folder= os.environ.get("MAIN_IMG_FOLDER")
 tmp_folder= os.environ.get("folder_dir_tmp")
 
 def HDV_Reader():
-    
+    """
+    Processes images of market prices for items in the game Dofus.
+
+    This function reads images from specified directories, optionally applies a blackout effect to 
+    obscure certain areas, and extracts text using Tesseract (Tess) for Optical Character Recognition (OCR). 
+    The extracted text is corrected based on a predefined dictionary and saved to a text file.
+
+    The process is divided into several internal functions:
+    - `process_image`: Applies blackout to images and extracts text using Tesseract OCR.
+    - `screenshot_reader`: Reads images from directories, processes them in parallel, 
+      and compiles the results into a text file.
+    - `blackout`: Obscures specific regions of the image.
+    - `main_screenshot_reader`: Initiates the screenshot reading process based on user input (Optionnal).
+    """
     def process_image(IMAGE1, user_input, blackout_folder):
         """Process a single image: blackout if needed, extract text."""
         if user_input == "y":
@@ -124,8 +136,42 @@ def HDV_Reader():
     main_screenshot_reader()
 
 def HDV_Screenshot():
-
+    """
+    Captures screenshots of items from the HDV (Auction House) in the game Dofus,
+    and interacts with the game's user interface to find and click specific images.
+    
+    This function is designed to:
+    1. Navigate the Auction House based on coordinates.
+    2. Take screenshots of items within the Auction House based on the type of items being traded.
+    3. Locate and click images representing various items types in the Auction House.
+    4. Manage mouse movements with jitter for more natural interactions.
+    
+    Nested Functions:
+    - move_with_jitter: Smoothly moves the mouse with slight random variations.
+    - find_and_click_image: Searches for a given image on the screen and clicks it.
+    - screen_shot_items: Captures and saves screenshots of items.
+    - scroll: Performs scrolling action to navigate through item lists.
+    - item_type: Determines the type of items based on the current map and clicks on them.
+    - map: Coordinates the entire process of taking screenshots and interacting with the Auction House.
+    - coordinate: Checks the player's current map and validates it against expected coordinates.
+    - start_map: Initializes the starting map for navigation.
+    - map_switch: Handles the transition between different Auction House types and their corresponding actions.
+    - click_right: Clicks on the right side of the screen with a jitter effect.
+    - click_left: Clicks on the left side of the screen with a jitter effect.
+    - click_top: Clicks on the top area of the screen with a jitter effect.
+    - click_bottom: Clicks on the bottom area of the screen with a jitter effect.
+    - loop_main: Repeatedly invokes the main navigation and interaction process.
+    - main_bot: Main entry point to start the Auction House interaction process.
+    """
     def move_with_jitter(start_pos, end_pos, steps=5):
+        """
+        Moves the mouse from the start position to the end position with a jitter effect.
+
+        Parameters:
+        - start_pos (tuple): The starting (x, y) position of the mouse.
+        - end_pos (tuple): The ending (x, y) position to move the mouse to.
+        - steps (int): The number of intermediate steps for the movement.
+        """
         start_x, start_y = start_pos
         end_x, end_y = end_pos
 
@@ -140,8 +186,20 @@ def HDV_Screenshot():
 
             pyautogui.moveTo(x + jitter_x, y + jitter_y, duration=0.01)
 
-    def find_and_click_image(image_path, folder_dir, map_name, scale_range=np.linspace(0.25, 2, 8)):  # Value add / Value MAX / Steps
-        # transform in grey value for compute power
+    def find_and_click_image(image_path, folder_dir, map_name, scale_range=np.linspace(0.25, 2, 8)): 
+        """
+        Finds and clicks on an image in the game screenshot.
+
+        Parameters:
+        - image_path (str): Path to the image to be found.
+        - folder_dir (str): Directory containing the images.
+        - map_name (str): Name of the current map for context.
+        - scale_range (np.ndarray): Array of scales to check for image matching.
+
+        Returns:
+        - bool: True if the STOP image was found, else False.
+        """
+        # Load image in grayscale for processing
         img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
         img_lf = image_path.replace(folder_dir, "")
         print(f"Looking for {img_lf}")
@@ -149,7 +207,7 @@ def HDV_Screenshot():
             print(f"Image {image_path} not found.")
             return False
 
-        # As it compare pixel , light blur to reduce the noise and to help find some picture
+        # Preprocess the screenshot for matching
         img_blurred = cv2.GaussianBlur(img, (5, 5), 0)
         screenshot = pyautogui.screenshot()
         screenshot_np = np.array(screenshot)
@@ -157,13 +215,12 @@ def HDV_Screenshot():
         screenshot_blurred = cv2.GaussianBlur(screenshot_gray, (5, 5), 0)
 
         for scale in scale_range:
+            # Resize template image for matching
             resized_template = cv2.resize(img_blurred, (0, 0), fx=scale, fy=scale)
             result = cv2.matchTemplate(screenshot_blurred, resized_template, cv2.TM_CCOEFF_NORMED)
-            # Compare multiple size of the given img to the screen. 
-            # Here it will compare from 0.25 scale to 2 scale in 8 step ( scale_range)
             min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
 
-            if max_val >= 0.85:  # Adjust threshold of resemblance allowed 1 = pixel perfect match
+            if max_val >= 0.85: # Threshold for a match
                 img_strip = image_path.replace(folder_dir, "")
                 print(f"Match found for {img_strip}")
 
@@ -177,13 +234,14 @@ def HDV_Screenshot():
                     return True
                 
                 if image_path != rf"{folder_dir}STOP.jpg":
-                    # Move in random way to the end pos
-                    move_with_jitter(start_pos, end_pos, steps=2)
-                    pyautogui.click()
+                    move_with_jitter(start_pos, end_pos, steps=2) # Move to the found position
+                    pyautogui.click()   # Click the image
                     print(f"Clicked at {end_pos}")
                     if image_path.startswith(rf"{folder_dir}HDV"):
                         print("HDV Found")
                         time.sleep(random.uniform(0.5, 1))
+
+                    # Additional scrolling logic for specific image
                     if (image_path == rf"{folder_dir}CONTENEUR.jpg"
                         or image_path == rf"{folder_dir}PARCHEMIN_Titre.jpg"
                         or image_path == rf"{folder_dir}FLEUR.jpg"
@@ -204,15 +262,26 @@ def HDV_Screenshot():
                 elif image_path == rf"{folder_dir}STOP.jpg":
                     if not getattr(find_and_click_image, 'stop_clicked', False):
                         print("All Item Screenshot")
-                        find_and_click_image.stop_clicked = True  # Set the attribute to indicate STOP was clicked
+                        find_and_click_image.stop_clicked = True  # Mark STOP was clicked
                         return False
                     else:
-                        return True  # This will only run after STOP was clicked
+                        return True # Only return True after STOP was clicked
 
     def screen_shot_items(img_stop, folder_dir, HDV_name):
+        """
+        Takes screenshots of items from the HDV and saves them to a folder.
+
+        Parameters:
+        - img_stop (str): Path to the STOP image.
+        - folder_dir (str): Directory to save the screenshots.
+        - HDV_name (str): Name of the HDV category being processed.
+        
+        Returns:
+        - bool: True if the last screenshot was captured, else False.
+        """
         Folder_name = f"{HDV_name}_PRICE_IMG"
         save_path = os.path.join(rf"{folder_dir}", Folder_name)
-        os.makedirs(save_path, exist_ok=True)
+        os.makedirs(save_path, exist_ok=True)# Create directory if it doesn't exist
         nb_loop_mapping = {
             "HDV_RESOURCES": 205,
             "HDV_CONSUMABLE": 85,
@@ -224,30 +293,38 @@ def HDV_Screenshot():
         for i in range(1000):
             i += 1
             if i == 1:
-                pyautogui.moveTo(469, 647, duration=random.uniform(0.1, 0.2))
-            screenshot = pyautogui.screenshot(region=(510, 575, 820, 960))
-            screenshot.save(os.path.join(save_path, f"{HDV_name}_{i}.png"))
+                pyautogui.moveTo(469, 647, duration=random.uniform(0.1, 0.2))   # Initial mouse position
+            screenshot = pyautogui.screenshot(region=(510, 575, 820, 960))      # Screenshot region
+            screenshot.save(os.path.join(save_path, f"{HDV_name}_{i}.png"))     # Save screenshot
 
             if i <= nb_loop:
                 print(f"Screenshot {HDV_name}_{i}")
-                scroll()
+                scroll()# Scroll to the next items
             else:
                 print(f"Screenshot {HDV_name}_{i}")
-                scroll()
+                scroll()# Scroll and check for STOP image
                 stopscreenshot = find_and_click_image(img_stop, folder_dir, HDV_name)
                 if stopscreenshot:
                     print(f"Last Screenshot for {HDV_name}")
                     return True
 
     def scroll():
-
+        """
+        Scrolls down in the HDV to navigate through the items.
+        """
         for _ in range(4):
-            pyautogui.scroll(-125)
+            pyautogui.scroll(-125)# Scroll down
 
         return True
 
     def item_type(map_name, main_folder_dir):
+        """
+        Determines the type of items based on the current map name and performs clicking actions.
 
+        Parameters:
+        - map_name (str): The name of the current map.
+        - main_folder_dir (str): Main directory path for images and folders.
+        """
         if map_name == "COORDINATE_HDV_RUNES":
             img_name = [
                 "HDV_RUNES",
@@ -396,6 +473,12 @@ def HDV_Screenshot():
             print(f"Skipping to next image after {name}")
 
     def map(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map=None):
+        """
+        Manages the navigation and interaction based on the current map.
+
+        Parameters:
+        - current_map (str): The name of the current map being processed.
+        """
         img_name = [
             "COORDINATE_HDV_RUNES",
             "COORDINATE_HDV_ITEM",
@@ -423,7 +506,14 @@ def HDV_Screenshot():
                     print("Wrong Map")
 
     def coordinate(map_name, folder_dir_tmp, map_name_tmp):
+        """
+        Take a screenshot of the player Current map, read it 
+        and compare with given coordinate.
+        Validates the current coordinates of the player in the game.
 
+        Parameters:
+        - current_coordinate (str): The current coordinates of the player.
+        """
         if map_name == "COORDINATE_HDV_CONSUMABLE":
             map_coord = ["21,-29,"]
         if map_name == "COORDINATE_HDV_ITEM":
@@ -459,11 +549,17 @@ def HDV_Screenshot():
             print(e)
 
     def start_map(map_name):
+        """
+        Initializes the starting map coordinates and actions.
+        """
         starting_map = f"{map_name.replace('COORDINATE_','')}"
         print(f"Starting map set to: {starting_map}")
         return starting_map
 
     def map_switch(main_folder_dir, folder_dir_tmp, map_name_tmp, map_name, starting_map):
+        """
+        Switches between different HDV types based on the current state.
+        """
         pyautogui.press("escape")
         hdv_type = map_name.replace("COORDINATE_", "")
         if starting_map == "HDV_RUNES":
@@ -525,10 +621,15 @@ def HDV_Screenshot():
         pyautogui.click()
 
     def loop_main(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map):
-
+        """
+        Main loop for running the HDV screenshot process.
+        """
         map(main_folder_dir, folder_dir_tmp, map_name_tmp, starting_map)
 
     def main_bot():
+        """
+        Main entry point to start the HDV screenshot and interaction process.
+        """
         main_folder_dir = main_folder
         folder_dir_tmp = tmp_folder
         map_name_tmp = "coordinate_tmp"
@@ -540,8 +641,8 @@ def HDV_Screenshot():
 
 if __name__ == "__main__":
     try:
-        #HDV_Screenshot()
+        HDV_Screenshot()
         # print("All screenshot done , start post process")
-        HDV_Reader()
+        #HDV_Reader()
     except KeyboardInterrupt:
         print("\nScript stopped with Ctrl + C.")
