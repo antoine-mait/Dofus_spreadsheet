@@ -12,7 +12,7 @@ To run the scripts, you will need the following:
 ```
 SCOPES=["https://www.googleapis.com/auth/spreadsheets"] # or any other scope
 
-SAMPLE_SPREADSHEET_ID="YOUR_SPREADSHIT_ID"
+SAMPLE_SPREADSHEET_ID="YOUR_SPREADSHEET_ID"
 
 MAIN_IMG_FOLDER=C:\\path\\to\\your\\HDV_IMG\\ # Feel free to change the directory as you please
 
