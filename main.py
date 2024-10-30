@@ -1,6 +1,6 @@
-from API_TO_TXT import api_to_txt
-from HDV_SCREENSHOT_Bot import HDV_Screenshot
-from DATA_TO_GSHEET import main_API,hdv_price
+from api_to_txt import api_to_txt
+from hdv_screenshot_bot import HDV_Screenshot
+from data_to_gsheet import main_API,hdv_price
 
 
 def main():

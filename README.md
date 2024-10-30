@@ -39,6 +39,15 @@ DOFUS_API="https://api.dofusdu.de"
 ### 3. DATA_TO_GSHEET
 - Transfers data from the Dofus API to Google Sheets.
 - Contains functions to update game prices and import data from text files.
+- Some item names may need correction due to their length in the auction house or because of misinterpretation during text recognition.
+  - Create a `correction.py` file in the tmp folder 
+   ```
+   correction_dict = {
+                        "Bouiglours": "Boulglours",
+                        "Clef de la Chambre de Tal K: …": "Clef de la Chambre de Tal Kasha",
+                        # Add other common errors here
+                     }
+  ```
 
 ### 4. Main Controller Script
 - Serves as the main entry point for the project.

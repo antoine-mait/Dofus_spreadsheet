@@ -1,0 +1,14 @@
+requests==2.32.3
+python-dotenv==1.0.1
+PyAutoGUI==0.9.54
+opencv-python==4.10.0.84
+easyocr==1.7.2
+numpy==2.1.2
+pytesseract==0.3.13
+pillow==11.0.0
+google-api-core==2.21.0
+google-api-python-client==2.149.0
+google-auth==2.35.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.1
+googleapis-common-protos==1.65.0
