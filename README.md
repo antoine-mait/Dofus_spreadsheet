@@ -40,7 +40,7 @@ DOFUS_API="https://api.dofusdu.de"
 - Transfers data from the Dofus API to Google Sheets.
 - Contains functions to update game prices and import data from text files.
 - Some item names may need correction due to their length in the auction house or because of misinterpretation during text recognition.
-  - Create a `correction.py` file in the tmp folder 
+  - Create a `correction.py` file in the tmp folder.
    ```
    correction_dict = {
                         "Bouiglours": "Boulglours",
