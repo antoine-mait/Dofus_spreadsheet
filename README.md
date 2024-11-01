@@ -20,7 +20,7 @@ folder_dir_tmp =C:\\path\\to\\your\\tmp\images\\tmp_screenshot\\
 
 DOFUS_API="https://api.dofusdu.de"
 ```
-- Google Sheets API credentials for accessing your Google Sheets
+- Google Sheets API credentials for accessing your Google Sheets.
   - [Click here to watch a tutorial](https://www.youtube.com/watch?v=X-L1NKoEi10&ab_channel=DanielOtto)
 
 ## Overview of Scripts
